@@ -37,12 +37,17 @@ client = Client.builder() \
     .log_level(LogLevel.WARNING) \
     .build()
 
-def read_trends_json(file_path: str = "api/trends.json") -> List[Dict[str, Any]]:
+def read_trends_json(file_path: str = "api/trends.json") -> Dict[str, Any]:
     """读取并解析 trends.json 文件"""
     try:
         with open(file_path, "r", encoding="utf-8") as f:
             data = json.load(f)
-        logger.info(f"成功读取 {len(data)} 条趋势记录")
+        # 计算总标题数
+        total_titles = 0
+        trends = data.get("trends", [])
+        for trend in trends:
+            total_titles += len(trend.get("titles", []))
+        logger.info(f"成功读取 {total_titles} 条标题记录")
         return data
     except FileNotFoundError:
         logger.error(f"文件 {file_path} 不存在")
@@ -51,18 +56,27 @@ def read_trends_json(file_path: str = "api/trends.json") -> List[Dict[str, Any]]
         logger.error(f"JSON 解析失败: {e}")
         exit(1)
 
-def build_records(data: List[Dict[str, Any]]) -> List[AppTableRecord]:
+def build_records(data: Dict[str, Any]) -> List[AppTableRecord]:
     """将趋势数据转换为飞书多维表格记录格式"""
     records = []
-    for item in data:
-        record = AppTableRecord.builder() \
-            .fields({
-                "平台": item.get("平台", ""),
-                "标题": item.get("标题", ""),
-                "热度": item.get("热度", 0)
-            }) \
-            .build()
-        records.append(record)
+    # 从 data 中取出 trends 列表 
+    trends = data.get("trends", []) 
+    for trend in trends: 
+        # 每个 trend 里包含 titles 列表 
+        titles = trend.get("titles", []) 
+        for item in titles: 
+            # 确保 item 是字典 
+            if isinstance(item, dict): 
+                record = AppTableRecord.builder() \
+                    .fields({
+                        "平台": item.get("source", ""),      # 来源（如"澎湃新闻"）
+                        "标题": item.get("title", ""),       # 标题
+                        "热度": ""                            # 热度暂时留空
+                    }) \
+                    .build()
+                records.append(record)
+            else: 
+                logger.warning(f"跳过非字典项: {item}")
     return records
 
 def batch_write_records(records: List[AppTableRecord]) -> bool:
