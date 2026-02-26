@@ -19,6 +19,12 @@
 
 </div>
 
+>**升级说明：TrendRadar的基础上增加 api 接口方便调用**
+>
+> api：https://your_domain/api/trends.json
+>
+> 图片版：https://your_domain/img/news.jpg
+
 
 > 本项目以轻量，易部署为目标，主要处理 issues
 >
