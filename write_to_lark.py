@@ -3,7 +3,7 @@ import json
 import logging
 from typing import List, Dict, Any
 
-from lark_oapi import Client
+from lark_oapi import Client, LogLevel
 from lark_oapi.api.bitable.v1 import (
     AppTableRecord,
     CreateAppTableRecordRequest,
@@ -34,7 +34,7 @@ if not all([FEISHU_APP_ID, FEISHU_APP_SECRET, FEISHU_APP_TOKEN, FEISHU_TABLE_ID]
 client = Client.builder() \
     .app_id(FEISHU_APP_ID) \
     .app_secret(FEISHU_APP_SECRET) \
-    .log_level(logging.WARNING) \
+    .log_level(LogLevel.WARNING) \
     .build()
 
 def read_trends_json(file_path: str = "api/trends.json") -> List[Dict[str, Any]]:
