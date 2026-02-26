@@ -10,7 +10,7 @@ from lark_oapi.api.bitable.v1 import (
     CreateAppTableRecordResponse,
     BatchCreateAppTableRecordRequest,
     BatchCreateAppTableRecordResponse,
-    AppTableRecordBatch
+    BatchCreateAppTableRecordRequestBody
 )
 
 # 配置日志
@@ -71,7 +71,7 @@ def batch_write_records(records: List[AppTableRecord]) -> bool:
         request = BatchCreateAppTableRecordRequest.builder() \
             .app_token(FEISHU_APP_TOKEN) \
             .table_id(FEISHU_TABLE_ID) \
-            .request_body(AppTableRecordBatch.builder()
+            .request_body(BatchCreateAppTableRecordRequestBody.builder()
                           .records(records)
                           .build()) \
             .build()
