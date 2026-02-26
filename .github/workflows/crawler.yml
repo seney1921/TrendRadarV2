@@ -43,19 +43,19 @@ jobs:
           
       - name: Verify Playwright browsers
         run: |
-          python -c "
-from playwright.sync_api import sync_playwright
-try:
-    with sync_playwright() as p:
-        for browser_type in [p.chromium, p.firefox, p.webkit]:
-            print(f'Testing {browser_type.name}...')
-            browser = browser_type.launch(headless=True)
-            browser.close()
-            print(f'  ✓ {browser_type.name} works')
-except Exception as e:
-    print(f'❌ Playwright browser test failed: {e}')
-    exit(1)
-"
+          python << 'EOF'
+          from playwright.sync_api import sync_playwright
+          try:
+              with sync_playwright() as p:
+                  for browser_type in [p.chromium, p.firefox, p.webkit]:
+                      print(f'Testing {browser_type.name}...')
+                      browser = browser_type.launch(headless=True)
+                      browser.close()
+                      print(f'  ✓ {browser_type.name} works')
+          except Exception as e:
+              print(f'❌ Playwright browser test failed: {e}')
+              exit(1)
+          EOF
 
       - name: Verify required files
         run: |
