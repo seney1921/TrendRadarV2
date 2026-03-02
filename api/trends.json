@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T02:56:40.896880+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2026-03-03T03:00:30.192068+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 03时00分]"
         },
         {
           "title": "尘白挨铁拳,无限期停服",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 03时00分]"
         },
         {
           "title": "王毅同伊朗外长通电话，称中方已敦促美以立即停止军事行动，避免紧张事态进一步升级，有哪些信息值得关注？",
@@ -37,8 +37,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 03时00分]"
+        },
+        {
+          "title": "美以伊战争最新动态｜上合组织关于伊朗局势的声明",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时56分]"
+          "time_info": "[02时56分 ~ 03时00分]"
         },
         {
           "title": "美以伊战争最新动态｜特朗普：不排除向伊派地面部队",
@@ -52,6 +63,30 @@
           "time_info": "[00时56分 ~ 01时52分]"
         },
         {
+          "title": "财晓得｜9块9包月！华莱士掀桌式挺进咖啡赛道，下的是什么大棋",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32659634",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 03时00分]"
+        },
+        {
+          "title": "日本软银集团旗下PayPay搁置IPO路演安排，因为中东局势的缘故。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3062100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时56分 ~ 03时00分]"
+        },
+        {
           "title": "你听过或者吃过哪些名字很奇葩，但是味道却不错的美食？",
           "url": "https://www.zhihu.com/question/304882818",
           "source": "知乎",
@@ -63,41 +98,6 @@
           "time_info": "[00时56分 ~ 01时52分]"
         },
         {
-          "title": "美以伊战争最新动态｜上合组织关于伊朗局势的声明",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时56分"
-        },
-        {
-          "title": "日本软银集团旗下PayPay搁置IPO路演安排，因为中东局势的缘故。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3062100",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时56分"
-        },
-        {
-          "title": "财晓得｜9块9包月！华莱士掀桌式挺进咖啡赛道，下的是什么大棋",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32659634",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时56分]"
-        },
-        {
           "title": "盘点科幻电影中描绘的2026",
           "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E7%A7%91%E5%B9%BB%E7%94%B5%E5%BD%B1%E4%B8%AD%E6%8F%8F%E7%BB%98%E7%9A%842026",
           "source": "bilibili 热搜",
@@ -107,8 +107,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 03时00分]"
         },
         {
           "title": "剑星AI作图抄袭,反手拉黑原创",
@@ -118,8 +118,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 03时00分]"
         },
         {
           "title": "iPhone17e浅粉色",
@@ -130,8 +130,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 03时00分]"
         },
         {
           "title": "伊朗称打击以总理办公室和以空军司令部等目标，以军称伊朗向以领土发射导弹，哪些信息值得关注？",
@@ -141,8 +141,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 03时00分]"
         },
         {
           "title": "肖战记录粉丝",
@@ -154,8 +154,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 03时00分]"
         },
         {
           "title": "油气主题基金集体涨停，黄金ETF同步飙升，下一步怎么走？",
@@ -166,8 +166,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 03时00分]"
         },
         {
           "title": "亏大发!伊朗白炸权贵酒店",
@@ -177,8 +177,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 03时00分]"
         },
         {
           "title": "起泡胶、捏捏乐、水晶泥，央视调查网红玩具背后的“隐形伤害”",
@@ -189,8 +189,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 03时00分]"
         },
         {
           "title": "巴西神发言,美民哈气破防",
@@ -200,8 +200,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 03时00分]"
         },
         {
           "title": "外卖新规能带来哪些影响",
@@ -213,8 +213,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 03时00分]"
         },
         {
           "title": "美以袭击伊朗已超过 48 小时，当前局势如何？有哪些值得关注的信息？",
@@ -224,8 +224,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 03时00分]"
         },
         {
           "title": "环球早餐大测评",
@@ -236,8 +236,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 03时00分]"
         },
         {
           "title": "公益援助翻车,1点点被逼道歉",
@@ -247,8 +247,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 03时00分]"
         },
         {
           "title": "荣耀机器人手机上手体验",
@@ -260,8 +260,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 03时00分]"
         },
         {
           "title": "《生化危机 9》中加入格蕾丝剧情，是否走了一条回归的路子，即减弱玩家的火力 + 场景狭小阴暗提升恐怖氛围？",
@@ -272,8 +272,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[01时52分 ~ 03时00分]"
+        },
+        {
+          "title": "美军证实三架战机因疑似「误击」在科威特坠毁，飞行员无恙，此前消息称被伊朗击落，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2011882787658045186",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时56分 ~ 03时00分]"
         },
         {
           "title": "前美联储主席、前美国财政部长耶伦：对美国经济前景感到乐观，但（面临）“严重风险”。 关注伊朗风险，具体取决于（美国和以色列挑起的）战争持续的时间。 如果油价居高不下、或进一步上涨，恐怕会引发美国通胀担忧。 3%的通胀率中，可能有0.5个百分点来自（总统特朗普挑起的）关税。 如果油价偏高，将伤害到经济增长，并构成通胀风险。 伊朗局势将让美联储“更容易维持”政策利率不变。 特朗普对美联储理事库克的所作所为“只能用无法想象来形容”。 美国司法部的任何刑事指控都将对美联储“构成巨大的威胁”。",
@@ -284,8 +295,19 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 02时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 03时00分]"
+        },
+        {
+          "title": "美以袭击伊朗导致国际油价飙升，会影响我们吗？如果油价长期高位，除了油车车主，还有哪些人或领域被波及？",
+          "url": "https://www.zhihu.com/question/2011847289061262741",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时56分 ~ 03时00分]"
         },
         {
           "title": "周一（3月2日），美联储隔夜逆回购协议（RRP）使用规模为6.27亿美元（交易对手4家），上个交易日报163.18亿美元。",
@@ -294,20 +316,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时56分 ~ 03时00分]"
         },
         {
-          "title": "美军证实三架战机因疑似「误击」在科威特坠毁，飞行员无恙，此前消息称被伊朗击落，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2011882787658045186",
-          "source": "知乎",
+          "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的6.27亿美元。",
+          "url": "https://flash.jin10.com/detail/20260303021701876800",
+          "source": "金十数据",
           "ranks": [
-            7
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时56分 ~ 03时00分]"
         },
         {
           "title": "据以色列媒体报道，以色列多地靠近黎巴嫩边境的社区响起了警报，怀疑有无人机渗透。",
@@ -319,28 +341,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
-        },
-        {
-          "title": "美以袭击伊朗导致国际油价飙升，会影响我们吗？如果油价长期高位，除了油车车主，还有哪些人或领域被波及？",
-          "url": "https://www.zhihu.com/question/2011847289061262741",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时56分"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的6.27亿美元。",
-          "url": "https://flash.jin10.com/detail/20260303021701876800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时56分"
         },
         {
           "title": "Citadel旗下Wellington基金资产管理规模在2月份增长1.9%。（CNBC）",
