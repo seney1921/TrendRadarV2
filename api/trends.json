@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T17:57:11.623438+08:00",
+  "generated_at": "2026-03-02T17:59:42.850296+08:00",
   "total_titles_processed": 1524,
   "failed_sources": [],
   "trends": [
@@ -97,8 +97,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时34分 ~ 17时57分]"
+          "appearance_count": 24,
+          "time_info": "[00时34分 ~ 17时59分]"
         },
         {
           "title": "IG战胜NIP",
@@ -142,8 +142,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时34分 ~ 17时57分]"
+          "appearance_count": 24,
+          "time_info": "[00时34分 ~ 17时59分]"
         },
         {
           "title": "挑战把墙画成艺术品",
@@ -163,8 +163,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时34分 ~ 17时57分]"
+          "appearance_count": 24,
+          "time_info": "[00时34分 ~ 17时59分]"
         },
         {
           "title": "江浙沪就这样等美食回归解馋",
@@ -243,8 +243,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时40分 ~ 17时57分]"
+          "appearance_count": 17,
+          "time_info": "[02时40分 ~ 17时59分]"
         },
         {
           "title": "千元机或将消失引关注",
@@ -270,19 +270,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时34分 ~ 17时57分]"
-        },
-        {
-          "title": "美以伊战争最新动态｜特朗普：对伊军事行动或持4周",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时28分 ~ 07时29分]"
+          "appearance_count": 24,
+          "time_info": "[00时34分 ~ 17时59分]"
         },
         {
           "title": "公益援助翻车,1点点被逼道歉",
@@ -296,8 +285,43 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时52分 ~ 17时57分]"
+          "appearance_count": 9,
+          "time_info": "[12时52分 ~ 17时59分]"
+        },
+        {
+          "title": "美以伊战争最新动态｜特朗普：对伊军事行动或持4周",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时28分 ~ 07时29分]"
+        },
+        {
+          "title": "美以袭击伊朗已超过 48 小时，当前局势如何？有哪些值得关注的信息？",
+          "url": "https://www.zhihu.com/question/2011535099586372320",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时53分 ~ 17时59分]"
+        },
+        {
+          "title": "国际油价开盘飙升13%！“油脉”霍尔木兹海峡停摆，油价还会涨多高多久？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32682337",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时52分 ~ 17时59分]"
         },
         {
           "title": "美以伊战争最新动态｜特朗普与内塔尼亚胡肖像被烧毁",
@@ -322,28 +346,15 @@
           "time_info": "[13时56分 ~ 15时12分]"
         },
         {
-          "title": "美以袭击伊朗已超过 48 小时，当前局势如何？有哪些值得关注的信息？",
-          "url": "https://www.zhihu.com/question/2011535099586372320",
-          "source": "知乎",
+          "title": "美以伊战争最新动态｜伊朗或唤醒在美“沉睡小组”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时53分 ~ 17时57分]"
-        },
-        {
-          "title": "国际油价开盘飙升13%！“油脉”霍尔木兹海峡停摆，油价还会涨多高多久？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32682337",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时52分 ~ 17时57分]"
+          "time_info": "[17时56分 ~ 17时59分]"
         },
         {
           "title": "春晚同款机器人开箱",
@@ -390,17 +401,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时52分 ~ 12时55分]"
-        },
-        {
-          "title": "美以伊战争最新动态｜伊朗或唤醒在美“沉睡小组”",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 17时57分]"
         },
         {
           "title": "美国大使馆发布旅行提示，美国国务院因安全风险批准非紧急外交人员及其家属离开卡塔尔。",
@@ -456,6 +456,53 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 00时38分]"
+        },
+        {
+          "title": "亏大发!伊朗白炸权贵酒店",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351190&amp;topic_name=%E4%BA%8F%E5%A4%A7%E5%8F%91%21%E4%BC%8A%E6%9C%97%E7%99%BD%E7%82%B8%E6%9D%83%E8%B4%B5%E9%85%92%E5%BA%97",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时12分 ~ 17时59分]"
+        },
+        {
+          "title": "剑星AI作图抄袭,反手拉黑原创",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351206&amp;topic_name=%E5%89%91%E6%98%9FAI%E4%BD%9C%E5%9B%BE%E6%8A%84%E8%A2%AD%2C%E5%8F%8D%E6%89%8B%E6%8B%89%E9%BB%91%E5%8E%9F%E5%88%9B",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时53分 ~ 17时59分]"
+        },
+        {
+          "title": "能源冲击挑战复苏预期 欧元承压跌向五周低点",
+          "url": "https://flash.jin10.com/detail/20260302174024261800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 17时59分]"
+        },
+        {
+          "title": "雷军公布小米机器人最新进展：已在汽车工厂实习 初步实现部分场景自主工作",
+          "url": "https://wallstreetcn.com/livenews/3061787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 17时59分]"
         },
         {
           "title": "三八节撞上周日：加班要给双倍工资",
@@ -539,19 +586,6 @@
           "time_info": "[07时29分 ~ 12时55分]"
         },
         {
-          "title": "亏大发!伊朗白炸权贵酒店",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351190&amp;topic_name=%E4%BA%8F%E5%A4%A7%E5%8F%91%21%E4%BC%8A%E6%9C%97%E7%99%BD%E7%82%B8%E6%9D%83%E8%B4%B5%E9%85%92%E5%BA%97",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时12分 ~ 17时57分]"
-        },
-        {
           "title": "今日重点关注的财经数据与事件：2026年3月2日 周一",
           "url": "https://flash.jin10.com/detail/20260302000000001800",
           "source": "金十数据",
@@ -563,40 +597,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时34分 ~ 13时56分]"
-        },
-        {
-          "title": "剑星AI作图抄袭,反手拉黑原创",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351206&amp;topic_name=%E5%89%91%E6%98%9FAI%E4%BD%9C%E5%9B%BE%E6%8A%84%E8%A2%AD%2C%E5%8F%8D%E6%89%8B%E6%8B%89%E9%BB%91%E5%8E%9F%E5%88%9B",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时53分 ~ 17时57分]"
-        },
-        {
-          "title": "能源冲击挑战复苏预期 欧元承压跌向五周低点",
-          "url": "https://flash.jin10.com/detail/20260302174024261800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "雷军公布小米机器人最新进展：已在汽车工厂实习 初步实现部分场景自主工作",
-          "url": "https://wallstreetcn.com/livenews/3061787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
         },
         {
           "title": "国航、东航、南航等公布涉中东机票退改方案",
@@ -637,6 +637,18 @@
           "time_info": "[00时34分 ~ 07时29分]"
         },
         {
+          "title": "如何看待「新三国中除了张飞和曹操的演员都在摆烂」这一说法？",
+          "url": "https://www.zhihu.com/question/2008912383440093587",
+          "source": "知乎",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时53分 ~ 17时59分]"
+        },
+        {
           "title": "当你发现奶茶袋可以防油溅",
           "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E4%BD%A0%E5%8F%91%E7%8E%B0%E5%A5%B6%E8%8C%B6%E8%A2%8B%E5%8F%AF%E4%BB%A5%E9%98%B2%E6%B2%B9%E6%BA%85&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -651,6 +663,18 @@
           "time_info": "[12时55分 ~ 15时12分]"
         },
         {
+          "title": "3000 余名中国公民自伊朗撤离，一名中国公民在德黑兰遇难，目前情况如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2011828210803942180",
+          "source": "知乎",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时53分 ~ 17时59分]"
+        },
+        {
           "title": "在职场中怎么做可以不受欺负呢？",
           "url": "https://www.zhihu.com/question/9702208922",
           "source": "知乎",
@@ -663,16 +687,49 @@
           "time_info": "[00时34分 ~ 07时29分]"
         },
         {
-          "title": "如何看待「新三国中除了张飞和曹操的演员都在摆烂」这一说法？",
-          "url": "https://www.zhihu.com/question/2008912383440093587",
-          "source": "知乎",
+          "title": "特朗普最新讲话：将为战死美士兵复仇，伊军若不投降必死无疑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32682695",
+          "source": "澎湃新闻",
           "ranks": [
-            13,
-            8
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时53分 ~ 17时59分]"
+        },
+        {
+          "title": "苹果或变成最有“性价比”的手机",
+          "url": "https://www.toutiao.com/trending/7612550416043085348/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时53分 ~ 17时59分]"
+        },
+        {
+          "title": "20后都避开网红名了吗",
+          "url": "https://s.weibo.com/weibo?q=20%E5%90%8E%E9%83%BD%E9%81%BF%E5%BC%80%E7%BD%91%E7%BA%A2%E5%90%8D%E4%BA%86%E5%90%97&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时53分 ~ 17时57分]"
+          "time_info": "[17时56分 ~ 17时59分]"
+        },
+        {
+          "title": "黄金变现还能热多久",
+          "url": "https://www.toutiao.com/trending/7612583711539727915/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时56分 ~ 17时59分]"
         },
         {
           "title": "金银全线高开 国际油价飙升",
@@ -687,16 +744,15 @@
           "time_info": "[10时29分 ~ 10时40分]"
         },
         {
-          "title": "3000 余名中国公民自伊朗撤离，一名中国公民在德黑兰遇难，目前情况如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2011828210803942180",
-          "source": "知乎",
+          "title": "美伊战火引发连锁反应：美国汽油价格即将飙升 通胀又要死灰复燃？",
+          "url": "https://www.cls.cn/detail/2299493",
+          "source": "财联社热门",
           "ranks": [
-            11,
-            10
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时53分 ~ 17时57分]"
+          "time_info": "[17时56分 ~ 17时59分]"
         },
         {
           "title": "北京协和医院提出的科学减重方法",
@@ -720,29 +776,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时29分 ~ 10时40分]"
-        },
-        {
-          "title": "特朗普最新讲话：将为战死美士兵复仇，伊军若不投降必死无疑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32682695",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时53分 ~ 17时57分]"
-        },
-        {
-          "title": "苹果或变成最有“性价比”的手机",
-          "url": "https://www.toutiao.com/trending/7612550416043085348/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时53分 ~ 17时57分]"
         },
         {
           "title": "考研失败又不是人生失败",
@@ -790,17 +823,6 @@
           "time_info": "[10时39分 ~ 10时40分]"
         },
         {
-          "title": "20后都避开网红名了吗",
-          "url": "https://s.weibo.com/weibo?q=20%E5%90%8E%E9%83%BD%E9%81%BF%E5%BC%80%E7%BD%91%E7%BA%A2%E5%90%8D%E4%BA%86%E5%90%97&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 17时57分]"
-        },
-        {
           "title": "欧元兑瑞郎汇率跌至逾十年来最低水平，最新报0.9037。",
           "url": "https://flash.jin10.com/detail/20260302145749702800",
           "source": "金十数据",
@@ -821,17 +843,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时52分 ~ 12时55分]"
-        },
-        {
-          "title": "黄金变现还能热多久",
-          "url": "https://www.toutiao.com/trending/7612583711539727915/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 17时57分]"
         },
         {
           "title": "市场消息：警报声在以色列与黎巴嫩边境附近的多个社区响起，警报内容为疑似有无人机入侵。",
@@ -856,15 +867,48 @@
           "time_info": "[12时52分 ~ 12时55分]"
         },
         {
-          "title": "美伊战火引发连锁反应：美国汽油价格即将飙升 通胀又要死灰复燃？",
-          "url": "https://www.cls.cn/detail/2299493",
-          "source": "财联社热门",
+          "title": "中欧航线票价暴涨，上海飞巴黎飙升5倍",
+          "url": "https://wallstreetcn.com/livenews/3061778",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时56分 ~ 17时57分]"
+          "time_info": "[17时57分 ~ 17时59分]"
+        },
+        {
+          "title": "违约风险对冲成本飙升 美伊冲突阴云笼罩欧元信用市场",
+          "url": "https://flash.jin10.com/detail/20260302173415210800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 17时59分]"
+        },
+        {
+          "title": "万家基金：万家中证红利ETF联接3月3日起暂停大额申购",
+          "url": "https://wallstreetcn.com/livenews/3061777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 17时59分]"
+        },
+        {
+          "title": "罗马尼亚称拥有可维持30天的燃料储备，并已采取一切必要措施防止油价飙升。",
+          "url": "https://flash.jin10.com/detail/20260302173411857800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 17时59分]"
         },
         {
           "title": "日本央行副行长冰见野良三：目前为止加息的影响有限。 日本央行的目标是避免通胀过高与通缩，以此维持物价稳定，进而使经济保持可持续增长轨道。 若我们的预估准确，可以推断日本经济既未过热，也未停滞。 我们需要密切关注市场动向，但过度受市场动向左右，可能会让我们遭到投机者的攻击。 目前日本很多民众仍不认为经济特别强劲。 应对由供给冲击引发的通胀，可能会扰乱GDP。 在应对暂时性供给冲击时，等到政策措施生效时，冲击的影响可能早已消散。 因此，在应对供给冲击时，先确认核心通胀更为审慎。 目前通胀缺口仍略为负值，但预计未来将趋近于零。 日本央行政策仍偏宽松，不过应通过适度加息，逐步转向更中性的立场。",
@@ -899,6 +943,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时39分 ~ 10时40分]"
+        },
+        {
+          "title": "亚洲液化天然气基准价格（JKM）周一飙升至13.133美元/百万英热，较上周五收盘价上涨2.256美元。",
+          "url": "https://flash.jin10.com/detail/20260302173117947800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 17时59分]"
         },
         {
           "title": "乌克兰总统泽连斯基：我们现在正密切关注伊朗周边局势的每一个变化。包括乌克兰情报部门、外交部等都在参与。",
@@ -1012,39 +1067,6 @@
           "time_info": "07时29分"
         },
         {
-          "title": "中欧航线票价暴涨，上海飞巴黎飙升5倍",
-          "url": "https://wallstreetcn.com/livenews/3061778",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "违约风险对冲成本飙升 美伊冲突阴云笼罩欧元信用市场",
-          "url": "https://flash.jin10.com/detail/20260302173415210800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "万家基金：万家中证红利ETF联接3月3日起暂停大额申购",
-          "url": "https://wallstreetcn.com/livenews/3061777",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
           "title": "对一个人产生愧疚感是什么样的体验？",
           "url": "https://www.zhihu.com/question/385911055",
           "source": "知乎",
@@ -1065,17 +1087,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
-        },
-        {
-          "title": "罗马尼亚称拥有可维持30天的燃料储备，并已采取一切必要措施防止油价飙升。",
-          "url": "https://flash.jin10.com/detail/20260302173411857800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
         },
         {
           "title": "迅猛龙自曝直播影响学业了",
@@ -1131,17 +1142,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
-        },
-        {
-          "title": "亚洲液化天然气基准价格（JKM）周一飙升至13.133美元/百万英热，较上周五收盘价上涨2.256美元。",
-          "url": "https://flash.jin10.com/detail/20260302173117947800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
         },
         {
           "title": "北约军事总部发言人：北约继续密切关注伊朗及地区局势发展。",
