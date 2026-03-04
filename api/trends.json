@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T02:58:38.093282+08:00",
+  "generated_at": "2026-03-05T03:01:43.112877+08:00",
   "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时01分]"
         },
         {
           "title": "大话Bin回归,扬言先锋赛夺冠",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时01分]"
         },
         {
           "title": "英伟达CEO黄仁勋：目前并不存在1000亿美元投资机会。 OpenAI（潜在的）IPO限制投资机会。 与OpenAI、Anthropic的协议可能是最后一轮。",
@@ -36,9 +36,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时01分]"
         },
         {
           "title": "政协委员告诉你什么最让马斯克破防",
@@ -49,8 +49,75 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时01分]"
+        },
+        {
+          "title": "凤凰独家丨伊朗反击包括美国本土吗？驻华大使回应",
+          "url": "https://news.ifeng.com/c/8rE2fVZODSF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时01分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 5 天，当前局势如何？有哪些值得关注的信息？",
+          "url": "https://www.zhihu.com/question/2012284742704260005",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时01分]"
+        },
+        {
+          "title": "MacBook Neo上手体验",
+          "url": "https://search.bilibili.com/all?keyword=MacBook%20Neo%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时01分]"
+        },
+        {
+          "title": "CSGO回归Steam",
+          "url": "https://www.douyin.com/hot/2418630",
+          "source": "抖音",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时01分]"
+        },
+        {
+          "title": "规制隐形加班、保障超龄劳动者，总工会界别提案关注职工急难愁盼问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32697152",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时01分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指缩量调整失守半年线，油气板块全天巨震分化，军工、农业股逆势大涨",
+          "url": "https://www.cls.cn/detail/2302727",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时01分]"
         },
         {
           "title": "英特尔CFO：服务器CPU市场将在2026年大幅增长。 （大范围的）服务器需求强劲。 到2027年，供应都将是一个更大的挑战。 芯片行业全面遭遇供应短缺问题。 预计存储芯片供应短缺这个问题将持续至2027年。 我们的工厂超负荷运转。",
@@ -65,73 +132,6 @@
           "time_info": "[00时54分 ~ 01时43分]"
         },
         {
-          "title": "凤凰独家丨伊朗反击包括美国本土吗？驻华大使回应",
-          "url": "https://news.ifeng.com/c/8rE2fVZODSF",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时58分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 5 天，当前局势如何？有哪些值得关注的信息？",
-          "url": "https://www.zhihu.com/question/2012284742704260005",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时58分]"
-        },
-        {
-          "title": "MacBook Neo上手体验",
-          "url": "https://search.bilibili.com/all?keyword=MacBook%20Neo%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时58分]"
-        },
-        {
-          "title": "CSGO回归Steam",
-          "url": "https://www.douyin.com/hot/2418630",
-          "source": "抖音",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时58分]"
-        },
-        {
-          "title": "规制隐形加班、保障超龄劳动者，总工会界别提案关注职工急难愁盼问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32697152",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时58分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指缩量调整失守半年线，油气板块全天巨震分化，军工、农业股逆势大涨",
-          "url": "https://www.cls.cn/detail/2302727",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时58分]"
-        },
-        {
           "title": "AI猫咪的复工vlog",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
           "source": "bilibili 热搜",
@@ -141,8 +141,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时01分]"
         },
         {
           "title": "特朗普夫人，“翻车”了",
@@ -152,8 +152,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时01分]"
         },
         {
           "title": "深扒美式嘉豪,装小众博关注",
@@ -164,8 +164,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时01分]"
         },
         {
           "title": "粉墨回归曲毒舌Reaction",
@@ -177,8 +177,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时01分]"
         },
         {
           "title": "WTT突尼斯常规挑战赛双打名单公布",
@@ -189,8 +189,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时01分]"
         },
         {
           "title": "两会前记者询问王励勤樊振东回归国家队的情况，王励勤表示「还在联系的过程当中」，这透露了什么信息？",
@@ -200,8 +200,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时01分]"
         },
         {
           "title": "如何看待女子花20万住酒店3年遭吐槽",
@@ -212,8 +212,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时01分]"
         },
         {
           "title": "星穹铁道火花保姆级攻略",
@@ -225,8 +225,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时01分]"
         },
         {
           "title": "淡棕滤镜加闪光灯超绝",
@@ -238,8 +238,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时01分]"
         },
         {
           "title": "抖音直播盛典阵容官宣",
@@ -250,8 +250,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 02时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 03时01分]"
         },
         {
           "title": "失落星船马拉松发售预告",
@@ -262,8 +262,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 02时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 03时01分]"
         },
         {
           "title": "周三（3月4日），美联储隔夜逆回购协议（RRP）使用规模为8.77亿美元（交易对手8家），上个交易日报12.03亿美元。",
@@ -272,9 +272,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时01分]"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了8个对手方的8.77亿美元。",
+          "url": "https://flash.jin10.com/detail/20260305021754964800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时01分]"
+        },
+        {
+          "title": "卡塔尔外交事务国务部长与罗马尼亚外交部长通电话，讨论了局势发展及其对地区和全球安全与稳定的后果，以及通过和平手段解决所有争端的方法。",
+          "url": "https://flash.jin10.com/detail/20260305015635247800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时01分]"
         },
         {
           "title": "周鸿祎两会关注智能体技术",
@@ -299,17 +321,6 @@
           "time_info": "01时43分"
         },
         {
-          "title": "美联储在固定利率逆回购操作中总计接纳了8个对手方的8.77亿美元。",
-          "url": "https://flash.jin10.com/detail/20260305021754964800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
           "title": "欧盟外交与安全政策高级代表卡拉斯：中东战争转移了人们对乌克兰的关注，不能让乌克兰从议程上消失。",
           "url": "https://flash.jin10.com/detail/20260305000647695800",
           "source": "金十数据",
@@ -330,17 +341,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
-        },
-        {
-          "title": "卡塔尔外交事务国务部长与罗马尼亚外交部长通电话，讨论了局势发展及其对地区和全球安全与稳定的后果，以及通过和平手段解决所有争端的方法。",
-          "url": "https://flash.jin10.com/detail/20260305015635247800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时58分"
         },
         {
           "title": "开电竞酒店还能不能赚钱",
