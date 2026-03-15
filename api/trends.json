@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-15T19:32:05.929996+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2026-03-15T21:02:41.675375+08:00",
+  "total_titles_processed": 1240,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 89,
+      "match_count": 103,
       "titles": [
         {
           "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
@@ -32,6 +32,21 @@
           "time_info": "[00时38分 ~ 05时34分]"
         },
         {
+          "title": "央视「3·15」晚会主题发布，将关注食品安全、公共安全、金融安全、广告市场等领域，哪些看点值得关注？",
+          "url": "https://www.zhihu.com/question/2016099547433161361",
+          "source": "知乎",
+          "ranks": [
+            17,
+            7,
+            4,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[10时44分 ~ 21时02分]"
+        },
+        {
           "title": "刘文祥麻辣烫被曝牛肉实为鸭肉，价格差 4 倍，这种现象在餐饮业是普遍存在的吗？消费者该如何避坑？",
           "url": "https://www.zhihu.com/question/2016280494870853302",
           "source": "知乎",
@@ -40,22 +55,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时42分 ~ 19时32分]"
-        },
-        {
-          "title": "央视「3·15」晚会主题发布，将关注食品安全、公共安全、金融安全、广告市场等领域，哪些看点值得关注？",
-          "url": "https://www.zhihu.com/question/2016099547433161361",
-          "source": "知乎",
-          "ranks": [
-            17,
-            7,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时44分 ~ 19时32分]"
+          "appearance_count": 11,
+          "time_info": "[16时42分 ~ 21时02分]"
         },
         {
           "title": "飞猪、携程、去哪儿、同程，低价机票藏“小字加价”套路",
@@ -88,8 +89,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时44分 ~ 19时32分]"
+          "appearance_count": 18,
+          "time_info": "[10时44分 ~ 21时02分]"
         },
         {
           "title": "新疆阿勒泰咬人狐狸被滑雪场员工打死？警方通报：已放归自然",
@@ -120,8 +121,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时09分 ~ 19时32分]"
+          "appearance_count": 16,
+          "time_info": "[13时09分 ~ 21时02分]"
         },
         {
           "title": "第一批被反噬的“养虾人”已出现：IP、姓名、单位等信息被“龙虾”曝光在3000人群里",
@@ -137,8 +138,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时44分 ~ 19时32分]"
+          "appearance_count": 18,
+          "time_info": "[10时44分 ~ 21时02分]"
         },
         {
           "title": "V圈一姐!嘉然直播狂赚270w",
@@ -148,11 +149,12 @@
             5,
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时04分 ~ 19时32分]"
+          "appearance_count": 13,
+          "time_info": "[15时04分 ~ 21时02分]"
         },
         {
           "title": "春晚同款“小布米”AWE交付，松延动力宣布“产能爬坡”",
@@ -186,8 +188,22 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 35,
-          "time_info": "[00时38分 ~ 19时32分]"
+          "appearance_count": 36,
+          "time_info": "[00时38分 ~ 21时02分]"
+        },
+        {
+          "title": "315直播丨跨境儿童追高产品乱象：一场收割家长焦虑的“洋把戏”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32752998",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            8,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时40分 ~ 21时02分]"
         },
         {
           "title": "Space X IPO，马斯克要学“马老师”",
@@ -213,8 +229,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时33分 ~ 19时32分]"
+          "appearance_count": 21,
+          "time_info": "[07时33分 ~ 21时02分]"
         },
         {
           "title": "文淇路演亲了粉丝",
@@ -342,8 +358,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时42分 ~ 19时32分]"
+          "appearance_count": 11,
+          "time_info": "[16时42分 ~ 21时02分]"
         },
         {
           "title": "315晚会重点关注哪些领域",
@@ -383,11 +399,12 @@
             19,
             20,
             22,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 35,
-          "time_info": "[00时38分 ~ 19时32分]"
+          "appearance_count": 36,
+          "time_info": "[00时38分 ~ 21时02分]"
         },
         {
           "title": "又炒作?杨姐自称考公上岸",
@@ -400,11 +417,12 @@
             21,
             22,
             24,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 35,
-          "time_info": "[00时38分 ~ 19时32分]"
+          "appearance_count": 36,
+          "time_info": "[00时38分 ~ 21时02分]"
         },
         {
           "title": "你如何看待前中超球员送外卖",
@@ -554,19 +572,6 @@
           "time_info": "[05时31分 ~ 07时36分]"
         },
         {
-          "title": "315直播丨跨境儿童追高产品乱象：一场收割家长焦虑的“洋把戏”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32752998",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时40分 ~ 19时32分]"
-        },
-        {
           "title": "头部主播带货“保真”茅台鉴定为假",
           "url": "https://www.baidu.com/s?wd=%E5%A4%B4%E9%83%A8%E4%B8%BB%E6%92%AD%E5%B8%A6%E8%B4%A7%E2%80%9C%E4%BF%9D%E7%9C%9F%E2%80%9D%E8%8C%85%E5%8F%B0%E9%89%B4%E5%AE%9A%E4%B8%BA%E5%81%87",
           "source": "百度热搜",
@@ -591,6 +596,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时09分 ~ 17时43分]"
+        },
+        {
+          "title": "兔子舞眨眼挑战",
+          "url": "https://www.douyin.com/hot/2430685",
+          "source": "抖音",
+          "ranks": [
+            27,
+            23,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时40分 ~ 21时02分]"
         },
         {
           "title": "崔永熙将在辽粤二番战回归首秀",
@@ -653,18 +671,6 @@
           "time_info": "[16时42分 ~ 18时38分]"
         },
         {
-          "title": "兔子舞眨眼挑战",
-          "url": "https://www.douyin.com/hot/2430685",
-          "source": "抖音",
-          "ranks": [
-            27,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时40分 ~ 19时32分]"
-        },
-        {
           "title": "鹿哈带货牛肚操作人员抽烟",
           "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E5%93%88%E5%B8%A6%E8%B4%A7%E7%89%9B%E8%82%9A%E6%93%8D%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8A%BD%E7%83%9F%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -685,6 +691,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时31分 ~ 19时32分]"
+        },
+        {
+          "title": "315塌房合集,今年谁最坑？",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351831&amp;topic_name=315%E5%A1%8C%E6%88%BF%E5%90%88%E9%9B%86%2C%E4%BB%8A%E5%B9%B4%E8%B0%81%E6%9C%80%E5%9D%91%EF%BC%9F",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "315维权 丨“改善做事拖拉”“个头猛增一把”，哈药“小蓝瓶”主播带货话术疑似擦边",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32752989",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时35分 ~ 21时02分]"
         },
         {
           "title": "宝贝听我说合唱挑战",
@@ -725,6 +755,72 @@
           "time_info": "[00时38分 ~ 04时34分]"
         },
         {
+          "title": "315曝光网红鸡爪 生产车间令人作呕",
+          "url": "https://www.baidu.com/s?wd=315%E6%9B%9D%E5%85%89%E7%BD%91%E7%BA%A2%E9%B8%A1%E7%88%AA+%E7%94%9F%E4%BA%A7%E8%BD%A6%E9%97%B4%E4%BB%A4%E4%BA%BA%E4%BD%9C%E5%91%95",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "2026 年央视 315 晚会，披露了哪些消费乱象？有哪些值得关注的信息？",
+          "url": "https://www.zhihu.com/question/2016604377415120691",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "315打假网红“万能神药”外泌体",
+          "url": "https://www.baidu.com/s?wd=315%E6%89%93%E5%81%87%E7%BD%91%E7%BA%A2%E2%80%9C%E4%B8%87%E8%83%BD%E7%A5%9E%E8%8D%AF%E2%80%9D%E5%A4%96%E6%B3%8C%E4%BD%93",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "3·15晚会丨能治愈癫痫、糖尿病？网红神药“外泌体”竟是三无产品",
+          "url": "https://wallstreetcn.com/livenews/3070306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "网红鸡爪用双氧水“漂白”",
+          "url": "https://www.douyin.com/hot/2431785",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "315 晚会曝光网红鸡爪使用双氧水漂白，生产环境脏乱不堪，对健康危害有多大？",
+          "url": "https://www.zhihu.com/question/2016607467954467246",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "滑雪场员工打死野生狐狸？警方辟谣",
           "url": "https://www.toutiao.com/trending/7616789939741098047/",
           "source": "今日头条",
@@ -758,18 +854,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时04分 ~ 16时47分]"
-        },
-        {
-          "title": "315维权 丨“改善做事拖拉”“个头猛增一把”，哈药“小蓝瓶”主播带货话术疑似擦边",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32752989",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时35分 ~ 19时32分]"
         },
         {
           "title": "明日方舟卫戍协议攻略",
@@ -903,6 +987,18 @@
           "time_info": "[13时12分 ~ 15时08分]"
         },
         {
+          "title": "乡村创业你遇到过哪些难题",
+          "url": "https://www.toutiao.com/trending/7617107771604205587/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时31分 ~ 21时02分]"
+        },
+        {
           "title": "太原烟酒店涉嫌卖假汾酒 老板欲私了",
           "url": "https://www.toutiao.com/trending/7616551357748281350/",
           "source": "今日头条",
@@ -924,6 +1020,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时35分 ~ 18时38分]"
+        },
+        {
+          "title": "装修一套房 要踩多少坑",
+          "url": "https://www.baidu.com/s?wd=%E8%A3%85%E4%BF%AE%E4%B8%80%E5%A5%97%E6%88%BF+%E8%A6%81%E8%B8%A9%E5%A4%9A%E5%B0%91%E5%9D%91",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时31分 ~ 21时02分]"
         },
         {
           "title": "315记者直击酒店偷拍黑色产业链",
@@ -957,17 +1064,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时04分 ~ 15时08分]"
-        },
-        {
-          "title": "乡村创业你遇到过哪些难题",
-          "url": "https://www.toutiao.com/trending/7617107771604205587/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 19时32分]"
         },
         {
           "title": "直击网红毛肚生产乱象",
@@ -1047,17 +1143,6 @@
           "time_info": "[15时04分 ~ 15时08分]"
         },
         {
-          "title": "装修一套房 要踩多少坑",
-          "url": "https://www.baidu.com/s?wd=%E8%A3%85%E4%BF%AE%E4%B8%80%E5%A5%97%E6%88%BF+%E8%A6%81%E8%B8%A9%E5%A4%9A%E5%B0%91%E5%9D%91",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 19时32分]"
-        },
-        {
           "title": "官方通报鹿哈带货牛肚加工环境问题",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E9%B9%BF%E5%93%88%E5%B8%A6%E8%B4%A7%E7%89%9B%E8%82%9A%E5%8A%A0%E5%B7%A5%E7%8E%AF%E5%A2%83%E9%97%AE%E9%A2%98%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -1113,6 +1198,61 @@
           "time_info": "[04时34分 ~ 04时37分]"
         },
         {
+          "title": "天眼查数据：漂白鸡爪涉事公司获ISO认证",
+          "url": "https://wallstreetcn.com/livenews/3070301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "315晚会曝光漂白鸡爪 网红鸡爪生产车间令人作呕",
+          "url": "https://wallstreetcn.com/livenews/3070298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "六指内塔尼亚胡是AI替身？真相来了",
+          "url": "https://www.toutiao.com/trending/7617060842857267209/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "央视“3·15”晚会今晚播出 继续关注食品安全等四个领域",
+          "url": "https://www.cls.cn/detail/2313104",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "网红鸡爪被踩踏后直接放回加工",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E9%B8%A1%E7%88%AA%E8%A2%AB%E8%B8%A9%E8%B8%8F%E5%90%8E%E7%9B%B4%E6%8E%A5%E6%94%BE%E5%9B%9E%E5%8A%A0%E5%B7%A5",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "今年考研复试有哪些新特点",
           "url": "https://search.bilibili.com/all?keyword=%E4%BB%8A%E5%B9%B4%E8%80%83%E7%A0%94%E5%A4%8D%E8%AF%95%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E7%89%B9%E7%82%B9",
           "source": "bilibili 热搜",
@@ -1124,6 +1264,17 @@
           "time_info": "15时08分"
         },
         {
+          "title": "网红西梅汁实则暗藏强效泻药",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E8%A5%BF%E6%A2%85%E6%B1%81%E5%AE%9E%E5%88%99%E6%9A%97%E8%97%8F%E5%BC%BA%E6%95%88%E6%B3%BB%E8%8D%AF%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "上海有什么国内其他城市吃不到的美食？",
           "url": "https://www.zhihu.com/question/1939739208311890240",
           "source": "知乎",
@@ -1133,6 +1284,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
+        },
+        {
+          "title": "女孩照顾患癌母亲考研自己又确诊癌症",
+          "url": "https://www.toutiao.com/trending/7616942765833764915/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "谁在渲染AI焦虑",
