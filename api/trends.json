@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T03:08:57.228479+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-03-17T03:14:38.865481+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时14分]"
         },
         {
           "title": "租客装修后退房 房东让恢复成毛坯",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时14分]"
         },
         {
           "title": "武契奇指责阿尔巴尼亚、克罗地亚、科索沃当局「正准备联合进攻塞尔维亚」，哪些信息值得关注？东欧发生了啥？",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时14分]"
         },
         {
           "title": "市值重登千亿大关！存储龙头创历史新高，年内新增千亿股盘点，这些方向占比较高",
@@ -50,8 +50,44 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时14分]"
+        },
+        {
+          "title": "租客装修后退房房东让恢复成毛坯",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A7%9F%E5%AE%A2%E8%A3%85%E4%BF%AE%E5%90%8E%E9%80%80%E6%88%BF%E6%88%BF%E4%B8%9C%E8%AE%A9%E6%81%A2%E5%A4%8D%E6%88%90%E6%AF%9B%E5%9D%AF%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时14分]"
+        },
+        {
+          "title": "美国芝加哥期权交易所（CBOE）向证券交易委员会（SEC）提出申请，计划于2026年12月启动美国股票24*5的交易模式。",
+          "url": "https://wallstreetcn.com/livenews/3071115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 03时14分]"
+        },
+        {
+          "title": "猪蹄老板27万拿下网红摊位 日成本3万",
+          "url": "https://www.toutiao.com/trending/7617768663625649727/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时14分]"
         },
         {
           "title": "美国国债收益率跌势放缓，10年期国债收益率最新下跌4.2个基点，报4.241%。",
@@ -65,50 +101,15 @@
           "time_info": "[01时07分 ~ 01时10分]"
         },
         {
-          "title": "租客装修后退房房东让恢复成毛坯",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%A7%9F%E5%AE%A2%E8%A3%85%E4%BF%AE%E5%90%8E%E9%80%80%E6%88%BF%E6%88%BF%E4%B8%9C%E8%AE%A9%E6%81%A2%E5%A4%8D%E6%88%90%E6%AF%9B%E5%9D%AF%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 03时08分]"
-        },
-        {
-          "title": "猪蹄老板27万拿下网红摊位 日成本3万",
-          "url": "https://www.toutiao.com/trending/7617768663625649727/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 03时08分]"
-        },
-        {
-          "title": "美国芝加哥期权交易所（CBOE）向证券交易委员会（SEC）提出申请，计划于2026年12月启动美国股票24*5的交易模式。",
-          "url": "https://wallstreetcn.com/livenews/3071115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
           "title": "芝加哥期权交易所（CBOE）计划于2026年12月启动美国股票24X5的交易模式。",
           "url": "https://flash.jin10.com/detail/20260317030203714800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 03时14分]"
         },
         {
           "title": "315扫描“主播”｜“潦倒外卖员”与“貌美老板”的苦情戏，不过是卖货主播的流量生意",
@@ -118,8 +119,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时14分]"
         },
         {
           "title": "锐评B站AI大赛热门作品",
@@ -131,8 +132,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时14分]"
         },
         {
           "title": "西梅汁通便真相:全是科技活",
@@ -142,8 +143,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时14分]"
         },
         {
           "title": "如何评价游戏主播炫神禁止自己的录播员「就看看桑」继续录制传播自己的直播，还逼着他注销账号？",
@@ -154,8 +155,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时14分]"
         },
         {
           "title": "如何看待《逐玉》从「数据爆开」到「口碑翻车」的全过程，手搓热度背后，暴露了古偶剧哪些问题？",
@@ -163,11 +164,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时14分]"
         },
         {
           "title": "美以袭击伊朗进入第 17 天，当前局势怎样？哪些信息值得关注？",
@@ -177,8 +179,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时14分]"
         },
         {
           "title": "贴吧成财富密码,搬运工赚翻了",
@@ -188,8 +190,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时14分]"
         },
         {
           "title": "多款保健茶叶咖啡添加“伟哥”成分",
@@ -200,8 +202,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时14分]"
         },
         {
           "title": "将F1的流量变增量，上海的“全油门时刻”",
@@ -211,8 +213,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时14分]"
         },
         {
           "title": "事关直播带货！官方：严管严查严惩",
@@ -223,8 +225,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时14分]"
         },
         {
           "title": "315塌房合集,今年谁最坑？",
@@ -234,8 +236,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时14分]"
         },
         {
           "title": "浙江一咖啡店推出“童子尿蛋美式”",
@@ -243,11 +245,12 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时14分]"
         },
         {
           "title": "V圈一姐!嘉然直播狂赚270w",
@@ -257,8 +260,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时14分]"
         },
         {
           "title": "商务部回应美以「未禁止进口强迫劳动产品」为由对包括中国在内 60 个经济体发起调查，哪些信息值得关注？",
@@ -272,6 +275,50 @@
           "time_info": "[01时06分 ~ 01时10分]"
         },
         {
+          "title": "金十图示：2026年03月16日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260317025941976800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 03时14分]"
+        },
+        {
+          "title": "金十图示：2026年03月16日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260317025904229800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 03时14分]"
+        },
+        {
+          "title": "美国证券交易委员会：委员会执法总监已从机构辞职。",
+          "url": "https://flash.jin10.com/detail/20260317023407800800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 03时14分]"
+        },
+        {
+          "title": "国航东航南航：机票买贵了可免费退",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E8%88%AA%E4%B8%9C%E8%88%AA%E5%8D%97%E8%88%AA%EF%BC%9A%E6%9C%BA%E7%A5%A8%E4%B9%B0%E8%B4%B5%E4%BA%86%E5%8F%AF%E5%85%8D%E8%B4%B9%E9%80%80",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 03时14分]"
+        },
+        {
           "title": "美国汽油价格飙升至2023年10月以来最高水平",
           "url": "https://wallstreetcn.com/livenews/3071043",
           "source": "华尔街见闻-快讯",
@@ -283,48 +330,26 @@
           "time_info": "[01时07分 ~ 01时10分]"
         },
         {
-          "title": "金十图示：2026年03月16日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260317025941976800",
+          "title": "市场消息：苹果(AAPL.O)收购视频剪辑公司MotionVFX，以提升订阅用户规模。",
+          "url": "https://flash.jin10.com/detail/20260317022815794800",
           "source": "金十数据",
           "ranks": [
-            6
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 03时14分]"
         },
         {
-          "title": "金十图示：2026年03月16日（周一）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260317025904229800",
-          "source": "金十数据",
+          "title": "拉过勾转场挑战",
+          "url": "https://www.douyin.com/hot/2432936",
+          "source": "抖音",
           "ranks": [
-            7
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "美国证券交易委员会：委员会执法总监已从机构辞职。",
-          "url": "https://flash.jin10.com/detail/20260317023407800800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "国航东航南航：机票买贵了可免费退",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E8%88%AA%E4%B8%9C%E8%88%AA%E5%8D%97%E8%88%AA%EF%BC%9A%E6%9C%BA%E7%A5%A8%E4%B9%B0%E8%B4%B5%E4%BA%86%E5%8F%AF%E5%85%8D%E8%B4%B9%E9%80%80",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 03时14分]"
         },
         {
           "title": "明日方舟卫戍协议攻略",
@@ -336,28 +361,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
-        },
-        {
-          "title": "市场消息：苹果(AAPL.O)收购视频剪辑公司MotionVFX，以提升订阅用户规模。",
-          "url": "https://flash.jin10.com/detail/20260317022815794800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "拉过勾转场挑战",
-          "url": "https://www.douyin.com/hot/2432936",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
         }
       ]
     }
