@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T03:02:16.807202+08:00",
+  "generated_at": "2026-03-26T03:05:39.498430+08:00",
   "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 03时05分]"
         },
         {
           "title": "3部旧手机换一台iPhone？回收商回应",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 03时05分]"
         },
         {
           "title": "国投瑞银白银基金估值调整和解方案后续：和解率超95%，线上渠道将适时关闭",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 03时05分]"
         },
         {
           "title": "为“永不发车”的列车点赞",
@@ -49,8 +49,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 03时05分]"
         },
         {
           "title": "如何避免跑步中出现心源性猝死？先问问自己适不适合跑步",
@@ -60,8 +60,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 03时05分]"
         },
         {
           "title": "雪山救狐狸还得是河南美食",
@@ -72,8 +72,42 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 03时05分]"
+        },
+        {
+          "title": "Bin卑微合影,粉丝心疼破防",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352348&amp;topic_name=Bin%E5%8D%91%E5%BE%AE%E5%90%88%E5%BD%B1%2C%E7%B2%89%E4%B8%9D%E5%BF%83%E7%96%BC%E7%A0%B4%E9%98%B2",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 03时05分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 26 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2019771481580648323",
+          "source": "知乎",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 03时05分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：俄罗斯提出的“若美国切断对乌克兰的情报支持，则停止与伊朗分享情报”的提议是一种勒索行为。",
+          "url": "https://flash.jin10.com/detail/20260326022613589800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时02分 ~ 03时05分]"
         },
         {
           "title": "美国运输安全管理局：由于资金僵局，美国主要机场的运营持续中断，目前已有480名机场安保人员辞职。",
@@ -87,40 +121,6 @@
           "time_info": "[01时09分 ~ 01时12分]"
         },
         {
-          "title": "Bin卑微合影,粉丝心疼破防",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352348&amp;topic_name=Bin%E5%8D%91%E5%BE%AE%E5%90%88%E5%BD%B1%2C%E7%B2%89%E4%B8%9D%E5%BF%83%E7%96%BC%E7%A0%B4%E9%98%B2",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 03时02分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 26 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2019771481580648323",
-          "source": "知乎",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 03时02分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：俄罗斯提出的“若美国切断对乌克兰的情报支持，则停止与伊朗分享情报”的提议是一种勒索行为。",
-          "url": "https://flash.jin10.com/detail/20260326022613589800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
           "title": "2025 年有调查显示，95 、 00 后越来越多人开始拒绝加班，但 80 、 90 后还有不少人在熬，你还会熬吗？",
           "url": "https://www.zhihu.com/question/2019165528103600779",
           "source": "知乎",
@@ -129,8 +129,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 03时05分]"
         },
         {
           "title": "《经济日报》刊文“外卖大战该结束了”，美团、阿里直线拉升，这一战曾半年烧光800亿",
@@ -140,8 +140,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 03时05分]"
         },
         {
           "title": "男大学生长期吃外卖熬夜突发急性心梗",
@@ -152,8 +152,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 03时05分]"
         },
         {
           "title": "【焦点复盘】创业板指高开高走涨逾2%，全市场近4900股飘红，算电协同概念获持续热捧",
@@ -163,8 +163,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 03时05分]"
         },
         {
           "title": "熬夜后的3个补救方法",
@@ -174,8 +174,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 03时05分]"
         },
         {
           "title": "王俊凯专辑概念预告",
@@ -186,8 +186,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 03时05分]"
         },
         {
           "title": "普通人健身选户外还是健身房",
@@ -197,8 +197,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 03时05分]"
         },
         {
           "title": "何润东近7日涨粉25.6万",
@@ -210,8 +210,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 03时05分]"
         },
         {
           "title": "印度能源见底,打工族被迫返乡",
@@ -221,8 +221,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 03时05分]"
         },
         {
           "title": "去陌生人家里吃饭是什么体验",
@@ -234,8 +234,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 03时05分]"
         },
         {
           "title": "花27万拍下网红摊位老板喉咙喊哑了",
@@ -246,8 +246,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 03时05分]"
         },
         {
           "title": "熬夜后的3个补救方法",
@@ -258,8 +258,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 03时05分]"
         },
         {
           "title": "洛克王国世界开服保姆级攻略",
@@ -270,8 +270,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 03时05分]"
         },
         {
           "title": "DOTA2 7.41版本大更新",
@@ -282,8 +282,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 03时05分]"
         },
         {
           "title": "博主分享东北老妈把欧洲法棍上锅蒸了，法棍变得「入口即化」，为什么欧洲人没想过把法棍蒸一下呢？",
@@ -294,8 +294,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 03时05分]"
+        },
+        {
+          "title": "罗永浩回应对话杨笠掉粉",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%9B%9E%E5%BA%94%E5%AF%B9%E8%AF%9D%E6%9D%A8%E7%AC%A0%E6%8E%89%E7%B2%89%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 03时05分]"
         },
         {
           "title": "“外卖三巨头”大涨",
@@ -309,16 +321,15 @@
           "time_info": "[01时08分 ~ 01时12分]"
         },
         {
-          "title": "罗永浩回应对话杨笠掉粉",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%9B%9E%E5%BA%94%E5%AF%B9%E8%AF%9D%E6%9D%A8%E7%AC%A0%E6%8E%89%E7%B2%89%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
+          "title": "3部旧手机换一台iPhone？回收商回应",
+          "url": "https://www.baidu.com/s?wd=3%E9%83%A8%E6%97%A7%E6%89%8B%E6%9C%BA%E6%8D%A2%E4%B8%80%E5%8F%B0iPhone%EF%BC%9F%E5%9B%9E%E6%94%B6%E5%95%86%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
           "ranks": [
-            26,
             18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时02分]"
+          "time_info": "[03时01分 ~ 03时05分]"
         },
         {
           "title": "看逐玉反向种草何润东的项羽",
@@ -331,6 +342,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时08分 ~ 01时12分]"
+        },
+        {
+          "title": "周杰伦新专辑全专大测评",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91%E5%85%A8%E4%B8%93%E5%A4%A7%E6%B5%8B%E8%AF%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 03时05分]"
         },
         {
           "title": "金十图示：2026年03月25日（周三）美股热门股票行情一览（美股盘中）",
@@ -366,15 +388,15 @@
           "time_info": "[01时09分 ~ 01时12分]"
         },
         {
-          "title": "3部旧手机换一台iPhone？回收商回应",
-          "url": "https://www.baidu.com/s?wd=3%E9%83%A8%E6%97%A7%E6%89%8B%E6%9C%BA%E6%8D%A2%E4%B8%80%E5%8F%B0iPhone%EF%BC%9F%E5%9B%9E%E6%94%B6%E5%95%86%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
+          "title": "美参议院共和党拒绝民主党结束国土安全部停摆的最新提案",
+          "url": "https://flash.jin10.com/detail/20260326021901040800",
+          "source": "金十数据",
           "ranks": [
-            18
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时02分]"
+          "time_info": "[03时02分 ~ 03时05分]"
         },
         {
           "title": "报道：SpaceX计划从美国IPO融资至多750亿美元",
@@ -388,37 +410,15 @@
           "time_info": "[01时09分 ~ 01时12分]"
         },
         {
-          "title": "周杰伦新专辑全专大测评",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91%E5%85%A8%E4%B8%93%E5%A4%A7%E6%B5%8B%E8%AF%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时02分]"
-        },
-        {
-          "title": "美参议院共和党拒绝民主党结束国土安全部停摆的最新提案",
-          "url": "https://flash.jin10.com/detail/20260326021901040800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
           "title": "周三（3月25日），美联储隔夜逆回购协议（RRP）使用规模为7.77亿美元（交易对手6家），上个交易日报11.23亿美元。",
           "url": "https://wallstreetcn.com/livenews/3076830",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时02分 ~ 03时05分]"
         }
       ]
     }
