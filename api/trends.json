@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T17:03:19.038881+08:00",
-  "total_titles_processed": 1289,
+  "generated_at": "2026-03-26T17:06:40.395316+08:00",
+  "total_titles_processed": 1297,
   "failed_sources": [],
   "trends": [
     {
@@ -76,11 +76,12 @@
           "ranks": [
             6,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时41分 ~ 17时03分]"
+          "appearance_count": 9,
+          "time_info": "[10时41分 ~ 17时06分]"
         },
         {
           "title": "小哥爬7楼送外卖 看到牌匾瞬间愣住",
@@ -95,6 +96,17 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[01时08分 ~ 13时13分]"
+        },
+        {
+          "title": "亚朵酒店中文标识被吐槽「靠英文才看懂」，「出尘」「相招」「共语」你能看懂吗？亚朵为什么这样命名？",
+          "url": "https://www.zhihu.com/question/2019788336311529583",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时10分 ~ 17时06分]"
         },
         {
           "title": "3部旧手机换一台iPhone？回收商回应",
@@ -124,6 +136,20 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[01时08分 ~ 07时40分]"
+        },
+        {
+          "title": "体验感极差!洛克手游引不满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352361&amp;topic_name=%E4%BD%93%E9%AA%8C%E6%84%9F%E6%9E%81%E5%B7%AE%21%E6%B4%9B%E5%85%8B%E6%89%8B%E6%B8%B8%E5%BC%95%E4%B8%8D%E6%BB%A1",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时51分 ~ 17时06分]"
         },
         {
           "title": "《经济日报》刊文“外卖大战该结束了”，美团、阿里直线拉升，这一战曾半年烧光800亿",
@@ -163,8 +189,22 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时08分 ~ 17时03分]"
+          "appearance_count": 22,
+          "time_info": "[01时08分 ~ 17时06分]"
+        },
+        {
+          "title": "最新一代机器狼集结",
+          "url": "https://www.douyin.com/hot/2443799",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时41分 ~ 17时06分]"
         },
         {
           "title": "【焦点复盘】创业板指高开高走涨逾2%，全市场近4900股飘红，算电协同概念获持续热捧",
@@ -230,11 +270,12 @@
             27,
             19,
             23,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时01分 ~ 17时03分]"
+          "appearance_count": 15,
+          "time_info": "[03时01分 ~ 17时06分]"
         },
         {
           "title": "何润东近7日涨粉25.6万",
@@ -357,17 +398,6 @@
           "time_info": "[01时08分 ~ 05时48分]"
         },
         {
-          "title": "亚朵酒店中文标识被吐槽「靠英文才看懂」，「出尘」「相招」「共语」你能看懂吗？亚朵为什么这样命名？",
-          "url": "https://www.zhihu.com/question/2019788336311529583",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时10分 ~ 17时03分]"
-        },
-        {
           "title": "小哥爬7楼送外卖看到牌匾瞬间愣住",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%93%A5%E7%88%AC7%E6%A5%BC%E9%80%81%E5%A4%96%E5%8D%96%E7%9C%8B%E5%88%B0%E7%89%8C%E5%8C%BE%E7%9E%AC%E9%97%B4%E6%84%A3%E4%BD%8F%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -380,32 +410,43 @@
           "time_info": "[10时41分 ~ 15时20分]"
         },
         {
-          "title": "体验感极差!洛克手游引不满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352361&amp;topic_name=%E4%BD%93%E9%AA%8C%E6%84%9F%E6%9E%81%E5%B7%AE%21%E6%B4%9B%E5%85%8B%E6%89%8B%E6%B8%B8%E5%BC%95%E4%B8%8D%E6%BB%A1",
-          "source": "贴吧",
+          "title": "美以袭击伊朗进入第 27 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2020273808871748583",
+          "source": "知乎",
           "ranks": [
-            2,
-            3,
-            7,
-            10
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时51分 ~ 17时03分]"
+          "appearance_count": 9,
+          "time_info": "[10时41分 ~ 17时06分]"
         },
         {
-          "title": "最新一代机器狼集结",
-          "url": "https://www.douyin.com/hot/2443799",
-          "source": "抖音",
+          "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
+          "url": "https://wallstreetcn.com/articles/3768419",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
-            11,
-            5,
+            9,
+            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时41分 ~ 17时03分]"
+          "appearance_count": 9,
+          "time_info": "[10时41分 ~ 17时06分]"
+        },
+        {
+          "title": "流量退去之后｜南京“10元手冲咖啡”阿姨：火过，就很满足",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32828355",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时41分 ~ 17时06分]"
         },
         {
           "title": "王俊凯专辑概念预告",
@@ -446,45 +487,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时10分 ~ 15时20分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 27 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2020273808871748583",
-          "source": "知乎",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时41分 ~ 17时03分]"
-        },
-        {
-          "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
-          "url": "https://wallstreetcn.com/articles/3768419",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时41分 ~ 17时03分]"
-        },
-        {
-          "title": "流量退去之后｜南京“10元手冲咖啡”阿姨：火过，就很满足",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32828355",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时41分 ~ 17时03分]"
         },
         {
           "title": "罗永浩回应对话杨笠掉粉",
@@ -580,6 +582,32 @@
           "time_info": "[13时11分 ~ 13时13分]"
         },
         {
+          "title": "四届皆霸榜,viper才是真核?",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352371&amp;topic_name=%E5%9B%9B%E5%B1%8A%E7%9A%86%E9%9C%B8%E6%A6%9C%2Cviper%E6%89%8D%E6%98%AF%E7%9C%9F%E6%A0%B8%3F",
+          "source": "贴吧",
+          "ranks": [
+            30,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时10分 ~ 17时06分]"
+        },
+        {
+          "title": "16级大佬,评论区惊现ldx",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352364&amp;topic_name=16%E7%BA%A7%E5%A4%A7%E4%BD%AC%2C%E8%AF%84%E8%AE%BA%E5%8C%BA%E6%83%8A%E7%8E%B0ldx",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时10分 ~ 17时06分]"
+        },
+        {
           "title": "据知情人士透露，月之暗面正处于考虑在香港进行首次公开募股（IPO）的初步阶段，以把握投资者对人工智能日益升温的兴趣。潜在的IPO时间尚不确定。",
           "url": "https://flash.jin10.com/detail/20260326151132037800",
           "source": "金十数据",
@@ -601,6 +629,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时41分 ~ 13时13分]"
+        },
+        {
+          "title": "干嘛猫的上班vlog",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B9%B2%E5%98%9B%E7%8C%AB%E7%9A%84%E4%B8%8A%E7%8F%ADvlog",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            18,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时10分 ~ 17时06分]"
         },
         {
           "title": "医生：长期跑步不等于心肺功能没问题",
@@ -650,32 +692,6 @@
           "time_info": "15时20分"
         },
         {
-          "title": "四届皆霸榜,viper才是真核?",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352371&amp;topic_name=%E5%9B%9B%E5%B1%8A%E7%9A%86%E9%9C%B8%E6%A6%9C%2Cviper%E6%89%8D%E6%98%AF%E7%9C%9F%E6%A0%B8%3F",
-          "source": "贴吧",
-          "ranks": [
-            30,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时10分 ~ 17时03分]"
-        },
-        {
-          "title": "16级大佬,评论区惊现ldx",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352364&amp;topic_name=16%E7%BA%A7%E5%A4%A7%E4%BD%AC%2C%E8%AF%84%E8%AE%BA%E5%8C%BA%E6%83%8A%E7%8E%B0ldx",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时10分 ~ 17时03分]"
-        },
-        {
           "title": "如何评价《DOTA2》7.41 的版本更新？",
           "url": "https://www.zhihu.com/question/2020075620705513495",
           "source": "知乎",
@@ -688,17 +704,17 @@
           "time_info": "[13时11分 ~ 15时20分]"
         },
         {
-          "title": "干嘛猫的上班vlog",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B9%B2%E5%98%9B%E7%8C%AB%E7%9A%84%E4%B8%8A%E7%8F%ADvlog",
+          "title": "剧版哈利波特首支预告",
+          "url": "https://search.bilibili.com/all?keyword=%E5%89%A7%E7%89%88%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E9%A6%96%E6%94%AF%E9%A2%84%E5%91%8A",
           "source": "bilibili 热搜",
           "ranks": [
-            12,
-            18,
-            17
+            11,
+            16,
+            29
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时10分 ~ 17时03分]"
+          "time_info": "[13时10分 ~ 17时06分]"
         },
         {
           "title": "公募基金规模突破38万亿元，连续11个月创新高",
@@ -723,18 +739,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时44分 ~ 05时48分]"
-        },
-        {
-          "title": "剧版哈利波特首支预告",
-          "url": "https://search.bilibili.com/all?keyword=%E5%89%A7%E7%89%88%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E9%A6%96%E6%94%AF%E9%A2%84%E5%91%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时10分 ~ 15时20分]"
         },
         {
           "title": "美联储理事米兰：认为不会出现工资与物价的螺旋式上涨。",
@@ -844,6 +848,18 @@
           "time_info": "[05时44分 ~ 06时42分]"
         },
         {
+          "title": "《洛克王国：世界》已于 3 月 26 日正式开服，体验过该游戏的玩家如何评价这款游戏？",
+          "url": "https://www.zhihu.com/question/2020450941556454435",
+          "source": "知乎",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 17时06分]"
+        },
+        {
           "title": "美国政府豁免夏季汽油销售限制 应对油价飙升",
           "url": "https://flash.jin10.com/detail/20260326044034936800",
           "source": "金十数据",
@@ -892,6 +908,19 @@
           "time_info": "[07时40分 ~ 13时13分]"
         },
         {
+          "title": "小哥爬7楼送外卖看到牌匾瞬间愣住",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%93%A5%E7%88%AC7%E6%A5%BC%E9%80%81%E5%A4%96%E5%8D%96%E7%9C%8B%E5%88%B0%E7%89%8C%E5%8C%BE%E7%9E%AC%E9%97%B4%E6%84%A3%E4%BD%8F",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 17时06分]"
+        },
+        {
           "title": "剧版哈利波特首支预告",
           "url": "https://s.weibo.com/weibo?q=%23%E5%89%A7%E7%89%88%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E9%A6%96%E6%94%AF%E9%A2%84%E5%91%8A%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -904,6 +933,18 @@
           "time_info": "[10时41分 ~ 10时52分]"
         },
         {
+          "title": "剧版《哈利波特》发布首支预告",
+          "url": "https://www.toutiao.com/trending/7620400951362588166/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 17时06分]"
+        },
+        {
           "title": "金十图示：2026年03月25日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260326005801127800",
           "source": "金十数据",
@@ -913,6 +954,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时09分 ~ 01时12分]"
+        },
+        {
+          "title": "夺冠急变现?BLG周边被曝光",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352387&amp;topic_name=%E5%A4%BA%E5%86%A0%E6%80%A5%E5%8F%98%E7%8E%B0%3FBLG%E5%91%A8%E8%BE%B9%E8%A2%AB%E6%9B%9D%E5%85%89",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 17时06分]"
         },
         {
           "title": "法意西希四国主权债收益率至少跌超10个基点，投资者关注国际油价走低",
@@ -948,16 +1000,26 @@
           "time_info": "[10时41分 ~ 10时52分]"
         },
         {
-          "title": "《洛克王国：世界》已于 3 月 26 日正式开服，体验过该游戏的玩家如何评价这款游戏？",
-          "url": "https://www.zhihu.com/question/2020450941556454435",
-          "source": "知乎",
+          "title": "油价飙升令泰国财政面临挑战 泰铢位列表现最差亚币且跌势料将延续",
+          "url": "https://wallstreetcn.com/livenews/3077293",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            10
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时20分 ~ 17时03分]"
+          "time_info": "[17时03分 ~ 17时06分]"
+        },
+        {
+          "title": "救命神器AED使用率不足0.1%",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%91%E5%91%BD%E7%A5%9E%E5%99%A8AED%E4%BD%BF%E7%94%A8%E7%8E%87%E4%B8%8D%E8%B6%B30.1%25%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 17时06分]"
         },
         {
           "title": "美参议院共和党拒绝民主党结束国土安全部停摆的最新提案",
@@ -993,6 +1055,53 @@
           "time_info": "[13时11分 ~ 13时13分]"
         },
         {
+          "title": "张雪峰曾为多睡一会儿住酒店",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E6%9B%BE%E4%B8%BA%E5%A4%9A%E7%9D%A1%E4%B8%80%E4%BC%9A%E5%84%BF%E4%BD%8F%E9%85%92%E5%BA%97%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 17时06分]"
+        },
+        {
+          "title": "逐帧解析剧版哈利波特预告",
+          "url": "https://search.bilibili.com/all?keyword=%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90%E5%89%A7%E7%89%88%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E9%A2%84%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 17时06分]"
+        },
+        {
+          "title": "LSEG数据显示，法国场外交易日前基荷电价飙升87.1%，达到112.25欧元/兆瓦时。",
+          "url": "https://flash.jin10.com/detail/20260326163510409800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 17时06分]"
+        },
+        {
+          "title": "张雪峰最后一个视频还在吃外卖",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E8%A7%86%E9%A2%91%E8%BF%98%E5%9C%A8%E5%90%83%E5%A4%96%E5%8D%96&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 17时06分]"
+        },
+        {
           "title": "韩国国债期货小幅走高，此前政府宣布债券回购计划。",
           "url": "https://wallstreetcn.com/livenews/3077099",
           "source": "华尔街见闻-快讯",
@@ -1004,16 +1113,27 @@
           "time_info": "[13时11分 ~ 13时13分]"
         },
         {
-          "title": "小哥爬7楼送外卖看到牌匾瞬间愣住",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%93%A5%E7%88%AC7%E6%A5%BC%E9%80%81%E5%A4%96%E5%8D%96%E7%9C%8B%E5%88%B0%E7%89%8C%E5%8C%BE%E7%9E%AC%E9%97%B4%E6%84%A3%E4%BD%8F",
-          "source": "百度热搜",
+          "title": "长飞光纤：公司注意到近期市场对单模光纤光缆产品价格波动及算力数据中心相关新型光纤产品需求增长的关注度较高。当前国内外光纤光缆市场供需结构有一定改善，但部分产品的阶段性单价波动对公司未来业绩的影响需结合未来市场环境及公司业务情况进行综合判断。而数据中心内部及互连的相关新型光纤产品目前占全球市场需求总量的比例较小。",
+          "url": "https://wallstreetcn.com/livenews/3077274",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            25,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 17时06分]"
+        },
+        {
+          "title": "10元手冲咖啡阿姨说凉了照样做生意",
+          "url": "https://s.weibo.com/weibo?q=%2310%E5%85%83%E6%89%8B%E5%86%B2%E5%92%96%E5%95%A1%E9%98%BF%E5%A7%A8%E8%AF%B4%E5%87%89%E4%BA%86%E7%85%A7%E6%A0%B7%E5%81%9A%E7%94%9F%E6%84%8F%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
             20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时20分 ~ 17时03分]"
+          "time_info": "[17时03分 ~ 17时06分]"
         },
         {
           "title": "韩国宣布稳定债券市场的措施，将回购5万亿韩元的政府债券。",
@@ -1071,16 +1191,15 @@
           "time_info": "[04时44分 ~ 04时49分]"
         },
         {
-          "title": "剧版《哈利波特》发布首支预告",
-          "url": "https://www.toutiao.com/trending/7620400951362588166/",
-          "source": "今日头条",
+          "title": "报道：人工智能公司月之暗面考虑赴香港进行IPO",
+          "url": "https://wallstreetcn.com/livenews/3077268",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26,
-            24
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时20分 ~ 17时03分]"
+          "time_info": "[17时03分 ~ 17时06分]"
         },
         {
           "title": "报道：SpaceX计划从美国IPO融资至多750亿美元",
@@ -1103,6 +1222,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时02分 ~ 03时05分]"
+        },
+        {
+          "title": "商务部回应贸易顺差：进口更多国外优质商品、技术和服务，与世界各国分享中国大市场机遇",
+          "url": "https://wallstreetcn.com/livenews/3077267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 17时06分]"
+        },
+        {
+          "title": "何润东近7日涨粉25.6万",
+          "url": "https://www.douyin.com/hot/2443857",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 17时06分]"
         },
         {
           "title": "金十图示：2026年03月25日（周三）热门中概股行情一览（美股收盘）",
@@ -1138,6 +1279,17 @@
           "time_info": "[10时41分 ~ 10时52分]"
         },
         {
+          "title": "男子出院不到一周去健身房跑步猝死",
+          "url": "https://www.toutiao.com/trending/7621052609784397834/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 17时06分]"
+        },
+        {
           "title": "上证指数开盘报3924.96点，跌0.17%。 深证成指开盘报13756.87点，跌0.32%。 创业板指开盘报3299.03点，跌0.54%。 沪深300开盘报4525.33点，跌0.27%。 科创50开盘报1313.97点，跌0.11%。 中证500开盘报7757.02点，跌0.14%。 中证1000开盘报7733.70点，跌0.23%。",
           "url": "https://wallstreetcn.com/livenews/3077015",
           "source": "华尔街见闻-快讯",
@@ -1169,17 +1321,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
-        },
-        {
-          "title": "夺冠急变现?BLG周边被曝光",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352387&amp;topic_name=%E5%A4%BA%E5%86%A0%E6%80%A5%E5%8F%98%E7%8E%B0%3FBLG%E5%91%A8%E8%BE%B9%E8%A2%AB%E6%9B%9D%E5%85%89",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时03分"
         },
         {
           "title": "多资产配置遭遇“同跌共振”，理财产品稳健性迎大考",
@@ -1215,28 +1356,6 @@
           "time_info": "15时20分"
         },
         {
-          "title": "油价飙升令泰国财政面临挑战 泰铢位列表现最差亚币且跌势料将延续",
-          "url": "https://wallstreetcn.com/livenews/3077293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时03分"
-        },
-        {
-          "title": "救命神器AED使用率不足0.1%",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%95%91%E5%91%BD%E7%A5%9E%E5%99%A8AED%E4%BD%BF%E7%94%A8%E7%8E%87%E4%B8%8D%E8%B6%B30.1%25%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时03分"
-        },
-        {
           "title": "2025年年报密集披露，QFII最新持仓路线图浮出水面",
           "url": "https://wallstreetcn.com/livenews/3076945",
           "source": "华尔街见闻-快讯",
@@ -1257,17 +1376,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
-        },
-        {
-          "title": "张雪峰曾为多睡一会儿住酒店",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E6%9B%BE%E4%B8%BA%E5%A4%9A%E7%9D%A1%E4%B8%80%E4%BC%9A%E5%84%BF%E4%BD%8F%E9%85%92%E5%BA%97%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时03分"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年3月26日 周四",
@@ -1292,50 +1400,6 @@
           "time_info": "15时20分"
         },
         {
-          "title": "LSEG数据显示，法国场外交易日前基荷电价飙升87.1%，达到112.25欧元/兆瓦时。",
-          "url": "https://flash.jin10.com/detail/20260326163510409800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时03分"
-        },
-        {
-          "title": "张雪峰最后一个视频还在吃外卖",
-          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E8%A7%86%E9%A2%91%E8%BF%98%E5%9C%A8%E5%90%83%E5%A4%96%E5%8D%96&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时03分"
-        },
-        {
-          "title": "长飞光纤：公司注意到近期市场对单模光纤光缆产品价格波动及算力数据中心相关新型光纤产品需求增长的关注度较高。当前国内外光纤光缆市场供需结构有一定改善，但部分产品的阶段性单价波动对公司未来业绩的影响需结合未来市场环境及公司业务情况进行综合判断。而数据中心内部及互连的相关新型光纤产品目前占全球市场需求总量的比例较小。",
-          "url": "https://wallstreetcn.com/livenews/3077274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时03分"
-        },
-        {
-          "title": "10元手冲咖啡阿姨说凉了照样做生意",
-          "url": "https://s.weibo.com/weibo?q=%2310%E5%85%83%E6%89%8B%E5%86%B2%E5%92%96%E5%95%A1%E9%98%BF%E5%A7%A8%E8%AF%B4%E5%87%89%E4%BA%86%E7%85%A7%E6%A0%B7%E5%81%9A%E7%94%9F%E6%84%8F%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时03分"
-        },
-        {
           "title": "剧版《哈利波特》发布首支预告",
           "url": "https://www.baidu.com/s?wd=%E5%89%A7%E7%89%88%E3%80%8A%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E3%80%8B%E5%8F%91%E5%B8%83%E9%A6%96%E6%94%AF%E9%A2%84%E5%91%8A",
           "source": "百度热搜",
@@ -1345,17 +1409,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
-        },
-        {
-          "title": "报道：人工智能公司月之暗面考虑赴香港进行IPO",
-          "url": "https://wallstreetcn.com/livenews/3077268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时03分"
         },
         {
           "title": "预告：国新办将举行新闻发布会 介绍第六届中国国际消费品博览会有关情况",
@@ -1369,28 +1422,6 @@
           "time_info": "15时20分"
         },
         {
-          "title": "商务部回应贸易顺差：进口更多国外优质商品、技术和服务，与世界各国分享中国大市场机遇",
-          "url": "https://wallstreetcn.com/livenews/3077267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时03分"
-        },
-        {
-          "title": "何润东近7日涨粉25.6万",
-          "url": "https://www.douyin.com/hot/2443857",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时03分"
-        },
-        {
           "title": "Uzi说Uzi杯就是我的创业",
           "url": "https://s.weibo.com/weibo?q=%23Uzi%E8%AF%B4Uzi%E6%9D%AF%E5%B0%B1%E6%98%AF%E6%88%91%E7%9A%84%E5%88%9B%E4%B8%9A%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -1400,28 +1431,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
-        },
-        {
-          "title": "男子出院不到一周去健身房跑步猝死",
-          "url": "https://www.toutiao.com/trending/7621052609784397834/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时03分"
-        },
-        {
-          "title": "逐帧解析剧版哈利波特预告",
-          "url": "https://search.bilibili.com/all?keyword=%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90%E5%89%A7%E7%89%88%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E9%A2%84%E5%91%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时03分"
         },
         {
           "title": "股票ETF再现获利了结，资金净流出超200亿元",
