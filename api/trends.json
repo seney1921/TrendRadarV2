@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T18:56:34.999908+08:00",
-  "total_titles_processed": 1562,
+  "generated_at": "2026-03-27T19:45:33.479379+08:00",
+  "total_titles_processed": 1659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 134,
+      "match_count": 140,
       "titles": [
         {
           "title": "游客因拍照设备太专业被景区驱赶",
@@ -42,6 +42,20 @@
           "time_info": "[01时08分 ~ 07时38分]"
         },
         {
+          "title": "大摩数据印证特朗普口中“大礼” ：霍尔木兹海峡流量正明显增加",
+          "url": "https://www.cls.cn/detail/2326560",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时11分 ~ 19时45分]"
+        },
+        {
           "title": "剧版《哈利·波特》「脏辫斯内普」亮相预告引巨大争议，从改编角度来看是否太过激进？",
           "url": "https://www.zhihu.com/question/2020462404669035102",
           "source": "知乎",
@@ -55,20 +69,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[01时08分 ~ 10时43分]"
-        },
-        {
-          "title": "大摩数据印证特朗普口中“大礼” ：霍尔木兹海峡流量正明显增加",
-          "url": "https://www.cls.cn/detail/2326560",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时11分 ~ 18时56分]"
         },
         {
           "title": "国家市场监管总局转载媒体评论「外卖大战该结束了」，美团、阿里、京东股价大涨，释放了什么信号？",
@@ -124,8 +124,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[03时13分 ~ 18时56分]"
+          "appearance_count": 24,
+          "time_info": "[03时13分 ~ 19时45分]"
         },
         {
           "title": "美最新民调显示：近六成美国人认为对伊朗军事行动“过头”",
@@ -139,8 +139,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时42分 ~ 18时56分]"
+          "appearance_count": 13,
+          "time_info": "[10时42分 ~ 19时45分]"
         },
         {
           "title": "经济学家：年轻人可以考虑买房了",
@@ -157,6 +157,21 @@
           "time_info": "[10时42分 ~ 17时02分]"
         },
         {
+          "title": "UP主实测谷歌压缩算法",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            5,
+            8,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时11分 ~ 19时45分]"
+        },
+        {
           "title": "流量退去之后丨淄博烧烤“退烧”之后：没有凉，只是回到日常",
           "url": "https://m.thepaper.cn/newsDetail_forward_32828688",
           "source": "澎湃新闻",
@@ -169,8 +184,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时42分 ~ 18时56分]"
+          "appearance_count": 13,
+          "time_info": "[10时42分 ~ 19时45分]"
         },
         {
           "title": "伊朗陆军司令发出最新警告",
@@ -209,20 +224,6 @@
           "time_info": "[01时08分 ~ 07时38分]"
         },
         {
-          "title": "UP主实测谷歌压缩算法",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            5,
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时11分 ~ 18时56分]"
-        },
-        {
           "title": "虚假兄弟情!kpl两队粉丝互掐",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352399&amp;topic_name=%E8%99%9A%E5%81%87%E5%85%84%E5%BC%9F%E6%83%85%21kpl%E4%B8%A4%E9%98%9F%E7%B2%89%E4%B8%9D%E4%BA%92%E6%8E%90",
           "source": "贴吧",
@@ -237,8 +238,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[01时08分 ~ 18时56分]"
+          "appearance_count": 26,
+          "time_info": "[01时08分 ~ 19时45分]"
         },
         {
           "title": "“湖南两名外卖小哥跳桥自杀”不实",
@@ -277,8 +278,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[01时08分 ~ 18时56分]"
+          "appearance_count": 26,
+          "time_info": "[01时08分 ~ 19时45分]"
         },
         {
           "title": "四届皆霸榜,viper才是真核?",
@@ -375,8 +376,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时08分 ~ 18时56分]"
+          "appearance_count": 25,
+          "time_info": "[01时08分 ~ 19时45分]"
         },
         {
           "title": "何润东近7日涨粉25.6万",
@@ -485,17 +486,6 @@
           "time_info": "[10时42分 ~ 15时19分]"
         },
         {
-          "title": "明晟公司MSCI北欧国家指数跌0.7%，报360.19点。 在十个板块中，北欧工业板块跌幅最大。 博利登Boliden AB跌19.9%，在一众北欧个股里表现最差，这家业务涉及铜矿等的矿业公司介绍了Garpenberg矿场的最新情况，生产所受干扰比预料的更加糟糕。",
-          "url": "https://wallstreetcn.com/livenews/3077602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 01时12分]"
-        },
-        {
           "title": "无限超越班4阵容官宣",
           "url": "https://www.douyin.com/hot/2445426",
           "source": "抖音",
@@ -503,11 +493,12 @@
             15,
             17,
             22,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时14分 ~ 18时56分]"
+          "appearance_count": 8,
+          "time_info": "[15时14分 ~ 19时45分]"
         },
         {
           "title": "罗技短视频组已被扣除全部绩效，这种回应能挽回消费者吗？广告视频言论不当是谁的责任？",
@@ -518,8 +509,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时14分 ~ 18时56分]"
+          "appearance_count": 8,
+          "time_info": "[15时14分 ~ 19时45分]"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数跌0.7%，报360.19点。 在十个板块中，北欧工业板块跌幅最大。 博利登Boliden AB跌19.9%，在一众北欧个股里表现最差，这家业务涉及铜矿等的矿业公司介绍了Garpenberg矿场的最新情况，生产所受干扰比预料的更加糟糕。",
+          "url": "https://wallstreetcn.com/livenews/3077602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 01时12分]"
         },
         {
           "title": "高校回应大学生兼职送外卖被处分",
@@ -579,15 +581,18 @@
           "time_info": "10时54分"
         },
         {
-          "title": "专家说年轻人可以考虑买房了",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E8%AF%B4%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%8F%AF%E4%BB%A5%E8%80%83%E8%99%91%E4%B9%B0%E6%88%BF%E4%BA%86%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
+          "title": "社保基金多次在A股大跌时果断加仓",
+          "url": "https://www.baidu.com/s?wd=%E7%A4%BE%E4%BF%9D%E5%9F%BA%E9%87%91%E5%A4%9A%E6%AC%A1%E5%9C%A8A%E8%82%A1%E5%A4%A7%E8%B7%8C%E6%97%B6%E6%9E%9C%E6%96%AD%E5%8A%A0%E4%BB%93",
+          "source": "百度热搜",
           "ranks": [
-            1
+            5,
+            22,
+            25,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时59分 ~ 19时45分]"
         },
         {
           "title": "43岁不健身和61岁健身的区别",
@@ -636,6 +641,17 @@
           "time_info": "18时02分"
         },
         {
+          "title": "GMA正在直播",
+          "url": "https://flash.jin10.com/detail/20260327193159124800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
           "title": "美联储副主席杰斐逊：将密切关注成本上升是否会对经济产生深远影响。",
           "url": "https://flash.jin10.com/detail/20260327071218871800",
           "source": "金十数据",
@@ -675,22 +691,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
-        },
-        {
-          "title": "社保基金多次在A股大跌时果断加仓",
-          "url": "https://www.baidu.com/s?wd=%E7%A4%BE%E4%BF%9D%E5%9F%BA%E9%87%91%E5%A4%9A%E6%AC%A1%E5%9C%A8A%E8%82%A1%E5%A4%A7%E8%B7%8C%E6%97%B6%E6%9E%9C%E6%96%AD%E5%8A%A0%E4%BB%93",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时59分 ~ 18时56分]"
         },
         {
           "title": "金十图示：2026年03月26日（周四）热门中概股行情一览（美股收盘）",
@@ -750,6 +753,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时08分 ~ 03时17分]"
+        },
+        {
+          "title": "专家说年轻人可以考虑买房了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E8%AF%B4%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%8F%AF%E4%BB%A5%E8%80%83%E8%99%91%E4%B9%B0%E6%88%BF%E4%BA%86%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 19时45分]"
         },
         {
           "title": "金十图示：2026年03月26日（周四）美股热门股票行情一览（美股收盘）",
@@ -813,6 +828,31 @@
           "time_info": "[16时59分 ~ 18时56分]"
         },
         {
+          "title": "收盘价创历史新高！“宁王”市值剑指2万亿，成交额连日超百亿，这些股也获资金关注",
+          "url": "https://www.cls.cn/detail/2327080",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时02分 ~ 19时45分]"
+        },
+        {
+          "title": "美团电话会： “坚决反对内卷”，“绝不急于成为‘token’工厂”，Keeta沙特盈利在望",
+          "url": "https://wallstreetcn.com/articles/3768485",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时02分 ~ 19时45分]"
+        },
+        {
           "title": "苹果罕见向iPhone硬件设计人员发放高额奖金",
           "url": "https://flash.jin10.com/detail/20260327045358949800",
           "source": "金十数据",
@@ -823,6 +863,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时37分 ~ 06时39分]"
+        },
+        {
+          "title": "官方通报湖南郴州烟花店燃爆事件，店主犯罪后喝农药自杀，13 名公职人员被处理，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2020830335370358895",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时02分 ~ 19时45分]"
         },
         {
           "title": "美联储理事库克：我们正在密切关注人工智能和就业市场的相关数据。",
@@ -985,18 +1036,6 @@
           "time_info": "[13时11分 ~ 13时14分]"
         },
         {
-          "title": "收盘价创历史新高！“宁王”市值剑指2万亿，成交额连日超百亿，这些股也获资金关注",
-          "url": "https://www.cls.cn/detail/2327080",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 18时56分]"
-        },
-        {
           "title": "金十图示：2026年03月26日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260327003541364800",
           "source": "金十数据",
@@ -1030,6 +1069,18 @@
           "time_info": "[13时11分 ~ 13时14分]"
         },
         {
+          "title": "探秘巫师音乐会幕后",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8E%A2%E7%A7%98%E5%B7%AB%E5%B8%88%E9%9F%B3%E4%B9%90%E4%BC%9A%E5%B9%95%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 19时45分]"
+        },
+        {
           "title": "把握市场回调机遇，部分新基金上演“建仓加速度”",
           "url": "https://wallstreetcn.com/livenews/3077719",
           "source": "华尔街见闻-快讯",
@@ -1054,17 +1105,6 @@
           "time_info": "[10时43分 ~ 10时54分]"
         },
         {
-          "title": "美团电话会： “坚决反对内卷”，“绝不急于成为‘token’工厂”，Keeta沙特盈利在望",
-          "url": "https://wallstreetcn.com/articles/3768485",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 18时56分]"
-        },
-        {
           "title": "金十图示：2026年03月26日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260327003434849800",
           "source": "金十数据",
@@ -1085,17 +1125,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 03时18分]"
-        },
-        {
-          "title": "官方通报湖南郴州烟花店燃爆事件，店主犯罪后喝农药自杀，13 名公职人员被处理，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2020830335370358895",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 18时56分]"
         },
         {
           "title": "杀戮尖塔2萌新抓牌攻略",
@@ -1280,13 +1309,24 @@
           "time_info": "07时38分"
         },
         {
+          "title": "长进光子科创板IPO获上市委会议通过。",
+          "url": "https://wallstreetcn.com/livenews/3078199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
           "title": "*ST熊猫：如后续公司股票交易进一步出现重大异常 公司将再次依规申请停牌核查",
           "url": "https://flash.jin10.com/detail/20260327182622828800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -1300,17 +1340,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
-        },
-        {
-          "title": "探秘巫师音乐会幕后",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8E%A2%E7%A7%98%E5%B7%AB%E5%B8%88%E9%9F%B3%E4%B9%90%E4%BC%9A%E5%B9%95%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
         },
         {
           "title": "SpaceX拟将30%股份分给散户：马斯克要用“粉丝”稳住万亿IPO？",
@@ -1379,6 +1408,28 @@
           "time_info": "10时43分"
         },
         {
+          "title": "三诺生物：拟以1.5亿元-3亿元回购股份，拟回购股份的价格不超过人民币25元/股。",
+          "url": "https://wallstreetcn.com/livenews/3078186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
+          "title": "正直播CBA焦点战：广东vs北京",
+          "url": "https://www.toutiao.com/trending/7621677102663893002/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
           "title": "新西兰财政部长：政府更新国家燃料计划，包含应对燃料安全风险的四个阶段。",
           "url": "https://flash.jin10.com/detail/20260327070257886800",
           "source": "金十数据",
@@ -1412,6 +1463,17 @@
           "time_info": "18时02分"
         },
         {
+          "title": "友邦保险：董事会批准新一轮金额为17.43亿美元的股份回购计划",
+          "url": "https://flash.jin10.com/detail/20260327192431148800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
           "title": "中国央行：2025年使用存款保险基金135.972亿元开展风险处置",
           "url": "https://wallstreetcn.com/livenews/3078106",
           "source": "华尔街见闻-快讯",
@@ -1432,6 +1494,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
+        },
+        {
+          "title": "别被横盘骗了！黄金持续震荡，耐心等待机会！《大有作V》栏目更新，3分钟解读国际金走势>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260327192312798800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "路透调查：71位经济学家中有69位预计印度央行将于4月8日维持回购利率在5.25%不变。",
@@ -1462,7 +1535,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -1473,7 +1546,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -1495,7 +1568,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -1539,7 +1612,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -1550,7 +1623,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
