@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T21:16:11.237969+08:00",
-  "total_titles_processed": 1786,
+  "generated_at": "2026-03-27T21:21:18.471553+08:00",
+  "total_titles_processed": 1792,
   "failed_sources": [],
   "trends": [
     {
@@ -124,8 +124,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[03时13分 ~ 21时16分]"
+          "appearance_count": 27,
+          "time_info": "[03时13分 ~ 21时21分]"
         },
         {
           "title": "美最新民调显示：近六成美国人认为对伊朗军事行动“过头”",
@@ -156,8 +156,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时42分 ~ 21时16分]"
+          "appearance_count": 16,
+          "time_info": "[10时42分 ~ 21时21分]"
         },
         {
           "title": "经济学家：年轻人可以考虑买房了",
@@ -186,8 +186,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时11分 ~ 21时16分]"
+          "appearance_count": 13,
+          "time_info": "[13时11分 ~ 21时21分]"
         },
         {
           "title": "伊朗陆军司令发出最新警告",
@@ -241,8 +241,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[01时08分 ~ 21时16分]"
+          "appearance_count": 29,
+          "time_info": "[01时08分 ~ 21时21分]"
         },
         {
           "title": "“湖南两名外卖小哥跳桥自杀”不实",
@@ -281,8 +281,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[01时08分 ~ 21时16分]"
+          "appearance_count": 29,
+          "time_info": "[01时08分 ~ 21时21分]"
         },
         {
           "title": "四届皆霸榜,viper才是真核?",
@@ -361,8 +361,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时14分 ~ 21时16分]"
+          "appearance_count": 11,
+          "time_info": "[15时14分 ~ 21时21分]"
         },
         {
           "title": "美以袭击伊朗进入第 27 天，当前局势如何？哪些信息值得关注？",
@@ -392,8 +392,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[01时08分 ~ 21时16分]"
+          "appearance_count": 28,
+          "time_info": "[01时08分 ~ 21时21分]"
         },
         {
           "title": "何润东近7日涨粉25.6万",
@@ -502,6 +502,17 @@
           "time_info": "[10时42分 ~ 15时19分]"
         },
         {
+          "title": "TES JackeyLove回归赛场",
+          "url": "https://search.bilibili.com/all?keyword=TES%20JackeyLove%E5%9B%9E%E5%BD%92%E8%B5%9B%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 21时21分]"
+        },
+        {
           "title": "无限超越班4阵容官宣",
           "url": "https://www.douyin.com/hot/2445426",
           "source": "抖音",
@@ -517,15 +528,52 @@
           "time_info": "[15时14分 ~ 19时45分]"
         },
         {
-          "title": "TES JackeyLove回归赛场",
-          "url": "https://search.bilibili.com/all?keyword=TES%20JackeyLove%E5%9B%9E%E5%BD%92%E8%B5%9B%E5%9C%BA",
+          "title": "BLG夺冠台前幕后全记录",
+          "url": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E5%8F%B0%E5%89%8D%E5%B9%95%E5%90%8E%E5%85%A8%E8%AE%B0%E5%BD%95",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时15分 ~ 21时16分]"
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 21时21分]"
+        },
+        {
+          "title": "一行代码破甲,AI水军现原形",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352439&amp;topic_name=%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E7%A0%B4%E7%94%B2%2CAI%E6%B0%B4%E5%86%9B%E7%8E%B0%E5%8E%9F%E5%BD%A2",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 21时21分]"
+        },
+        {
+          "title": "收盘价创历史新高！“宁王”市值剑指2万亿，成交额连日超百亿，这些股也获资金关注",
+          "url": "https://www.cls.cn/detail/2327080",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时02分 ~ 21时21分]"
+        },
+        {
+          "title": "大学生表白被拒后怒砸食堂咖啡店",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A1%A8%E7%99%BD%E8%A2%AB%E6%8B%92%E5%90%8E%E6%80%92%E7%A0%B8%E9%A3%9F%E5%A0%82%E5%92%96%E5%95%A1%E5%BA%97%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 21时21分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌0.7%，报360.19点。 在十个板块中，北欧工业板块跌幅最大。 博利登Boliden AB跌19.9%，在一众北欧个股里表现最差，这家业务涉及铜矿等的矿业公司介绍了Garpenberg矿场的最新情况，生产所受干扰比预料的更加糟糕。",
@@ -552,17 +600,6 @@
           "time_info": "[01时08分 ~ 07时38分]"
         },
         {
-          "title": "BLG夺冠台前幕后全记录",
-          "url": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E5%8F%B0%E5%89%8D%E5%B9%95%E5%90%8E%E5%85%A8%E8%AE%B0%E5%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时15分 ~ 21时16分]"
-        },
-        {
           "title": "Millennium与Engineers Gate终止对冲基金合作伙伴关系",
           "url": "https://wallstreetcn.com/livenews/3077648",
           "source": "华尔街见闻-快讯",
@@ -574,15 +611,15 @@
           "time_info": "[03时14分 ~ 03时18分]"
         },
         {
-          "title": "一行代码破甲,AI水军现原形",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352439&amp;topic_name=%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E7%A0%B4%E7%94%B2%2CAI%E6%B0%B4%E5%86%9B%E7%8E%B0%E5%8E%9F%E5%BD%A2",
-          "source": "贴吧",
+          "title": "倒计时3天！VIP·9折送显示屏双礼",
+          "url": "https://flash.jin10.com/detail/20260327210547707800",
+          "source": "金十数据",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时15分 ~ 21时16分]"
+          "time_info": "[21时16分 ~ 21时21分]"
         },
         {
           "title": "陶氏化学表示：一旦霍尔木兹海峡开放，石化产品流量恢复将十分缓慢",
@@ -594,31 +631,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 03时18分]"
-        },
-        {
-          "title": "大学生表白被拒后怒砸食堂咖啡店",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A1%A8%E7%99%BD%E8%A2%AB%E6%8B%92%E5%90%8E%E6%80%92%E7%A0%B8%E9%A3%9F%E5%A0%82%E5%92%96%E5%95%A1%E5%BA%97%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时15分 ~ 21时16分]"
-        },
-        {
-          "title": "收盘价创历史新高！“宁王”市值剑指2万亿，成交额连日超百亿，这些股也获资金关注",
-          "url": "https://www.cls.cn/detail/2327080",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时02分 ~ 21时16分]"
         },
         {
           "title": "墨西哥央行：认为当前的货币政策立场足以应对中东冲突持续升级所带来的挑战。",
@@ -655,6 +667,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时59分 ~ 19时45分]"
+        },
+        {
+          "title": "官方通报湖南郴州烟花店燃爆事件，店主犯罪后喝农药自杀，13 名公职人员被处理，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2020830335370358895",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时02分 ~ 21时21分]"
         },
         {
           "title": "43岁不健身和61岁健身的区别",
@@ -747,17 +770,6 @@
           "time_info": "17时02分"
         },
         {
-          "title": "倒计时3天！VIP·9折送显示屏双礼",
-          "url": "https://flash.jin10.com/detail/20260327210547707800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
           "title": "汇川技术：拟使用日理财余额不超过120亿元人民币或等值外币的闲置自有资金购买理财产品。",
           "url": "https://wallstreetcn.com/livenews/3078163",
           "source": "华尔街见闻-快讯",
@@ -804,15 +816,17 @@
           "time_info": "[13时11分 ~ 15时19分]"
         },
         {
-          "title": "官方通报湖南郴州烟花店燃爆事件，店主犯罪后喝农药自杀，13 名公职人员被处理，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2020830335370358895",
-          "source": "知乎",
+          "title": "探秘巫师音乐会幕后",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8E%A2%E7%A7%98%E5%B7%AB%E5%B8%88%E9%9F%B3%E4%B9%90%E4%BC%9A%E5%B9%95%E5%90%8E",
+          "source": "bilibili 热搜",
           "ranks": [
-            11
+            9,
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[18时02分 ~ 21时16分]"
+          "time_info": "[18时56分 ~ 21时21分]"
         },
         {
           "title": "绕不开的热度值，谁在制造剧集“爆款焦虑”？",
@@ -887,19 +901,6 @@
           "time_info": "[06时39分 ~ 07时38分]"
         },
         {
-          "title": "探秘巫师音乐会幕后",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8E%A2%E7%A7%98%E5%B7%AB%E5%B8%88%E9%9F%B3%E4%B9%90%E4%BC%9A%E5%B9%95%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时56分 ~ 21时16分]"
-        },
-        {
           "title": "提醒：日内请重点关注（以下均为北京时间）",
           "url": "https://wallstreetcn.com/livenews/3077720",
           "source": "华尔街见闻-快讯",
@@ -925,6 +926,28 @@
           "time_info": "[16时59分 ~ 18时56分]"
         },
         {
+          "title": "正直播CBA焦点战：广东vs北京",
+          "url": "https://www.toutiao.com/trending/7621677102663893002/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时45分 ~ 21时21分]"
+        },
+        {
+          "title": "痛诉变打脸,tian重返老东家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352440&amp;topic_name=%E7%97%9B%E8%AF%89%E5%8F%98%E6%89%93%E8%84%B8%2Ctian%E9%87%8D%E8%BF%94%E8%80%81%E4%B8%9C%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 21时21分]"
+        },
+        {
           "title": "美团电话会： “坚决反对内卷”，“绝不急于成为‘token’工厂”，Keeta沙特盈利在望",
           "url": "https://wallstreetcn.com/articles/3768485",
           "source": "华尔街见闻",
@@ -935,6 +958,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时02分 ~ 19时45分]"
+        },
+        {
+          "title": "TES官宣Tian回归",
+          "url": "https://search.bilibili.com/all?keyword=TES%E5%AE%98%E5%AE%A3Tian%E5%9B%9E%E5%BD%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 21时21分]"
         },
         {
           "title": "苹果罕见向iPhone硬件设计人员发放高额奖金",
@@ -961,17 +995,6 @@
           "time_info": "[05时37分 ~ 06时39分]"
         },
         {
-          "title": "正直播CBA焦点战：广东vs北京",
-          "url": "https://www.toutiao.com/trending/7621677102663893002/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时45分 ~ 21时16分]"
-        },
-        {
           "title": "张雪峰去世后女儿首发声",
           "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%8E%BB%E4%B8%96%E5%90%8E%E5%A5%B3%E5%84%BF%E9%A6%96%E5%8F%91%E5%A3%B0",
           "source": "百度热搜",
@@ -993,6 +1016,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时42分 ~ 10时54分]"
+        },
+        {
+          "title": "胆小鬼舞蹈挑战",
+          "url": "https://www.douyin.com/hot/2445701",
+          "source": "抖音",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 21时21分]"
+        },
+        {
+          "title": "3.6万条社媒评论告诉你，短剧的“人感”为什么越来越重要",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32836392",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 21时21分]"
         },
         {
           "title": "播剧20天张凌赫涨粉536.7万",
@@ -1049,17 +1095,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时11分 ~ 13时14分]"
-        },
-        {
-          "title": "痛诉变打脸,tian重返老东家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352440&amp;topic_name=%E7%97%9B%E8%AF%89%E5%8F%98%E6%89%93%E8%84%B8%2Ctian%E9%87%8D%E8%BF%94%E8%80%81%E4%B8%9C%E5%AE%B6",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时15分 ~ 21时16分]"
         },
         {
           "title": "上证指数收报3913.72点，涨0.63%。 深证成指收报13760.37点，涨1.13%。 创业板指收报3295.88点，涨0.71%。 沪深300收报4502.57点，涨0.56%。 科创50收报1300.76点，涨0.93%。 中证500收报7737.61点，涨1.25%。 中证1000收报7746.31点，涨1.40%。",
@@ -1186,17 +1221,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时43分 ~ 10时54分]"
-        },
-        {
-          "title": "TES官宣Tian回归",
-          "url": "https://search.bilibili.com/all?keyword=TES%E5%AE%98%E5%AE%A3Tian%E5%9B%9E%E5%BD%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时15分 ~ 21时16分]"
         },
         {
           "title": "金十图示：2026年03月26日（周四）热门中概股行情一览（美股盘中）",
@@ -1358,26 +1382,26 @@
           "time_info": "[10时43分 ~ 10时54分]"
         },
         {
-          "title": "胆小鬼舞蹈挑战",
-          "url": "https://www.douyin.com/hot/2445701",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时15分 ~ 21时16分]"
-        },
-        {
-          "title": "3.6万条社媒评论告诉你，短剧的“人感”为什么越来越重要",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32836392",
-          "source": "澎湃新闻",
+          "title": "锴威特：拟购买晶艺半导体100%股份预计构成重大资产重组 股票下周一复牌",
+          "url": "https://flash.jin10.com/detail/20260327204755905800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时15分 ~ 21时16分]"
+          "time_info": "[21时16分 ~ 21时21分]"
+        },
+        {
+          "title": "黄金陷入震荡僵局，多空博弈鹿死谁手？下一个机会在哪里？金十研究员Steven正在直播，点击进入直播间观看>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260327204713152800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时16分 ~ 21时21分]"
         },
         {
           "title": "以色列一市长直播中崩溃哭泣，痛斥内塔尼亚胡",
@@ -1656,17 +1680,6 @@
           "time_info": "18时56分"
         },
         {
-          "title": "锴威特：拟购买晶艺半导体100%股份预计构成重大资产重组 股票下周一复牌",
-          "url": "https://flash.jin10.com/detail/20260327204755905800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
           "title": "日本央行公布日本自然利率最新估计值",
           "url": "https://wallstreetcn.com/livenews/3077982",
           "source": "华尔街见闻-快讯",
@@ -1698,17 +1711,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
-        },
-        {
-          "title": "黄金陷入震荡僵局，多空博弈鹿死谁手？下一个机会在哪里？金十研究员Steven正在直播，点击进入直播间观看>><font class=\"important-text\"></font>",
-          "url": "https://flash.jin10.com/detail/20260327204713152800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
         },
         {
           "title": "泡泡玛特：3月27日回购198万股，耗资约3亿港元。",
