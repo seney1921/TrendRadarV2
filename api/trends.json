@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T18:37:59.361573+08:00",
+  "generated_at": "2026-03-28T18:40:42.617947+08:00",
   "total_titles_processed": 1351,
   "failed_sources": [],
   "trends": [
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时32分 ~ 18时37分]"
+          "appearance_count": 18,
+          "time_info": "[10时32分 ~ 18时40分]"
         },
         {
           "title": "流量退去之后丨淄博烧烤“退烧”之后：没有凉，只是回到日常",
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时32分 ~ 18时37分]"
+          "appearance_count": 18,
+          "time_info": "[10时32分 ~ 18时40分]"
         },
         {
           "title": "收盘价创历史新高！“宁王”市值剑指2万亿，成交额连日超百亿，这些股也获资金关注",
@@ -67,8 +67,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时32分 ~ 18时37分]"
+          "appearance_count": 18,
+          "time_info": "[10时32分 ~ 18时40分]"
         },
         {
           "title": "亚朵酒店标识被吐槽看不懂",
@@ -95,8 +95,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时57分 ~ 18时37分]"
+          "appearance_count": 15,
+          "time_info": "[12时57分 ~ 18时40分]"
+        },
+        {
+          "title": "40岁心梗幸存者已辞职回农村静养",
+          "url": "https://s.weibo.com/weibo?q=%2340%E5%B2%81%E5%BF%83%E6%A2%97%E5%B9%B8%E5%AD%98%E8%80%85%E5%B7%B2%E8%BE%9E%E8%81%8C%E5%9B%9E%E5%86%9C%E6%9D%91%E9%9D%99%E5%85%BB%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时47分 ~ 18时40分]"
+        },
+        {
+          "title": "MOD作者收费遭炮轰,粉丝护主",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352455&amp;topic_name=MOD%E4%BD%9C%E8%80%85%E6%94%B6%E8%B4%B9%E9%81%AD%E7%82%AE%E8%BD%B0%2C%E7%B2%89%E4%B8%9D%E6%8A%A4%E4%B8%BB",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时46分 ~ 18时40分]"
         },
         {
           "title": "遭中国学界集体“拉黑”后，NeurIPS道歉",
@@ -110,8 +134,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[03时02分 ~ 18时37分]"
+          "appearance_count": 29,
+          "time_info": "[03时02分 ~ 18时40分]"
+        },
+        {
+          "title": "SpaceX冲击史上最大IPO",
+          "url": "https://search.bilibili.com/all?keyword=SpaceX%E5%86%B2%E5%87%BB%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7IPO",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时46分 ~ 18时40分]"
         },
         {
           "title": "20条负面清单让基础教育回归本真",
@@ -135,32 +171,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[03时02分 ~ 18时37分]"
-        },
-        {
-          "title": "40岁心梗幸存者已辞职回农村静养",
-          "url": "https://s.weibo.com/weibo?q=%2340%E5%B2%81%E5%BF%83%E6%A2%97%E5%B9%B8%E5%AD%98%E8%80%85%E5%B7%B2%E8%BE%9E%E8%81%8C%E5%9B%9E%E5%86%9C%E6%9D%91%E9%9D%99%E5%85%BB%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时47分 ~ 18时37分]"
-        },
-        {
-          "title": "MOD作者收费遭炮轰,粉丝护主",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352455&amp;topic_name=MOD%E4%BD%9C%E8%80%85%E6%94%B6%E8%B4%B9%E9%81%AD%E7%82%AE%E8%BD%B0%2C%E7%B2%89%E4%B8%9D%E6%8A%A4%E4%B8%BB",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时46分 ~ 18时37分]"
+          "appearance_count": 29,
+          "time_info": "[03时02分 ~ 18时40分]"
         },
         {
           "title": "凡人导演分享创作心路",
@@ -190,20 +202,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时02分 ~ 18时37分]"
-        },
-        {
-          "title": "SpaceX冲击史上最大IPO",
-          "url": "https://search.bilibili.com/all?keyword=SpaceX%E5%86%B2%E5%87%BB%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7IPO",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时46分 ~ 18时37分]"
+          "appearance_count": 32,
+          "time_info": "[00时02分 ~ 18时40分]"
         },
         {
           "title": "《大圣崛起》定档 7 月 10 日暑期档上映，首支预告的质感如何？",
@@ -280,8 +280,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时02分 ~ 18时37分]"
+          "appearance_count": 32,
+          "time_info": "[00时02分 ~ 18时40分]"
         },
         {
           "title": "胆小鬼舞蹈挑战",
@@ -317,8 +317,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时02分 ~ 18时37分]"
+          "appearance_count": 32,
+          "time_info": "[00时02分 ~ 18时40分]"
         },
         {
           "title": "何润东直播回应项羽一角翻红",
@@ -403,6 +403,21 @@
           "time_info": "[14时02分 ~ 16时53分]"
         },
         {
+          "title": "青菜焦虑症",
+          "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E8%8F%9C%E7%84%A6%E8%99%91%E7%97%87&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            7,
+            6,
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时47分 ~ 18时40分]"
+        },
+        {
           "title": "TES官宣Tian回归",
           "url": "https://search.bilibili.com/all?keyword=TES%E5%AE%98%E5%AE%A3Tian%E5%9B%9E%E5%BD%92",
           "source": "bilibili 热搜",
@@ -417,21 +432,6 @@
           "time_info": "[03时02分 ~ 06时41分]"
         },
         {
-          "title": "青菜焦虑症",
-          "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E8%8F%9C%E7%84%A6%E8%99%91%E7%97%87&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16,
-            7,
-            6,
-            15,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时47分 ~ 18时37分]"
-        },
-        {
           "title": "nobatidao舞蹈挑战",
           "url": "https://www.douyin.com/hot/2445858",
           "source": "抖音",
@@ -442,8 +442,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时47分 ~ 18时37分]"
+          "appearance_count": 9,
+          "time_info": "[15时47分 ~ 18时40分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，纳指100 ETF收跌超1.9%，布油基金涨超4.2%",
@@ -457,6 +457,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时44分 ~ 06时41分]"
+        },
+        {
+          "title": "40岁心梗幸存者已辞职回农村静养",
+          "url": "https://www.baidu.com/s?wd=40%E5%B2%81%E5%BF%83%E6%A2%97%E5%B9%B8%E5%AD%98%E8%80%85%E5%B7%B2%E8%BE%9E%E8%81%8C%E5%9B%9E%E5%86%9C%E6%9D%91%E9%9D%99%E5%85%BB",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时46分 ~ 18时40分]"
         },
         {
           "title": "金十图示：2026年03月27日（周五）美股热门股票行情一览（美股收盘）",
@@ -497,6 +510,29 @@
           "time_info": "[03时48分 ~ 13时01分]"
         },
         {
+          "title": "流量退去之后｜静下来的重庆荣昌：流量走了，但没有白来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32835856",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时46分 ~ 18时40分]"
+        },
+        {
+          "title": "奔跑吧直播",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7%E7%9B%B4%E6%92%AD&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 18时40分]"
+        },
+        {
           "title": "评论区藏着互联网的心跳声",
           "url": "https://s.weibo.com/weibo?q=%23%E8%AF%84%E8%AE%BA%E5%8C%BA%E8%97%8F%E7%9D%80%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E5%BF%83%E8%B7%B3%E5%A3%B0%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -506,19 +542,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时32分 ~ 10时33分]"
-        },
-        {
-          "title": "40岁心梗幸存者已辞职回农村静养",
-          "url": "https://www.baidu.com/s?wd=40%E5%B2%81%E5%BF%83%E6%A2%97%E5%B9%B8%E5%AD%98%E8%80%85%E5%B7%B2%E8%BE%9E%E8%81%8C%E5%9B%9E%E5%86%9C%E6%9D%91%E9%9D%99%E5%85%BB",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时46分 ~ 18时37分]"
         },
         {
           "title": "涉及奶茶、酱油、土豆粉等，46批次食品抽检不合格被通报。",
@@ -557,6 +580,18 @@
           "time_info": "[04时44分 ~ 06时41分]"
         },
         {
+          "title": "洛克王国30级炫彩蛋选什么",
+          "url": "https://www.douyin.com/hot/2446833",
+          "source": "抖音",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时42分 ~ 18时40分]"
+        },
+        {
           "title": "女子便秘10年猛吃网红泻药肠道被切",
           "url": "https://www.toutiao.com/trending/7622144153581977641/",
           "source": "今日头条",
@@ -570,18 +605,6 @@
           "time_info": "[14时02分 ~ 16时53分]"
         },
         {
-          "title": "流量退去之后｜静下来的重庆荣昌：流量走了，但没有白来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32835856",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时46分 ~ 18时37分]"
-        },
-        {
           "title": "美以袭击伊朗进入第 28 天，当前局势如何？哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2020625398661215538",
           "source": "知乎",
@@ -592,6 +615,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时02分 ~ 03时05分]"
+        },
+        {
+          "title": "点奶茶要求奶和茶分离",
+          "url": "https://s.weibo.com/weibo?q=%E7%82%B9%E5%A5%B6%E8%8C%B6%E8%A6%81%E6%B1%82%E5%A5%B6%E5%92%8C%E8%8C%B6%E5%88%86%E7%A6%BB&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时46分 ~ 18时40分]"
         },
         {
           "title": "老人骨盆骨折护士直接提腰带搬运",
@@ -630,17 +666,6 @@
           "time_info": "[10时32分 ~ 13时01分]"
         },
         {
-          "title": "奔跑吧直播",
-          "url": "https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7%E7%9B%B4%E6%92%AD&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
           "title": "中国军号海外发布我军最新宣传片",
           "url": "https://www.toutiao.com/trending/7621202225442390058/",
           "source": "今日头条",
@@ -663,18 +688,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时57分 ~ 13时01分]"
-        },
-        {
-          "title": "洛克王国30级炫彩蛋选什么",
-          "url": "https://www.douyin.com/hot/2446833",
-          "source": "抖音",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时42分 ~ 18时37分]"
         },
         {
           "title": "蒙古国国家大呼拉尔批准总理辞职",
@@ -700,19 +713,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时47分 ~ 16时53分]"
-        },
-        {
-          "title": "点奶茶要求奶和茶分离",
-          "url": "https://s.weibo.com/weibo?q=%E7%82%B9%E5%A5%B6%E8%8C%B6%E8%A6%81%E6%B1%82%E5%A5%B6%E5%92%8C%E8%8C%B6%E5%88%86%E7%A6%BB&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时46分 ~ 18时37分]"
         },
         {
           "title": "特朗普发表最新讲话：将霍尔木兹海峡称为“特朗普海峡”",
@@ -749,6 +749,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时46分 ~ 17时43分]"
+        },
+        {
+          "title": "白日提灯直播",
+          "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF%E7%9B%B4%E6%92%AD&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时42分 ~ 18时40分]"
         },
         {
           "title": "截止至3月24日当周CFTC外汇类商业持仓报告在金十数据中心更新啦！欢迎点击查看>>",
@@ -809,6 +821,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时44分 ~ 05时43分]"
+        },
+        {
+          "title": "迪丽热巴终于演到绿茶人设",
+          "url": "https://www.douyin.com/hot/2446606",
+          "source": "抖音",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时42分 ~ 18时40分]"
         },
         {
           "title": "橡树资本满足77亿美元基金全部赎回要求，允许8.5%资金退出",
@@ -872,18 +896,6 @@
           "time_info": "[04时44分 ~ 05时43分]"
         },
         {
-          "title": "白日提灯直播",
-          "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF%E7%9B%B4%E6%92%AD&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时42分 ~ 18时37分]"
-        },
-        {
           "title": "逐玉观剧体验如何",
           "url": "https://search.bilibili.com/all?keyword=%E9%80%90%E7%8E%89%E8%A7%82%E5%89%A7%E4%BD%93%E9%AA%8C%E5%A6%82%E4%BD%95",
           "source": "bilibili 热搜",
@@ -905,18 +917,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时02分 ~ 03时48分]"
-        },
-        {
-          "title": "迪丽热巴终于演到绿茶人设",
-          "url": "https://www.douyin.com/hot/2446606",
-          "source": "抖音",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时42分 ~ 18时37分]"
         },
         {
           "title": "选举前夕，PIMCO领衔海外基金加仓哥伦比亚债券",
@@ -1043,6 +1043,17 @@
           "time_info": "[10时33分 ~ 10时43分]"
         },
         {
+          "title": "夏之光被妈妈拉黑真相巨戳心",
+          "url": "https://s.weibo.com/weibo?q=%E5%A4%8F%E4%B9%8B%E5%85%89%E8%A2%AB%E5%A6%88%E5%A6%88%E6%8B%89%E9%BB%91%E7%9C%9F%E7%9B%B8%E5%B7%A8%E6%88%B3%E5%BF%83&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 18时40分]"
+        },
+        {
           "title": "金十图示：2026年03月27日（周五）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260328015039648800",
           "source": "金十数据",
@@ -1107,6 +1118,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时44分 ~ 04时48分]"
+        },
+        {
+          "title": "这7种食物不甜却能让你血糖飙升",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%997%E7%A7%8D%E9%A3%9F%E7%89%A9%E4%B8%8D%E7%94%9C%E5%8D%B4%E8%83%BD%E8%AE%A9%E4%BD%A0%E8%A1%80%E7%B3%96%E9%A3%99%E5%8D%87%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 18时40分]"
         },
         {
           "title": "遭中国学界集体“拉黑”后 NeurIPS道歉",
@@ -1208,17 +1230,6 @@
           "time_info": "00时02分"
         },
         {
-          "title": "夏之光被妈妈拉黑真相巨戳心",
-          "url": "https://s.weibo.com/weibo?q=%E5%A4%8F%E4%B9%8B%E5%85%89%E8%A2%AB%E5%A6%88%E5%A6%88%E6%8B%89%E9%BB%91%E7%9C%9F%E7%9B%B8%E5%B7%A8%E6%88%B3%E5%BF%83&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
           "title": "金十图示：2026年03月27日（周五）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260328023834916800",
           "source": "金十数据",
@@ -1239,17 +1250,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "这7种食物不甜却能让你血糖飙升",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%997%E7%A7%8D%E9%A3%9F%E7%89%A9%E4%B8%8D%E7%94%9C%E5%8D%B4%E8%83%BD%E8%AE%A9%E4%BD%A0%E8%A1%80%E7%B3%96%E9%A3%99%E5%8D%87%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
         }
       ]
     }
