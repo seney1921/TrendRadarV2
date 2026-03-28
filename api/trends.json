@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T14:02:53.813466+08:00",
+  "generated_at": "2026-03-28T14:06:03.609318+08:00",
   "total_titles_processed": 1074,
   "failed_sources": [],
   "trends": [
@@ -32,6 +32,43 @@
           "time_info": "[00时02分 ~ 07时38分]"
         },
         {
+          "title": "如何评价中国科协不再承认 NeurIPS 论文含金量？",
+          "url": "https://www.zhihu.com/question/2020822386811963257",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时32分 ~ 14时06分]"
+        },
+        {
+          "title": "游客给妻子拍照因设备太专业被驱赶，景区回应系禁止商业拍摄，如何看待此事？此类规定怎样能执行得更合情理？",
+          "url": "https://www.zhihu.com/question/2020633228688500416",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时32分 ~ 14时06分]"
+        },
+        {
+          "title": "霸占各大榜单,洛克热度空前",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352442&amp;topic_name=%E9%9C%B8%E5%8D%A0%E5%90%84%E5%A4%A7%E6%A6%9C%E5%8D%95%2C%E6%B4%9B%E5%85%8B%E7%83%AD%E5%BA%A6%E7%A9%BA%E5%89%8D",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时32分 ~ 14时06分]"
+        },
+        {
           "title": "美以袭击伊朗进入第 29 天，当前局势如何？有哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2020986712411693353",
           "source": "知乎",
@@ -41,20 +78,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[03时02分 ~ 14时02分]"
-        },
-        {
-          "title": "如何评价中国科协不再承认 NeurIPS 论文含金量？",
-          "url": "https://www.zhihu.com/question/2020822386811963257",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时32分 ~ 14时02分]"
+          "appearance_count": 20,
+          "time_info": "[03时02分 ~ 14时06分]"
         },
         {
           "title": "遭中国学界集体“拉黑”后，NeurIPS道歉",
@@ -68,20 +93,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[03时02分 ~ 14时02分]"
+          "appearance_count": 20,
+          "time_info": "[03时02分 ~ 14时06分]"
         },
         {
-          "title": "游客给妻子拍照因设备太专业被驱赶，景区回应系禁止商业拍摄，如何看待此事？此类规定怎样能执行得更合情理？",
-          "url": "https://www.zhihu.com/question/2020633228688500416",
-          "source": "知乎",
+          "title": "20条负面清单让基础教育回归本真",
+          "url": "https://s.weibo.com/weibo?q=%2320%E6%9D%A1%E8%B4%9F%E9%9D%A2%E6%B8%85%E5%8D%95%E8%AE%A9%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2%E5%9B%9E%E5%BD%92%E6%9C%AC%E7%9C%9F%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
           "ranks": [
-            3,
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[10时32分 ~ 14时02分]"
+          "time_info": "[10时43分 ~ 14时06分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -93,21 +117,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时02分 ~ 14时02分]"
+          "appearance_count": 23,
+          "time_info": "[00时02分 ~ 14时06分]"
         },
         {
-          "title": "霸占各大榜单,洛克热度空前",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352442&amp;topic_name=%E9%9C%B8%E5%8D%A0%E5%90%84%E5%A4%A7%E6%A6%9C%E5%8D%95%2C%E6%B4%9B%E5%85%8B%E7%83%AD%E5%BA%A6%E7%A9%BA%E5%89%8D",
-          "source": "贴吧",
+          "title": "亚朵酒店标识被吐槽看不懂",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E6%9C%B5%E9%85%92%E5%BA%97%E6%A0%87%E8%AF%86%E8%A2%AB%E5%90%90%E6%A7%BD%E7%9C%8B%E4%B8%8D%E6%87%82",
+          "source": "百度热搜",
           "ranks": [
-            4,
-            2,
-            5
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时32分 ~ 14时02分]"
+          "appearance_count": 6,
+          "time_info": "[12时57分 ~ 14时06分]"
         },
         {
           "title": "《大圣崛起》定档 7 月 10 日暑期档上映，首支预告的质感如何？",
@@ -125,6 +147,19 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[01时02分 ~ 10时43分]"
+        },
+        {
+          "title": "4月新规来了！事关医保、购物、买房",
+          "url": "https://www.baidu.com/s?wd=4%E6%9C%88%E6%96%B0%E8%A7%84%E6%9D%A5%E4%BA%86%EF%BC%81%E4%BA%8B%E5%85%B3%E5%8C%BB%E4%BF%9D%E3%80%81%E8%B4%AD%E7%89%A9%E3%80%81%E4%B9%B0%E6%88%BF",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时32分 ~ 14时06分]"
         },
         {
           "title": "大学生表白被拒后怒砸食堂咖啡店",
@@ -145,6 +180,19 @@
           "time_info": "[00时02分 ~ 07时38分]"
         },
         {
+          "title": "CBA最新战绩排名分析",
+          "url": "https://www.douyin.com/hot/2445533",
+          "source": "抖音",
+          "ranks": [
+            5,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时32分 ~ 14时06分]"
+        },
+        {
           "title": "痛诉变打脸,tian重返老东家",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352440&amp;topic_name=%E7%97%9B%E8%AF%89%E5%8F%98%E6%89%93%E8%84%B8%2Ctian%E9%87%8D%E8%BF%94%E8%80%81%E4%B8%9C%E5%AE%B6",
           "source": "贴吧",
@@ -155,8 +203,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时02分 ~ 14时02分]"
+          "appearance_count": 23,
+          "time_info": "[00时02分 ~ 14时06分]"
         },
         {
           "title": "胆小鬼舞蹈挑战",
@@ -190,8 +238,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时02分 ~ 14时02分]"
+          "appearance_count": 23,
+          "time_info": "[00时02分 ~ 14时06分]"
         },
         {
           "title": "何润东直播回应项羽一角翻红",
@@ -263,17 +311,6 @@
           "time_info": "[01时02分 ~ 06时41分]"
         },
         {
-          "title": "20条负面清单让基础教育回归本真",
-          "url": "https://s.weibo.com/weibo?q=%2320%E6%9D%A1%E8%B4%9F%E9%9D%A2%E6%B8%85%E5%8D%95%E8%AE%A9%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2%E5%9B%9E%E5%BD%92%E6%9C%AC%E7%9C%9F%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时43分 ~ 14时02分]"
-        },
-        {
           "title": "TES官宣Tian回归",
           "url": "https://search.bilibili.com/all?keyword=TES%E5%AE%98%E5%AE%A3Tian%E5%9B%9E%E5%BD%92",
           "source": "bilibili 热搜",
@@ -288,41 +325,16 @@
           "time_info": "[03时02分 ~ 06时41分]"
         },
         {
-          "title": "亚朵酒店标识被吐槽看不懂",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E6%9C%B5%E9%85%92%E5%BA%97%E6%A0%87%E8%AF%86%E8%A2%AB%E5%90%90%E6%A7%BD%E7%9C%8B%E4%B8%8D%E6%87%82",
-          "source": "百度热搜",
+          "title": "凡人导演分享创作心路",
+          "url": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E5%AF%BC%E6%BC%94%E5%88%86%E4%BA%AB%E5%88%9B%E4%BD%9C%E5%BF%83%E8%B7%AF",
+          "source": "bilibili 热搜",
           "ranks": [
-            2
+            1,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时57分 ~ 14时02分]"
-        },
-        {
-          "title": "4月新规来了！事关医保、购物、买房",
-          "url": "https://www.baidu.com/s?wd=4%E6%9C%88%E6%96%B0%E8%A7%84%E6%9D%A5%E4%BA%86%EF%BC%81%E4%BA%8B%E5%85%B3%E5%8C%BB%E4%BF%9D%E3%80%81%E8%B4%AD%E7%89%A9%E3%80%81%E4%B9%B0%E6%88%BF",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时32分 ~ 14时02分]"
-        },
-        {
-          "title": "CBA最新战绩排名分析",
-          "url": "https://www.douyin.com/hot/2445533",
-          "source": "抖音",
-          "ranks": [
-            5,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时32分 ~ 14时02分]"
+          "appearance_count": 6,
+          "time_info": "[12时57分 ~ 14时06分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，纳指100 ETF收跌超1.9%，布油基金涨超4.2%",
@@ -375,16 +387,15 @@
           "time_info": "[10时32分 ~ 10时33分]"
         },
         {
-          "title": "凡人导演分享创作心路",
-          "url": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E5%AF%BC%E6%BC%94%E5%88%86%E4%BA%AB%E5%88%9B%E4%BD%9C%E5%BF%83%E8%B7%AF",
-          "source": "bilibili 热搜",
+          "title": "3月27日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260328132608002800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            11
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时57分 ~ 14时02分]"
+          "appearance_count": 2,
+          "time_info": "[14时02分 ~ 14时06分]"
         },
         {
           "title": "金十图示：2026年03月27日（周五）热门中概股行情一览（美股收盘）",
@@ -398,6 +409,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时44分 ~ 06时41分]"
+        },
+        {
+          "title": "NeurIPS 公开道歉并表示投稿规则与往届保持一致，那会被 CCF 、中国科协放出「黑名单」吗？",
+          "url": "https://www.zhihu.com/question/2020931677703201085",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时57分 ~ 14时06分]"
         },
         {
           "title": "美以袭击伊朗进入第 28 天，当前局势如何？哪些信息值得关注？",
@@ -446,17 +469,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时32分 ~ 13时01分]"
-        },
-        {
-          "title": "3月27日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
-          "url": "https://flash.jin10.com/detail/20260328132608002800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时02分"
         },
         {
           "title": "中国军号海外发布我军最新宣传片",
@@ -556,18 +568,6 @@
           "time_info": "[04时44分 ~ 05时43分]"
         },
         {
-          "title": "NeurIPS 公开道歉并表示投稿规则与往届保持一致，那会被 CCF 、中国科协放出「黑名单」吗？",
-          "url": "https://www.zhihu.com/question/2020931677703201085",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时57分 ~ 14时02分]"
-        },
-        {
           "title": "橡树资本满足77亿美元基金全部赎回要求，允许8.5%资金退出",
           "url": "https://wallstreetcn.com/livenews/3078463",
           "source": "华尔街见闻-快讯",
@@ -603,6 +603,17 @@
           "time_info": "[04时44分 ~ 05时43分]"
         },
         {
+          "title": "体验战争制裁下的莫斯科生活",
+          "url": "https://www.douyin.com/hot/2446449",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 14时06分]"
+        },
+        {
           "title": "逐玉观剧体验如何",
           "url": "https://search.bilibili.com/all?keyword=%E9%80%90%E7%8E%89%E8%A7%82%E5%89%A7%E4%BD%93%E9%AA%8C%E5%A6%82%E4%BD%95",
           "source": "bilibili 热搜",
@@ -624,6 +635,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时02分 ~ 03时48分]"
+        },
+        {
+          "title": "女子便秘10年猛吃网红泻药肠道被切",
+          "url": "https://www.toutiao.com/trending/7622144153581977641/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 14时06分]"
         },
         {
           "title": "选举前夕，PIMCO领衔海外基金加仓哥伦比亚债券",
@@ -660,6 +682,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时02分 ~ 07时38分]"
+        },
+        {
+          "title": "不必为深睡时间较短而焦虑",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E5%BF%85%E4%B8%BA%E6%B7%B1%E7%9D%A1%E6%97%B6%E9%97%B4%E8%BE%83%E7%9F%AD%E8%80%8C%E7%84%A6%E8%99%91",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 14时06分]"
+        },
+        {
+          "title": "3月27日芝加哥商业交易所（CME）金属类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260328132606361800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时02分 ~ 14时06分]"
+        },
+        {
+          "title": "3月27日芝加哥商业交易所（CME）外汇类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260328132604628800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时02分 ~ 14时06分]"
         },
         {
           "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（3月28日）",
@@ -794,39 +849,6 @@
           "time_info": "[03时02分 ~ 03时05分]"
         },
         {
-          "title": "3月27日芝加哥商业交易所（CME）金属类商品成交量报告已在金十数据中心更新！欢迎点击查看",
-          "url": "https://flash.jin10.com/detail/20260328132606361800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        },
-        {
-          "title": "3月27日芝加哥商业交易所（CME）外汇类商品成交量报告已在金十数据中心更新！欢迎点击查看",
-          "url": "https://flash.jin10.com/detail/20260328132604628800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        },
-        {
-          "title": "体验战争制裁下的莫斯科生活",
-          "url": "https://www.douyin.com/hot/2446449",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        },
-        {
           "title": "高校回应校内库迪咖啡店被砸",
           "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94%E6%A0%A1%E5%86%85%E5%BA%93%E8%BF%AA%E5%92%96%E5%95%A1%E5%BA%97%E8%A2%AB%E7%A0%B8%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -847,17 +869,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "女子便秘10年猛吃网红泻药肠道被切",
-          "url": "https://www.toutiao.com/trending/7622144153581977641/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时02分"
         },
         {
           "title": "伊朗外长与黎巴嫩议长通话 讨论地区最新局势",
@@ -924,17 +935,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "不必为深睡时间较短而焦虑",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E5%BF%85%E4%B8%BA%E6%B7%B1%E7%9D%A1%E6%97%B6%E9%97%B4%E8%BE%83%E7%9F%AD%E8%80%8C%E7%84%A6%E8%99%91",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时02分"
         }
       ]
     }
