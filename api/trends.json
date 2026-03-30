@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T16:25:09.301693+08:00",
-  "total_titles_processed": 1222,
+  "generated_at": "2026-03-30T17:19:01.371954+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 82,
+      "match_count": 90,
       "titles": [
         {
           "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
@@ -73,11 +73,12 @@
           "ranks": [
             10,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时41分 ~ 16时25分]"
+          "appearance_count": 24,
+          "time_info": "[00时41分 ~ 17时19分]"
         },
         {
           "title": "学过石油的语文老师粉丝破千万",
@@ -139,6 +140,20 @@
           "time_info": "[00时41分 ~ 07时38分]"
         },
         {
+          "title": "流量退去之后丨拉面哥的“回不去”与“走下去”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32818631",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时49分 ~ 17时19分]"
+        },
+        {
           "title": "社区力量大,老外开发者来取经",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352471&amp;topic_name=%E7%A4%BE%E5%8C%BA%E5%8A%9B%E9%87%8F%E5%A4%A7%2C%E8%80%81%E5%A4%96%E5%BC%80%E5%8F%91%E8%80%85%E6%9D%A5%E5%8F%96%E7%BB%8F",
           "source": "贴吧",
@@ -148,11 +163,12 @@
             12,
             18,
             20,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时41分 ~ 16时25分]"
+          "appearance_count": 24,
+          "time_info": "[00时41分 ~ 17时19分]"
         },
         {
           "title": "洛克王国快速升级攻略",
@@ -179,11 +195,12 @@
             15,
             21,
             23,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时41分 ~ 16时25分]"
+          "appearance_count": 24,
+          "time_info": "[00时41分 ~ 17时19分]"
         },
         {
           "title": "美以袭击伊朗进入第 30 天，当前局势如何？有哪些信息值得关注？",
@@ -305,6 +322,17 @@
           "time_info": "[03时36分 ~ 10时49分]"
         },
         {
+          "title": "美以袭击伊朗进入第 31 天，当前局势如何？有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2021712805401819048",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时49分 ~ 17时19分]"
+        },
+        {
           "title": "归环最新实机PV",
           "url": "https://search.bilibili.com/all?keyword=%E5%BD%92%E7%8E%AF%E6%9C%80%E6%96%B0%E5%AE%9E%E6%9C%BAPV",
           "source": "bilibili 热搜",
@@ -320,18 +348,28 @@
           "time_info": "[10时49分 ~ 16时25分]"
         },
         {
-          "title": "流量退去之后丨拉面哥的“回不去”与“走下去”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32818631",
-          "source": "澎湃新闻",
+          "title": "为什么最近短视频平台流行起了《老酒馆》中有关老二两这个角色的梗?",
+          "url": "https://www.zhihu.com/question/2016985966854815789",
+          "source": "知乎",
           "ranks": [
-            12,
-            8,
-            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时49分 ~ 16时25分]"
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 17时19分]"
+        },
+        {
+          "title": "张雪谈为何选在重庆创业",
+          "url": "https://www.toutiao.com/trending/7622597440868483135/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时49分 ~ 17时19分]"
         },
         {
           "title": "洛克王国世界避坑指南",
@@ -346,15 +384,32 @@
           "time_info": "[02时51分 ~ 04时42分]"
         },
         {
-          "title": "美以袭击伊朗进入第 31 天，当前局势如何？有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2021712805401819048",
-          "source": "知乎",
+          "title": "考编女生囤考点周边酒店当黄牛",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%80%83%E7%BC%96%E5%A5%B3%E7%94%9F%E5%9B%A4%E8%80%83%E7%82%B9%E5%91%A8%E8%BE%B9%E9%85%92%E5%BA%97%E5%BD%93%E9%BB%84%E7%89%9B%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            6
+            19,
+            4,
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时49分 ~ 17时19分]"
+        },
+        {
+          "title": "T1直播确认!S15冠军皮肤定了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352505&amp;topic_name=T1%E7%9B%B4%E6%92%AD%E7%A1%AE%E8%AE%A4%21S15%E5%86%A0%E5%86%9B%E7%9A%AE%E8%82%A4%E5%AE%9A%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            9,
+            10,
+            11
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[10时49分 ~ 16时25分]"
+          "time_info": "[13时31分 ~ 17时19分]"
         },
         {
           "title": "严浩翔分享歌曲",
@@ -370,15 +425,18 @@
           "time_info": "[00时41分 ~ 03时36分]"
         },
         {
-          "title": "为什么最近短视频平台流行起了《老酒馆》中有关老二两这个角色的梗?",
-          "url": "https://www.zhihu.com/question/2016985966854815789",
-          "source": "知乎",
+          "title": "禅者行脚舞蹈挑战",
+          "url": "https://www.douyin.com/hot/2448338",
+          "source": "抖音",
           "ranks": [
-            4
+            25,
+            22,
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 16时25分]"
+          "appearance_count": 7,
+          "time_info": "[13时31分 ~ 17时19分]"
         },
         {
           "title": "谁在给选基大模型喂答案？小心营销污染，基金信息不能被流量逻辑带偏",
@@ -392,17 +450,16 @@
           "time_info": "[10时49分 ~ 11时19分]"
         },
         {
-          "title": "考编女生囤考点周边酒店当黄牛",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%80%83%E7%BC%96%E5%A5%B3%E7%94%9F%E5%9B%A4%E8%80%83%E7%82%B9%E5%91%A8%E8%BE%B9%E9%85%92%E5%BA%97%E5%BD%93%E9%BB%84%E7%89%9B%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "郑丽文率中国国民党访问团于 4 月 7 日至 12 日到江苏、上海、北京参观访问，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2021893156774453756",
+          "source": "知乎",
           "ranks": [
-            19,
-            4,
-            2
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时49分 ~ 16时25分]"
+          "appearance_count": 6,
+          "time_info": "[14时03分 ~ 17时19分]"
         },
         {
           "title": "贺峻霖辅助教程终于来了",
@@ -437,7 +494,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -451,6 +508,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
+        },
+        {
+          "title": "基金年报被要求详列年度“罚单”明细",
+          "url": "https://wallstreetcn.com/livenews/3079166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "伊朗公布打击巴林美军设施最新卫星对比图",
@@ -476,18 +544,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时37分 ~ 02时55分]"
-        },
-        {
-          "title": "张雪谈为何选在重庆创业",
-          "url": "https://www.toutiao.com/trending/7622597440868483135/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时49分 ~ 16时25分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年3月30日 周一",
@@ -526,30 +582,15 @@
           "time_info": "07时38分"
         },
         {
-          "title": "T1直播确认!S15冠军皮肤定了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352505&amp;topic_name=T1%E7%9B%B4%E6%92%AD%E7%A1%AE%E8%AE%A4%21S15%E5%86%A0%E5%86%9B%E7%9A%AE%E8%82%A4%E5%AE%9A%E4%BA%86",
-          "source": "贴吧",
+          "title": "有哪些刚开始「下不去嘴」，吃了以后被惊艳的美食？",
+          "url": "https://www.zhihu.com/question/520238229",
+          "source": "知乎",
           "ranks": [
-            13,
-            9,
-            10
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时31分 ~ 16时25分]"
-        },
-        {
-          "title": "禅者行脚舞蹈挑战",
-          "url": "https://www.douyin.com/hot/2448338",
-          "source": "抖音",
-          "ranks": [
-            25,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时31分 ~ 16时25分]"
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 17时19分]"
         },
         {
           "title": "市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争",
@@ -562,18 +603,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时31分 ~ 14时03分]"
-        },
-        {
-          "title": "郑丽文率中国国民党访问团于 4 月 7 日至 12 日到江苏、上海、北京参观访问，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2021893156774453756",
-          "source": "知乎",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时03分 ~ 16时25分]"
         },
         {
           "title": "Vlog丨在国产大邮轮上看电影，是这样的感觉……",
@@ -639,17 +668,6 @@
           "time_info": "[00时41分 ~ 01时37分]"
         },
         {
-          "title": "有哪些刚开始「下不去嘴」，吃了以后被惊艳的美食？",
-          "url": "https://www.zhihu.com/question/520238229",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 16时25分]"
-        },
-        {
           "title": "日本反复挑战中国底线",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%8D%E5%A4%8D%E6%8C%91%E6%88%98%E4%B8%AD%E5%9B%BD%E5%BA%95%E7%BA%BF%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -709,6 +727,17 @@
           "time_info": "[10时49分 ~ 11时19分]"
         },
         {
+          "title": "李荣浩曾因发博掉十个粉丝不敢发了",
+          "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E6%9B%BE%E5%9B%A0%E5%8F%91%E5%8D%9A%E6%8E%89%E5%8D%81%E4%B8%AA%E7%B2%89%E4%B8%9D%E4%B8%8D%E6%95%A2%E5%8F%91%E4%BA%86&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 17时19分]"
+        },
+        {
           "title": "世界最大直径高铁盾构机“领航号”成功“上岸”",
           "url": "https://wallstreetcn.com/livenews/3078959",
           "source": "华尔街见闻-快讯",
@@ -719,6 +748,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时31分 ~ 14时03分]"
+        },
+        {
+          "title": "张雪回应为何选在重庆创业",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BD%95%E9%80%89%E5%9C%A8%E9%87%8D%E5%BA%86%E5%88%9B%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 17时19分]"
         },
         {
           "title": "自行车赛观众手机越线拍照多人被撞",
@@ -757,6 +797,17 @@
           "time_info": "[03时36分 ~ 06时37分]"
         },
         {
+          "title": "男子谎称带外籍女友打工将其卖掉获刑",
+          "url": "https://www.toutiao.com/trending/7622862282591666219/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 17时19分]"
+        },
+        {
           "title": "靠养“龙虾”36小时买房？但也别放松警惕",
           "url": "https://wallstreetcn.com/livenews/3078714",
           "source": "华尔街见闻-快讯",
@@ -766,6 +817,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时41分 ~ 01时37分]"
+        },
+        {
+          "title": "洛克王国翼王攻略",
+          "url": "https://www.douyin.com/hot/2448929",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 17时19分]"
         },
         {
           "title": "全球首发、亚太首展、中国首秀 消博会成为全球潮流“始发站”",
@@ -785,7 +847,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -812,6 +874,17 @@
           "time_info": "07时38分"
         },
         {
+          "title": "国投白银LOF：本基金将于2026年3月31日开市起至当日10:30停牌，自2026年3月31日10:30复牌，停牌期间本基金赎回业务照常办理。",
+          "url": "https://flash.jin10.com/detail/20260330170547413800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "罗技文案翻车事件始末",
           "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%8A%80%E6%96%87%E6%A1%88%E7%BF%BB%E8%BD%A6%E4%BA%8B%E4%BB%B6%E5%A7%8B%E6%9C%AB",
           "source": "bilibili 热搜",
@@ -832,6 +905,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "华安基金：华安标普全球石油指数（LOF）4月3日暂停赎回",
+          "url": "https://flash.jin10.com/detail/20260330170515278800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "公募基金春季策略会传递信心：中国资产韧性凸显，看好多元投资机遇",
@@ -887,6 +971,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
+        },
+        {
+          "title": "中天科技：拟以2亿元-4亿元回购股份，回购股份价格不超过人民币40元/股。",
+          "url": "https://wallstreetcn.com/livenews/3079148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "欧洲理事会主席科斯塔：今天我与阿联酋总统通电话时，我们讨论了最新事态发展，重申欧盟坚定支持阿联酋。",
