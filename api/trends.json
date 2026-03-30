@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T10:49:41.182843+08:00",
-  "total_titles_processed": 742,
+  "generated_at": "2026-03-30T11:19:42.760058+08:00",
+  "total_titles_processed": 806,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 57,
+      "match_count": 60,
       "titles": [
         {
           "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
@@ -16,8 +16,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时41分 ~ 10时49分]"
+          "appearance_count": 17,
+          "time_info": "[00时41分 ~ 11时19分]"
+        },
+        {
+          "title": "神21乘组在轨vlog又上新了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A5%9E21%E4%B9%98%E7%BB%84%E5%9C%A8%E8%BD%A8vlog%E5%8F%88%E4%B8%8A%E6%96%B0%E4%BA%86%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[04时38分 ~ 11时19分]"
         },
         {
           "title": "美军最新作战方案披露：欲复刻“42天灭伊”神话",
@@ -31,28 +42,18 @@
           "time_info": "[00时41分 ~ 07时38分]"
         },
         {
-          "title": "神21乘组在轨vlog又上新了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%A5%9E21%E4%B9%98%E7%BB%84%E5%9C%A8%E8%BD%A8vlog%E5%8F%88%E4%B8%8A%E6%96%B0%E4%BA%86%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时38分 ~ 10时49分]"
-        },
-        {
           "title": "学过石油的语文老师粉丝破千万",
           "url": "https://search.bilibili.com/all?keyword=%E5%AD%A6%E8%BF%87%E7%9F%B3%E6%B2%B9%E7%9A%84%E8%AF%AD%E6%96%87%E8%80%81%E5%B8%88%E7%B2%89%E4%B8%9D%E7%A0%B4%E5%8D%83%E4%B8%87",
           "source": "bilibili 热搜",
           "ranks": [
             2,
             3,
-            9
+            9,
+            27
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时41分 ~ 10时49分]"
+          "appearance_count": 17,
+          "time_info": "[00时41分 ~ 11时19分]"
         },
         {
           "title": "儿子一家去世 老人骑行30年治愈自己",
@@ -76,8 +77,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时41分 ~ 10时49分]"
+          "appearance_count": 17,
+          "time_info": "[00时41分 ~ 11时19分]"
         },
         {
           "title": "旧手机回收价格暴涨五六倍？真相来了",
@@ -130,8 +131,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时41分 ~ 10时49分]"
+          "appearance_count": 17,
+          "time_info": "[00时41分 ~ 11时19分]"
         },
         {
           "title": "社区力量大,老外开发者来取经",
@@ -143,8 +144,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时41分 ~ 10时49分]"
+          "appearance_count": 17,
+          "time_info": "[00时41分 ~ 11时19分]"
         },
         {
           "title": "洛克王国快速升级攻略",
@@ -154,11 +155,12 @@
             12,
             10,
             11,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时41分 ~ 10时49分]"
+          "appearance_count": 17,
+          "time_info": "[00时41分 ~ 11时19分]"
         },
         {
           "title": "设计翻车,洛克王国死档",
@@ -170,8 +172,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时41分 ~ 10时49分]"
+          "appearance_count": 17,
+          "time_info": "[00时41分 ~ 11时19分]"
         },
         {
           "title": "美以袭击伊朗进入第 30 天，当前局势如何？有哪些信息值得关注？",
@@ -228,8 +230,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时41分 ~ 10时49分]"
+          "appearance_count": 17,
+          "time_info": "[00时41分 ~ 11时19分]"
         },
         {
           "title": "终末地洛茜测评",
@@ -255,11 +257,12 @@
             27,
             29,
             30,
-            24
+            24,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 10时49分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 11时19分]"
         },
         {
           "title": "儿子一家去世老人骑行30年治愈自己",
@@ -303,6 +306,18 @@
           "time_info": "[02时51分 ~ 04时42分]"
         },
         {
+          "title": "归环最新实机PV",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%92%E7%8E%AF%E6%9C%80%E6%96%B0%E5%AE%9E%E6%9C%BAPV",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 11时19分]"
+        },
+        {
           "title": "严浩翔分享歌曲",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%88%86%E4%BA%AB%E6%AD%8C%E6%9B%B2&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -316,15 +331,15 @@
           "time_info": "[00时41分 ~ 03时36分]"
         },
         {
-          "title": "归环最新实机PV",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BD%92%E7%8E%AF%E6%9C%80%E6%96%B0%E5%AE%9E%E6%9C%BAPV",
-          "source": "bilibili 热搜",
+          "title": "谁在给选基大模型喂答案？小心营销污染，基金信息不能被流量逻辑带偏",
+          "url": "https://www.cls.cn/detail/2328122",
+          "source": "财联社热门",
           "ranks": [
-            1
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 11时19分]"
         },
         {
           "title": "美军酝酿地面战，全美爆发“反特朗普”集会，专家呼吁彻查内幕交易，伊朗议长警告盘前“消息”是圈套！胡塞武装正式参战......后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -333,7 +348,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -374,17 +389,6 @@
           "time_info": "[01时37分 ~ 02时55分]"
         },
         {
-          "title": "谁在给选基大模型喂答案？小心营销污染，基金信息不能被流量逻辑带偏",
-          "url": "https://www.cls.cn/detail/2328122",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
           "title": "港股IPO活力持续释放，科技赛道成资本“新宠”",
           "url": "https://wallstreetcn.com/livenews/3078790",
           "source": "华尔街见闻-快讯",
@@ -409,6 +413,19 @@
           "time_info": "[00时41分 ~ 07时38分]"
         },
         {
+          "title": "伊朗最高领袖最新表态",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E6%9C%80%E6%96%B0%E8%A1%A8%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时38分 ~ 11时19分]"
+        },
+        {
           "title": "有没有成年人学钢琴的，来这里分享一下你学琴的感受?",
           "url": "https://www.zhihu.com/question/517893812",
           "source": "知乎",
@@ -419,6 +436,64 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时41分 ~ 01时37分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 31 天，当前局势如何？有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2021712805401819048",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 11时19分]"
+        },
+        {
+          "title": "日本反复挑战中国底线",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%8D%E5%A4%8D%E6%8C%91%E6%88%98%E4%B8%AD%E5%9B%BD%E5%BA%95%E7%BA%BF%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 11时19分]"
+        },
+        {
+          "title": "百亿具身智能产业五家头部厂商创始人罕见同台 “量产前夜”热议数据挑战、标准研制、投融资",
+          "url": "https://www.cls.cn/detail/2328040",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 11时19分]"
+        },
+        {
+          "title": "广州变首尔？韩网友搬运中国街景照片",
+          "url": "https://www.toutiao.com/trending/7622604188760932393/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 11时19分]"
+        },
+        {
+          "title": "流量退去之后丨拉面哥的“回不去”与“走下去”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32818631",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 11时19分]"
         },
         {
           "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（3月30日）",
@@ -433,16 +508,52 @@
           "time_info": "[06时37分 ~ 07时38分]"
         },
         {
-          "title": "伊朗最高领袖最新表态",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E6%9C%80%E6%96%B0%E8%A1%A8%E6%80%81",
-          "source": "百度热搜",
+          "title": "创业板指跌超2%，沪指跌0.75%，深成指跌1.49%，电力电网、光伏设备、消费电子等方向跌幅居前，沪深京三市下跌个股超4000只。",
+          "url": "https://wallstreetcn.com/livenews/3078907",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            18
+            11,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时38分 ~ 10时49分]"
+          "time_info": "[10时49分 ~ 11时19分]"
+        },
+        {
+          "title": "Vlog丨在国产大邮轮上看电影，是这样的感觉……",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32857845",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 11时19分]"
+        },
+        {
+          "title": "自行车赛观众手机越线拍照多人被撞",
+          "url": "https://www.toutiao.com/trending/7622100603209351218/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 11时19分]"
+        },
+        {
+          "title": "市场监管总局局长罗文：重拳整治直播电商行业乱象",
+          "url": "https://wallstreetcn.com/livenews/3078885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 11时19分]"
         },
         {
           "title": "严浩翔恐怖美学概念预告",
@@ -468,70 +579,26 @@
           "time_info": "[00时41分 ~ 01时37分]"
         },
         {
-          "title": "美以袭击伊朗进入第 31 天，当前局势如何？有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2021712805401819048",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "广州变首尔？韩网友搬运中国街景照片",
-          "url": "https://www.toutiao.com/trending/7622604188760932393/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "百亿具身智能产业五家头部厂商创始人罕见同台 “量产前夜”热议数据挑战、标准研制、投融资",
-          "url": "https://www.cls.cn/detail/2328040",
-          "source": "财联社热门",
+          "title": "全球首发、亚太首展、中国首秀 消博会成为全球潮流“始发站”",
+          "url": "https://flash.jin10.com/detail/20260330110656531800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "11时19分"
         },
         {
-          "title": "日本反复挑战中国底线",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%8D%E5%A4%8D%E6%8C%91%E6%88%98%E4%B8%AD%E5%9B%BD%E5%BA%95%E7%BA%BF%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "创业板指跌超2%，沪指跌0.75%，深成指跌1.49%，电力电网、光伏设备、消费电子等方向跌幅居前，沪深京三市下跌个股超4000只。",
-          "url": "https://wallstreetcn.com/livenews/3078907",
-          "source": "华尔街见闻-快讯",
+          "title": "能源通胀传导建筑业 新西兰挖掘成本随柴油价格飙升",
+          "url": "https://flash.jin10.com/detail/20260330110630721800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "流量退去之后丨拉面哥的“回不去”与“走下去”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32818631",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "11时19分"
         },
         {
           "title": "着手全面自评与整改，理财公司迎评级“大考”",
@@ -562,7 +629,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -584,29 +651,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "Vlog丨在国产大邮轮上看电影，是这样的感觉……",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32857845",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "自行车赛观众手机越线拍照多人被撞",
-          "url": "https://www.toutiao.com/trending/7622100603209351218/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -644,15 +689,15 @@
           "time_info": "00时41分"
         },
         {
-          "title": "市场监管总局局长罗文：重拳整治直播电商行业乱象",
-          "url": "https://wallstreetcn.com/livenews/3078885",
-          "source": "华尔街见闻-快讯",
+          "title": "贺峻霖辅助教程终于来了",
+          "url": "https://www.douyin.com/hot/2448333",
+          "source": "抖音",
           "ranks": [
-            22
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "11时19分"
         },
         {
           "title": "无意识刷手机其实是你太焦虑了",
@@ -661,7 +706,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -683,7 +728,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
