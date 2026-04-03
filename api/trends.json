@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T15:16:35.931960+08:00",
-  "total_titles_processed": 1187,
+  "generated_at": "2026-04-03T15:20:21.391348+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
@@ -103,8 +103,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[03时03分 ~ 15时16分]"
+          "appearance_count": 17,
+          "time_info": "[03时03分 ~ 15时20分]"
+        },
+        {
+          "title": "霍尔木兹海峡主导市场情绪，WTI原油一度飙升15%，标普、纳指惊险收涨",
+          "url": "https://wallstreetcn.com/articles/3769052",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时40分 ~ 15时20分]"
         },
         {
           "title": "SpaceX被曝已秘密提交IPO申请",
@@ -132,8 +143,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时09分 ~ 15时16分]"
+          "appearance_count": 21,
+          "time_info": "[00时09分 ~ 15时20分]"
         },
         {
           "title": "与辉同行回应带货优思益：全额退款",
@@ -187,19 +198,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时03分 ~ 15时16分]"
-        },
-        {
-          "title": "霍尔木兹海峡主导市场情绪，WTI原油一度飙升15%，标普、纳指惊险收涨",
-          "url": "https://wallstreetcn.com/articles/3769052",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时40分 ~ 15时16分]"
+          "appearance_count": 19,
+          "time_info": "[01时03分 ~ 15时20分]"
         },
         {
           "title": "【每日收评】创业板指低开低走跌超2%，全市场超4300股收绿，油气、医药板块逆势活跃",
@@ -227,8 +227,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时03分 ~ 15时16分]"
+          "appearance_count": 19,
+          "time_info": "[01时03分 ~ 15时20分]"
         },
         {
           "title": "江西乐平市天湖医院解聘全体职工，官方通报称其存在拖欠工资等问题，当前情况如何？职工权益如何保障？",
@@ -300,8 +300,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时09分 ~ 15时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 15时20分]"
         },
         {
           "title": "贾浅浅论文被指涉嫌抄袭其父贾平凹，个别段落时隔 20 年「张冠李戴」重新发表，怎么回事？是否构成抄袭？",
@@ -394,6 +394,20 @@
           "time_info": "[00时09分 ~ 07时40分]"
         },
         {
+          "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
+          "url": "https://www.zhihu.com/question/2023204569811828949",
+          "source": "知乎",
+          "ranks": [
+            10,
+            8,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时40分 ~ 15时20分]"
+        },
+        {
           "title": "杭州市场监管部门对“优思益”幕后推手立案调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_32878014",
           "source": "澎湃新闻",
@@ -432,18 +446,17 @@
           "time_info": "[05时42分 ~ 07时40分]"
         },
         {
-          "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
-          "url": "https://www.zhihu.com/question/2023204569811828949",
-          "source": "知乎",
+          "title": "嘴唇发紫博主被粉丝隔空诊出心脏病",
+          "url": "https://www.baidu.com/s?wd=%E5%98%B4%E5%94%87%E5%8F%91%E7%B4%AB%E5%8D%9A%E4%B8%BB%E8%A2%AB%E7%B2%89%E4%B8%9D%E9%9A%94%E7%A9%BA%E8%AF%8A%E5%87%BA%E5%BF%83%E8%84%8F%E7%97%85",
+          "source": "百度热搜",
           "ranks": [
+            5,
             10,
-            8,
-            3,
-            4
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时40分 ~ 15时16分]"
+          "appearance_count": 6,
+          "time_info": "[10时40分 ~ 15时20分]"
         },
         {
           "title": "与辉同行就带货“优思益”作出回应：全额退款",
@@ -459,6 +472,21 @@
           "time_info": "[06时37分 ~ 13时12分]"
         },
         {
+          "title": "曝「与辉同行」卖优思益销售额超千万，暴露出带货平台选品环节存在哪些问题？产品出问题平台责任如何界定？",
+          "url": "https://www.zhihu.com/question/2023066961702122325",
+          "source": "知乎",
+          "ranks": [
+            11,
+            10,
+            5,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时40分 ~ 15时20分]"
+        },
+        {
           "title": "谷歌最新模型Gemma4发布",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
@@ -469,6 +497,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时40分 ~ 13时12分]"
+        },
+        {
+          "title": "算力太紧俏！英伟达四年前发布的H100租赁费用近半年飙升近40%",
+          "url": "https://www.cls.cn/detail/2334039",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时40分 ~ 15时20分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年4月3日 周五",
@@ -483,17 +523,15 @@
           "time_info": "[00时10分 ~ 07时40分]"
         },
         {
-          "title": "嘴唇发紫博主被粉丝隔空诊出心脏病",
-          "url": "https://www.baidu.com/s?wd=%E5%98%B4%E5%94%87%E5%8F%91%E7%B4%AB%E5%8D%9A%E4%B8%BB%E8%A2%AB%E7%B2%89%E4%B8%9D%E9%9A%94%E7%A9%BA%E8%AF%8A%E5%87%BA%E5%BF%83%E8%84%8F%E7%97%85",
-          "source": "百度热搜",
+          "title": "霸王茶姬疑似被日本抄袭",
+          "url": "https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E7%96%91%E4%BC%BC%E8%A2%AB%E6%97%A5%E6%9C%AC%E6%8A%84%E8%A2%AD&t=31&band_rank=4&Refer=top",
+          "source": "微博",
           "ranks": [
-            5,
-            10,
-            23
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时40分 ~ 15时16分]"
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 15时20分]"
         },
         {
           "title": "美防长要求陆军参谋长辞职并立即退休",
@@ -506,6 +544,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时40分 ~ 10时52分]"
+        },
+        {
+          "title": "100%关税！美对进口专利药再“开火” 迪哲健友等药企独家回应：影响整体可控",
+          "url": "https://www.cls.cn/detail/2334357",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时09分 ~ 15时20分]"
+        },
+        {
+          "title": "“全球最重要的现货原油价格”飙升至140美元以上，2008年以来第一次！",
+          "url": "https://wallstreetcn.com/articles/3769147",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时40分 ~ 15时20分]"
         },
         {
           "title": "美股大类资产类ETF多数收涨，布油基金涨超7.5%",
@@ -544,20 +606,6 @@
           "time_info": "07时40分"
         },
         {
-          "title": "曝「与辉同行」卖优思益销售额超千万，暴露出带货平台选品环节存在哪些问题？产品出问题平台责任如何界定？",
-          "url": "https://www.zhihu.com/question/2023066961702122325",
-          "source": "知乎",
-          "ranks": [
-            11,
-            10,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时40分 ~ 15时16分]"
-        },
-        {
           "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260403040716683800",
           "source": "金十数据",
@@ -570,6 +618,80 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时41分 ~ 06时40分]"
+        },
+        {
+          "title": "超越Meta和特斯拉！SpaceX据悉将IPO目标估值提升至逾2万亿美元",
+          "url": "https://www.cls.cn/detail/2334126",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时40分 ~ 15时20分]"
+        },
+        {
+          "title": "李荣浩方回应恋人抄袭争议",
+          "url": "https://www.douyin.com/hot/2452798",
+          "source": "抖音",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时40分 ~ 15时20分]"
+        },
+        {
+          "title": "明星“伪悔过”的流量闹剧该收场了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32878559",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时40分 ~ 15时20分]"
+        },
+        {
+          "title": "预付15元快递费，不退货可退还！户外品牌巴塔哥尼亚收取“地球使用费”引争议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32883310",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时40分 ~ 15时20分]"
+        },
+        {
+          "title": "《浪姐7》直播 王濛现场吐槽太磨叽",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%B5%AA%E5%A7%907%E3%80%8B%E7%9B%B4%E6%92%AD+%E7%8E%8B%E6%BF%9B%E7%8E%B0%E5%9C%BA%E5%90%90%E6%A7%BD%E5%A4%AA%E7%A3%A8%E5%8F%BD",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时40分 ~ 15时20分]"
+        },
+        {
+          "title": "浪姐7直播乱成一锅粥了",
+          "url": "https://www.douyin.com/hot/2453178",
+          "source": "抖音",
+          "ranks": [
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时40分 ~ 15时20分]"
         },
         {
           "title": "霍尔木兹海峡主导市场情绪，WTI原油飙升，标普、纳指惊险收涨",
@@ -594,29 +716,6 @@
           "time_info": "07时40分"
         },
         {
-          "title": "算力太紧俏！英伟达四年前发布的H100租赁费用近半年飙升近40%",
-          "url": "https://www.cls.cn/detail/2334039",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时40分 ~ 15时16分]"
-        },
-        {
-          "title": "霸王茶姬疑似被日本抄袭",
-          "url": "https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E7%96%91%E4%BC%BC%E8%A2%AB%E6%97%A5%E6%9C%AC%E6%8A%84%E8%A2%AD&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
           "title": "美防长要陆军参谋长“辞职并立即退休”",
           "url": "https://wallstreetcn.com/livenews/3081811",
           "source": "华尔街见闻-快讯",
@@ -630,18 +729,6 @@
           "time_info": "[05时46分 ~ 07时40分]"
         },
         {
-          "title": "100%关税！美对进口专利药再“开火” 迪哲健友等药企独家回应：影响整体可控",
-          "url": "https://www.cls.cn/detail/2334357",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时09分 ~ 15时16分]"
-        },
-        {
           "title": "美联储在固定利率逆回购操作中总计接纳了3个对手方的3.27亿美元。",
           "url": "https://flash.jin10.com/detail/20260403011723128800",
           "source": "金十数据",
@@ -651,18 +738,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
-        },
-        {
-          "title": "“全球最重要的现货原油价格”飙升至140美元以上，2008年以来第一次！",
-          "url": "https://wallstreetcn.com/articles/3769147",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时40分 ~ 15时16分]"
         },
         {
           "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（4月3日）",
@@ -691,68 +766,6 @@
           "time_info": "[04时41分 ~ 06时40分]"
         },
         {
-          "title": "超越Meta和特斯拉！SpaceX据悉将IPO目标估值提升至逾2万亿美元",
-          "url": "https://www.cls.cn/detail/2334126",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时40分 ~ 15时16分]"
-        },
-        {
-          "title": "李荣浩方回应恋人抄袭争议",
-          "url": "https://www.douyin.com/hot/2452798",
-          "source": "抖音",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时40分 ~ 15时16分]"
-        },
-        {
-          "title": "明星“伪悔过”的流量闹剧该收场了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32878559",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时40分 ~ 15时16分]"
-        },
-        {
-          "title": "预付15元快递费，不退货可退还！户外品牌巴塔哥尼亚收取“地球使用费”引争议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32883310",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时40分 ~ 15时16分]"
-        },
-        {
-          "title": "《浪姐7》直播 王濛现场吐槽太磨叽",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%B5%AA%E5%A7%907%E3%80%8B%E7%9B%B4%E6%92%AD+%E7%8E%8B%E6%BF%9B%E7%8E%B0%E5%9C%BA%E5%90%90%E6%A7%BD%E5%A4%AA%E7%A3%A8%E5%8F%BD",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时40分 ~ 15时16分]"
-        },
-        {
           "title": "李荣浩方否认恋人抄袭",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A9%E6%96%B9%E5%90%A6%E8%AE%A4%E6%81%8B%E4%BA%BA%E6%8A%84%E8%A2%AD%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -765,18 +778,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时09分 ~ 03时03分]"
-        },
-        {
-          "title": "浪姐7直播乱成一锅粥了",
-          "url": "https://www.douyin.com/hot/2453178",
-          "source": "抖音",
-          "ranks": [
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时40分 ~ 15时16分]"
         },
         {
           "title": "美国投资级债券基金在4月1日当周面临53.5亿美元资金外流，创2025年4月中旬以来最大单周赎回。 宏观经济风险加重，造成这类资产大幅亏损。",
@@ -804,6 +805,42 @@
           "time_info": "[01时54分 ~ 03时03分]"
         },
         {
+          "title": "七界梦谭二测PV首发",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%83%E7%95%8C%E6%A2%A6%E8%B0%AD%E4%BA%8C%E6%B5%8BPV%E9%A6%96%E5%8F%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时09分 ~ 15时20分]"
+        },
+        {
+          "title": "黄灿灿浪姐直播闯祸",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%81%BF%E7%81%BF%E6%B5%AA%E5%A7%90%E7%9B%B4%E6%92%AD%E9%97%AF%E7%A5%B8%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时09分 ~ 15时20分]"
+        },
+        {
+          "title": "意大利足协主席引咎辞职",
+          "url": "https://news.ifeng.com/c/8s14MIDan6P",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时09分 ~ 15时20分]"
+        },
+        {
           "title": "陈畅说李小冉靠一张脸在北舞躺平七年",
           "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E7%95%85%E8%AF%B4%E6%9D%8E%E5%B0%8F%E5%86%89%E9%9D%A0%E4%B8%80%E5%BC%A0%E8%84%B8%E5%9C%A8%E5%8C%97%E8%88%9E%E8%BA%BA%E5%B9%B3%E4%B8%83%E5%B9%B4%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -817,6 +854,42 @@
           "time_info": "[10时40分 ~ 13时12分]"
         },
         {
+          "title": "职场和不同人打招呼方式有哪些",
+          "url": "https://www.toutiao.com/trending/7624251588123066422/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时09分 ~ 15时20分]"
+        },
+        {
+          "title": "女儿情舞蹈挑战",
+          "url": "https://www.douyin.com/hot/2453229",
+          "source": "抖音",
+          "ranks": [
+            22,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时09分 ~ 15时20分]"
+        },
+        {
+          "title": "卢昱晓和平百变新娘变装挑战",
+          "url": "https://www.douyin.com/hot/2453514",
+          "source": "抖音",
+          "ranks": [
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时09分 ~ 15时20分]"
+        },
+        {
           "title": "提醒：日内请重点关注（以下均为北京时间）",
           "url": "https://wallstreetcn.com/livenews/3081827",
           "source": "华尔街见闻-快讯",
@@ -827,18 +900,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时40分 ~ 13时12分]"
-        },
-        {
-          "title": "七界梦谭二测PV首发",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%83%E7%95%8C%E6%A2%A6%E8%B0%AD%E4%BA%8C%E6%B5%8BPV%E9%A6%96%E5%8F%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时09分 ~ 15时16分]"
         },
         {
           "title": "据CBS：美国国防部长赫格塞思已要求陆军参谋长兰迪·乔治将军辞职并立即退役。",
@@ -854,41 +915,6 @@
           "time_info": "[04时41分 ~ 05时46分]"
         },
         {
-          "title": "黄灿灿浪姐直播闯祸",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%81%BF%E7%81%BF%E6%B5%AA%E5%A7%90%E7%9B%B4%E6%92%AD%E9%97%AF%E7%A5%B8%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时09分 ~ 15时16分]"
-        },
-        {
-          "title": "意大利足协主席引咎辞职",
-          "url": "https://news.ifeng.com/c/8s14MIDan6P",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时09分 ~ 15时16分]"
-        },
-        {
-          "title": "职场和不同人打招呼方式有哪些",
-          "url": "https://www.toutiao.com/trending/7624251588123066422/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时09分 ~ 15时16分]"
-        },
-        {
           "title": "美联储威廉姆斯：美联储正密切关注私营部门，未见系统性风险。",
           "url": "https://flash.jin10.com/detail/20260403035709877800",
           "source": "金十数据",
@@ -902,30 +928,6 @@
           "time_info": "[04时41分 ~ 05时46分]"
         },
         {
-          "title": "女儿情舞蹈挑战",
-          "url": "https://www.douyin.com/hot/2453229",
-          "source": "抖音",
-          "ranks": [
-            22,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时09分 ~ 15时16分]"
-        },
-        {
-          "title": "卢昱晓和平百变新娘变装挑战",
-          "url": "https://www.douyin.com/hot/2453514",
-          "source": "抖音",
-          "ranks": [
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时09分 ~ 15时16分]"
-        },
-        {
           "title": "3人兜售艺人隐私信息被抓获",
           "url": "https://search.bilibili.com/all?keyword=3%E4%BA%BA%E5%85%9C%E5%94%AE%E8%89%BA%E4%BA%BA%E9%9A%90%E7%A7%81%E4%BF%A1%E6%81%AF%E8%A2%AB%E6%8A%93%E8%8E%B7",
           "source": "bilibili 热搜",
@@ -935,6 +937,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时09分 ~ 00时10分]"
+        },
+        {
+          "title": "美陆军参谋长被勒令辞职",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E9%99%86%E5%86%9B%E5%8F%82%E8%B0%8B%E9%95%BF%E8%A2%AB%E5%8B%92%E4%BB%A4%E8%BE%9E%E8%81%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 15时20分]"
+        },
+        {
+          "title": "小伙网恋因一顿外卖15天闪婚",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E7%BD%91%E6%81%8B%E5%9B%A0%E4%B8%80%E9%A1%BF%E5%A4%96%E5%8D%9615%E5%A4%A9%E9%97%AA%E5%A9%9A%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 15时20分]"
         },
         {
           "title": "最新险资重仓股名单出炉 38股获险资新进重仓",
@@ -960,6 +985,18 @@
           "time_info": "[10时40分 ~ 10时52分]"
         },
         {
+          "title": "上证指数收报3880.10点，跌1.00%。 深证成指收报13352.90点，跌0.99%。 创业板指收报3149.60点，跌0.73%。 沪深300收报4440.79点，跌0.85%。 科创50收报1256.21点，跌0.47%。 中证500收报7534.94点，跌0.93%。 中证1000收报7536.60点，跌1.14%。",
+          "url": "https://wallstreetcn.com/livenews/3082033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 15时20分]"
+        },
+        {
           "title": "工信部等七部门发布《加力推进石化化工行业老旧装置更新改造行动方案（2026—2029年）》",
           "url": "https://wallstreetcn.com/livenews/3081905",
           "source": "华尔街见闻-快讯",
@@ -982,6 +1019,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时03分 ~ 01时54分]"
+        },
+        {
+          "title": "中国上证综指4月3日（周五）收盘下跌39.19点，跌幅：1%，报3880.1点；<br/>中国深证成指4月3日（周五）收盘下跌134.03点，跌幅：0.99%，报13352.9点；<br/>中国沪深300指数4月3日（周五）收盘下跌38.13点，跌幅：0.85%，报4440.79点；<br/>中国创业板指数4月3日（周五）收盘下跌23.05点，跌幅：0.73%，报3149.6点；<br/>中国科创50指数4月3日（周五）收盘下跌5.97点，跌幅：0.47%，报1256.21点。",
+          "url": "https://flash.jin10.com/detail/20260403150215723800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 15时20分]"
         },
         {
           "title": "特朗普演说后，美油价差飙升至历史纪录水平",
@@ -1018,6 +1066,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时40分 ~ 10时52分]"
+        },
+        {
+          "title": "李亚鹏回应张雪想捐车给嫣然基金",
+          "url": "https://www.toutiao.com/trending/7623394258189762623/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 15时20分]"
         },
         {
           "title": "谢娜回应《乘风2026》直播节奏慢",
@@ -1065,6 +1124,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时03分 ~ 01时54分]"
+        },
+        {
+          "title": "流量退去之后｜“刨猪宴”热潮退去，呆呆依旧想守住初衷",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32880659",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 15时20分]"
         },
         {
           "title": "博主嘴唇发紫粉丝隔空诊出心脏病",
@@ -1173,39 +1243,6 @@
           "time_info": "[00时09分 ~ 00时10分]"
         },
         {
-          "title": "美陆军参谋长被勒令辞职",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E9%99%86%E5%86%9B%E5%8F%82%E8%B0%8B%E9%95%BF%E8%A2%AB%E5%8B%92%E4%BB%A4%E8%BE%9E%E8%81%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "上证指数收报3880.10点，跌1.00%。 深证成指收报13352.90点，跌0.99%。 创业板指收报3149.60点，跌0.73%。 沪深300收报4440.79点，跌0.85%。 科创50收报1256.21点，跌0.47%。 中证500收报7534.94点，跌0.93%。 中证1000收报7536.60点，跌1.14%。",
-          "url": "https://wallstreetcn.com/livenews/3082033",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "小伙网恋因一顿外卖15天闪婚",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E7%BD%91%E6%81%8B%E5%9B%A0%E4%B8%80%E9%A1%BF%E5%A4%96%E5%8D%9615%E5%A4%A9%E9%97%AA%E5%A9%9A%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
           "title": "特朗普放狠话加剧冲突，美油暴涨超13%，即期布油飙破140美元，金银现“踩踏式撤退”。伊朗释放霍尔木兹协议信号，市场巨震不止.....后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20260403103102775800",
           "source": "金十数据",
@@ -1226,17 +1263,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
-        },
-        {
-          "title": "中国上证综指4月3日（周五）收盘下跌39.19点，跌幅：1%，报3880.1点；<br/>中国深证成指4月3日（周五）收盘下跌134.03点，跌幅：0.99%，报13352.9点；<br/>中国沪深300指数4月3日（周五）收盘下跌38.13点，跌幅：0.85%，报4440.79点；<br/>中国创业板指数4月3日（周五）收盘下跌23.05点，跌幅：0.73%，报3149.6点；<br/>中国科创50指数4月3日（周五）收盘下跌5.97点，跌幅：0.47%，报1256.21点。",
-          "url": "https://flash.jin10.com/detail/20260403150215723800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时16分"
         },
         {
           "title": "中小银行理财整改大限前监管口径有所模糊",
@@ -1281,17 +1307,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
-        },
-        {
-          "title": "李亚鹏回应张雪想捐车给嫣然基金",
-          "url": "https://www.toutiao.com/trending/7623394258189762623/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时16分"
         },
         {
           "title": "据悉城堡全球固定收益基金在三月份下跌了8.2%",
@@ -1347,17 +1362,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
-        },
-        {
-          "title": "流量退去之后｜“刨猪宴”热潮退去，呆呆依旧想守住初衷",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32880659",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时16分"
         },
         {
           "title": "消息人士称，SpaceX已与沙特公共投资基金就2026年IPO的基石投资进行洽谈。一家沙特基金正考虑在SpaceX的IPO中认购50亿美元的基石投资。",
@@ -1421,7 +1425,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -1443,7 +1447,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         }
