@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T22:38:05.751861+08:00",
-  "total_titles_processed": 1543,
+  "generated_at": "2026-04-04T23:38:08.377970+08:00",
+  "total_titles_processed": 1599,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 114,
+      "match_count": 118,
       "titles": [
         {
           "title": "文旅体验刷新背后有项大部署",
@@ -54,8 +54,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[10时32分 ~ 22时38分]"
+          "appearance_count": 23,
+          "time_info": "[10时32分 ~ 23时38分]"
         },
         {
           "title": "央行将开展8000亿元买断式逆回购",
@@ -119,20 +119,6 @@
           "time_info": "[06时38分 ~ 19时34分]"
         },
         {
-          "title": "我 42 岁的朋友去一家公司面试，面试官说了一句，你都这么大年纪还在找工作？该如何回答？",
-          "url": "https://www.zhihu.com/question/2023309601903322192",
-          "source": "知乎",
-          "ranks": [
-            9,
-            5,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[12时54分 ~ 22时38分]"
-        },
-        {
           "title": "分享我的装修日记",
           "url": "https://www.douyin.com/hot/2454350",
           "source": "抖音",
@@ -161,6 +147,21 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[15时14分 ~ 19时34分]"
+        },
+        {
+          "title": "我 42 岁的朋友去一家公司面试，面试官说了一句，你都这么大年纪还在找工作？该如何回答？",
+          "url": "https://www.zhihu.com/question/2023309601903322192",
+          "source": "知乎",
+          "ranks": [
+            9,
+            5,
+            8,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[12时54分 ~ 23时38分]"
         },
         {
           "title": "远看以为是公厕 走近一看是咖啡店",
@@ -212,6 +213,19 @@
           "time_info": "[00时46分 ~ 17时47分]"
         },
         {
+          "title": "NASA 公布阿尔忒弥斯 2 号上拍摄的地球照片，哪些细节值得关注？",
+          "url": "https://www.zhihu.com/question/2023728435508381108",
+          "source": "知乎",
+          "ranks": [
+            11,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时34分 ~ 23时38分]"
+        },
+        {
           "title": "还是这个热门赛道！又一10倍股出炉，CPO板块高热持续，融资客近日加仓这些",
           "url": "https://www.cls.cn/detail/2334834",
           "source": "财联社热门",
@@ -250,8 +264,23 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[07时39分 ~ 22时38分]"
+          "appearance_count": 24,
+          "time_info": "[07时39分 ~ 23时38分]"
+        },
+        {
+          "title": "挑战一天写完清明作业",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E4%B8%80%E5%A4%A9%E5%86%99%E5%AE%8C%E6%B8%85%E6%98%8E%E4%BD%9C%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            19,
+            6,
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时39分 ~ 23时38分]"
         },
         {
           "title": "跳水队群聊抓马,队员潜伏黑粉群",
@@ -267,8 +296,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 35,
-          "time_info": "[00时46分 ~ 22时38分]"
+          "appearance_count": 37,
+          "time_info": "[00时46分 ~ 23时38分]"
         },
         {
           "title": "40岁男子AI成瘾无法接受版本更新",
@@ -414,6 +443,22 @@
           "time_info": "[00时46分 ~ 06时39分]"
         },
         {
+          "title": "陈美嘉仿妆挑战",
+          "url": "https://www.douyin.com/hot/2455055",
+          "source": "抖音",
+          "ranks": [
+            21,
+            18,
+            19,
+            20,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[17时43分 ~ 23时38分]"
+        },
+        {
           "title": "王濛《浪姐》直播全是名场面",
           "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%BF%9B%E3%80%8A%E6%B5%AA%E5%A7%90%E3%80%8B%E7%9B%B4%E6%92%AD%E5%85%A8%E6%98%AF%E5%90%8D%E5%9C%BA%E9%9D%A2",
           "source": "百度热搜",
@@ -493,6 +538,20 @@
           "time_info": "[00时46分 ~ 07时39分]"
         },
         {
+          "title": "浪姐乐子盘点",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B5%AA%E5%A7%90%E4%B9%90%E5%AD%90%E7%9B%98%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            18,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时39分 ~ 23时38分]"
+        },
+        {
           "title": "【焦点复盘】创业板指缩量调整录得4连阴，两市成交跌破1.7万亿创年内地量，资金持续抱团光通信概念",
           "url": "https://www.cls.cn/detail/2334798",
           "source": "财联社热门",
@@ -503,21 +562,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[03时43分 ~ 07时39分]"
-        },
-        {
-          "title": "陈美嘉仿妆挑战",
-          "url": "https://www.douyin.com/hot/2455055",
-          "source": "抖音",
-          "ranks": [
-            21,
-            18,
-            19,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时43分 ~ 22时38分]"
         },
         {
           "title": "女儿情舞蹈挑战",
@@ -533,20 +577,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时46分 ~ 04时44分]"
-        },
-        {
-          "title": "挑战一天写完清明作业",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E4%B8%80%E5%A4%A9%E5%86%99%E5%AE%8C%E6%B8%85%E6%98%8E%E4%BD%9C%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            19,
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时39分 ~ 22时38分]"
         },
         {
           "title": "美国总统特朗普最新发文称，保留石油，有人一起吗？",
@@ -629,6 +659,19 @@
           "time_info": "[04时42分 ~ 07时39分]"
         },
         {
+          "title": "咕噜耄的青年大学习合集",
+          "url": "https://search.bilibili.com/all?keyword=%E5%92%95%E5%99%9C%E8%80%84%E7%9A%84%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0%E5%90%88%E9%9B%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时04分 ~ 23时38分]"
+        },
+        {
           "title": "伊朗驳斥“防空系统已被摧毁”的说法 公布最新战果",
           "url": "https://flash.jin10.com/detail/20260404035850403800",
           "source": "金十数据",
@@ -640,32 +683,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时42分 ~ 07时39分]"
-        },
-        {
-          "title": "NASA 公布阿尔忒弥斯 2 号上拍摄的地球照片，哪些细节值得关注？",
-          "url": "https://www.zhihu.com/question/2023728435508381108",
-          "source": "知乎",
-          "ranks": [
-            11,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时34分 ~ 22时38分]"
-        },
-        {
-          "title": "浪姐乐子盘点",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B5%AA%E5%A7%90%E4%B9%90%E5%AD%90%E7%9B%98%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            18,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时39分 ~ 22时38分]"
         },
         {
           "title": "正直播CBA焦点战：广东VS浙江",
@@ -702,6 +719,33 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[17时43分 ~ 21时09分]"
+        },
+        {
+          "title": "做小生意真的比打工强吗？",
+          "url": "https://www.zhihu.com/question/22394536",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时34分 ~ 23时38分]"
+        },
+        {
+          "title": "吃春笋你有什么好菜谱",
+          "url": "https://www.toutiao.com/trending/7624544382276550692/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时34分 ~ 23时38分]"
         },
         {
           "title": "七界梦谭二测PV首发",
@@ -774,23 +818,25 @@
           "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%A2%AB%E7%B2%89%E4%B8%9D%E8%AF%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E5%88%92%E6%B0%B4%E4%B8%80%E5%B0%8F%E6%97%B6%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时37分 ~ 22时38分]"
-        },
-        {
-          "title": "咕噜耄的青年大学习合集",
-          "url": "https://search.bilibili.com/all?keyword=%E5%92%95%E5%99%9C%E8%80%84%E7%9A%84%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0%E5%90%88%E9%9B%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            26
+            4,
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[21时04分 ~ 22时38分]"
+          "time_info": "[22时37分 ~ 23时38分]"
+        },
+        {
+          "title": "酒店员工提醒小孩别玩旋转门家长报警",
+          "url": "https://www.toutiao.com/trending/7624546269884694571/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时04分 ~ 23时38分]"
         },
         {
           "title": "南非新政延长签证宽限期 将刺激旅游市场",
@@ -948,32 +994,6 @@
           "time_info": "[12时54分 ~ 15时53分]"
         },
         {
-          "title": "做小生意真的比打工强吗？",
-          "url": "https://www.zhihu.com/question/22394536",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时34分 ~ 22时38分]"
-        },
-        {
-          "title": "吃春笋你有什么好菜谱",
-          "url": "https://www.toutiao.com/trending/7624544382276550692/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时34分 ~ 22时38分]"
-        },
-        {
           "title": "OpenAI在冲刺IPO的关键时刻，高管层大重组",
           "url": "https://wallstreetcn.com/livenews/3082422",
           "source": "华尔街见闻-快讯",
@@ -1048,16 +1068,16 @@
           "time_info": "[06时39分 ~ 07时39分]"
         },
         {
-          "title": "酒店员工提醒小孩别玩旋转门家长报警",
-          "url": "https://www.toutiao.com/trending/7624546269884694571/",
-          "source": "今日头条",
+          "title": "高盛对冲基金业务主管：对“多空”都没信心，但股市的全面考验还没来",
+          "url": "https://wallstreetcn.com/articles/3769242",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            13
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[21时04分 ~ 22时38分]"
+          "time_info": "[22时37分 ~ 23时38分]"
         },
         {
           "title": "南非新政延长签证宽限期 将刺激旅游市场",
@@ -1085,6 +1105,17 @@
           "time_info": "[15时14分 ~ 15时53分]"
         },
         {
+          "title": "倪萍回应被骂上热搜",
+          "url": "https://www.baidu.com/s?wd=%E5%80%AA%E8%90%8D%E5%9B%9E%E5%BA%94%E8%A2%AB%E9%AA%82%E4%B8%8A%E7%83%AD%E6%90%9C",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时37分 ~ 23时38分]"
+        },
+        {
           "title": "春日吃榆钱你有什么好菜谱",
           "url": "https://www.toutiao.com/trending/7624684141925154822/",
           "source": "今日头条",
@@ -1094,6 +1125,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[21时04分 ~ 22时38分]"
+        },
+        {
+          "title": "评论员：日本正修宽通往战争的道路",
+          "url": "https://www.toutiao.com/trending/7624873205446082603/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时37分 ~ 23时38分]"
         },
         {
           "title": "平价显瘦的春夏半身裙分享",
@@ -1199,6 +1241,17 @@
           "time_info": "[14时01分 ~ 18时41分]"
         },
         {
+          "title": "外卖放地上顾客嫌脏 骑手被扣钱扣分",
+          "url": "https://www.toutiao.com/trending/7624363028432355369/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时37分 ~ 23时38分]"
+        },
+        {
           "title": "截止至3月31日当周CFTC商品类商业持仓报告在金十数据中心更新啦！欢迎点击查看>>",
           "url": "https://flash.jin10.com/detail/20260404040027453800",
           "source": "金十数据",
@@ -1209,17 +1262,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时39分]"
-        },
-        {
-          "title": "高盛对冲基金业务主管：对“多空”都没信心，但股市的全面考验还没来",
-          "url": "https://wallstreetcn.com/articles/3769242",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时37分 ~ 22时38分]"
         },
         {
           "title": "特朗普发布2027预算提案，国防开支飙升50%至1.5万亿美元",
@@ -1268,17 +1310,6 @@
           "time_info": "[15时15分 ~ 15时53分]"
         },
         {
-          "title": "倪萍回应被骂上热搜",
-          "url": "https://www.baidu.com/s?wd=%E5%80%AA%E8%90%8D%E5%9B%9E%E5%BA%94%E8%A2%AB%E9%AA%82%E4%B8%8A%E7%83%AD%E6%90%9C",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时37分 ~ 22时38分]"
-        },
-        {
           "title": "杀戮尖塔2测试版更新有何改动",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%80%E6%88%AE%E5%B0%96%E5%A1%942%E6%B5%8B%E8%AF%95%E7%89%88%E6%9B%B4%E6%96%B0%E6%9C%89%E4%BD%95%E6%94%B9%E5%8A%A8",
           "source": "bilibili 热搜",
@@ -1300,6 +1331,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时15分 ~ 15时53分]"
+        },
+        {
+          "title": "无限超越班开播",
+          "url": "https://www.douyin.com/hot/2455365",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时37分 ~ 23时38分]"
         },
         {
           "title": "4月3日芝加哥商业交易所（CME）外汇类商品成交量报告已在金十数据中心更新！欢迎点击查看",
@@ -1348,6 +1390,17 @@
           "time_info": "[06时38分 ~ 06时39分]"
         },
         {
+          "title": "张雪晒最新量产车",
+          "url": "https://www.douyin.com/hot/2455490",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时37分 ~ 23时38分]"
+        },
+        {
           "title": "解决了辣条的油腻和减脂餐的清淡",
           "url": "https://s.weibo.com/weibo?q=%E8%A7%A3%E5%86%B3%E4%BA%86%E8%BE%A3%E6%9D%A1%E7%9A%84%E6%B2%B9%E8%85%BB%E5%92%8C%E5%87%8F%E8%84%82%E9%A4%90%E7%9A%84%E6%B8%85%E6%B7%A1&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -1357,6 +1410,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时39分 ~ 18时41分]"
+        },
+        {
+          "title": "黄晓明晒和儿子春日骑行照",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E6%99%92%E5%92%8C%E5%84%BF%E5%AD%90%E6%98%A5%E6%97%A5%E9%AA%91%E8%A1%8C%E7%85%A7%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时37分 ~ 23时38分]"
         },
         {
           "title": "据福克斯新闻：美联航确认，从周五开始，购买机票的旅客托运行李费用将上涨10美元，达到50美元。",
@@ -1413,17 +1477,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时47分 ~ 00时51分]"
-        },
-        {
-          "title": "评论员：日本正修宽通往战争的道路",
-          "url": "https://www.toutiao.com/trending/7624873205446082603/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时37分 ~ 22时38分]"
         },
         {
           "title": "恒信东方：因2022年年报存在虚假记载被实施其他风险警示 股票简称变更为“ST恒信”",
