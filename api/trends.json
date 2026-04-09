@@ -1,576 +1,44 @@
 {
-  "generated_at": "2026-04-09T23:45:24.569428+08:00",
-  "total_titles_processed": 1903,
+  "generated_at": "2026-04-10T01:15:55.545262+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 148,
+      "match_count": 30,
       "titles": [
         {
           "title": "程序员辞职摆摊卖肉蛋堡月入 5 万，日均销量超 1000 个，真的这么挣钱吗？有哪些经验能复用？",
           "url": "https://www.zhihu.com/question/2025352018017952625",
           "source": "知乎",
           "ranks": [
-            4,
-            3,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时29分 ~ 23时45分]"
+          "appearance_count": 1,
+          "time_info": "01时15分"
         },
         {
-          "title": "神秘新模型 HappyHorse-1.0「欢乐马」空降业内测评榜第一名，其表现如何？可能是谁？",
-          "url": "https://www.zhihu.com/question/2025220640467152983",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时09分 ~ 13时18分]"
-        },
-        {
-          "title": "体验西双版纳的泼水文化",
-          "url": "https://www.douyin.com/hot/2459124",
-          "source": "抖音",
-          "ranks": [
-            4,
-            2,
-            1,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[13时14分 ~ 23时45分]"
-        },
-        {
-          "title": "破解地面算力“能耗焦虑”，太空算力产业生态提速构建",
-          "url": "https://www.cls.cn/detail/2338372",
+          "title": "业绩行情持续发酵！千亿龙头连获涨停，季报预告逐步开启，绩优高增个股盘点",
+          "url": "https://www.cls.cn/detail/2339308",
           "source": "财联社热门",
           "ranks": [
-            3,
-            2,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时09分 ~ 10时39分]"
-        },
-        {
-          "title": "如何看待考研卡尔五战武汉大学失败？",
-          "url": "https://www.zhihu.com/question/2024959101986153187",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时14分 ~ 19时04分]"
-        },
-        {
-          "title": "焦点访谈丨虚报77亿、9.6亿投资凭空造，河南三地曝出数据造假",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32927480",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            9,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[01时09分 ~ 19时04分]"
-        },
-        {
-          "title": "IG战胜NIP",
-          "url": "https://search.bilibili.com/all?keyword=IG%20NIP",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            2,
-            1,
-            3,
-            7,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时09分 ~ 13时18分]"
-        },
-        {
-          "title": "全红婵等运动员遭受网暴，体育总局已与广东省体育局联合核查，全红婵所在训练中心已报警，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2025193360156112248",
-          "source": "知乎",
-          "ranks": [
-            17,
-            1,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时09分 ~ 07时43分]"
-        },
-        {
-          "title": "地平线6首发试玩体验报告",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%B0%E5%B9%B3%E7%BA%BF6%E9%A6%96%E5%8F%91%E8%AF%95%E7%8E%A9%E4%BD%93%E9%AA%8C%E6%8A%A5%E5%91%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            30,
-            8,
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时09分 ~ 13时18分]"
-        },
-        {
-          "title": "云南一医院太平间招聘要求大专能搬尸体，录用需经笔试面试，这种门槛有必要吗？为什么一则招聘令网友吵翻了？",
-          "url": "https://www.zhihu.com/question/2025243216312623351",
-          "source": "知乎",
-          "ranks": [
-            14,
-            15,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[04时51分 ~ 13时18分]"
-        },
-        {
-          "title": "特朗普最后一刻TACO：中间人来回传话，一天内多轮修改方案，伊朗高层最终拍板，幕后一片混乱",
-          "url": "https://wallstreetcn.com/articles/3769471",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时09分 ~ 15时48分]"
-        },
-        {
-          "title": "以色列政坛集体破防",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%94%BF%E5%9D%9B%E9%9B%86%E4%BD%93%E7%A0%B4%E9%98%B2%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            13,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时39分 ~ 15时48分]"
-        },
-        {
-          "title": "网友住酒店发现装饰画后是门，直通楼梯间，店员称是建筑预留检修通道，这合理吗？住酒店该检查哪些隐藏角落？",
-          "url": "https://www.zhihu.com/question/2024555205883158940",
-          "source": "知乎",
-          "ranks": [
-            19,
-            8,
-            10,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时09分 ~ 15时48分]"
-        },
-        {
-          "title": "奶茶店不招纹身者,网友:管太宽",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353003&amp;topic_name=%E5%A5%B6%E8%8C%B6%E5%BA%97%E4%B8%8D%E6%8B%9B%E7%BA%B9%E8%BA%AB%E8%80%85%2C%E7%BD%91%E5%8F%8B%3A%E7%AE%A1%E5%A4%AA%E5%AE%BD",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时14分 ~ 23时45分]"
-        },
-        {
-          "title": "评论｜面对网暴黑手，如何为运动员编织防护网",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32926995",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            14,
-            9,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[01时09分 ~ 19时04分]"
-        },
-        {
-          "title": "挑战用GLM-5.1实现全自动开发",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E7%94%A8GLM-5.1%E5%AE%9E%E7%8E%B0%E5%85%A8%E8%87%AA%E5%8A%A8%E5%BC%80%E5%8F%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            26,
-            22,
-            20,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[10时39分 ~ 23时45分]"
-        },
-        {
-          "title": "项羽老家宿迁邀何润东助阵苏超，按这个思路，你推荐其他「十二太保」请哪位代言人？",
-          "url": "https://www.zhihu.com/question/2024876814275802127",
-          "source": "知乎",
-          "ranks": [
-            9,
-            10,
-            14,
-            15,
-            16,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时09分 ~ 10时51分]"
-        },
-        {
-          "title": "达利欧最新长文：世界大战“已开场”，五年内爆发概率超过50%",
-          "url": "https://wallstreetcn.com/articles/3769460",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时09分 ~ 13时18分]"
-        },
-        {
-          "title": "吹嘘伊朗乞求停火，美防长被打脸：是特朗普先退了",
-          "url": "https://news.ifeng.com/c/8sALx5qaI3W",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时39分 ~ 15时48分]"
-        },
-        {
-          "title": "35岁程序员辞职卖肉蛋堡月入5万",
-          "url": "https://www.baidu.com/s?wd=35%E5%B2%81%E7%A8%8B%E5%BA%8F%E5%91%98%E8%BE%9E%E8%81%8C%E5%8D%96%E8%82%89%E8%9B%8B%E5%A0%A1%E6%9C%88%E5%85%A55%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时09分 ~ 06时51分]"
-        },
-        {
-          "title": "马上评｜洲际酒店的霸王条款该收场了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32926112",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时39分 ~ 19时04分]"
-        },
-        {
-          "title": "尴尬！万斯演讲现场给特朗普打电话，手机那头传来：对不起…",
-          "url": "https://v.ifeng.com/c/8s9rZeXMBcT",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时09分 ~ 10时51分]"
-        },
-        {
-          "title": "“莫氏鸡煲”爆红出圈一鸡难求？ A股千亿巨头主动“送鸡”接流量",
-          "url": "https://www.cls.cn/detail/2338241",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时09分 ~ 07时43分]"
-        },
-        {
-          "title": "作为职场人，如何看待于东来所说「有个房子100来平、有个车开、有几十万存款，就是最幸福的人生」？",
-          "url": "https://www.zhihu.com/question/2024897334597756436",
-          "source": "知乎",
-          "ranks": [
-            10,
-            14,
-            15,
-            16,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时09分 ~ 07时43分]"
-        },
-        {
-          "title": "洲际酒店的霸王条款该收场了",
-          "url": "https://www.baidu.com/s?wd=%E6%B4%B2%E9%99%85%E9%85%92%E5%BA%97%E7%9A%84%E9%9C%B8%E7%8E%8B%E6%9D%A1%E6%AC%BE%E8%AF%A5%E6%94%B6%E5%9C%BA%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            10,
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时23分 ~ 07时43分]"
-        },
-        {
-          "title": "留子美食挑战赛还是太权威了",
-          "url": "https://www.douyin.com/hot/2460220",
-          "source": "抖音",
-          "ranks": [
-            16,
-            13,
-            10,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时14分 ~ 19时04分]"
-        },
-        {
-          "title": "外交部回应特朗普认为是中国促使伊朗同意停火，「中方一直积极致力于促和止战」，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2025238372327723742",
-          "source": "知乎",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时50分 ~ 17时18分]"
-        },
-        {
-          "title": "李佳琦说可能缺席两个季度直播",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E8%AF%B4%E5%8F%AF%E8%83%BD%E7%BC%BA%E5%B8%AD%E4%B8%A4%E4%B8%AA%E5%AD%A3%E5%BA%A6%E7%9B%B4%E6%92%AD%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时09分 ~ 07时43分]"
-        },
-        {
-          "title": "网友扒出周杰伦抄袭对比，连《晴天》《烟花易冷》都疑似抄袭国外歌曲，是这样吗？核心节奏重合算抄袭吗？",
-          "url": "https://www.zhihu.com/question/2024876134207153769",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时09分 ~ 07时43分]"
-        },
-        {
-          "title": "中专战队挑战BLG无畏契约青训",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E4%B8%93%E6%88%98%E9%98%9F%E6%8C%91%E6%88%98BLG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E9%9D%92%E8%AE%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            14,
-            18,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时09分 ~ 15时48分]"
-        },
-        {
-          "title": "周杰伦到底有没有抄袭",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%88%B0%E5%BA%95%E6%9C%89%E6%B2%A1%E6%9C%89%E6%8A%84%E8%A2%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            26,
-            25,
-            28,
-            30,
-            15,
-            19,
-            21,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[01时09分 ~ 23时45分]"
-        },
-        {
-          "title": "考研五战985,复试0分被刷",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352897&amp;topic_name=%E8%80%83%E7%A0%94%E4%BA%94%E6%88%98985%2C%E5%A4%8D%E8%AF%950%E5%88%86%E8%A2%AB%E5%88%B7",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            17,
-            19,
-            20,
-            23,
-            24,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[01时09分 ~ 23时45分]"
-        },
-        {
-          "title": "电视剧创作要避免颜值流量依赖",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E8%A7%86%E5%89%A7%E5%88%9B%E4%BD%9C%E8%A6%81%E9%81%BF%E5%85%8D%E9%A2%9C%E5%80%BC%E6%B5%81%E9%87%8F%E4%BE%9D%E8%B5%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            18,
-            17,
-            22,
-            16,
-            19,
-            21,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[01时09分 ~ 22时15分]"
-        },
-        {
-          "title": "杨紫复仇摇一键上头",
-          "url": "https://www.douyin.com/hot/2459335",
-          "source": "抖音",
-          "ranks": [
-            26,
-            28,
-            25,
-            24,
-            19,
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时09分 ~ 13时18分]"
-        },
-        {
-          "title": "薛之谦万兽之王的幕后三分半",
-          "url": "https://www.douyin.com/hot/2459942",
-          "source": "抖音",
-          "ranks": [
-            23,
-            24,
-            22,
-            30,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时23分 ~ 17时18分]"
-        },
-        {
-          "title": "浪姐16小时看点全盘点",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B5%AA%E5%A7%9016%E5%B0%8F%E6%97%B6%E7%9C%8B%E7%82%B9%E5%85%A8%E7%9B%98%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            20,
-            19,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时09分 ~ 07时43分]"
-        },
-        {
-          "title": "金子涵直播疑似求救",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E7%9B%B4%E6%92%AD%E7%96%91%E4%BC%BC%E6%B1%82%E6%95%91%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[03时23分 ~ 17时18分]"
-        },
-        {
-          "title": "LKs 谁是理财王",
-          "url": "https://search.bilibili.com/all?keyword=LKs%20%E8%B0%81%E6%98%AF%E7%90%86%E8%B4%A2%E7%8E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            28,
-            21,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时09分 ~ 07时43分]"
+          "appearance_count": 1,
+          "time_info": "01时15分"
         },
         {
           "title": "日本 73 岁工程师向中国车企投递简历，这份活到老干到老的劲头带来哪些触动？HR 公开其简历侵犯隐私了吗？",
           "url": "https://www.zhihu.com/question/2025327406819407576",
           "source": "知乎",
           "ranks": [
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时50分 ~ 23时45分]"
+          "appearance_count": 1,
+          "time_info": "01时15分"
         },
         {
           "title": "符合人设!喝奶大赛惊现祖国人",
@@ -580,828 +48,195 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时50分 ~ 23时45分]"
+          "appearance_count": 1,
+          "time_info": "01时15分"
         },
         {
-          "title": "体验式消费点亮春日经济",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%93%E9%AA%8C%E5%BC%8F%E6%B6%88%E8%B4%B9%E7%82%B9%E4%BA%AE%E6%98%A5%E6%97%A5%E7%BB%8F%E6%B5%8E%23&t=31&band_rank=3&Refer=top",
+          "title": "莫氏鸡煲评论区发声明",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%B0%8F%E9%B8%A1%E7%85%B2%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%8F%91%E5%A3%B0%E6%98%8E%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时14分 ~ 15时30分]"
-        },
-        {
-          "title": "乘风2026小考解说",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B9%98%E9%A3%8E2026%E5%B0%8F%E8%80%83%E8%A7%A3%E8%AF%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            24,
-            18,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时14分 ~ 23时45分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指涨近6%终结5连阴，全市场超300股涨逾9%，两市放量超8000亿",
-          "url": "https://www.cls.cn/detail/2338025",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 03时27分]"
-        },
-        {
-          "title": "税收数据三大亮点值得关注",
-          "url": "https://www.toutiao.com/trending/7626391149338738707/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时14分 ~ 19时04分]"
-        },
-        {
-          "title": "最新暴雨强对流预警",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%80%E6%96%B0%E6%9A%B4%E9%9B%A8%E5%BC%BA%E5%AF%B9%E6%B5%81%E9%A2%84%E8%AD%A6%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时14分 ~ 19时04分]"
-        },
-        {
-          "title": "西北大学：对教师贾某某涉嫌学术论文抄袭等问题启动调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32931444",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时39分 ~ 23时45分]"
-        },
-        {
-          "title": "西北大学调查贾某某涉论文抄袭问题",
-          "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E5%8C%97%E5%A4%A7%E5%AD%A6%E8%B0%83%E6%9F%A5%E8%B4%BE%E6%9F%90%E6%9F%90%E6%B6%89%E8%AE%BA%E6%96%87%E6%8A%84%E8%A2%AD%E9%97%AE%E9%A2%98",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时39分 ~ 10时51分]"
-        },
-        {
-          "title": "业绩行情持续发酵！千亿龙头连获涨停，季报预告逐步开启，绩优高增个股盘点",
-          "url": "https://www.cls.cn/detail/2339308",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时04分 ~ 23时45分]"
-        },
-        {
-          "title": "盘点无限超越班4首期1v1质量",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E6%97%A0%E9%99%90%E8%B6%85%E8%B6%8A%E7%8F%AD4%E9%A6%96%E6%9C%9F1v1%E8%B4%A8%E9%87%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时14分 ~ 13时18分]"
-        },
-        {
-          "title": "真正合理的健身训练流程是什么？",
-          "url": "https://www.zhihu.com/question/21189435",
-          "source": "知乎",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时50分 ~ 13时18分]"
-        },
-        {
-          "title": "两年期德债收益率重挫约23个基点，投资者关注油价大幅下跌",
-          "url": "https://wallstreetcn.com/livenews/3084487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 01时13分]"
-        },
-        {
-          "title": "美军高官：打击伊朗消耗760万杯咖啡",
-          "url": "https://news.ifeng.com/c/8sBkI9LA3yo",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时14分 ~ 23时45分]"
-        },
-        {
-          "title": "NIP vs WBG LPL第二赛段",
-          "url": "https://search.bilibili.com/all?keyword=NIP%20WBG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时04分"
-        },
-        {
-          "title": "日本内阁官房长官木原稔：注意到了有关“日本正在设立亚洲石油供应基金”的报道，目前尚未做出任何决定，对此不予置评。亚洲稳定的能源供应对供应链至关重要。",
-          "url": "https://wallstreetcn.com/livenews/3084731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
-          "title": "业绩预告“大变脸”，股价跌停，中化岩土回应",
-          "url": "https://wallstreetcn.com/livenews/3084900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时48分"
-        },
-        {
-          "title": "武汉一公司给面试者发 66 元红包，希望让求职者感受到尊重，如何评价公司的操作？这样的公司你想去吗？",
-          "url": "https://www.zhihu.com/question/2023046743575597251",
-          "source": "知乎",
-          "ranks": [
-            15,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时47分 ~ 19时04分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 41 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2025322211435704438",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时39分 ~ 13时18分]"
-        },
-        {
-          "title": "长寿运动排行榜",
-          "url": "https://www.toutiao.com/trending/7625943340660867081/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            22,
-            21,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时52分 ~ 07时43分]"
-        },
-        {
-          "title": "“炼化同事”免费打工 风险不容忽视",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%82%BC%E5%8C%96%E5%90%8C%E4%BA%8B%E2%80%9D%E5%85%8D%E8%B4%B9%E6%89%93%E5%B7%A5+%E9%A3%8E%E9%99%A9%E4%B8%8D%E5%AE%B9%E5%BF%BD%E8%A7%86",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 04时54分]"
-        },
-        {
-          "title": "曝iPhone 18 Pro相机键大改",
-          "url": "https://www.toutiao.com/trending/7626391239841398847/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时04分"
-        },
-        {
-          "title": "德国2年期国债收益率上行，最新上行5.5个基点，报2.5484%。",
-          "url": "https://wallstreetcn.com/livenews/3084894",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时48分"
-        },
-        {
-          "title": "中国上证综指4月9日（周四）收盘下跌28.83点，跌幅：0.72%，报3966.17点；<br/>中国深证成指4月9日（周四）收盘下跌46.23点，跌幅：0.33%，报13996.27点；<br/>中国沪深300指数4月9日（周四）收盘下跌29.33点，跌幅：0.64%，报4566.22点；<br/>中国创业板指数4月9日（周四）收盘下跌24.31点，跌幅：0.73%，报3323.3点；<br/>中国科创50指数4月9日（周四）收盘下跌8.74点，跌幅：0.65%，报1343.95点。",
-          "url": "https://flash.jin10.com/detail/20260409150248756800",
-          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时30分"
+          "time_info": "01时15分"
         },
         {
-          "title": "国际货币基金组织：中东冲突冲击全球经济 将拖累增长并推高通胀",
-          "url": "https://wallstreetcn.com/livenews/3085166",
-          "source": "华尔街见闻-快讯",
+          "title": "体验西双版纳的泼水文化",
+          "url": "https://www.douyin.com/hot/2459124",
+          "source": "抖音",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
-          "title": "已经跟领导暗示自己摆烂了，还没被边缘化，怎么办？",
-          "url": "https://www.zhihu.com/question/1943880809539953209",
-          "source": "知乎",
-          "ranks": [
-            12,
-            13,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时50分 ~ 23时45分]"
-        },
-        {
-          "title": "NIP战胜WBG",
-          "url": "https://search.bilibili.com/all?keyword=NIP%20WBG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时50分 ~ 23时45分]"
-        },
-        {
-          "title": "排除中国法律管辖？洲际酒店被约谈",
-          "url": "https://www.baidu.com/s?wd=%E6%8E%92%E9%99%A4%E4%B8%AD%E5%9B%BD%E6%B3%95%E5%BE%8B%E7%AE%A1%E8%BE%96%EF%BC%9F%E6%B4%B2%E9%99%85%E9%85%92%E5%BA%97%E8%A2%AB%E7%BA%A6%E8%B0%88",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 06时51分]"
-        },
-        {
-          "title": "章昊六摇一震撼回归",
-          "url": "https://www.douyin.com/hot/2461118",
-          "source": "抖音",
-          "ranks": [
-            24,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时50分 ~ 23时45分]"
-        },
-        {
-          "title": "公募基金发行持续升温，权益类产品“唱主角”",
-          "url": "https://wallstreetcn.com/livenews/3084622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时51分 ~ 07时43分]"
-        },
-        {
-          "title": "群核科技（Manycore Tech Inc.）申请香港IPO。 寻求发行1.606亿股股票，发行价指导区间为每股6.72-7.62港元。 预计股票将于4月15日定价，将从4月17日开始交易。",
-          "url": "https://wallstreetcn.com/livenews/3084607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时45分 ~ 07时43分]"
-        },
-        {
-          "title": "CIPS单日交易量破万亿元，人民币国际支付角色加速强化",
-          "url": "https://wallstreetcn.com/livenews/3084606",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时45分 ~ 07时43分]"
-        },
-        {
-          "title": "OpenAI的CFO Sarah Friar：公司将在IPO中配售股票给散户们。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3084581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时46分 ~ 06时45分]"
-        },
-        {
-          "title": "沙特主权财富基金将Alat的CEO Midha免职。（Semafor）",
-          "url": "https://wallstreetcn.com/livenews/3084604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时45分 ~ 07时43分]"
-        },
-        {
-          "title": "研究称健身能显著缩短晚年失能期",
-          "url": "https://www.toutiao.com/trending/7626406870354313279/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时29分 ~ 15时48分]"
-        },
-        {
-          "title": "女子加班到很晚红着眼眶祝自己生快",
-          "url": "https://www.toutiao.com/trending/7626264416153468971/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 03时27分]"
-        },
-        {
-          "title": "洲际酒店回应被约谈",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B4%B2%E9%99%85%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%BA%A6%E8%B0%88%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时29分 ~ 15时48分]"
-        },
-        {
-          "title": "提醒：日内请重点关注（以下均为北京时间）",
-          "url": "https://wallstreetcn.com/livenews/3084611",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            16,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时51分 ~ 13时18分]"
-        },
-        {
-          "title": "三角洲行动AR57武器测评",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8AR57%E6%AD%A6%E5%99%A8%E6%B5%8B%E8%AF%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时29分 ~ 15时48分]"
-        },
-        {
-          "title": "江景房主破防：窗外钱塘江 耳边广场舞",
-          "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E6%99%AF%E6%88%BF%E4%B8%BB%E7%A0%B4%E9%98%B2%EF%BC%9A%E7%AA%97%E5%A4%96%E9%92%B1%E5%A1%98%E6%B1%9F+%E8%80%B3%E8%BE%B9%E5%B9%BF%E5%9C%BA%E8%88%9E",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时29分 ~ 15时48分]"
-        },
-        {
-          "title": "文二代翻车,贾浅浅论文抄袭被查",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352981&amp;topic_name=%E6%96%87%E4%BA%8C%E4%BB%A3%E7%BF%BB%E8%BD%A6%2C%E8%B4%BE%E6%B5%85%E6%B5%85%E8%AE%BA%E6%96%87%E6%8A%84%E8%A2%AD%E8%A2%AB%E6%9F%A5",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时14分 ~ 13时18分]"
-        },
-        {
-          "title": "阿尔忒弥斯 2 号近距离掠过月球画面公布，有哪些值得关注的细节？",
-          "url": "https://www.zhihu.com/question/2024932289449050934",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时14分 ~ 17时18分]"
-        },
-        {
-          "title": "贾平凹女儿论文被指抄袭 校方调查",
-          "url": "https://www.toutiao.com/trending/7625671839926255670/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时39分 ~ 10时51分]"
-        },
-        {
-          "title": "偶遇王承渲在咖啡店打工",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%81%B6%E9%81%87%E7%8E%8B%E6%89%BF%E6%B8%B2%E5%9C%A8%E5%92%96%E5%95%A1%E5%BA%97%E6%89%93%E5%B7%A5%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时50分 ~ 22时15分]"
-        },
-        {
-          "title": "阿耳忒弥斯二号“绿幕穿帮”真相",
-          "url": "https://www.douyin.com/hot/2459854",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时39分 ~ 10时51分]"
-        },
-        {
-          "title": "李小冉疑似手滑点赞",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%E7%96%91%E4%BC%BC%E6%89%8B%E6%BB%91%E7%82%B9%E8%B5%9E%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时39分 ~ 10时51分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨3.05%，报6876.97点。 热门中概股里，小马智行初步收涨10.7%，美团涨超9%，金山云、老虎证券涨超7%，亚朵、万国数据、B站涨超5%，阿里巴巴涨4.6%，文远知行、蔚来、小米、拼多多涨超4%，腾讯涨3.7%。 ETF中，中国科技指数ETF（CQQQ）收涨5.94%，中概互联网指数ETF（KWEB）收涨3.71%。 沪深300 2X做多涨8.15%，MSCI新兴市场ex中国ETF涨6.09%，XtrackersHarvest中证50（ASHS）收涨5.57%，德银嘉实沪深300指数ETF（ASHR）收涨4.07%。",
-          "url": "https://wallstreetcn.com/livenews/3084558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时51分 ~ 05时46分]"
-        },
-        {
-          "title": "设计公司回应张雪机车LOGO被指抄袭",
-          "url": "https://www.toutiao.com/trending/7625693679491596329/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时14分 ~ 13时18分]"
-        },
-        {
-          "title": "贾平凹女儿被指论文抄袭",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B4%BE%E5%B9%B3%E5%87%B9%E5%A5%B3%E5%84%BF%E8%A2%AB%E6%8C%87%E8%AE%BA%E6%96%87%E6%8A%84%E8%A2%AD%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时39分 ~ 10时51分]"
-        },
-        {
-          "title": "UP主完美复刻网红抹茶大饼",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%8C%E7%BE%8E%E5%A4%8D%E5%88%BB%E7%BD%91%E7%BA%A2%E6%8A%B9%E8%8C%B6%E5%A4%A7%E9%A5%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时14分 ~ 13时18分]"
-        },
-        {
-          "title": "对网传贾某某论文抄袭等启动调查",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AF%B9%E7%BD%91%E4%BC%A0%E8%B4%BE%E6%9F%90%E6%9F%90%E8%AE%BA%E6%96%87%E6%8A%84%E8%A2%AD%E7%AD%89%E5%90%AF%E5%8A%A8%E8%B0%83%E6%9F%A5%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时39分 ~ 10时51分]"
-        },
-        {
-          "title": "周鸿祎出席西安交大校庆后打卡小吃店",
-          "url": "https://www.toutiao.com/trending/7626690054145081385/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时50分 ~ 22时15分]"
-        },
-        {
-          "title": "Wait清唱挑战",
-          "url": "https://www.douyin.com/hot/2460968",
-          "source": "抖音",
-          "ranks": [
-            26,
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时50分 ~ 23时45分]"
-        },
-        {
-          "title": "媒体：对躺平的党员干部必须亮剑",
-          "url": "https://www.toutiao.com/trending/7625501503391350826/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时14分 ~ 13时18分]"
-        },
-        {
-          "title": "迪丽热巴是陈飞宇铁粉了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%98%AF%E9%99%88%E9%A3%9E%E5%AE%87%E9%93%81%E7%B2%89%E4%BA%86%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时50分 ~ 22时15分]"
-        },
-        {
-          "title": "外国留学生在中国跳湖救人 毛宁点赞",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%B7%B3%E6%B9%96%E6%95%91%E4%BA%BA+%E6%AF%9B%E5%AE%81%E7%82%B9%E8%B5%9E",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时14分 ~ 13时18分]"
-        },
-        {
-          "title": "瑞克和莫蒂第九季预告解析",
-          "url": "https://search.bilibili.com/all?keyword=%E7%91%9E%E5%85%8B%E5%92%8C%E8%8E%AB%E8%92%82%E7%AC%AC%E4%B9%9D%E5%AD%A3%E9%A2%84%E5%91%8A%E8%A7%A3%E6%9E%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时39分 ~ 10时51分]"
-        },
-        {
-          "title": "恐慌指数VIX逼近六周低位，最新下跌5点，报20.78。",
-          "url": "https://flash.jin10.com/detail/20260409004641700800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 01时13分]"
-        },
-        {
-          "title": "长光辰芯（长春长光辰芯微电子股份有限公司） 申请香港IPO，寻求发行大约6530万股股票。 发行价为每股39.88港元。 预计股票将从4月17日开始交易。",
-          "url": "https://wallstreetcn.com/livenews/3084616",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时51分 ~ 07时43分]"
-        },
-        {
-          "title": "金十图示：2026年04月09日（周四）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260409214153885800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 22时15分]"
+          "time_info": "01时15分"
         },
         {
           "title": "A股存储厂商2025业绩盘点：模组厂一个季度赚足一年利润 产业链围绕下一轮周期密集落子",
           "url": "https://www.cls.cn/detail/2339696",
           "source": "财联社热门",
           "ranks": [
-            10
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时26分 ~ 23时45分]"
+          "appearance_count": 1,
+          "time_info": "01时15分"
         },
         {
-          "title": "美国白宫国家经济委员会主任哈塞特：在CPI报告中，油价飙升可能只是一次性事件。",
-          "url": "https://flash.jin10.com/detail/20260409042034362800",
-          "source": "金十数据",
+          "title": "美军高官：打击伊朗消耗760万杯咖啡",
+          "url": "https://news.ifeng.com/c/8sBkI9LA3yo",
+          "source": "凤凰网",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时51分 ~ 04时54分]"
+          "appearance_count": 1,
+          "time_info": "01时15分"
         },
         {
-          "title": "OpenAI首席财务官表示，OpenAI正筹备上市，将向散户投资者分配IPO股份。",
-          "url": "https://flash.jin10.com/detail/20260409051237886800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时46分 ~ 05时52分]"
-        },
-        {
-          "title": "百度App已上线本地生活专区，用户搜索“本地生活”即可直达，专区内除了各家加码的美食餐饮外，还包含维修、教育、搬家等多个垂直类目。（Tech星球）",
-          "url": "https://wallstreetcn.com/livenews/3085143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 22时15分]"
-        },
-        {
-          "title": "hero高调官宣,久诚回归",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353021&amp;topic_name=hero%E9%AB%98%E8%B0%83%E5%AE%98%E5%AE%A3%2C%E4%B9%85%E8%AF%9A%E5%9B%9E%E5%BD%92",
+          "title": "wbg不敌nip,教练辅助背大锅",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353024&amp;topic_name=wbg%E4%B8%8D%E6%95%8Cnip%2C%E6%95%99%E7%BB%83%E8%BE%85%E5%8A%A9%E8%83%8C%E5%A4%A7%E9%94%85",
           "source": "贴吧",
           "ranks": [
-            12
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时26分 ~ 23时45分]"
+          "appearance_count": 1,
+          "time_info": "01时15分"
         },
         {
-          "title": "黎巴嫩卫生部最新统计数据显示，以色列周三对黎巴嫩发动的袭击已造成112人死亡。",
-          "url": "https://flash.jin10.com/detail/20260409003447661800",
-          "source": "金十数据",
+          "title": "奶茶店不招纹身者,网友:管太宽",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353003&amp;topic_name=%E5%A5%B6%E8%8C%B6%E5%BA%97%E4%B8%8D%E6%8B%9B%E7%BA%B9%E8%BA%AB%E8%80%85%2C%E7%BD%91%E5%8F%8B%3A%E7%AE%A1%E5%A4%AA%E5%AE%BD",
+          "source": "贴吧",
           "ranks": [
-            14
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 01时13分]"
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "已经跟领导暗示自己摆烂了，还没被边缘化，怎么办？",
+          "url": "https://www.zhihu.com/question/1943880809539953209",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "华尔街大行股票交易收入料创纪录新高，或达180亿美元",
+          "url": "https://wallstreetcn.com/livenews/3085234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "赵丽颖楚乔传城墙爆破花絮",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%A5%9A%E4%B9%94%E4%BC%A0%E5%9F%8E%E5%A2%99%E7%88%86%E7%A0%B4%E8%8A%B1%E7%B5%AE%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "NIP战胜WBG",
+          "url": "https://search.bilibili.com/all?keyword=NIP%20WBG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "金十图示：2026年04月09日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260410005054499800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
         },
         {
           "title": "拨开天空的乌云手势舞挑战",
           "url": "https://www.douyin.com/hot/2461186",
           "source": "抖音",
           "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "西北大学：对教师贾某某涉嫌学术论文抄袭等问题启动调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32931467",
+          "source": "澎湃新闻",
+          "ranks": [
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时26分 ~ 23时45分]"
+          "appearance_count": 1,
+          "time_info": "01时15分"
         },
         {
-          "title": "金十图示：2026年04月08日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260409003209598800",
+          "title": "如何判断相似的歌是否抄袭",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%88%A4%E6%96%AD%E7%9B%B8%E4%BC%BC%E7%9A%84%E6%AD%8C%E6%98%AF%E5%90%A6%E6%8A%84%E8%A2%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "金十图示：2026年04月09日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260410005042662800",
           "source": "金十数据",
           "ranks": [
-            15
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 01时13分]"
+          "appearance_count": 1,
+          "time_info": "01时15分"
         },
         {
-          "title": "金十图示：2026年04月08日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260409003204906800",
-          "source": "金十数据",
+          "title": "hero高调官宣,久诚回归",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353021&amp;topic_name=hero%E9%AB%98%E8%B0%83%E5%AE%98%E5%AE%A3%2C%E4%B9%85%E8%AF%9A%E5%9B%9E%E5%BD%92",
+          "source": "贴吧",
           "ranks": [
-            16
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 01时13分]"
+          "appearance_count": 1,
+          "time_info": "01时15分"
         },
         {
-          "title": "金十图示：2026年04月09日（周四）热门中概股行情一览",
-          "url": "https://flash.jin10.com/detail/20260409213617575800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 22时15分]"
-        },
-        {
-          "title": "深成指、创业板指均跌超1%，沪指跌0.77%，贵金属、光伏设备、民航机场、AI应用等方向跌幅居前，沪深京三市下跌个股超4200只。",
-          "url": "https://wallstreetcn.com/livenews/3084698",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时51分]"
-        },
-        {
-          "title": "咖啡店摆 700 字「暴躁须知」，列明禁止室内打牌、禁止偷捞乌龟，管用吗？商家如何保护自己又不劝退客人？",
-          "url": "https://www.zhihu.com/question/2024588910362195483",
-          "source": "知乎",
+          "title": "挑战用GLM-5.1实现全自动开发",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E7%94%A8GLM-5.1%E5%AE%9E%E7%8E%B0%E5%85%A8%E8%87%AA%E5%8A%A8%E5%BC%80%E5%8F%91",
+          "source": "bilibili 热搜",
           "ranks": [
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 15时30分]"
+          "appearance_count": 1,
+          "time_info": "01时15分"
         },
         {
           "title": "导播给「0-22」应援牌特写，TES 已举报，这对电竞直播有何影响？",
@@ -1411,421 +246,96 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时26分 ~ 23时45分]"
+          "appearance_count": 1,
+          "time_info": "01时15分"
         },
         {
-          "title": "金十图示：2026年04月08日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260409040608867800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时51分 ~ 04时54分]"
-        },
-        {
-          "title": "期货盯盘神器专属文章",
-          "url": "https://flash.jin10.com/detail/20260409213411842800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 22时15分]"
-        },
-        {
-          "title": "金十图示：2026年04月08日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260409040605113800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时51分 ~ 04时54分]"
-        },
-        {
-          "title": "如何判断相似的歌是否抄袭",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%88%A4%E6%96%AD%E7%9B%B8%E4%BC%BC%E7%9A%84%E6%AD%8C%E6%98%AF%E5%90%A6%E6%8A%84%E8%A2%AD",
+          "title": "乘风2026小考解说",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%98%E9%A3%8E2026%E5%B0%8F%E8%80%83%E8%A7%A3%E8%AF%B4",
           "source": "bilibili 热搜",
           "ranks": [
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时26分 ~ 23时45分]"
-        },
-        {
-          "title": "Meta Platforms(META.O)股价最新涨超7%。",
-          "url": "https://flash.jin10.com/detail/20260409002428071800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 01时13分]"
-        },
-        {
-          "title": "NCT十周年预告",
-          "url": "https://s.weibo.com/weibo?q=%23NCT%E5%8D%81%E5%91%A8%E5%B9%B4%E9%A2%84%E5%91%8A%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 01时13分]"
-        },
-        {
-          "title": "周三（4月8日）纽约尾盘，ICE原糖期货跌2.19%，ICE白糖期货跌1.18%。 ICE阿拉比卡咖啡期货涨2.53%，咖啡“C”期货涨2.54%。罗布斯塔咖啡期货涨0.59%。 纽约可可期货涨4.92%，报3177美元/吨。伦敦可可期货涨2.92%。 芝加哥WCE双低油菜籽期货跌1.95%。 ICE棉花期货涨0.34%。",
-          "url": "https://wallstreetcn.com/livenews/3084550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时51分 ~ 04时54分]"
-        },
-        {
-          "title": "上证指数开盘报3967.63点，跌0.69%。 深证成指开盘报13928.43点，跌0.81%。 创业板指开盘报3316.29点，跌0.94%。 沪深300开盘报4562.67点，跌0.72%。 科创50开盘报1335.29点，跌1.29%。 中证500开盘报7865.21点，跌1.01%。 中证1000开盘报7881.80点，跌0.93%。",
-          "url": "https://wallstreetcn.com/livenews/3084681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时51分]"
-        },
-        {
-          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（4月9日）",
-          "url": "https://flash.jin10.com/detail/20260409054330059800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 06时51分]"
-        },
-        {
-          "title": "中国央行公开市场开展5亿元7天期逆回购操作，操作利率持平于1.40%，今日5亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3084679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时51分]"
-        },
-        {
-          "title": "上证指数早盘收报3965.70点，跌0.73%。 深证成指早盘收报13999.55点，跌0.31%。 创业板指早盘收报3325.29点，跌0.67%。 沪深300早盘收报4566.22点，跌0.64%。 科创50早盘收报1350.03点，跌0.20%。 中证500早盘收报7902.96点，跌0.53%。 中证1000早盘收报7918.78点，跌0.46%。",
-          "url": "https://wallstreetcn.com/livenews/3084753",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 13时18分]"
-        },
-        {
-          "title": "现货黄金短线回落超20美元，最新报4722.45美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260409022923851800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 03时27分]"
-        },
-        {
-          "title": "李佳琦回应“缺席”直播：没有退休",
-          "url": "https://wallstreetcn.com/livenews/3084674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时51分]"
-        },
-        {
-          "title": "李佳琦哽咽宣布：将短暂退出直播",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%93%BD%E5%92%BD%E5%AE%A3%E5%B8%83%EF%BC%9A%E5%B0%86%E7%9F%AD%E6%9A%82%E9%80%80%E5%87%BA%E7%9B%B4%E6%92%AD",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时42分 ~ 07时43分]"
-        },
-        {
-          "title": "5连板光纤概念股提示交易风险，“澄清”无在手订单 | 盘后公告精选",
-          "url": "https://flash.jin10.com/detail/20260409212449137800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 22时15分]"
-        },
-        {
-          "title": "法国总理勒科尔尼：我们在真相、保护平民和追求和平的要求上毫不妥协。",
-          "url": "https://flash.jin10.com/detail/20260409162528502800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 17时18分]"
-        },
-        {
-          "title": "美联储3月会议纪要关注点",
-          "url": "https://wallstreetcn.com/livenews/3084406",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 03时27分]"
-        },
-        {
-          "title": "腾讯控股于4月9日斥资10亿港元回购了200万股股份。",
-          "url": "https://wallstreetcn.com/livenews/3085026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时04分"
-        },
-        {
-          "title": "小米公司于4月9日以2.477亿港元回购了约780万股B类股份。",
-          "url": "https://wallstreetcn.com/livenews/3085024",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时04分"
-        },
-        {
-          "title": "淘宝闪购推出“外卖接力”新模式，已落地全国20多个城市",
-          "url": "https://wallstreetcn.com/livenews/3084883",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时48分"
-        },
-        {
-          "title": "委内瑞拉代总统罗德里格斯：当务之急是通过石油和矿业的发展来提高工人工资。",
-          "url": "https://flash.jin10.com/detail/20260409071311835800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时43分"
-        },
-        {
-          "title": "腾讯控股(00700.HK)4月9日回购196.4万股股份，耗资约10亿港元",
-          "url": "https://flash.jin10.com/detail/20260409184023258800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时04分"
-        },
-        {
-          "title": "蒸馒头包子防粘你用啥方法",
-          "url": "https://www.toutiao.com/trending/7626510151088406538/",
-          "source": "今日头条",
-          "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时50分"
+          "time_info": "01时15分"
         },
         {
-          "title": "凯雷战术私募信贷基金：近期市场波动导致各私募信贷基金的赎回活动显著增加。",
-          "url": "https://flash.jin10.com/detail/20260409224315166800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时26分"
-        },
-        {
-          "title": "WTT 太原常规挑战赛向鹏 0-3 不敌 NO.82 姆拉登诺维奇，止步太原挑战赛 32 强，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2025647618986960531",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时45分"
-        },
-        {
-          "title": "新兴市场ETF收涨约5.5%，领跑美股大类资产类ETF，布油基金跌约10.3%",
-          "url": "https://wallstreetcn.com/livenews/3084629",
-          "source": "华尔街见闻-快讯",
+          "title": "周杰伦到底有没有抄袭",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%88%B0%E5%BA%95%E6%9C%89%E6%B2%A1%E6%9C%89%E6%8A%84%E8%A2%AD",
+          "source": "bilibili 热搜",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时43分"
+          "time_info": "01时15分"
         },
         {
-          "title": "今日重点关注的财经数据与事件：2026年4月9日 周四",
-          "url": "https://flash.jin10.com/detail/20260409065000000800",
-          "source": "金十数据",
+          "title": "章昊六摇一震撼回归",
+          "url": "https://www.douyin.com/hot/2461118",
+          "source": "抖音",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时43分"
+          "time_info": "01时15分"
         },
         {
-          "title": "上证指数收报3966.17点，跌0.72%。 深证成指收报13996.27点，跌0.33%。 创业板指收报3323.30点，跌0.73%。 沪深300收报4566.22点，跌0.64%。 科创50收报1343.95点，跌0.65%。 中证500收报7898.63点，跌0.59%。 中证1000收报7921.45点，跌0.43%。",
-          "url": "https://wallstreetcn.com/livenews/3084854",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时30分"
-        },
-        {
-          "title": "记者调查发现，三只羊旗下自营品牌“小杨臻选”正面向全网招募百名带货达人，打出“品牌直签、内部同佣”的旗号。（北京商报）",
-          "url": "https://wallstreetcn.com/livenews/3085180",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时26分"
-        },
-        {
-          "title": "凯雷（Carlyle）一季度获得大约15.7%回购请求。",
-          "url": "https://wallstreetcn.com/livenews/3085179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时26分"
-        },
-        {
-          "title": "英国国防大臣希利拒绝就美国总统特朗普有关北约的社交媒体帖子发表评论。",
-          "url": "https://flash.jin10.com/detail/20260409183208097800",
+          "title": "市场消息：国际货币基金组织正着手通过征求成员国意见的方式恢复与委内瑞拉的关系。",
+          "url": "https://flash.jin10.com/detail/20260410003822076800",
           "source": "金十数据",
           "ranks": [
-            25
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时04分"
+          "time_info": "01时15分"
         },
         {
-          "title": "白宫经济顾问哈塞特：周五公布的CPI数据将反映能源价格飙升",
-          "url": "https://wallstreetcn.com/livenews/3084567",
+          "title": "欧洲复兴开发银行（EBRD）：计划于2026年向受中东冲突影响的经济体投入50亿欧元。 支持资金将流向金融机构、企业和可持续基础设施，重点关注伊拉克、约旦、黎巴嫩、西岸和加沙地带，以及受波及的邻近经济体。",
+          "url": "https://wallstreetcn.com/livenews/3085218",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时52分"
+          "time_info": "01时15分"
         },
         {
-          "title": "WTI原油日内涨幅达7.5%，报101.52美元/桶。 国家经济委员会主任凯文·哈塞特表示，根据美国1977年《国际紧急经济权力法》（IEEPA），总统特朗普有权颁布新的涉伊关税。 哈塞特宣称，由于美国正处于“冲突状态”，该法案可以被启用，且“这显然属于总统的关税职权范围”。 若特朗普利用该紧急法征收关税，政府将面临一场说服法院其合法性的艰巨挑战，因为最高法院此前曾裁定该法案“并未授权总统征收关税”。",
-          "url": "https://wallstreetcn.com/livenews/3085177",
-          "source": "华尔街见闻-快讯",
+          "title": "Wait清唱挑战",
+          "url": "https://www.douyin.com/hot/2460968",
+          "source": "抖音",
           "ranks": [
-            26
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时26分"
-        },
-        {
-          "title": "国家邮政局：深入整治行业“内卷式”竞争",
-          "url": "https://wallstreetcn.com/livenews/3085122",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "陈飞宇直播",
-          "url": "https://s.weibo.com/weibo?q=%E9%99%88%E9%A3%9E%E5%AE%87%E7%9B%B4%E6%92%AD&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时45分"
+          "time_info": "01时15分"
         },
         {
           "title": "美国公布最新月球背面照片",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%B8%83%E6%9C%80%E6%96%B0%E6%9C%88%E7%90%83%E8%83%8C%E9%9D%A2%E7%85%A7%E7%89%87",
           "source": "百度热搜",
           "ranks": [
-            30
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时26分"
+          "time_info": "01时15分"
         },
         {
-          "title": "据美国纽约联储数据，上个交易日（4月8日）担保隔夜融资利率（SOFR）报3.59%，之前一天报3.62%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
-          "url": "https://wallstreetcn.com/livenews/3085172",
-          "source": "华尔街见闻-快讯",
+          "title": "电视剧创作要避免颜值流量依赖",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E8%A7%86%E5%89%A7%E5%88%9B%E4%BD%9C%E8%A6%81%E9%81%BF%E5%85%8D%E9%A2%9C%E5%80%BC%E6%B5%81%E9%87%8F%E4%BE%9D%E8%B5%96",
+          "source": "bilibili 热搜",
           "ranks": [
-            30
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时26分"
+          "time_info": "01时15分"
         }
       ]
     }
