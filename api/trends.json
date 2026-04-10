@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T15:49:03.931200+08:00",
-  "total_titles_processed": 1282,
+  "generated_at": "2026-04-10T16:25:07.084130+08:00",
+  "total_titles_processed": 1374,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 110,
+      "match_count": 126,
       "titles": [
         {
           "title": "业绩行情持续发酵！千亿龙头连获涨停，季报预告逐步开启，绩优高增个股盘点",
@@ -25,26 +25,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时51分 ~ 15时49分]"
-        },
-        {
-          "title": "符合人设!喝奶大赛惊现祖国人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353019&amp;topic_name=%E7%AC%A6%E5%90%88%E4%BA%BA%E8%AE%BE%21%E5%96%9D%E5%A5%B6%E5%A4%A7%E8%B5%9B%E6%83%8A%E7%8E%B0%E7%A5%96%E5%9B%BD%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            5,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时15分 ~ 15时49分]"
+          "appearance_count": 11,
+          "time_info": "[10时51分 ~ 16时25分]"
         },
         {
           "title": "A股存储厂商2025业绩盘点：模组厂一个季度赚足一年利润 产业链围绕下一轮周期密集落子",
@@ -75,6 +61,22 @@
           "time_info": "[01时15分 ~ 13时30分]"
         },
         {
+          "title": "符合人设!喝奶大赛惊现祖国人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353019&amp;topic_name=%E7%AC%A6%E5%90%88%E4%BA%BA%E8%AE%BE%21%E5%96%9D%E5%A5%B6%E5%A4%A7%E8%B5%9B%E6%83%8A%E7%8E%B0%E7%A5%96%E5%9B%BD%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            5,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[01时15分 ~ 16时25分]"
+        },
+        {
           "title": "体验西双版纳的泼水文化",
           "url": "https://www.douyin.com/hot/2459124",
           "source": "抖音",
@@ -102,6 +104,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时15分 ~ 07时41分]"
+        },
+        {
+          "title": "《王者荣耀世界》已正式公测，PC 端玩家体验怎么样？玩过的玩家如何评价这款游戏？",
+          "url": "https://www.zhihu.com/question/2025884903422654200",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时30分 ~ 16时25分]"
         },
         {
           "title": "莫氏鸡煲评论区发声明",
@@ -142,8 +158,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时41分 ~ 15时49分]"
+          "appearance_count": 12,
+          "time_info": "[07时41分 ~ 16时25分]"
         },
         {
           "title": "美军高官：打击伊朗消耗760万杯咖啡",
@@ -180,11 +196,12 @@
             10,
             12,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时15分 ~ 15时49分]"
+          "appearance_count": 22,
+          "time_info": "[01时15分 ~ 16时25分]"
         },
         {
           "title": "奶茶店不招纹身者,网友:管太宽",
@@ -195,11 +212,40 @@
             11,
             13,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时15分 ~ 15时49分]"
+          "appearance_count": 22,
+          "time_info": "[01时15分 ~ 16时25分]"
+        },
+        {
+          "title": "人民日报点赞张雪、冯骥、王兴兴：新一代创业者，追风赶月莫停留",
+          "url": "https://www.cls.cn/detail/2339849",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时51分 ~ 16时25分]"
+        },
+        {
+          "title": "《苏丹的游戏》一年免费更新三倍内容却迎来差评？作为买断制游戏，新内容免费却吃差评，是否有点多此一举？",
+          "url": "https://www.zhihu.com/question/2024252811030930000",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18,
+            13,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时51分 ~ 16时25分]"
         },
         {
           "title": "NIP战胜WBG",
@@ -226,11 +272,25 @@
             19,
             20,
             21,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时15分 ~ 15时49分]"
+          "appearance_count": 22,
+          "time_info": "[01时15分 ~ 16时25分]"
+        },
+        {
+          "title": "锂电行业“反内卷”持续推进，四部委：坚决抵制不合理、不正当竞争行为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32935278",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时51分 ~ 16时25分]"
         },
         {
           "title": "hero高调官宣,久诚回归",
@@ -241,11 +301,25 @@
             17,
             19,
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时15分 ~ 15时49分]"
+          "appearance_count": 22,
+          "time_info": "[01时15分 ~ 16时25分]"
+        },
+        {
+          "title": "人民日报点赞张雪冯骥王兴兴",
+          "url": "https://www.toutiao.com/trending/7626189682196840457/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时51分 ~ 16时25分]"
         },
         {
           "title": "西北大学：对教师贾某某涉嫌学术论文抄袭等问题启动调查",
@@ -274,8 +348,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时15分 ~ 11时22分]"
+          "appearance_count": 15,
+          "time_info": "[01时15分 ~ 16时24分]"
         },
         {
           "title": "乘风2026小考解说",
@@ -291,8 +365,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时15分 ~ 15时49分]"
+          "appearance_count": 22,
+          "time_info": "[01时15分 ~ 16时25分]"
         },
         {
           "title": "挑战用GLM-5.1实现全自动开发",
@@ -308,8 +382,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时15分 ~ 15时49分]"
+          "appearance_count": 17,
+          "time_info": "[01时15分 ~ 16时25分]"
         },
         {
           "title": "美国公布最新月球背面照片",
@@ -358,20 +432,6 @@
           "time_info": "[04时56分 ~ 13时30分]"
         },
         {
-          "title": "《王者荣耀世界》已正式公测，PC 端玩家体验怎么样？玩过的玩家如何评价这款游戏？",
-          "url": "https://www.zhihu.com/question/2025884903422654200",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时30分 ~ 15时49分]"
-        },
-        {
           "title": "有什么比较炸裂的那种尴尬的经历吗？",
           "url": "https://www.zhihu.com/question/1936427984358709150",
           "source": "知乎",
@@ -398,52 +458,11 @@
           "time_info": "[06时46分 ~ 11时22分]"
         },
         {
-          "title": "人民日报点赞张雪、冯骥、王兴兴：新一代创业者，追风赶月莫停留",
-          "url": "https://www.cls.cn/detail/2339849",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时51分 ~ 15时49分]"
-        },
-        {
-          "title": "《苏丹的游戏》一年免费更新三倍内容却迎来差评？作为买断制游戏，新内容免费却吃差评，是否有点多此一举？",
-          "url": "https://www.zhihu.com/question/2024252811030930000",
-          "source": "知乎",
-          "ranks": [
-            20,
-            18,
-            13,
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时51分 ~ 15时49分]"
-        },
-        {
           "title": "“涨工资！”委内瑞拉示威民众与警方爆发冲突",
           "url": "https://news.ifeng.com/c/8sCg27YZ39v",
           "source": "凤凰网",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时51分 ~ 15时49分]"
-        },
-        {
-          "title": "锂电行业“反内卷”持续推进，四部委：坚决抵制不合理、不正当竞争行为",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32935278",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            14
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -461,17 +480,20 @@
           "time_info": "[03时40分 ~ 06时52分]"
         },
         {
-          "title": "人民日报点赞张雪冯骥王兴兴",
-          "url": "https://www.toutiao.com/trending/7626189682196840457/",
-          "source": "今日头条",
+          "title": "情侣户外转场要这样拍才够酷",
+          "url": "https://www.douyin.com/hot/2460369",
+          "source": "抖音",
           "ranks": [
-            20,
-            14,
-            16
+            18,
+            21,
+            29,
+            30,
+            25,
+            24
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[10时51分 ~ 15时49分]"
+          "time_info": "[10时51分 ~ 16时25分]"
         },
         {
           "title": "章昊六摇一震撼回归",
@@ -501,6 +523,18 @@
           "time_info": "[13时30分 ~ 14时03分]"
         },
         {
+          "title": "人工智能将纳入教师资格考试和认证内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32939934",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时30分 ~ 16时25分]"
+        },
+        {
           "title": "厄尔尼诺现象预计将在下半年回归 或为全球粮价带来新风险",
           "url": "https://www.cls.cn/detail/2339700",
           "source": "财联社热门",
@@ -511,21 +545,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[05时50分 ~ 11时22分]"
-        },
-        {
-          "title": "情侣户外转场要这样拍才够酷",
-          "url": "https://www.douyin.com/hot/2460369",
-          "source": "抖音",
-          "ranks": [
-            18,
-            21,
-            29,
-            30,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时51分 ~ 15时49分]"
         },
         {
           "title": "电视剧创作要避免颜值流量依赖",
@@ -587,16 +606,16 @@
           "time_info": "[15时48分 ~ 15时49分]"
         },
         {
-          "title": "人工智能将纳入教师资格考试和认证内容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32939934",
-          "source": "澎湃新闻",
+          "title": "美国男子不满工资焚烧上亿美元仓库",
+          "url": "https://www.toutiao.com/trending/7626592232352399403/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时30分 ~ 15时49分]"
+          "appearance_count": 4,
+          "time_info": "[15时48分 ~ 16时25分]"
         },
         {
           "title": "华泰证券：建议重点关注具备海外电解铝产能布局的相关公司",
@@ -608,6 +627,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
+        },
+        {
+          "title": "证监会：试点地方政府推送拟发行上市企业信息，是这次创业板改革的一项重要探索",
+          "url": "https://wallstreetcn.com/livenews/3085721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "提醒：日内请重点关注（以下均为北京时间）",
@@ -637,6 +667,28 @@
           "time_info": "[01时15分 ~ 05时00分]"
         },
         {
+          "title": "证监会：推动再融资储架发行制度在创业板落地实施，允许“一次注册、多次发行”",
+          "url": "https://flash.jin10.com/detail/20260410161915211800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "【证监会：推出更多创业板相关ETF和期权，适时推出创业板股指期货】中国证监会新闻发言人就《关于深化创业板改革 更好服务新质生产力发展的意见》答记者问：加快推进投资端改革，是健全投资和融资相协调的资本市场功能、支持服务实体经济的重要一环。这次改革主要推出了以下举措。一是优化交易制度。引入做市商制度，促进创业板参与主体和交易策略多元化，减少价格波动，增强市场韧性。将协议大宗交易调整为实时成交确认，提高投资者证券和资金使用效率，增强成交确定性和中长期资金参与意愿。引入创业板相关ETF盘后固定价格交易机制，更好满足投资者多元化的交易需求，有利于降低大额交易对二级市场的冲击。二是丰富产品服务体系。优化创业板相关指数编制，推出更多创业板相关ETF和期权，适时推出创业板股指期货，支持基金投顾配置创业板ETF，将创业板ETF纳入基金通平台转让，更好满足不同投资者资产配置和风险管理需求，提升投资便利度和吸引力。",
+          "url": "https://wallstreetcn.com/livenews/3085718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "陈光标回应捐赠千万善款被疑蹭流量",
           "url": "https://www.toutiao.com/trending/7625787729342808070/",
           "source": "今日头条",
@@ -657,6 +709,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
+        },
+        {
+          "title": "证监会：在创业板引入做市商、大宗交易实时成交确认、ETF盘后固定价格交易等机制安排",
+          "url": "https://flash.jin10.com/detail/20260410161733982800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "证监会：推动再融资储架发行制度在创业板落地实施，允许“一次注册、多次发行”",
+          "url": "https://wallstreetcn.com/livenews/3085717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "饥荒异域公布预告",
@@ -694,6 +768,17 @@
           "time_info": "10时52分"
         },
         {
+          "title": "证监会：引入创业板相关交易型开放式证券投资基金（ETF）盘后固定价格交易机制",
+          "url": "https://wallstreetcn.com/livenews/3085711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "险资最新投资策略曝光：高股息压舱，科技成长伺机",
           "url": "https://wallstreetcn.com/livenews/3085369",
           "source": "华尔街见闻-快讯",
@@ -718,6 +803,18 @@
           "time_info": "[13时31分 ~ 14时03分]"
         },
         {
+          "title": "收评：创业板指大涨3.78%创4年多新高",
+          "url": "https://www.baidu.com/s?wd=%E6%94%B6%E8%AF%84%EF%BC%9A%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E5%A4%A7%E6%B6%A83.78%25%E5%88%9B4%E5%B9%B4%E5%A4%9A%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时48分 ~ 16时25分]"
+        },
+        {
           "title": "韩国央行行长李昌镛：2025年底韩元兑美元汇率接近1,500关口，是因为散户投资者增加了海外股票投资。 最近几周韩元兑美元的波动是由外国投资者抛售国内股票所驱动的。 当前汇率水平是由外资获利了结以及中东风险所致。 被纳入世界政府债券指数（WGBI）将为韩国带来外资流入。 国民年金公团（NPS）正计划削减部分海外投资。 外汇储备将在市场波动时期被积极动用。",
           "url": "https://wallstreetcn.com/livenews/3085510",
           "source": "华尔街见闻-快讯",
@@ -728,6 +825,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时52分 ~ 11时22分]"
+        },
+        {
+          "title": "伊朗最高领袖发表最新声明",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%8F%91%E8%A1%A8%E6%9C%80%E6%96%B0%E5%A3%B0%E6%98%8E%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时48分 ~ 16时25分]"
         },
         {
           "title": "十日终焉首发阵容",
@@ -742,6 +850,30 @@
           "time_info": "[13时30分 ~ 14时03分]"
         },
         {
+          "title": "从乐理根源鉴定周杰伦有没有抄袭",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E4%B9%90%E7%90%86%E6%A0%B9%E6%BA%90%E9%89%B4%E5%AE%9A%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%9C%89%E6%B2%A1%E6%9C%89%E6%8A%84%E8%A2%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时48分 ~ 16时25分]"
+        },
+        {
+          "title": "媒体称 NASA 发布有史以来「最清晰的月球照片」，是真的吗？有哪些细节值得关注？",
+          "url": "https://www.zhihu.com/question/2025509383656798056",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时48分 ~ 16时25分]"
+        },
+        {
           "title": "黄子韬最新回应嘴唇发紫",
           "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94%E5%98%B4%E5%94%87%E5%8F%91%E7%B4%AB%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -752,6 +884,66 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时30分 ~ 14时03分]"
+        },
+        {
+          "title": "莫氏鸡煲员工吃了10多天外卖",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%B0%8F%E9%B8%A1%E7%85%B2%E5%91%98%E5%B7%A5%E5%90%83%E4%BA%8610%E5%A4%9A%E5%A4%A9%E5%A4%96%E5%8D%96%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时48分 ~ 16时25分]"
+        },
+        {
+          "title": "吴子嘉断言民进党派沈伯洋挑战蒋万安",
+          "url": "https://www.toutiao.com/trending/7626315913202286646/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时48分 ~ 16时25分]"
+        },
+        {
+          "title": "小猫凭松弛睡姿出圈 游客排队打卡",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%8C%AB%E5%87%AD%E6%9D%BE%E5%BC%9B%E7%9D%A1%E5%A7%BF%E5%87%BA%E5%9C%88+%E6%B8%B8%E5%AE%A2%E6%8E%92%E9%98%9F%E6%89%93%E5%8D%A1",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时48分 ~ 16时25分]"
+        },
+        {
+          "title": "央视曝光越南相亲真相",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E8%B6%8A%E5%8D%97%E7%9B%B8%E4%BA%B2%E7%9C%9F%E7%9B%B8%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时48分 ~ 16时25分]"
+        },
+        {
+          "title": "景区回应女子无防护在水边护栏做瑜伽",
+          "url": "https://www.toutiao.com/trending/7626964287223595018/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时48分 ~ 16时25分]"
         },
         {
           "title": "回购增持“重质提效”，龙头公司“大手笔”传递价值信号",
@@ -814,28 +1006,6 @@
           "time_info": "[10时51分 ~ 11时22分]"
         },
         {
-          "title": "美国男子不满工资焚烧上亿美元仓库",
-          "url": "https://www.toutiao.com/trending/7626592232352399403/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时48分 ~ 15时49分]"
-        },
-        {
-          "title": "收评：创业板指大涨3.78%创4年多新高",
-          "url": "https://www.baidu.com/s?wd=%E6%94%B6%E8%AF%84%EF%BC%9A%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E5%A4%A7%E6%B6%A83.78%25%E5%88%9B4%E5%B9%B4%E5%A4%9A%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时48分 ~ 15时49分]"
-        },
-        {
           "title": "韩国央行行长李昌镛：经济增长路径取决于中东局势和贸易状况。 现在判断中东冲击的方向还为时过早。 暂时的冲击并不足以引发利率反应，长期冲击可能需要政策予以应对。 中东局势动荡，现在讨论升息还为时过早。 理事会需要先关注中东谈判的进程。",
           "url": "https://wallstreetcn.com/livenews/3085503",
           "source": "华尔街见闻-快讯",
@@ -848,17 +1018,6 @@
           "time_info": "[10时52分 ~ 11时22分]"
         },
         {
-          "title": "伊朗最高领袖发表最新声明",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%8F%91%E8%A1%A8%E6%9C%80%E6%96%B0%E5%A3%B0%E6%98%8E%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时48分 ~ 15时49分]"
-        },
-        {
           "title": "纳斯达克金龙中国指数初步收跌1.3%。 热门中概股里，蔚来初步收跌4.8%，百度跌4.6%，晶科能源跌3.9%，比亚迪跌3.4%，小马智行跌3.3%，拼多多跌3%，金山云涨1.5%，阿里巴巴涨1.8%。 ETF中，KWEB跌1.1%，CQQQ跌0.9%。",
           "url": "https://wallstreetcn.com/livenews/3085315",
           "source": "华尔街见闻-快讯",
@@ -868,17 +1027,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时57分 ~ 05时00分]"
-        },
-        {
-          "title": "从乐理根源鉴定周杰伦有没有抄袭",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E4%B9%90%E7%90%86%E6%A0%B9%E6%BA%90%E9%89%B4%E5%AE%9A%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%9C%89%E6%B2%A1%E6%9C%89%E6%8A%84%E8%A2%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时48分 ~ 15时49分]"
         },
         {
           "title": "人工智能将纳入教师资格考试和认证内容",
@@ -916,15 +1064,15 @@
           "time_info": "[05时50分 ~ 05时55分]"
         },
         {
-          "title": "媒体称 NASA 发布有史以来「最清晰的月球照片」，是真的吗？有哪些细节值得关注？",
-          "url": "https://www.zhihu.com/question/2025509383656798056",
+          "title": "人工智能将纳入教师资格考试和认证内容，会对未来的教育生态产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2025880248273618520",
           "source": "知乎",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时48分 ~ 15时49分]"
+          "time_info": "[16时24分 ~ 16时25分]"
         },
         {
           "title": "金十图示：2026年04月09日（周四）美股热门股票行情一览（美股收盘）",
@@ -948,17 +1096,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时52分 ~ 11时22分]"
-        },
-        {
-          "title": "吴子嘉断言民进党派沈伯洋挑战蒋万安",
-          "url": "https://www.toutiao.com/trending/7626315913202286646/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时48分 ~ 15时49分]"
         },
         {
           "title": "三角洲行动AR57武器测评",
@@ -1018,39 +1155,6 @@
           "time_info": "[10时51分 ~ 10时52分]"
         },
         {
-          "title": "央视曝光越南相亲真相",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E8%B6%8A%E5%8D%97%E7%9B%B8%E4%BA%B2%E7%9C%9F%E7%9B%B8%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时48分 ~ 15时49分]"
-        },
-        {
-          "title": "景区回应女子无防护在水边护栏做瑜伽",
-          "url": "https://www.toutiao.com/trending/7626964287223595018/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时48分 ~ 15时49分]"
-        },
-        {
-          "title": "小猫凭松弛睡姿出圈 游客排队打卡",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%8C%AB%E5%87%AD%E6%9D%BE%E5%BC%9B%E7%9D%A1%E5%A7%BF%E5%87%BA%E5%9C%88+%E6%B8%B8%E5%AE%A2%E6%8E%92%E9%98%9F%E6%89%93%E5%8D%A1",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时48分 ~ 15时49分]"
-        },
-        {
           "title": "打击伊朗期间美军消耗约760万杯咖啡",
           "url": "https://s.weibo.com/weibo?q=%23%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E6%9C%9F%E9%97%B4%E7%BE%8E%E5%86%9B%E6%B6%88%E8%80%97%E7%BA%A6760%E4%B8%87%E6%9D%AF%E5%92%96%E5%95%A1%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -1073,6 +1177,17 @@
           "time_info": "[10时51分 ~ 10时52分]"
         },
         {
+          "title": "省Token神器效果如何",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9C%81Token%E7%A5%9E%E5%99%A8%E6%95%88%E6%9E%9C%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
+        },
+        {
           "title": "伊朗议会议长就此前发表的指控美国和以色列违反停火协议的帖子发表评论称：“时间不多了。”",
           "url": "https://flash.jin10.com/detail/20260410035512714800",
           "source": "金十数据",
@@ -1082,17 +1197,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时57分 ~ 05时00分]"
-        },
-        {
-          "title": "莫氏鸡煲员工吃了10多天外卖",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%B0%8F%E9%B8%A1%E7%85%B2%E5%91%98%E5%B7%A5%E5%90%83%E4%BA%8610%E5%A4%9A%E5%A4%A9%E5%A4%96%E5%8D%96%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时48分 ~ 15时49分]"
         },
         {
           "title": "百余美国青年来渝沉浸式体验非遗",
@@ -1115,6 +1219,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
+        },
+        {
+          "title": "【证监会：支持创业板上市公司吸收合并境内上市未满三年的公司】中国证监会发布《关于深化创业板改革更好服务新质生产力发展的意见》，意见指出，完善融资并购制度，提升股债融资灵活性便利性。引导上市公司合理融资、按需融资，推出再融资储架发行制度，允许上市公司临时股东会授权董事会实施简易程序再融资，提高简易程序额度上限。支持创业板上市公司吸收合并境内上市未满三年的公司，同时继续履行限售期相关监管要求。支持规范运作、创新能力突出的创业板上市公司实施股权激励时灵活设置考核指标。支持创业板上市公司发行科技创新债券、绿色债券、知识产权证券化等产品，支持优质公司适用公司债券简明信息披露安排。",
+          "url": "https://wallstreetcn.com/livenews/3085709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "【证监会发布创业板改革意见，增设第四套上市标准】 为更好适应这些企业发展规律和特点，提升创业板对多元创新的包容性，这次改革增设创业板第四套上市标准，通过引入收入复合增长率、研发投入等成长性、创新性指标，与市值、收入指标进行组合，以更好支持具备高成长潜力与突出创新能力的优质企业。具体来看，共有两项指标：一是“预计市值不低于30亿元，最近一年营业收入不低于2亿元，最近三年营收复合增长率不低于30%”，主要适用于新兴产业领域企业；二是“预计市值不低于40亿元，最近一年营业收入不低于2亿元，最近三年累计研发投入不低于1亿元且占营收比例不低于15%”，主要适用于未来产业领域企业。",
+          "url": "https://wallstreetcn.com/livenews/3085708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "HappyHorse登顶AI视频测评榜首",
@@ -1156,7 +1282,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -1170,6 +1296,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "证监会：创业板第四套上市标准共有两项指标",
+          "url": "https://flash.jin10.com/detail/20260410161220358800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "中国证监会新闻发言人就《关于深化创业板改革 更好服务新质生产力发展的意见》答记者问",
+          "url": "https://wallstreetcn.com/livenews/3085704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "中国证监会发布《关于深化创业板改革 更好服务新质生产力发展的意见》",
+          "url": "https://wallstreetcn.com/livenews/3085703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "金十图示：2026年04月09日（周四）美股热门股票行情一览（美股盘中）",
@@ -1216,6 +1375,17 @@
           "time_info": "10时52分"
         },
         {
+          "title": "证监会：推出更多创业板相关ETF和期权 适时推出创业板股指期货",
+          "url": "https://flash.jin10.com/detail/20260410161103237800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "主动权益类基金2025年平均换手率突破500%，创2021年以来最高水平",
           "url": "https://wallstreetcn.com/livenews/3085373",
           "source": "华尔街见闻-快讯",
@@ -1233,7 +1403,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -1255,7 +1425,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -1266,9 +1436,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
+        },
+        {
+          "title": "证监会：深化创业板改革 更好支持企业利用资本市场融资发展、做优做强",
+          "url": "https://flash.jin10.com/detail/20260410160825853800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "市场消息：国际货币基金组织正着手通过征求成员国意见的方式恢复与委内瑞拉的关系。",
@@ -1313,6 +1494,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "证监会：增设创业板第四套上市标准",
+          "url": "https://flash.jin10.com/detail/20260410160433124800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "凯投宏观：若美伊停火协议得以维持 布油与WTI原油近月价差或回归常态",
