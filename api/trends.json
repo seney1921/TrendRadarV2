@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T17:45:35.731095+08:00",
-  "total_titles_processed": 1220,
+  "generated_at": "2026-04-11T17:51:18.464092+08:00",
+  "total_titles_processed": 1227,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2025878815226754715",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时35分 ~ 17时45分]"
+          "appearance_count": 13,
+          "time_info": "[10时35分 ~ 17时51分]"
         },
         {
           "title": "上交所：拟将主板风险警示股票价格的涨跌幅限制比例由5%调整为10%",
@@ -73,8 +74,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[06时42分 ~ 17时45分]"
+          "appearance_count": 18,
+          "time_info": "[06时42分 ~ 17时51分]"
         },
         {
           "title": "【早报】证监会：增设创业板第四套上市标准；主板ST股涨跌幅拟调整为10%",
@@ -86,8 +87,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时35分 ~ 17时45分]"
+          "appearance_count": 13,
+          "time_info": "[10时35分 ~ 17时51分]"
         },
         {
           "title": "如何看待 Kimi 最新报告「共同一作」高中生受邀在清华姚班进行学术演讲？",
@@ -99,8 +100,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时59分 ~ 17时45分]"
+          "appearance_count": 11,
+          "time_info": "[12时59分 ~ 17时51分]"
         },
         {
           "title": "创业板第四套上市标准落地，哪些企业有望率先上市闯关？",
@@ -114,8 +115,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时35分 ~ 17时45分]"
+          "appearance_count": 13,
+          "time_info": "[10时35分 ~ 17时51分]"
         },
         {
           "title": "媒体称 NASA 发布有史以来「最清晰的月球照片」，是真的吗？有哪些细节值得关注？",
@@ -144,6 +145,18 @@
           "time_info": "[04时44分 ~ 07时41分]"
         },
         {
+          "title": "水军机器人走错片场露马脚",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353086&amp;topic_name=%E6%B0%B4%E5%86%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B5%B0%E9%94%99%E7%89%87%E5%9C%BA%E9%9C%B2%E9%A9%AC%E8%84%9A",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时53分 ~ 17时51分]"
+        },
+        {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260411041025716800",
           "source": "金十数据",
@@ -165,8 +178,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时59分 ~ 17时45分]"
+          "appearance_count": 11,
+          "time_info": "[12时59分 ~ 17时51分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股收盘）",
@@ -190,20 +203,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时35分 ~ 17时45分]"
-        },
-        {
-          "title": "水军机器人走错片场露马脚",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353086&amp;topic_name=%E6%B0%B4%E5%86%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B5%B0%E9%94%99%E7%89%87%E5%9C%BA%E9%9C%B2%E9%A9%AC%E8%84%9A",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时53分 ~ 17时45分]"
+          "appearance_count": 13,
+          "time_info": "[10时35分 ~ 17时51分]"
         },
         {
           "title": "AL整活翻车,官号运营引群嘲",
@@ -219,8 +220,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时35分 ~ 17时45分]"
+          "appearance_count": 13,
+          "time_info": "[10时35分 ~ 17时51分]"
         },
         {
           "title": "A×A＋A=272，求 A，有没有简单的方法，适合三年级小朋友的思维方式？",
@@ -286,8 +287,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[03时01分 ~ 17时45分]"
+          "appearance_count": 25,
+          "time_info": "[03时01分 ~ 17时51分]"
         },
         {
           "title": "中国科学家揭示左撇子真相",
@@ -373,8 +374,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时35分 ~ 17时45分]"
+          "appearance_count": 13,
+          "time_info": "[10时35分 ~ 17时51分]"
         },
         {
           "title": "人民日报点赞张雪、冯骥、王兴兴：新一代创业者，追风赶月莫停留",
@@ -403,8 +404,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时14分 ~ 17时45分]"
+          "appearance_count": 32,
+          "time_info": "[00时14分 ~ 17时51分]"
         },
         {
           "title": "网红“一栗小莎子”因癌症剃光头",
@@ -469,8 +470,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时59分 ~ 17时45分]"
+          "appearance_count": 28,
+          "time_info": "[00时59分 ~ 17时51分]"
         },
         {
           "title": "王者世界开荒攻略",
@@ -640,6 +641,20 @@
           "time_info": "[12时59分 ~ 16时55分]"
         },
         {
+          "title": "张维伊亲测「汉堡馒头减肥法」4 天减 2.6 斤，这种方法真的有效吗？有健康风险吗？",
+          "url": "https://www.zhihu.com/question/2025998956627322706",
+          "source": "知乎",
+          "ranks": [
+            17,
+            18,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时08分 ~ 17时51分]"
+        },
+        {
           "title": "网红“一栗小莎子”因癌症剃光头",
           "url": "https://www.toutiao.com/trending/7627073171309297705/",
           "source": "今日头条",
@@ -654,18 +669,17 @@
           "time_info": "[00时14分 ~ 05时46分]"
         },
         {
-          "title": "张维伊亲测「汉堡馒头减肥法」4 天减 2.6 斤，这种方法真的有效吗？有健康风险吗？",
-          "url": "https://www.zhihu.com/question/2025998956627322706",
-          "source": "知乎",
+          "title": "张婉婷风波后首发文",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%89%E5%A9%B7%E9%A3%8E%E6%B3%A2%E5%90%8E%E9%A6%96%E5%8F%91%E6%96%87%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
           "ranks": [
-            17,
-            18,
-            19,
-            20
+            22,
+            21,
+            26
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[14时08分 ~ 17时45分]"
+          "time_info": "[15时09分 ~ 17时51分]"
         },
         {
           "title": "跑步有哪些注意事项",
@@ -723,19 +737,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时44分 ~ 07时41分]"
-        },
-        {
-          "title": "张婉婷风波后首发文",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%89%E5%A9%B7%E9%A3%8E%E6%B3%A2%E5%90%8E%E9%A6%96%E5%8F%91%E6%96%87%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时09分 ~ 17时45分]"
         },
         {
           "title": "黑石集团考虑围绕数据中心收购公司的IPO与高盛为首的（银行）团体合作。",
@@ -845,6 +846,19 @@
           "time_info": "[00时14分 ~ 01时04分]"
         },
         {
+          "title": "独家披露：中方行使否决权背后",
+          "url": "https://www.baidu.com/s?wd=%E7%8B%AC%E5%AE%B6%E6%8A%AB%E9%9C%B2%EF%BC%9A%E4%B8%AD%E6%96%B9%E8%A1%8C%E4%BD%BF%E5%90%A6%E5%86%B3%E6%9D%83%E8%83%8C%E5%90%8E",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时08分 ~ 17时51分]"
+        },
+        {
           "title": "虞书欣Ins更新",
           "url": "https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3Ins%E6%9B%B4%E6%96%B0&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -929,6 +943,18 @@
           "time_info": "[01时00分 ~ 01时56分]"
         },
         {
+          "title": "直播丨伊斯兰堡高度戒备，迎美伊首轮谈判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32948964",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时51分 ~ 17时51分]"
+        },
+        {
           "title": "月鳞绮纪全员打工人",
           "url": "https://www.douyin.com/hot/2462400",
           "source": "抖音",
@@ -941,17 +967,15 @@
           "time_info": "[15时53分 ~ 16时55分]"
         },
         {
-          "title": "独家披露：中方行使否决权背后",
-          "url": "https://www.baidu.com/s?wd=%E7%8B%AC%E5%AE%B6%E6%8A%AB%E9%9C%B2%EF%BC%9A%E4%B8%AD%E6%96%B9%E8%A1%8C%E4%BD%BF%E5%90%A6%E5%86%B3%E6%9D%83%E8%83%8C%E5%90%8E",
-          "source": "百度热搜",
+          "title": "添添扫地摇舞蹈挑战",
+          "url": "https://www.douyin.com/hot/2461643",
+          "source": "抖音",
           "ranks": [
-            21,
-            24,
-            29
+            28
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[14时08分 ~ 17时45分]"
+          "time_info": "[16时51分 ~ 17时51分]"
         },
         {
           "title": "4月10日芝加哥商业交易所（CME）外汇类商品成交量报告已在金十数据中心更新！欢迎点击查看",
@@ -1019,18 +1043,6 @@
           "time_info": "[10时35分 ~ 13时02分]"
         },
         {
-          "title": "直播丨伊斯兰堡高度戒备，迎美伊首轮谈判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32948964",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时51分 ~ 17时45分]"
-        },
-        {
           "title": "巴基斯坦确认美伊谈判11日在伊斯兰堡塞雷纳酒店举行",
           "url": "https://wallstreetcn.com/livenews/3086096",
           "source": "华尔街见闻-快讯",
@@ -1041,17 +1053,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时43分 ~ 06时45分]"
-        },
-        {
-          "title": "添添扫地摇舞蹈挑战",
-          "url": "https://www.douyin.com/hot/2461643",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时51分 ~ 17时45分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股盘中）",
@@ -1149,6 +1150,17 @@
           "time_info": "[01时56分 ~ 03时04分]"
         },
         {
+          "title": "外国百万网红排队蹲莫氏鸡煲",
+          "url": "https://www.toutiao.com/trending/7627350844100182025/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 17时51分]"
+        },
+        {
           "title": "Blackstone Digital Infrastructure Trust（黑石数字基建信托）申请IPO。",
           "url": "https://wallstreetcn.com/livenews/3086081",
           "source": "华尔街见闻-快讯",
@@ -1194,6 +1206,17 @@
           "time_info": "[12时59分 ~ 13时02分]"
         },
         {
+          "title": "舞剧《红楼梦》导演质疑《浪姐》抄袭",
+          "url": "https://www.baidu.com/s?wd=%E8%88%9E%E5%89%A7%E3%80%8A%E7%BA%A2%E6%A5%BC%E6%A2%A6%E3%80%8B%E5%AF%BC%E6%BC%94%E8%B4%A8%E7%96%91%E3%80%8A%E6%B5%AA%E5%A7%90%E3%80%8B%E6%8A%84%E8%A2%AD",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 17时51分]"
+        },
+        {
           "title": "巴基斯坦确认美伊谈判11日在伊斯兰堡塞雷纳酒店举行",
           "url": "https://flash.jin10.com/detail/20260411082306743800",
           "source": "金十数据",
@@ -1225,17 +1248,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
-        },
-        {
-          "title": "外国百万网红排队蹲莫氏鸡煲",
-          "url": "https://www.toutiao.com/trending/7627350844100182025/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
         },
         {
           "title": "市场消息：“大空头”迈克尔·伯里（Michael Burry）表示，买入了京东、阿里巴巴、游戏驿站和FISERV的股票。",
@@ -1302,17 +1314,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
-        },
-        {
-          "title": "舞剧《红楼梦》导演质疑《浪姐》抄袭",
-          "url": "https://www.baidu.com/s?wd=%E8%88%9E%E5%89%A7%E3%80%8A%E7%BA%A2%E6%A5%BC%E6%A2%A6%E3%80%8B%E5%AF%BC%E6%BC%94%E8%B4%A8%E7%96%91%E3%80%8A%E6%B5%AA%E5%A7%90%E3%80%8B%E6%8A%84%E8%A2%AD",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
         },
         {
           "title": "巴西财政部长：希望下周在国际货币基金组织会议上推进关于美方合作的谈判。",
