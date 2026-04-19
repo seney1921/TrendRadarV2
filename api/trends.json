@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-19T22:49:32.516265+08:00",
-  "total_titles_processed": 1349,
+  "generated_at": "2026-04-19T23:42:00.108278+08:00",
+  "total_titles_processed": 1395,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 95,
+      "match_count": 99,
       "titles": [
         {
           "title": "解放军 17 日管控日舰过航台湾海峡，哪些细节值得关注？131 年前的这天《马关条约》签署，是巧合吗？",
           "url": "https://www.zhihu.com/question/2028861445954125830",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[10时59分 ~ 22时49分]"
+          "appearance_count": 20,
+          "time_info": "[10时59分 ~ 23时41分]"
         },
         {
           "title": "看清洁能源如何点亮绿色经济",
@@ -38,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时38分 ~ 22时49分]"
+          "appearance_count": 9,
+          "time_info": "[19时38分 ~ 23时41分]"
         },
         {
           "title": "行业性纵容！“幽灵外卖”黑产调查：7家电商平台“幽灵店铺”多达67604家",
@@ -96,8 +97,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 37,
-          "time_info": "[00时47分 ~ 22时49分]"
+          "appearance_count": 38,
+          "time_info": "[00时47分 ~ 23时41分]"
         },
         {
           "title": "联赛大王GEN翻车,Zeka首胜大超",
@@ -114,8 +115,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 37,
-          "time_info": "[00时47分 ~ 22时49分]"
+          "appearance_count": 38,
+          "time_info": "[00时47分 ~ 23时41分]"
         },
         {
           "title": "7家电商平台回应涉“幽灵外卖”被处罚：诚恳接受，坚决服从",
@@ -209,11 +210,12 @@
             11,
             22,
             29,
-            30
+            30,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时59分 ~ 18时48分]"
+          "appearance_count": 12,
+          "time_info": "[10时59分 ~ 23时41分]"
         },
         {
           "title": "美以袭击伊朗进入第 51 天，当前局势如何？哪些信息值得关注？",
@@ -221,11 +223,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[10时59分 ~ 22时49分]"
+          "appearance_count": 20,
+          "time_info": "[10时59分 ~ 23时41分]"
         },
         {
           "title": "燃油成本飙升冲击航空业，多家航司上调费用并削减航线",
@@ -244,6 +247,26 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[10时59分 ~ 18时48分]"
+        },
+        {
+          "title": "“五稂液”百余元一箱？央媒起底直播间“名优老酒”造假产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33004171",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            17,
+            14,
+            12,
+            10,
+            11,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[13时36分 ~ 23时41分]"
         },
         {
           "title": "霍尔木兹海峡将迎来开放 金价飙升至一个月高位",
@@ -288,8 +311,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时54分 ~ 22时49分]"
+          "appearance_count": 12,
+          "time_info": "[17时54分 ~ 23时41分]"
         },
         {
           "title": "市监总局整治幽灵外卖，暂停平台新增蛋糕店铺，「幽灵外卖」是什么？蛋糕店为何成重灾区？消费者该怎么警惕？",
@@ -314,8 +337,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[16时10分 ~ 22时49分]"
+          "appearance_count": 15,
+          "time_info": "[16时10分 ~ 23时41分]"
         },
         {
           "title": "狠人,吧友挑战过期20年泡面",
@@ -333,8 +356,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 37,
-          "time_info": "[00时47分 ~ 22时49分]"
+          "appearance_count": 38,
+          "time_info": "[00时47分 ~ 23时41分]"
         },
         {
           "title": "如何看待西安十五五规划中曲江新区撤销并回归行政区雁塔区？",
@@ -351,23 +374,20 @@
           "time_info": "[10时59分 ~ 19时42分]"
         },
         {
-          "title": "“五稂液”百余元一箱？央媒起底直播间“名优老酒”造假产业链",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33004171",
-          "source": "澎湃新闻",
+          "title": "演唱会结束女生和闺蜜打了个外卖车",
+          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BB%93%E6%9D%9F%E5%A5%B3%E7%94%9F%E5%92%8C%E9%97%BA%E8%9C%9C%E6%89%93%E4%BA%86%E4%B8%AA%E5%A4%96%E5%8D%96%E8%BD%A6",
+          "source": "百度热搜",
           "ranks": [
-            18,
-            16,
-            17,
-            14,
-            12,
-            10,
-            11,
+            25,
             9,
-            6
+            8,
+            19,
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[13时36分 ~ 22时49分]"
+          "appearance_count": 10,
+          "time_info": "[18时48分 ~ 23时41分]"
         },
         {
           "title": "湖南29岁抗癌网红廖大雁离世",
@@ -400,11 +420,12 @@
             26,
             21,
             19,
-            24
+            24,
+            18
           ],
           "is_new": false,
-          "appearance_count": 37,
-          "time_info": "[00时47分 ~ 22时49分]"
+          "appearance_count": 38,
+          "time_info": "[00时47分 ~ 23时41分]"
         },
         {
           "title": "支付宝首个赞助商IP更名为“南京赢”",
@@ -509,8 +530,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[13时36分 ~ 22时49分]"
+          "appearance_count": 18,
+          "time_info": "[13时36分 ~ 23时41分]"
         },
         {
           "title": "油漆洗不掉,弗利萨coser翻车",
@@ -639,21 +660,6 @@
           "time_info": "[17时54分 ~ 21时16分]"
         },
         {
-          "title": "演唱会结束女生和闺蜜打了个外卖车",
-          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BB%93%E6%9D%9F%E5%A5%B3%E7%94%9F%E5%92%8C%E9%97%BA%E8%9C%9C%E6%89%93%E4%BA%86%E4%B8%AA%E5%A4%96%E5%8D%96%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            9,
-            8,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时48分 ~ 22时49分]"
-        },
-        {
           "title": "据日经新闻：日本考虑允许共同基金增加对非上市公司的投资。",
           "url": "https://flash.jin10.com/detail/20260419043033076800",
           "source": "金十数据",
@@ -724,11 +730,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时10分 ~ 22时49分]"
+          "appearance_count": 5,
+          "time_info": "[21时10分 ~ 23时41分]"
         },
         {
           "title": "加拿大媒体人：美商务部长咆哮背后是焦虑",
@@ -825,6 +832,18 @@
           "time_info": "[00时48分 ~ 03时45分]"
         },
         {
+          "title": "台时事评论员：统一后不用再乱买军购",
+          "url": "https://www.toutiao.com/trending/7630370171451424804/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时44分 ~ 23时41分]"
+        },
+        {
           "title": "伊斯兰堡两大酒店通知住客离店",
           "url": "https://flash.jin10.com/detail/20260419161941398800",
           "source": "金十数据",
@@ -847,6 +866,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
+        },
+        {
+          "title": "最新民调：超六成美国人反对扩大对伊军事行动",
+          "url": "https://flash.jin10.com/detail/20260419230401913800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         },
         {
           "title": "张凌赫ins更新萌照",
@@ -923,6 +953,19 @@
           "time_info": "[06时40分 ~ 07时43分]"
         },
         {
+          "title": "贺娇龙账号时隔100天更新",
+          "url": "https://www.baidu.com/s?wd=%E8%B4%BA%E5%A8%87%E9%BE%99%E8%B4%A6%E5%8F%B7%E6%97%B6%E9%9A%94100%E5%A4%A9%E6%9B%B4%E6%96%B0",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时16分 ~ 23时41分]"
+        },
+        {
           "title": "居民咨询问题无果 反被社区人员咬伤",
           "url": "https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E5%92%A8%E8%AF%A2%E9%97%AE%E9%A2%98%E6%97%A0%E6%9E%9C+%E5%8F%8D%E8%A2%AB%E7%A4%BE%E5%8C%BA%E4%BA%BA%E5%91%98%E5%92%AC%E4%BC%A4",
           "source": "百度热搜",
@@ -947,6 +990,18 @@
           "time_info": "[06时40分 ~ 07时43分]"
         },
         {
+          "title": "金十整理：下周重要事件与数据预告——中国一年期LPR将公布；美伊临时停火周二到期；沃什的美联储主席提名听证会周二举行",
+          "url": "https://flash.jin10.com/detail/20260419214840044800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时44分 ~ 23时41分]"
+        },
+        {
           "title": "乘风2026二公选曲解说",
           "url": "https://search.bilibili.com/all?keyword=%E4%B9%98%E9%A3%8E2026%E4%BA%8C%E5%85%AC%E9%80%89%E6%9B%B2%E8%A7%A3%E8%AF%B4",
           "source": "bilibili 热搜",
@@ -968,19 +1023,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时38分 ~ 19时42分]"
-        },
-        {
-          "title": "贺娇龙账号时隔100天更新",
-          "url": "https://www.baidu.com/s?wd=%E8%B4%BA%E5%A8%87%E9%BE%99%E8%B4%A6%E5%8F%B7%E6%97%B6%E9%9A%94100%E5%A4%A9%E6%9B%B4%E6%96%B0",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            24,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时16分 ~ 22时49分]"
         },
         {
           "title": "印度政府：印度外交秘书对今天早些时候在霍尔木兹海峡发生的涉及两艘印度国旗船只的枪击事件表示深切关注。",
@@ -1027,28 +1069,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[21时10分 ~ 21时16分]"
-        },
-        {
-          "title": "台时事评论员：统一后不用再乱买军购",
-          "url": "https://www.toutiao.com/trending/7630370171451424804/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 22时49分]"
-        },
-        {
-          "title": "金十整理：下周重要事件与数据预告——中国一年期LPR将公布；美伊临时停火周二到期；沃什的美联储主席提名听证会周二举行",
-          "url": "https://flash.jin10.com/detail/20260419214840044800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 22时49分]"
         },
         {
           "title": "“140年以来最强厄尔尼诺”说法引关注，国家气候中心回应",
@@ -1199,6 +1219,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时48分 ~ 00时52分]"
+        },
+        {
+          "title": "zmjjkk长文回复粉丝",
+          "url": "https://s.weibo.com/weibo?q=zmjjkk%E9%95%BF%E6%96%87%E5%9B%9E%E5%A4%8D%E7%B2%89%E4%B8%9D&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "汪峰回应一把推开冲上台粉丝",
+          "url": "https://www.toutiao.com/trending/7629727569654546483/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "浪姐二公小考解说",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B5%AA%E5%A7%90%E4%BA%8C%E5%85%AC%E5%B0%8F%E8%80%83%E8%A7%A3%E8%AF%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         },
         {
           "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（4月19日）",
