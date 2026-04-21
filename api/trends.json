@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T03:22:49.804546+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-04-22T04:09:09.549899+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "郑丽文涉解放军言论让民进党破防",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时09分]"
         },
         {
           "title": "人多味大!偶像劝粉丝勤搓澡",
@@ -26,20 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时22分]"
-        },
-        {
-          "title": "十几块的沙县鸡腿饭成了「中国宝宝的减脂神器」，套餐包含鸡腿、米饭和蔬菜，它的优势在哪里？真能减脂吗？",
-          "url": "https://www.zhihu.com/question/2027397560780727963",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时09分]"
         },
         {
           "title": "南大考研爆雷,220分上985",
@@ -49,19 +37,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时09分]"
         },
         {
-          "title": "苹果公司候任CEO Ternus：我们将再次改变世界。 AI将创造“几乎无限的潜力”。 在我任期内，公司的使命不会变化。",
-          "url": "https://wallstreetcn.com/livenews/3092049",
-          "source": "华尔街见闻-快讯",
+          "title": "十几块的沙县鸡腿饭成了「中国宝宝的减脂神器」，套餐包含鸡腿、米饭和蔬菜，它的优势在哪里？真能减脂吗？",
+          "url": "https://www.zhihu.com/question/2027397560780727963",
+          "source": "知乎",
           "ranks": [
-            1
+            5,
+            3,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时09分]"
         },
         {
           "title": "【焦点复盘】创业板指深V反转迎四连阳，算力硬件股现极致分化，商业航天概念强者恒强",
@@ -71,19 +61,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时09分]"
         },
         {
           "title": "高市早苗吹嘘日本武器遭打脸",
           "url": "https://news.ifeng.com/c/8sVcvuEgtHw",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时09分]"
         },
         {
           "title": "全明星登场无限城",
@@ -96,19 +87,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时22分]"
-        },
-        {
-          "title": "美联储理事沃勒：美联储地区银行体系需改革，但不应削减数量或改变地理分布 美联储地区银行体系需要进一步演进，并提出了两种值得考虑的模型。 地区银行运营的自然演进传统模式已无法满足当前需求。美联储需要采取更多措施，将地区储备银行的运营集中到全国性的业务线中，并摆脱让各个储备银行各自管理运营基础设施的模式。 这并非一场将权力集中于华盛顿的重组。他提出的第一种模型是标准化，即在单一高级领导下，集中系统领导力和关键支持职能。第二种模型则更进一步，将涉及对那些无需本地的关键职能进行物理整合。 这两种模型都代表了有意义的前进步骤。如果成本节约的机会是合理的，就应该将某些活动外包。美联储需要持续致力于其运营方式的现代化。 第二种模型的一个影响是，地区银行未来可能面临更低的就业水平。",
-          "url": "https://wallstreetcn.com/livenews/3092045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时09分]"
         },
         {
           "title": "如何评价孙杨、张豆豆在《妻子的浪漫旅行 2026》中的表现？",
@@ -117,11 +97,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时09分]"
         },
         {
           "title": "女孩挪用1700万打赏 父亲最新回应",
@@ -132,8 +113,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时09分]"
         },
         {
           "title": "终末地庄方宜数据与实战测评",
@@ -141,11 +122,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时09分]"
         },
         {
           "title": "男子挑战魔鬼辣吃完痉挛倒地",
@@ -155,11 +137,12 @@
             30,
             28,
             23,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时09分]"
         },
         {
           "title": "美以袭击伊朗进入第 53 天，当前局势如何？还有哪些信息值得关注？",
@@ -169,22 +152,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时22分]"
-        },
-        {
-          "title": "异环全S级角色攻略",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BC%82%E7%8E%AF%E5%85%A8S%E7%BA%A7%E8%A7%92%E8%89%B2%E6%94%BB%E7%95%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            17,
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时09分]"
         },
         {
           "title": "焦点访谈丨倒贴式招商引资伤了谁？哪吒造车3年烧掉183亿",
@@ -194,11 +163,27 @@
             20,
             19,
             18,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时09分]"
+        },
+        {
+          "title": "异环全S级角色攻略",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BC%82%E7%8E%AF%E5%85%A8S%E7%BA%A7%E8%A7%92%E8%89%B2%E6%94%BB%E7%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            17,
+            24,
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时09分]"
         },
         {
           "title": "参加第十七届全国大学生数学竞赛（决赛）是什么体验？如何评价今年的试题？",
@@ -209,8 +194,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时09分]"
         },
         {
           "title": "女子34万装修踩坑极简风变灵堂风",
@@ -219,11 +204,12 @@
           "ranks": [
             20,
             24,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时09分]"
         },
         {
           "title": "李荣浩直播手机掉水里了",
@@ -235,8 +221,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时09分]"
         },
         {
           "title": "准入门槛更新,异环直接爆",
@@ -246,8 +232,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时09分]"
         },
         {
           "title": "周杰伦认证邓紫棋改编的爱琴海",
@@ -256,11 +242,12 @@
           "ranks": [
             5,
             7,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 04时09分]"
         },
         {
           "title": "王健林与梁文锋的双重焦虑",
@@ -269,11 +256,12 @@
           "ranks": [
             5,
             16,
-            30
+            30,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 04时09分]"
         },
         {
           "title": "9950X3D2首发测试",
@@ -281,11 +269,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 02时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时09分]"
         },
         {
           "title": "一个简单的小动作可明显降低餐后血糖",
@@ -294,11 +283,12 @@
           "ranks": [
             25,
             17,
-            27
+            27,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时09分]"
         },
         {
           "title": "SpaceX压境前夜：美股IPO市场上演“疯狂冲刺”",
@@ -308,8 +298,45 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 04时09分]"
+        },
+        {
+          "title": "江苏冲出一个千亿半导体IPO",
+          "url": "https://www.toutiao.com/trending/7631196205749374515/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 04时09分]"
+        },
+        {
+          "title": "苹果公司候任CEO Ternus：我们将再次改变世界。 AI将创造“几乎无限的潜力”。 在我任期内，公司的使命不会变化。",
+          "url": "https://wallstreetcn.com/livenews/3092049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时09分]"
+        },
+        {
+          "title": "美联储理事沃勒：美联储地区银行体系需改革，但不应削减数量或改变地理分布 美联储地区银行体系需要进一步演进，并提出了两种值得考虑的模型。 地区银行运营的自然演进传统模式已无法满足当前需求。美联储需要采取更多措施，将地区储备银行的运营集中到全国性的业务线中，并摆脱让各个储备银行各自管理运营基础设施的模式。 这并非一场将权力集中于华盛顿的重组。他提出的第一种模型是标准化，即在单一高级领导下，集中系统领导力和关键支持职能。第二种模型则更进一步，将涉及对那些无需本地的关键职能进行物理整合。 这两种模型都代表了有意义的前进步骤。如果成本节约的机会是合理的，就应该将某些活动外包。美联储需要持续致力于其运营方式的现代化。 第二种模型的一个影响是，地区银行未来可能面临更低的就业水平。",
+          "url": "https://wallstreetcn.com/livenews/3092045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时09分]"
         },
         {
           "title": "你做到长时间学习的方法是什么？",
@@ -321,18 +348,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时15分 ~ 01时08分]"
-        },
-        {
-          "title": "江苏冲出一个千亿半导体IPO",
-          "url": "https://www.toutiao.com/trending/7631196205749374515/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 03时22分]"
         },
         {
           "title": "刘晓艳打卡重庆机车约拍",
@@ -357,6 +372,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时15分 ~ 01时08分]"
+        },
+        {
+          "title": "星铁4.1剧情有哪些彩蛋",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%9F%E9%93%814.1%E5%89%A7%E6%83%85%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BD%A9%E8%9B%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 04时09分]"
         },
         {
           "title": "董力给阿诺发全职妈妈工资",
@@ -393,6 +419,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时08分 ~ 02时04分]"
+        },
+        {
+          "title": "【美国扩大对伊朗制裁名单，涉个人、企业及航空资产】据美国财政部文件显示，美国外国资产控制办公室更新特别指定国民清单，新增多名伊朗个人、企业及航空资产，涉及反恐及防扩散领域制裁。整体来看，此次制裁不仅针对伊朗境内主体，还覆盖其在中东及周边地区的跨国商业网络，显示美国持续强化对伊朗相关资金、物流及航空体系的限制力度。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3092039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时09分]"
         },
         {
           "title": "白鹿给助理呵呵做饭",
@@ -485,15 +523,26 @@
           "time_info": "01时08分"
         },
         {
-          "title": "【美国扩大对伊朗制裁名单，涉个人、企业及航空资产】据美国财政部文件显示，美国外国资产控制办公室更新特别指定国民清单，新增多名伊朗个人、企业及航空资产，涉及反恐及防扩散领域制裁。整体来看，此次制裁不仅针对伊朗境内主体，还覆盖其在中东及周边地区的跨国商业网络，显示美国持续强化对伊朗相关资金、物流及航空体系的限制力度。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3092039",
-          "source": "华尔街见闻-快讯",
+          "title": "比尔·盖茨基金会将在未来几年裁员至多500人，约占员工总数的20%。",
+          "url": "https://flash.jin10.com/detail/20260422032317320800",
+          "source": "金十数据",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时22分"
+          "time_info": "04时09分"
+        },
+        {
+          "title": "盖茨基金会将裁员20%。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3092055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         },
         {
           "title": "美元指数DXY短线走高逾10点，最新报98.52。非美货币走低，欧元兑美元和澳元兑美元日内跌超0.50%；美元兑瑞郎和美元兑日元日内涨超0.50%。",
@@ -535,20 +584,9 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "星铁4.1剧情有哪些彩蛋",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%9F%E9%93%814.1%E5%89%A7%E6%83%85%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BD%A9%E8%9B%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时04分"
+          "time_info": "03时22分"
         }
       ]
     }
