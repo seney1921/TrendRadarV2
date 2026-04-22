@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T22:51:15.718184+08:00",
-  "total_titles_processed": 2044,
+  "generated_at": "2026-04-22T23:19:24.293078+08:00",
+  "total_titles_processed": 2103,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 186,
+      "match_count": 192,
       "titles": [
         {
           "title": "真假洋牌丨起底进口爆款NeuWell辅酶Q10：在原产国合规性存疑，药店难觅",
@@ -35,8 +35,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时31分 ~ 22时51分]"
+          "appearance_count": 13,
+          "time_info": "[13时31分 ~ 23时19分]"
         },
         {
           "title": "SpaceX放出“IPO重磅炸弹”：太空AI技术未经验证，未必能商业化！",
@@ -65,6 +65,20 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时15分 ~ 07时40分]"
+        },
+        {
+          "title": "直播内容同质化,籽岷在线回怼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353585&amp;topic_name=%E7%9B%B4%E6%92%AD%E5%86%85%E5%AE%B9%E5%90%8C%E8%B4%A8%E5%8C%96%2C%E7%B1%BD%E5%B2%B7%E5%9C%A8%E7%BA%BF%E5%9B%9E%E6%80%BC",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8,
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时55分 ~ 23时19分]"
         },
         {
           "title": "沙特媒体称马宁因执法失误，已被亚足联取消执法资格，后亚足联认证无错漏判，对此你怎么看？",
@@ -100,6 +114,18 @@
           "time_info": "[00时15分 ~ 21时52分]"
         },
         {
+          "title": "BLG第二赛段常规赛Vlog",
+          "url": "https://search.bilibili.com/all?keyword=BLG%E7%AC%AC%E4%BA%8C%E8%B5%9B%E6%AE%B5%E5%B8%B8%E8%A7%84%E8%B5%9BVlog",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时11分 ~ 23时19分]"
+        },
+        {
           "title": "焦点访谈丨倒贴式招商引资伤了谁？哪吒造车3年烧掉183亿",
           "url": "https://m.thepaper.cn/newsDetail_forward_33020485",
           "source": "澎湃新闻",
@@ -128,11 +154,12 @@
             12,
             14,
             13,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时15分 ~ 22时51分]"
+          "appearance_count": 29,
+          "time_info": "[00时15分 ~ 23时19分]"
         },
         {
           "title": "王健林与梁文锋的双重焦虑",
@@ -152,6 +179,18 @@
           "time_info": "[01时08分 ~ 07时39分]"
         },
         {
+          "title": "高市早苗吹嘘日本武器遭打脸",
+          "url": "https://news.ifeng.com/c/8sVcvuEgtHw",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 07时40分]"
+        },
+        {
           "title": "南大考研爆雷,220分上985",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353551&amp;topic_name=%E5%8D%97%E5%A4%A7%E8%80%83%E7%A0%94%E7%88%86%E9%9B%B7%2C220%E5%88%86%E4%B8%8A985",
           "source": "贴吧",
@@ -163,23 +202,12 @@
             16,
             18,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时15分 ~ 22时51分]"
-        },
-        {
-          "title": "高市早苗吹嘘日本武器遭打脸",
-          "url": "https://news.ifeng.com/c/8sVcvuEgtHw",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 07时40分]"
+          "appearance_count": 29,
+          "time_info": "[00时15分 ~ 23时19分]"
         },
         {
           "title": "全明星登场无限城",
@@ -194,20 +222,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时15分 ~ 07时40分]"
-        },
-        {
-          "title": "直播内容同质化,籽岷在线回怼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353585&amp;topic_name=%E7%9B%B4%E6%92%AD%E5%86%85%E5%AE%B9%E5%90%8C%E8%B4%A8%E5%8C%96%2C%E7%B1%BD%E5%B2%B7%E5%9C%A8%E7%BA%BF%E5%9B%9E%E6%80%BC",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8,
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时55分 ~ 22时51分]"
         },
         {
           "title": "【焦点复盘】创业板指深V反转迎四连阳，算力硬件股现极致分化，商业航天概念强者恒强",
@@ -264,8 +278,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时22分 ~ 22时51分]"
+          "appearance_count": 14,
+          "time_info": "[11时22分 ~ 23时19分]"
         },
         {
           "title": "SpaceX压境前夜：美股IPO市场上演“疯狂冲刺”",
@@ -293,11 +307,12 @@
             12,
             26,
             30,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时31分 ~ 22时51分]"
+          "appearance_count": 13,
+          "time_info": "[13时31分 ~ 23时19分]"
         },
         {
           "title": "9950X3D2首发测试",
@@ -344,11 +359,12 @@
             23,
             25,
             26,
-            27
+            27,
+            24
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时15分 ~ 22时51分]"
+          "appearance_count": 26,
+          "time_info": "[00时15分 ~ 23时19分]"
         },
         {
           "title": "刘晓艳打卡重庆机车约拍",
@@ -366,8 +382,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时15分 ~ 22时51分]"
+          "appearance_count": 18,
+          "time_info": "[00时15分 ~ 23时19分]"
         },
         {
           "title": "女孩挪用1700万打赏 父亲最新回应",
@@ -484,16 +500,20 @@
           "time_info": "[00时15分 ~ 07时40分]"
         },
         {
-          "title": "BLG第二赛段常规赛Vlog",
-          "url": "https://search.bilibili.com/all?keyword=BLG%E7%AC%AC%E4%BA%8C%E8%B5%9B%E6%AE%B5%E5%B8%B8%E8%A7%84%E8%B5%9BVlog",
-          "source": "bilibili 热搜",
+          "title": "民政局称20岁小伙养6弟妹系人设",
+          "url": "https://www.baidu.com/s?wd=%E6%B0%91%E6%94%BF%E5%B1%80%E7%A7%B020%E5%B2%81%E5%B0%8F%E4%BC%99%E5%85%BB6%E5%BC%9F%E5%A6%B9%E7%B3%BB%E4%BA%BA%E8%AE%BE",
+          "source": "百度热搜",
           "ranks": [
-            3,
-            2
+            2,
+            6,
+            15,
+            16,
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时11分 ~ 22时51分]"
+          "appearance_count": 9,
+          "time_info": "[16时52分 ~ 23时19分]"
         },
         {
           "title": "周杰伦认证邓紫棋改编的爱琴海",
@@ -513,19 +533,19 @@
           "time_info": "[01时08分 ~ 06时45分]"
         },
         {
-          "title": "民政局称20岁小伙养6弟妹系人设",
-          "url": "https://www.baidu.com/s?wd=%E6%B0%91%E6%94%BF%E5%B1%80%E7%A7%B020%E5%B2%81%E5%B0%8F%E4%BC%99%E5%85%BB6%E5%BC%9F%E5%A6%B9%E7%B3%BB%E4%BA%BA%E8%AE%BE",
-          "source": "百度热搜",
+          "title": "【每日收评】沪指重返4100点，创业板综指创历史新高，AI算力链再迎全线爆发",
+          "url": "https://www.cls.cn/detail/2352172",
+          "source": "财联社热门",
           "ranks": [
-            2,
+            10,
+            5,
             6,
-            15,
-            16,
-            21
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[16时52分 ~ 22时51分]"
+          "time_info": "[17时26分 ~ 23时19分]"
         },
         {
           "title": "伊朗停火谈判生变，美股收跌，油价飙升，金银下挫",
@@ -572,18 +592,15 @@
           "time_info": "[00时15分 ~ 07时39分]"
         },
         {
-          "title": "【每日收评】沪指重返4100点，创业板综指创历史新高，AI算力链再迎全线爆发",
-          "url": "https://www.cls.cn/detail/2352172",
-          "source": "财联社热门",
+          "title": "AL战胜NIP LPL第二赛段",
+          "url": "https://search.bilibili.com/all?keyword=AL%20NIP",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            5,
-            6,
-            7
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时26分 ~ 22时51分]"
+          "appearance_count": 4,
+          "time_info": "[21时52分 ~ 23时19分]"
         },
         {
           "title": "商家回应34万装修被装成灵堂风",
@@ -599,6 +616,52 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时31分 ~ 19时11分]"
+        },
+        {
+          "title": "员工称不涨工资干不了 2天后被离职",
+          "url": "https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E7%A7%B0%E4%B8%8D%E6%B6%A8%E5%B7%A5%E8%B5%84%E5%B9%B2%E4%B8%8D%E4%BA%86+2%E5%A4%A9%E5%90%8E%E8%A2%AB%E7%A6%BB%E8%81%8C",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            12,
+            5,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时24分 ~ 23时19分]"
+        },
+        {
+          "title": "A股均价创11年新高！两大板块成“主攻手”，股价跃升标的盘点，这些获融资客重仓",
+          "url": "https://www.cls.cn/detail/2352288",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时24分 ~ 23时19分]"
+        },
+        {
+          "title": "周杰伦认证邓紫棋改编的爱琴海",
+          "url": "https://www.douyin.com/hot/2474645",
+          "source": "抖音",
+          "ranks": [
+            12,
+            15,
+            26,
+            20,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时26分 ~ 23时19分]"
         },
         {
           "title": "星铁4.1剧情有哪些彩蛋",
@@ -640,31 +703,6 @@
           "time_info": "[11时11分 ~ 11时22分]"
         },
         {
-          "title": "AL战胜NIP LPL第二赛段",
-          "url": "https://search.bilibili.com/all?keyword=AL%20NIP",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时52分 ~ 22时51分]"
-        },
-        {
-          "title": "员工称不涨工资干不了 2天后被离职",
-          "url": "https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E7%A7%B0%E4%B8%8D%E6%B6%A8%E5%B7%A5%E8%B5%84%E5%B9%B2%E4%B8%8D%E4%BA%86+2%E5%A4%A9%E5%90%8E%E8%A2%AB%E7%A6%BB%E8%81%8C",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            12,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时24分 ~ 22时51分]"
-        },
-        {
           "title": "星巴克免费咖啡",
           "url": "https://s.weibo.com/weibo?q=%E6%98%9F%E5%B7%B4%E5%85%8B%E5%85%8D%E8%B4%B9%E5%92%96%E5%95%A1&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -679,34 +717,18 @@
           "time_info": "[13时31分 ~ 16时52分]"
         },
         {
-          "title": "A股均价创11年新高！两大板块成“主攻手”，股价跃升标的盘点，这些获融资客重仓",
-          "url": "https://www.cls.cn/detail/2352288",
-          "source": "财联社热门",
+          "title": "高中生200米跑破纪录 曾想弃考打工",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E7%94%9F200%E7%B1%B3%E8%B7%91%E7%A0%B4%E7%BA%AA%E5%BD%95+%E6%9B%BE%E6%83%B3%E5%BC%83%E8%80%83%E6%89%93%E5%B7%A5",
+          "source": "百度热搜",
           "ranks": [
-            13,
-            10,
-            9,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时24分 ~ 22时51分]"
-        },
-        {
-          "title": "周杰伦认证邓紫棋改编的爱琴海",
-          "url": "https://www.douyin.com/hot/2474645",
-          "source": "抖音",
-          "ranks": [
-            12,
-            15,
-            26,
-            20,
-            17
+            22,
+            14,
+            17,
+            25
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[17时26分 ~ 22时51分]"
+          "time_info": "[18时24分 ~ 23时19分]"
         },
         {
           "title": "民政局称20岁小伙养6弟妹系人设",
@@ -756,17 +778,18 @@
           "time_info": "21时52分"
         },
         {
-          "title": "高中生200米跑破纪录 曾想弃考打工",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E7%94%9F200%E7%B1%B3%E8%B7%91%E7%A0%B4%E7%BA%AA%E5%BD%95+%E6%9B%BE%E6%83%B3%E5%BC%83%E8%80%83%E6%89%93%E5%B7%A5",
-          "source": "百度热搜",
+          "title": "REDRED舞蹈挑战",
+          "url": "https://www.douyin.com/hot/2475320",
+          "source": "抖音",
           "ranks": [
-            22,
-            14,
-            17
+            9,
+            12,
+            23,
+            26
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[18时24分 ~ 22时51分]"
+          "time_info": "[19时11分 ~ 23时19分]"
         },
         {
           "title": "【新模型上线期间出现功能异常，月之暗面公布补偿方案：全员额度重置】月之暗面Kimi发文称，“我们知道最近Kimi的使用体验让大家感觉‘打折扣’了。在新模型Kimi K2.6上线期间，大家的热情远超我们的预期。由于访问量瞬间激增，导致部分用户遇到了会员排队、功能短暂不可用的情况；同时，后台系统在统计Agent额度时也出现了偏差，导致部分用户的权益被误扣。为了让大家能第一时间回归顺畅的使用体验，我们已于2026年4月22日20:30将所有用户当月额度恢复至100%，已使用量直接清0。”",
@@ -786,7 +809,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
@@ -800,6 +823,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
+        },
+        {
+          "title": "美国数据隐私立法工作组牵头人、来自宾夕法尼亚州的共和党成员John Joyce表示：《SECURE数据法案》将为所有美国人提供强有力的消费者保护和严格的数据安全标准，同时为处理美国人数据的企业建立清晰、一致且可操作的义务。 这项立法为应对不断发展的数据驱动型数字经济所带来的挑战，提供了一个客观、清晰的解决方案。",
+          "url": "https://wallstreetcn.com/livenews/3092716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "看好权益资产后市，今年以来新发基金规模超3500亿元",
@@ -901,17 +935,16 @@
           "time_info": "[14时05分 ~ 18时24分]"
         },
         {
-          "title": "REDRED舞蹈挑战",
-          "url": "https://www.douyin.com/hot/2475320",
-          "source": "抖音",
+          "title": "星铁银狼保姆级攻略",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%9F%E9%93%81%E9%93%B6%E7%8B%BC%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%94%BB%E7%95%A5",
+          "source": "bilibili 热搜",
           "ranks": [
-            9,
-            12,
-            23
+            11,
+            13
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[19时11分 ~ 22时51分]"
+          "time_info": "[20时54分 ~ 23时19分]"
         },
         {
           "title": "直播丨去时雪满山，归时春满城！第十三批在韩志愿军烈士遗骸回家",
@@ -987,6 +1020,19 @@
           "time_info": "[13时32分 ~ 14时05分]"
         },
         {
+          "title": "状态回暖,AL零封NIP",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353609&amp;topic_name=%E7%8A%B6%E6%80%81%E5%9B%9E%E6%9A%96%2CAL%E9%9B%B6%E5%B0%81NIP",
+          "source": "贴吧",
+          "ranks": [
+            30,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时52分 ~ 23时19分]"
+        },
+        {
           "title": "创业板指午后涨超1%，权重股新易盛涨逾4%，股价续创历史新高，总市值突破6000亿，该股年初至今涨近40%，自去年4月21日至今累计涨超890%。",
           "url": "https://wallstreetcn.com/livenews/3092313",
           "source": "华尔街见闻-快讯",
@@ -997,6 +1043,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时32分 ~ 14时05分]"
+        },
+        {
+          "title": "尚界 Z7 售价 21.98 万起满配上市，哪些亮点值得关注？将对纯电轿跑市场带来哪些冲击？",
+          "url": "https://www.zhihu.com/question/2030295130230477843",
+          "source": "知乎",
+          "ranks": [
+            13,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时52分 ~ 23时19分]"
         },
         {
           "title": "美联储理事沃勒：美联储地区银行体系需改革，但不应削减数量或改变地理分布 美联储地区银行体系需要进一步演进，并提出了两种值得考虑的模型。 地区银行运营的自然演进传统模式已无法满足当前需求。美联储需要采取更多措施，将地区储备银行的运营集中到全国性的业务线中，并摆脱让各个储备银行各自管理运营基础设施的模式。 这并非一场将权力集中于华盛顿的重组。他提出的第一种模型是标准化，即在单一高级领导下，集中系统领导力和关键支持职能。第二种模型则更进一步，将涉及对那些无需本地的关键职能进行物理整合。 这两种模型都代表了有意义的前进步骤。如果成本节约的机会是合理的，就应该将某些活动外包。美联储需要持续致力于其运营方式的现代化。 第二种模型的一个影响是，地区银行未来可能面临更低的就业水平。",
@@ -1021,18 +1080,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时58分 ~ 05时53分]"
-        },
-        {
-          "title": "星铁银狼保姆级攻略",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%9F%E9%93%81%E9%93%B6%E7%8B%BC%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%94%BB%E7%95%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时54分 ~ 22时51分]"
         },
         {
           "title": "白鹿给助理呵呵做饭",
@@ -1123,18 +1170,6 @@
           "time_info": "[13时31分 ~ 14时05分]"
         },
         {
-          "title": "状态回暖,AL零封NIP",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353609&amp;topic_name=%E7%8A%B6%E6%80%81%E5%9B%9E%E6%9A%96%2CAL%E9%9B%B6%E5%B0%81NIP",
-          "source": "贴吧",
-          "ranks": [
-            30,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时52分 ~ 22时51分]"
-        },
-        {
           "title": "美国无限期延长与伊朗的停火协议",
           "url": "https://wallstreetcn.com/livenews/3092116",
           "source": "华尔街见闻-快讯",
@@ -1182,18 +1217,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时16分 ~ 14时05分]"
-        },
-        {
-          "title": "尚界 Z7 售价 21.98 万起满配上市，哪些亮点值得关注？将对纯电轿跑市场带来哪些冲击？",
-          "url": "https://www.zhihu.com/question/2030295130230477843",
-          "source": "知乎",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时52分 ~ 22时51分]"
         },
         {
           "title": "lululemon质检结果",
@@ -1482,6 +1505,18 @@
           "time_info": "[02时04分 ~ 03时22分]"
         },
         {
+          "title": "据美国纽约联储数据，上个交易日（4月21日）担保隔夜融资利率（SOFR）报3.63%，之前一天报3.63%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
+          "url": "https://wallstreetcn.com/livenews/3092688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 23时19分]"
+        },
+        {
           "title": "澳洲联储正密切关注Anthropic的AI模型情况",
           "url": "https://flash.jin10.com/detail/20260422104235915800",
           "source": "金十数据",
@@ -1617,6 +1652,17 @@
           "time_info": "19时11分"
         },
         {
+          "title": "美光科技(MU.O)股价创下历史新高，最新上涨6%。",
+          "url": "https://flash.jin10.com/detail/20260422225033544800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "美联储主席提名人沃什被问及汽油价格和化肥价格，称：美联储需要“安守本分（不要多管闲事）”。 美联储应当对所有类型的数据持开放态度。 美联储无法影响那些一次性（通胀）效应，而只能关注那些持久的效应。",
           "url": "https://wallstreetcn.com/livenews/3091978",
           "source": "华尔街见闻-快讯",
@@ -1650,6 +1696,17 @@
           "time_info": "21时52分"
         },
         {
+          "title": "海军宣传片结尾彩蛋喊“小湾”回家",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E5%86%9B%E5%AE%A3%E4%BC%A0%E7%89%87%E7%BB%93%E5%B0%BE%E5%BD%A9%E8%9B%8B%E5%96%8A%E2%80%9C%E5%B0%8F%E6%B9%BE%E2%80%9D%E5%9B%9E%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "【数读IPO】今日1只新股申购，涉及风电概念等",
           "url": "https://www.cls.cn/detail/2351436",
           "source": "财联社热门",
@@ -1659,6 +1716,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
+        },
+        {
+          "title": "避险溢价消退+降息押注回归，美元多头纷纷撤离！",
+          "url": "https://flash.jin10.com/detail/20260422224702781800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "谷歌云推出7.5亿美元基金，助力合作伙伴加速智能体人工智能开发",
@@ -1870,17 +1938,6 @@
           "time_info": "20时54分"
         },
         {
-          "title": "据美国纽约联储数据，上个交易日（4月21日）担保隔夜融资利率（SOFR）报3.63%，之前一天报3.63%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
-          "url": "https://wallstreetcn.com/livenews/3092688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
           "title": "如何评价《原神》幕后的故事：向至冬，向未来？",
           "url": "https://www.zhihu.com/question/2030262926184031877",
           "source": "知乎",
@@ -1986,9 +2043,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
+        },
+        {
+          "title": "美国贸易代表格里尔：非常关注美国农场投入成本问题。",
+          "url": "https://flash.jin10.com/detail/20260422224048284800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "迅猛龙回应付费直播",
@@ -2211,6 +2279,17 @@
           "time_info": "21时52分"
         },
         {
+          "title": "美国联合航空(UAL.O)：我们不会对合并传闻发表评论。",
+          "url": "https://flash.jin10.com/detail/20260422223721659800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "车企发布会现场狂发888杯奶茶",
           "url": "https://s.weibo.com/weibo?q=%23%E8%BD%A6%E4%BC%81%E5%8F%91%E5%B8%83%E4%BC%9A%E7%8E%B0%E5%9C%BA%E7%8B%82%E5%8F%91888%E6%9D%AF%E5%A5%B6%E8%8C%B6%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -2261,7 +2340,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
