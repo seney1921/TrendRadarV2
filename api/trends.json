@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T17:05:35.585897+08:00",
-  "total_titles_processed": 1423,
+  "generated_at": "2026-04-24T18:26:29.385923+08:00",
+  "total_titles_processed": 1551,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 135,
+      "match_count": 147,
       "titles": [
         {
           "title": "老李船长回归篮球老本行",
@@ -33,6 +33,19 @@
           "time_info": "[01时27分 ~ 07时55分]"
         },
         {
+          "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
+          "url": "https://wallstreetcn.com/articles/3770666",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时56分 ~ 18时26分]"
+        },
+        {
           "title": "全国首例性侵认定工伤案将择期宣判，双方表示不接受调解，有哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2030036154548843856",
           "source": "知乎",
@@ -43,19 +56,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时27分 ~ 07时55分]"
-        },
-        {
-          "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
-          "url": "https://wallstreetcn.com/articles/3770666",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时56分 ~ 17时05分]"
         },
         {
           "title": "打工人的周末穿搭预备备",
@@ -87,6 +87,29 @@
           "time_info": "[01时27分 ~ 07时55分]"
         },
         {
+          "title": "DeepSeek V4 预览版本上线并同步开源，哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2030963929510310856",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时40分 ~ 18时26分]"
+        },
+        {
+          "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
+          "url": "https://wallstreetcn.com/articles/3770782",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时40分 ~ 18时26分]"
+        },
+        {
           "title": "何剑报到,004航母命名有彩蛋",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353619&amp;topic_name=%E4%BD%95%E5%89%91%E6%8A%A5%E5%88%B0%2C004%E8%88%AA%E6%AF%8D%E5%91%BD%E5%90%8D%E6%9C%89%E5%BD%A9%E8%9B%8B",
           "source": "贴吧",
@@ -98,8 +121,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时27分 ~ 17时05分]"
+          "appearance_count": 20,
+          "time_info": "[01时27分 ~ 18时26分]"
         },
         {
           "title": "女儿翻看爸爸给自己的转账记录破防",
@@ -128,15 +151,18 @@
           "time_info": "[10时56分 ~ 16时11分]"
         },
         {
-          "title": "DeepSeek V4 预览版本上线并同步开源，哪些亮点值得关注？",
-          "url": "https://www.zhihu.com/question/2030963929510310856",
+          "title": "公共充电桩价格悄悄上涨近 20%，夜间充电反而不再便宜了，涨价的原因是什么？你有哪些新的省钱策略推荐？",
+          "url": "https://www.zhihu.com/question/2030338599837589984",
           "source": "知乎",
           "ranks": [
-            1
+            7,
+            6,
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时40分 ~ 17时05分]"
+          "appearance_count": 9,
+          "time_info": "[10时56分 ~ 18时26分]"
         },
         {
           "title": "光模块龙头中际旭创总市值站上万亿，最近 1 年股价飙升超 10 倍，估值合理吗？对 A 股科技板块意味着什么？",
@@ -155,30 +181,19 @@
           "time_info": "[01时27分 ~ 07时55分]"
         },
         {
-          "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
-          "url": "https://wallstreetcn.com/articles/3770782",
-          "source": "华尔街见闻",
+          "title": "桂林公布“记者卧底低价团”后续：地接旅行社被罚30万元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33037886",
+          "source": "澎湃新闻",
           "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时40分 ~ 17时05分]"
-        },
-        {
-          "title": "公共充电桩价格悄悄上涨近 20%，夜间充电反而不再便宜了，涨价的原因是什么？你有哪些新的省钱策略推荐？",
-          "url": "https://www.zhihu.com/question/2030338599837589984",
-          "source": "知乎",
-          "ranks": [
+            12,
+            11,
             7,
-            6,
-            3,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时56分 ~ 17时05分]"
+          "appearance_count": 9,
+          "time_info": "[10时56分 ~ 18时26分]"
         },
         {
           "title": "创业板跌近1%，算力硬件齐跌、中际旭创盘中市值破万亿，有色金属普跌，恒科指大跌2%，科网股普遍下挫",
@@ -194,6 +209,20 @@
           "time_info": "[03时18分 ~ 16时11分]"
         },
         {
+          "title": "有图有真相的时代结束了吗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%89%E5%9B%BE%E6%9C%89%E7%9C%9F%E7%9B%B8%E7%9A%84%E6%97%B6%E4%BB%A3%E7%BB%93%E6%9D%9F%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            13,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时56分 ~ 18时26分]"
+        },
+        {
           "title": "nip火力全开,BLG惨遭光头",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353667&amp;topic_name=nip%E7%81%AB%E5%8A%9B%E5%85%A8%E5%BC%80%2CBLG%E6%83%A8%E9%81%AD%E5%85%89%E5%A4%B4",
           "source": "贴吧",
@@ -206,8 +235,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时27分 ~ 17时05分]"
+          "appearance_count": 20,
+          "time_info": "[01时27分 ~ 18时26分]"
         },
         {
           "title": "NIP战胜BLG LPL第二赛段",
@@ -286,8 +315,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时27分 ~ 17时05分]"
+          "appearance_count": 20,
+          "time_info": "[01时27分 ~ 18时26分]"
         },
         {
           "title": "三角洲S9赛季M4A1改法合集",
@@ -303,8 +332,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时27分 ~ 17时05分]"
+          "appearance_count": 20,
+          "time_info": "[01时27分 ~ 18时26分]"
         },
         {
           "title": "为什么张雪会推荐网友买豪爵踏板车？",
@@ -478,19 +507,19 @@
           "time_info": "[01时27分 ~ 07时55分]"
         },
         {
-          "title": "桂林公布“记者卧底低价团”后续：地接旅行社被罚30万元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33037886",
-          "source": "澎湃新闻",
+          "title": "异环公测体验报告",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BC%82%E7%8E%AF%E5%85%AC%E6%B5%8B%E4%BD%93%E9%AA%8C%E6%8A%A5%E5%91%8A",
+          "source": "bilibili 热搜",
           "ranks": [
-            12,
-            11,
-            7,
-            5,
-            4
+            28,
+            29,
+            30,
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时56分 ~ 17时05分]"
+          "appearance_count": 10,
+          "time_info": "[01时41分 ~ 18时26分]"
         },
         {
           "title": "特斯拉Q1营收创近三年最高增速，盈利大超预期，现金流翻倍，马斯克预告支出大增丨财报见闻",
@@ -505,35 +534,6 @@
           "time_info": "[01时27分 ~ 06时56分]"
         },
         {
-          "title": "有图有真相的时代结束了吗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%89%E5%9B%BE%E6%9C%89%E7%9C%9F%E7%9B%B8%E7%9A%84%E6%97%B6%E4%BB%A3%E7%BB%93%E6%9D%9F%E4%BA%86%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            13,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时56分 ~ 17时05分]"
-        },
-        {
-          "title": "异环公测体验报告",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BC%82%E7%8E%AF%E5%85%AC%E6%B5%8B%E4%BD%93%E9%AA%8C%E6%8A%A5%E5%91%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            29,
-            30,
-            25,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时41分 ~ 11时29分]"
-        },
-        {
           "title": "卓哥爆梗开嘲,打脸BLG全员",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353670&amp;topic_name=%E5%8D%93%E5%93%A5%E7%88%86%E6%A2%97%E5%BC%80%E5%98%B2%2C%E6%89%93%E8%84%B8BLG%E5%85%A8%E5%91%98",
           "source": "贴吧",
@@ -545,8 +545,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时56分 ~ 17时05分]"
+          "appearance_count": 9,
+          "time_info": "[10时56分 ~ 18时26分]"
         },
         {
           "title": "扫描“主播”｜单品销量破百万的直播间“生意经”：打香港大药房品牌，产品基本产自内地",
@@ -557,11 +557,50 @@
             14,
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时56分 ~ 17时05分]"
+          "appearance_count": 9,
+          "time_info": "[10时56分 ~ 18时26分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 56 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2030759097247560606",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时56分 ~ 18时26分]"
+        },
+        {
+          "title": "老外怎么看中国社区治理和服务？半夜出门有安全感吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33037105",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时56分 ~ 18时26分]"
+        },
+        {
+          "title": "特朗普重申对伊朗“已大赢特赢”，黎以停火将延长三周，以媒称“伊朗议长已从谈判小组辞职”，伊朗否认内部分裂",
+          "url": "https://wallstreetcn.com/articles/3770760",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时10分 ~ 18时26分]"
         },
         {
           "title": "最新亚洲大学排名：清华北大前二",
@@ -590,30 +629,17 @@
           "time_info": "[10时56分 ~ 17时05分]"
         },
         {
-          "title": "美以袭击伊朗进入第 56 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2030759097247560606",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时56分 ~ 17时05分]"
-        },
-        {
-          "title": "老外怎么看中国社区治理和服务？半夜出门有安全感吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33037105",
+          "title": "世界读书日前夕，湖北多地市委书记向全市群众推荐了多本好书",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33037706",
           "source": "澎湃新闻",
           "ranks": [
             20,
             18,
-            16,
-            17
+            19
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[10时56分 ~ 17时05分]"
+          "time_info": "[11时29分 ~ 18时26分]"
         },
         {
           "title": "【数读IPO】“易中天”概念股今日上市",
@@ -628,15 +654,17 @@
           "time_info": "[10时56分 ~ 14时14分]"
         },
         {
-          "title": "特朗普重申对伊朗“已大赢特赢”，黎以停火将延长三周，以媒称“伊朗议长已从谈判小组辞职”，伊朗否认内部分裂",
-          "url": "https://wallstreetcn.com/articles/3770760",
-          "source": "华尔街见闻",
+          "title": "营销吹上天,异环体验全是槽点",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353694&amp;topic_name=%E8%90%A5%E9%94%80%E5%90%B9%E4%B8%8A%E5%A4%A9%2C%E5%BC%82%E7%8E%AF%E4%BD%93%E9%AA%8C%E5%85%A8%E6%98%AF%E6%A7%BD%E7%82%B9",
+          "source": "贴吧",
           "ranks": [
-            5
+            7,
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时10分 ~ 17时05分]"
+          "appearance_count": 7,
+          "time_info": "[13时40分 ~ 18时26分]"
         },
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英伟达盘后飙升20%，原油四连涨",
@@ -660,19 +688,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时56分 ~ 11时29分]"
-        },
-        {
-          "title": "世界读书日前夕，湖北多地市委书记向全市群众推荐了多本好书",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33037706",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时29分 ~ 17时05分]"
         },
         {
           "title": "最新亚洲大学排名清华北大前二",
@@ -712,26 +727,13 @@
           "time_info": "[06时53分 ~ 13时41分]"
         },
         {
-          "title": "营销吹上天,异环体验全是槽点",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353694&amp;topic_name=%E8%90%A5%E9%94%80%E5%90%B9%E4%B8%8A%E5%A4%A9%2C%E5%BC%82%E7%8E%AF%E4%BD%93%E9%AA%8C%E5%85%A8%E6%98%AF%E6%A7%BD%E7%82%B9",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时40分 ~ 17时05分]"
-        },
-        {
           "title": "英国央行调查显示通胀预期上升，但工资前景降温",
           "url": "https://flash.jin10.com/detail/20260424165028988800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
@@ -788,6 +790,28 @@
           "time_info": "04时58分"
         },
         {
+          "title": "上交所：本周对*ST观典、*ST岩石、*ST正平、*ST熊猫等异常波动退市风险警示股票进行重点监控",
+          "url": "https://flash.jin10.com/detail/20260424182122727800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
+          "title": "凤凰女记者：伊朗仍然团结，没有美媒所说的争吵、辞职",
+          "url": "https://news.ifeng.com/c/8saTFP0s9pC",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "白宫正在审查美国证交会（SEC） 提出的放宽股票发行披露要求的建议。",
           "url": "https://flash.jin10.com/detail/20260424012710506800",
           "source": "金十数据",
@@ -810,17 +834,6 @@
           "time_info": "13时41分"
         },
         {
-          "title": "男子一天3杯奶茶手指脚趾长“巨石”",
-          "url": "https://www.toutiao.com/trending/7631775281045717035/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时05分"
-        },
-        {
           "title": "4月23日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
           "url": "https://flash.jin10.com/detail/20260424132422467800",
           "source": "金十数据",
@@ -838,7 +851,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
@@ -988,6 +1001,18 @@
           "time_info": "[10时56分 ~ 11时29分]"
         },
         {
+          "title": "男子一天3杯奶茶手指脚趾长“巨石”",
+          "url": "https://www.toutiao.com/trending/7631775281045717035/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时05分 ~ 18时26分]"
+        },
+        {
           "title": "国务院任免国家工作人员：免去王文灵的全国社会保障基金理事会副理事长职务。(新华社)",
           "url": "https://wallstreetcn.com/livenews/3093725",
           "source": "华尔街见闻-快讯",
@@ -998,6 +1023,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时41分 ~ 14时14分]"
+        },
+        {
+          "title": "SpaceX又一“IPO重磅炸弹”：未来靠企业AI“吃饭”，而非太空飞船！",
+          "url": "https://www.cls.cn/detail/2354474",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时10分 ~ 18时26分]"
+        },
+        {
+          "title": "成为知乎「2025 年度新知答主」是一种什么样的体验？",
+          "url": "https://www.zhihu.com/question/2030282454636782225",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时10分 ~ 18时26分]"
         },
         {
           "title": "99人学历学位认证造假被公示",
@@ -1012,6 +1061,31 @@
           "time_info": "[04时58分 ~ 06时56分]"
         },
         {
+          "title": "最新亚洲大学排名清华北大前二",
+          "url": "https://www.douyin.com/hot/2477044",
+          "source": "抖音",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时10分 ~ 18时26分]"
+        },
+        {
+          "title": "孙杨回应妻子的浪漫旅行中的表现",
+          "url": "https://www.douyin.com/hot/2477078",
+          "source": "抖音",
+          "ranks": [
+            27,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时10分 ~ 18时26分]"
+        },
+        {
           "title": "特朗普称黎以停火将延长三周，以媒称“伊朗议长已从谈判小组辞职”，伊朗否认分裂，称 “谈判重心已从核问题转为彻底停战”",
           "url": "https://wallstreetcn.com/articles/3770760",
           "source": "华尔街见闻",
@@ -1021,29 +1095,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时40分 ~ 14时14分]"
-        },
-        {
-          "title": "成为知乎「2025 年度新知答主」是一种什么样的体验？",
-          "url": "https://www.zhihu.com/question/2030282454636782225",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时10分 ~ 17时05分]"
-        },
-        {
-          "title": "SpaceX又一“IPO重磅炸弹”：未来靠企业AI“吃饭”，而非太空飞船！",
-          "url": "https://www.cls.cn/detail/2354474",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时10分 ~ 17时05分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年4月24日 周五",
@@ -1058,18 +1109,6 @@
           "time_info": "[07时52分 ~ 14时14分]"
         },
         {
-          "title": "最新亚洲大学排名清华北大前二",
-          "url": "https://www.douyin.com/hot/2477044",
-          "source": "抖音",
-          "ranks": [
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时10分 ~ 17时05分]"
-        },
-        {
           "title": "夜巴黎直播平台是怎么监管的",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9C%E5%B7%B4%E9%BB%8E%E7%9B%B4%E6%92%AD%E5%B9%B3%E5%8F%B0%E6%98%AF%E6%80%8E%E4%B9%88%E7%9B%91%E7%AE%A1%E7%9A%84%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -1079,18 +1118,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时18分 ~ 04时58分]"
-        },
-        {
-          "title": "孙杨回应妻子的浪漫旅行中的表现",
-          "url": "https://www.douyin.com/hot/2477078",
-          "source": "抖音",
-          "ranks": [
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时10分 ~ 17时05分]"
         },
         {
           "title": "美国总统特朗普谈及洛杉矶野火，称：我们将关注银行业采取的行动。 很难与富国银行“打交道”。",
@@ -1403,6 +1430,17 @@
           "time_info": "05时55分"
         },
         {
+          "title": "李斌回应雷军直播使用蔚来充电桩",
+          "url": "https://www.toutiao.com/trending/7632177533568417842/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "4月23日芝加哥商业交易所（CME）外汇类商品成交量报告已在金十数据中心更新！欢迎点击查看",
           "url": "https://flash.jin10.com/detail/20260424132411018800",
           "source": "金十数据",
@@ -1412,6 +1450,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
+        },
+        {
+          "title": "“社死”瞬间！印度防长参观德国潜艇，下舱时被舱门当场卡住",
+          "url": "https://v.ifeng.com/c/8saRXegMuaP",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "美元指数DXY15分钟内拉升近20点，最新报98.82；美、布两油短线走高1.8美元，现货黄金下挫近30美元。",
@@ -1431,7 +1480,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
@@ -1447,15 +1496,48 @@
           "time_info": "10时56分"
         },
         {
+          "title": "中国高科：股票被实施退市风险警示，股票停牌",
+          "url": "https://flash.jin10.com/detail/20260424181808369800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "海航控股：副总裁刘伟斌因个人原因辞职",
           "url": "https://flash.jin10.com/detail/20260424164145426800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
+        },
+        {
+          "title": "柳化股份：股票将于4月28日被实施退市风险警示 股票简称将变更为“*ST柳化”",
+          "url": "https://flash.jin10.com/detail/20260424181735346800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
+          "title": "中国央行等八部门：应用算法推荐技术开展网络营销的 不得设置诱导金融消费者和投资者过度消费的算法模型",
+          "url": "https://wallstreetcn.com/livenews/3093926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "市场监管总局：将持续加强直播电商监管 依法查处各类违法违规行为",
@@ -1467,6 +1549,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "路透/益普索调查：58%的选民表示，他们更不可能支持那些支持特朗普伊朗战争策略的国会候选人。77%的美国选民认为，特朗普至少应对汽油价格飙升承担部分责任。55%的共和党人、82%的独立选民以及95%的民主党人将汽油价格上涨归咎于特朗普。",
+          "url": "https://flash.jin10.com/detail/20260424181559681800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌2.47%，报6843.70点。 热门中概股里，好未来初步收跌9.3%，小鹏跌6.4%，新东方跌5.8%，小马智行跌5%，文远知行、再鼎医药跌4.3%，阿里巴巴跌3.5%，网易跌3.2%，蔚来跌3%，理想、万国数据大致持平，世纪互联涨0.8%，晶科能源涨1%，阿特斯太阳能涨9.5%。 ETF中，KWEB跌2.8%，CQQQ跌2%。",
@@ -1502,6 +1595,17 @@
           "time_info": "05时55分"
         },
         {
+          "title": "锋龙股份：优必选科技要约收购2845万股公司股份，股票复牌",
+          "url": "https://wallstreetcn.com/livenews/3093922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "ServiceNOW收跌17.75%，创十四年前美国IPO以来最差单日表现，全天持续地低位窄幅震荡。 IBM收跌8.25%，也大体上持续低位窄幅震荡。 北美科技软件股指数ETF收跌5.83%，报83.57美元，整体持续低位窄幅震荡。 纳斯达克网络安全ETF收跌3.37%，ETFMG网络安全ETF收跌3.60%。",
           "url": "https://wallstreetcn.com/livenews/3093526",
           "source": "华尔街见闻-快讯",
@@ -1519,7 +1623,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
@@ -1574,9 +1678,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
+        },
+        {
+          "title": "托伦斯创业板IPO过会",
+          "url": "https://flash.jin10.com/detail/20260424180755475800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "纽蒙特矿业承诺：黄金价格出现史无前例的上涨行情，公司打算回购60亿美元股票。",
@@ -1596,9 +1711,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
+        },
+        {
+          "title": "海底捞近年为何屡次翻车",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%BF%91%E5%B9%B4%E4%B8%BA%E4%BD%95%E5%B1%A1%E6%AC%A1%E7%BF%BB%E8%BD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "英国央行：企业预计未来一年工资将上涨3.4%。3月份预计为上涨3.5%。",
@@ -1607,7 +1733,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
@@ -1621,6 +1747,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "高校通报“自己举报自己”最新进展",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%80%9A%E6%8A%A5%E2%80%9C%E8%87%AA%E5%B7%B1%E4%B8%BE%E6%8A%A5%E8%87%AA%E5%B7%B1%E2%80%9D%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "GPT5.5实测",
