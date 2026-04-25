@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T05:41:51.733553+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-04-26T06:42:30.111831+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 05时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 06时42分]"
         },
         {
           "title": "赛博抗日升级,日本人破防",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 05时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 06时42分]"
         },
         {
           "title": "南方多省电价为何突然飙升",
@@ -39,19 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 05时41分]"
-        },
-        {
-          "title": "【早报】国常会最新部署，事关科技创新；剑指财务造假，证监会新一轮专项行动启动",
-          "url": "https://www.cls.cn/detail/2355600",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 05时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 06时42分]"
         },
         {
           "title": "全是后宫没男主,小白写文翻车",
@@ -61,19 +50,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 05时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 06时42分]"
+        },
+        {
+          "title": "【早报】国常会最新部署，事关科技创新；剑指财务造假，证监会新一轮专项行动启动",
+          "url": "https://www.cls.cn/detail/2355600",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 06时42分]"
         },
         {
           "title": "苏超积分榜更新",
           "url": "https://www.douyin.com/hot/2479172",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 05时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 06时42分]"
         },
         {
           "title": "公募基金首批业绩比较基准调整或于4月底拉开大幕，监管划定三条红线",
@@ -83,33 +85,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 05时41分]"
-        },
-        {
-          "title": "嘉豪始祖驾到,评论区倒反天罡",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353722&amp;topic_name=%E5%98%89%E8%B1%AA%E5%A7%8B%E7%A5%96%E9%A9%BE%E5%88%B0%2C%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%80%92%E5%8F%8D%E5%A4%A9%E7%BD%A1",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 05时41分]"
-        },
-        {
-          "title": "南方多省电价为何突然飙升",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E5%A4%9A%E7%9C%81%E7%94%B5%E4%BB%B7%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E9%A3%99%E5%8D%87",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            9,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 05时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 06时42分]"
         },
         {
           "title": "北京大妈一句话让骗子直接破防",
@@ -121,11 +98,38 @@
             18,
             27,
             26,
-            22
+            22,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 05时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 06时42分]"
+        },
+        {
+          "title": "嘉豪始祖驾到,评论区倒反天罡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353722&amp;topic_name=%E5%98%89%E8%B1%AA%E5%A7%8B%E7%A5%96%E9%A9%BE%E5%88%B0%2C%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%80%92%E5%8F%8D%E5%A4%A9%E7%BD%A1",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 06时42分]"
+        },
+        {
+          "title": "南方多省电价为何突然飙升",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E5%A4%9A%E7%9C%81%E7%94%B5%E4%BB%B7%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E9%A3%99%E5%8D%87",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            9,
+            6,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 06时42分]"
         },
         {
           "title": "TES战胜NIP LPL第二赛段",
@@ -135,8 +139,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 05时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 06时42分]"
         },
         {
           "title": "英特尔财报大超预期盘前涨超30% 最新工作站CPU、GPU发布 高管预计缺货仍将持续",
@@ -147,8 +151,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 05时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 06时42分]"
         },
         {
           "title": "广州TTG战胜KSG 挑战者杯",
@@ -159,11 +163,12 @@
             13,
             25,
             24,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 05时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 06时42分]"
         },
         {
           "title": "阿塞拜疆主权基金一季度出售超30亿美元黄金 是购入以来首次减持！",
@@ -173,8 +178,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 05时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 06时42分]"
         },
         {
           "title": "哀鸿被曝抄袭粉丝同人作品",
@@ -184,8 +189,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 05时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 06时42分]"
+        },
+        {
+          "title": "一些直播打赏异化为精心设计的情感操控与财富收割，人民锐评：这哪是“打赏”？这是“打劫”！",
+          "url": "https://wallstreetcn.com/livenews/3094398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 06时42分]"
         },
         {
           "title": "“豆包提前查到2026山东事业编成绩”？最新回应",
@@ -201,6 +217,18 @@
           "time_info": "[00时50分 ~ 05时41分]"
         },
         {
+          "title": "大司马直播遭弹幕狂喷人气全掉，如何看待这一事件？",
+          "url": "https://www.zhihu.com/question/2028848068804584316",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 06时42分]"
+        },
+        {
           "title": "营销吹上天,异环体验全是槽点",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353694&amp;topic_name=%E8%90%A5%E9%94%80%E5%90%B9%E4%B8%8A%E5%A4%A9%2C%E5%BC%82%E7%8E%AF%E4%BD%93%E9%AA%8C%E5%85%A8%E6%98%AF%E6%A7%BD%E7%82%B9",
           "source": "贴吧",
@@ -208,8 +236,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 05时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 06时42分]"
         },
         {
           "title": "何剑报到,004航母命名有彩蛋",
@@ -219,30 +247,22 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 05时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 06时42分]"
         },
         {
-          "title": "一些直播打赏异化为精心设计的情感操控与财富收割，人民锐评：这哪是“打赏”？这是“打劫”！",
-          "url": "https://wallstreetcn.com/livenews/3094398",
-          "source": "华尔街见闻-快讯",
+          "title": "异环方斯获取攻略",
+          "url": "https://www.douyin.com/hot/2478494",
+          "source": "抖音",
           "ranks": [
-            15
+            26,
+            22,
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 05时41分]"
-        },
-        {
-          "title": "大司马直播遭弹幕狂喷人气全掉，如何看待这一事件？",
-          "url": "https://www.zhihu.com/question/2028848068804584316",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 04时50分]"
+          "appearance_count": 8,
+          "time_info": "[03时00分 ~ 06时42分]"
         },
         {
           "title": "LPL2026 赛季第二赛段组内赛 NIP 0:2 TES，如何评价这场比赛？",
@@ -257,40 +277,16 @@
           "time_info": "[00时50分 ~ 01时44分]"
         },
         {
-          "title": "异环方斯获取攻略",
-          "url": "https://www.douyin.com/hot/2478494",
-          "source": "抖音",
-          "ranks": [
-            26,
-            22,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时00分 ~ 05时41分]"
-        },
-        {
           "title": "伊朗外长阿拉格齐与埃及外长通电话，讨论了阿拉格齐访问伊斯兰堡后的最新局势发展。",
           "url": "https://flash.jin10.com/detail/20260426052425924800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
-          "title": "土耳其外交部：土耳其外长与伊朗和巴基斯坦外长进行了电话讨论，商讨最新进展。",
-          "url": "https://flash.jin10.com/detail/20260426051120031800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 06时42分]"
         },
         {
           "title": "美国白宫：伊朗不能拥有核武器。就是这么简单。",
@@ -299,11 +295,24 @@
           "ranks": [
             1,
             13,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时51分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[03时51分 ~ 06时42分]"
+        },
+        {
+          "title": "土耳其外交部：土耳其外长与伊朗和巴基斯坦外长进行了电话讨论，商讨最新进展。",
+          "url": "https://flash.jin10.com/detail/20260426051120031800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 06时42分]"
         },
         {
           "title": "无限超越班演技大赏",
@@ -364,6 +373,18 @@
           "time_info": "[03时00分 ~ 03时01分]"
         },
         {
+          "title": "在职场中，长得漂亮真的有用吗?",
+          "url": "https://www.zhihu.com/question/590904966",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 06时42分]"
+        },
+        {
           "title": "伊朗外交部长：分享了伊朗关于可行框架以永久结束对伊朗战争的立场。",
           "url": "https://flash.jin10.com/detail/20260426003758516800",
           "source": "金十数据",
@@ -396,17 +417,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时50分 ~ 00时54分]"
-        },
-        {
-          "title": "在职场中，长得漂亮真的有用吗?",
-          "url": "https://www.zhihu.com/question/590904966",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
         }
       ]
     }
