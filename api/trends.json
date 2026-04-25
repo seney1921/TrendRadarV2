@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T13:21:27.641248+08:00",
-  "total_titles_processed": 935,
+  "generated_at": "2026-04-25T15:24:31.486043+08:00",
+  "total_titles_processed": 1041,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 83,
+      "match_count": 97,
       "titles": [
         {
           "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时08分 ~ 13时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时08分 ~ 15时24分]"
         },
         {
           "title": "扫描“主播”｜单品销量破百万的直播间“生意经”：打香港大药房品牌，产品基本产自内地",
@@ -52,8 +52,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时08分 ~ 13时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时08分 ~ 15时24分]"
         },
         {
           "title": "DeepSeek V4 Pro实测",
@@ -94,6 +94,46 @@
           "time_info": "[00时08分 ~ 10时57分]"
         },
         {
+          "title": "大司马直播遭弹幕狂喷人气全掉，如何看待这一事件？",
+          "url": "https://www.zhihu.com/question/2028848068804584316",
+          "source": "知乎",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时45分 ~ 15时24分]"
+        },
+        {
+          "title": "【早报】国常会最新部署，事关科技创新；剑指财务造假，证监会新一轮专项行动启动",
+          "url": "https://www.cls.cn/detail/2355600",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时45分 ~ 15时24分]"
+        },
+        {
+          "title": "实测DeepSeek V4",
+          "url": "https://www.douyin.com/hot/2477701",
+          "source": "抖音",
+          "ranks": [
+            9,
+            7,
+            12,
+            14,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时08分 ~ 15时24分]"
+        },
+        {
           "title": "Deepseek V4第一波测评来了！",
           "url": "https://wallstreetcn.com/articles/3770812",
           "source": "华尔街见闻",
@@ -104,8 +144,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[05时53分 ~ 13时21分]"
+          "appearance_count": 12,
+          "time_info": "[05时53分 ~ 15时24分]"
         },
         {
           "title": "DeepSeek V4揭开AI内卷终局",
@@ -127,43 +167,6 @@
           "time_info": "[00时08分 ~ 10时57分]"
         },
         {
-          "title": "实测DeepSeek V4",
-          "url": "https://www.douyin.com/hot/2477701",
-          "source": "抖音",
-          "ranks": [
-            9,
-            7,
-            12,
-            14,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时08分 ~ 13时21分]"
-        },
-        {
-          "title": "【早报】国常会最新部署，事关科技创新；剑指财务造假，证监会新一轮专项行动启动",
-          "url": "https://www.cls.cn/detail/2355600",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时45分 ~ 13时21分]"
-        },
-        {
-          "title": "大司马直播遭弹幕狂喷人气全掉，如何看待这一事件？",
-          "url": "https://www.zhihu.com/question/2028848068804584316",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时45分 ~ 13时21分]"
-        },
-        {
           "title": "英特尔财报大超预期盘前涨超30% 最新工作站CPU、GPU发布 高管预计缺货仍将持续",
           "url": "https://www.cls.cn/detail/2355357",
           "source": "财联社热门",
@@ -175,8 +178,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时08分 ~ 13时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时08分 ~ 15时24分]"
         },
         {
           "title": "“社死”瞬间！印度防长参观德国潜艇，下舱时被舱门当场卡住",
@@ -187,8 +190,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时08分 ~ 13时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时08分 ~ 15时24分]"
         },
         {
           "title": "营销吹上天,异环体验全是槽点",
@@ -197,11 +200,12 @@
           "ranks": [
             14,
             17,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时08分 ~ 13时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时08分 ~ 15时24分]"
         },
         {
           "title": "市场监管总局谈“幽灵外卖”案：进一步释放了强化网络交易监管、守护人民群众舌尖上安全的强烈信号",
@@ -240,8 +244,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时08分 ~ 13时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时08分 ~ 15时24分]"
         },
         {
           "title": "卓哥爆梗开嘲,打脸BLG全员",
@@ -338,11 +342,51 @@
           "source": "贴吧",
           "ranks": [
             2,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时45分 ~ 13时21分]"
+          "appearance_count": 7,
+          "time_info": "[10时45分 ~ 15时24分]"
+        },
+        {
+          "title": "因规模不足， AllianceBernstein关闭对冲基金Arya",
+          "url": "https://wallstreetcn.com/livenews/3094316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            8,
+            19,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时45分 ~ 15时24分]"
+        },
+        {
+          "title": "创业板第四套上市标准启用，IPO预先审阅机制等新规一并生效",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33046288",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时45分 ~ 15时24分]"
+        },
+        {
+          "title": "嘉豪始祖驾到,评论区倒反天罡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353722&amp;topic_name=%E5%98%89%E8%B1%AA%E5%A7%8B%E7%A5%96%E9%A9%BE%E5%88%B0%2C%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%80%92%E5%8F%8D%E5%A4%A9%E7%BD%A1",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 15时24分]"
         },
         {
           "title": "雷军体验蔚来车辆：国内造车最高水准",
@@ -357,18 +401,15 @@
           "time_info": "[07时43分 ~ 10时57分]"
         },
         {
-          "title": "因规模不足， AllianceBernstein关闭对冲基金Arya",
-          "url": "https://wallstreetcn.com/livenews/3094316",
-          "source": "华尔街见闻-快讯",
+          "title": "DeepSeekV4更新了啥",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E6%9B%B4%E6%96%B0%E4%BA%86%E5%95%A5",
+          "source": "bilibili 热搜",
           "ranks": [
-            5,
-            8,
-            19,
-            22
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时45分 ~ 13时21分]"
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 15时24分]"
         },
         {
           "title": "KSG vs 广州TTG 挑战者杯",
@@ -382,26 +423,16 @@
           "time_info": "[13时16分 ~ 13时21分]"
         },
         {
-          "title": "嘉豪始祖驾到,评论区倒反天罡",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353722&amp;topic_name=%E5%98%89%E8%B1%AA%E5%A7%8B%E7%A5%96%E9%A9%BE%E5%88%B0%2C%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%80%92%E5%8F%8D%E5%A4%A9%E7%BD%A1",
-          "source": "贴吧",
+          "title": "美以袭击伊朗进入第 57 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2031139008277739488",
+          "source": "知乎",
           "ranks": [
-            4
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 13时21分]"
-        },
-        {
-          "title": "DeepSeekV4更新了啥",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E6%9B%B4%E6%96%B0%E4%BA%86%E5%95%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 13时21分]"
+          "appearance_count": 7,
+          "time_info": "[10时45分 ~ 15时24分]"
         },
         {
           "title": "DeepSeek V4 预览版本上线并同步开源，哪些亮点值得关注？",
@@ -428,27 +459,17 @@
           "time_info": "[10时56分 ~ 10时57分]"
         },
         {
-          "title": "央行：持续整治金融机构“内卷式”竞争，高质量统筹做好金融“五篇大文章”",
-          "url": "https://wallstreetcn.com/livenews/3094340",
-          "source": "华尔街见闻-快讯",
+          "title": "独家｜棒杰股份董事长举报董秘背后：美年健康计划注入资产为安翰科技，后者曾被监管警示",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33023784",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            20,
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 13时21分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 57 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2031139008277739488",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时45分 ~ 13时21分]"
+          "appearance_count": 7,
+          "time_info": "[07时43分 ~ 15时24分]"
         },
         {
           "title": "魏建军带宝马总裁体验长城超级V8",
@@ -463,28 +484,49 @@
           "time_info": "[10时45分 ~ 13时21分]"
         },
         {
-          "title": "创业板第四套上市标准启用，IPO预先审阅机制等新规一并生效",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33046288",
-          "source": "澎湃新闻",
+          "title": "广州TTG战胜KSG 挑战者杯",
+          "url": "https://search.bilibili.com/all?keyword=KSG%20%E5%B9%BF%E5%B7%9ETTG",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            8
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时45分 ~ 13时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
-          "title": "独家｜棒杰股份董事长举报董秘背后：美年健康计划注入资产为安翰科技，后者曾被监管警示",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33023784",
-          "source": "澎湃新闻",
+          "title": "VIP·9折解锁全新资金炸弹！",
+          "url": "https://flash.jin10.com/detail/20260425150027988800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            17
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "央行：持续整治金融机构“内卷式”竞争，高质量统筹做好金融“五篇大文章”",
+          "url": "https://wallstreetcn.com/livenews/3094340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时43分 ~ 13时21分]"
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 15时24分]"
+        },
+        {
+          "title": "EDG.M vs 青训潜渊 挑战者杯",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E8%80%85%E6%9D%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "巴西财政部长：巴西将在6月前举行新的生态投资拍卖，重点关注关键矿产和人工智能。",
@@ -496,6 +538,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "宁德时代换电业务总经理杨峻：补能行业面临很大挑战，几乎全行业亏损",
+          "url": "https://wallstreetcn.com/livenews/3094332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时45分 ~ 15时24分]"
         },
         {
           "title": "才浅新作被博物馆永久收藏",
@@ -555,18 +610,6 @@
           "time_info": "[04时57分 ~ 07时48分]"
         },
         {
-          "title": "宁德时代换电业务总经理杨峻：补能行业面临很大挑战，几乎全行业亏损",
-          "url": "https://wallstreetcn.com/livenews/3094332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时45分 ~ 13时21分]"
-        },
-        {
           "title": "油价飙升增加财政不确定性 标普下调比利时信用评级",
           "url": "https://flash.jin10.com/detail/20260425100728022800",
           "source": "金十数据",
@@ -577,6 +620,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时45分 ~ 13时21分]"
+        },
+        {
+          "title": "UP主手搓中恐无限流大电影",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93%E4%B8%AD%E6%81%90%E6%97%A0%E9%99%90%E6%B5%81%E5%A4%A7%E7%94%B5%E5%BD%B1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 15时24分]"
+        },
+        {
+          "title": "张文宏劝高压岗早退休，称免疫或撑不住，压力会如何影响免疫系统？为什么张文宏会推荐接种带状疱疹疫苗？",
+          "url": "https://www.zhihu.com/question/2030975741198692846",
+          "source": "知乎",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 15时24分]"
         },
         {
           "title": "铜价小幅走低，市场关注伊美或重启谈判",
@@ -591,6 +658,18 @@
           "time_info": "[01时05分 ~ 01时53分]"
         },
         {
+          "title": "比亚迪第三代元PLUS全球首发亮相",
+          "url": "https://www.toutiao.com/trending/7631729873135894564/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 15时24分]"
+        },
+        {
           "title": "如何评价刚刚结束的前前前瞻《原神》幕后的故事：向至冬，向未来？",
           "url": "https://www.zhihu.com/question/2031108557060445282",
           "source": "知乎",
@@ -602,39 +681,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时05分 ~ 03时57分]"
-        },
-        {
-          "title": "张文宏劝高压岗早退休，称免疫或撑不住，压力会如何影响免疫系统？为什么张文宏会推荐接种带状疱疹疫苗？",
-          "url": "https://www.zhihu.com/question/2030975741198692846",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 13时21分]"
-        },
-        {
-          "title": "UP主手搓中恐无限流大电影",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93%E4%B8%AD%E6%81%90%E6%97%A0%E9%99%90%E6%B5%81%E5%A4%A7%E7%94%B5%E5%BD%B1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 13时21分]"
-        },
-        {
-          "title": "比亚迪第三代元PLUS全球首发亮相",
-          "url": "https://www.toutiao.com/trending/7631729873135894564/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 13时21分]"
         },
         {
           "title": "盘点10个不良饮食习惯",
@@ -866,6 +912,17 @@
           "time_info": "03时01分"
         },
         {
+          "title": "NIP vs TES LPL第二赛段",
+          "url": "https://search.bilibili.com/all?keyword=NIP%20TES",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的0.82亿美元。",
           "url": "https://flash.jin10.com/detail/20260425011614335800",
           "source": "金十数据",
@@ -877,6 +934,17 @@
           "time_info": "01时53分"
         },
         {
+          "title": "1.93%！最新保险预定利率研究值环比上调4BP，全年或难再现预定利率调整窗口",
+          "url": "https://www.cls.cn/detail/2355669",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "核反应堆科技公司X-Energy(XE.O)美股IPO首日开盘报30.11美元，其IPO发行价为每股23美元。",
           "url": "https://flash.jin10.com/detail/20260425004855802800",
           "source": "金十数据",
@@ -886,6 +954,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "公募基金首批业绩比较基准调整或于4月底拉开大幕，监管划定三条红线",
+          "url": "https://www.cls.cn/detail/2355675",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "男子通过3轮面试却因学历不符被拒",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%9A%E8%BF%873%E8%BD%AE%E9%9D%A2%E8%AF%95%E5%8D%B4%E5%9B%A0%E5%AD%A6%E5%8E%86%E4%B8%8D%E7%AC%A6%E8%A2%AB%E6%8B%92",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "金十图示：2026年04月24日（周五）美股热门股票行情一览（美股盘中）",
@@ -921,6 +1011,17 @@
           "time_info": "00时08分"
         },
         {
+          "title": "4月24日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260425133252044800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "【美财政部对伊朗实施新一轮金融制裁，冻结其约3.44亿美元加密货币资产】据美国财政部海外资产控制办公室（OFAC）消息，美方发布与伊朗相关的最新制裁。同时，美财政部海外资产控制办公室还更新了“特别指定国民清单”，称其属于本轮涉伊朗制裁调整的一部分。此外，美国财政部还宣布对多个与伊朗相关的“钱包”实施制裁，冻结其约3.44亿美元加密货币资产。美国财政部长贝森特在社交平台表示，此举属于针对伊朗的金融制裁措施之一。（央视）",
           "url": "https://wallstreetcn.com/livenews/3094260",
           "source": "华尔街见闻-快讯",
@@ -930,6 +1031,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
+        },
+        {
+          "title": "逃犯没想到路人身手这么好",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%80%83%E7%8A%AF%E6%B2%A1%E6%83%B3%E5%88%B0%E8%B7%AF%E4%BA%BA%E8%BA%AB%E6%89%8B%E8%BF%99%E4%B9%88%E5%A5%BD%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "4月24日芝加哥商业交易所（CME）金属类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260425133239542800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "金十图示：2026年04月24日（周五）热门中概股行情一览（美股盘中）",
@@ -943,6 +1066,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "4月24日芝加哥商业交易所（CME）外汇类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260425133232791800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "沙特主权财富基金将再次与Live Nation合作。（Semafor）",
           "url": "https://wallstreetcn.com/livenews/3094181",
           "source": "华尔街见闻-快讯",
@@ -952,6 +1086,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "巴基斯坦新闻部分享伊朗外长抵达伊斯兰堡后的会见图片",
+          "url": "https://flash.jin10.com/detail/20260425132420868800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "华为大阔折真香",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%A4%A7%E9%98%94%E6%8A%98%E7%9C%9F%E9%A6%99%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "欧盟选定东方汇理银行管理30亿欧元公私合营债券基金",
@@ -985,6 +1141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "奔跑吧直播",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7%E7%9B%B4%E6%92%AD&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "异环实用入坑攻略",
