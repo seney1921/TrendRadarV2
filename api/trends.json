@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T07:49:11.884484+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2026-04-27T11:27:27.097766+08:00",
+  "total_titles_processed": 724,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 42,
+      "match_count": 53,
       "titles": [
         {
           "title": "“阅读 +”点亮各地文旅新体验",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时51分 ~ 07时49分]"
+          "appearance_count": 21,
+          "time_info": "[00时51分 ~ 11时27分]"
         },
         {
           "title": "白宫晚宴枪手系酒店住客？曾捐款哈里斯25美元，FBI正搜家",
@@ -61,11 +61,12 @@
             3,
             4,
             5,
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时51分 ~ 07时49分]"
+          "appearance_count": 21,
+          "time_info": "[00时51分 ~ 11时27分]"
         },
         {
           "title": "网红蔬菜价格大涨30倍",
@@ -133,11 +134,29 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时51分 ~ 11时27分]"
+        },
+        {
+          "title": "男孩泡温泉被蛇吓应激酒店竟邀再泡",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%B3%A1%E6%B8%A9%E6%B3%89%E8%A2%AB%E8%9B%87%E5%90%93%E5%BA%94%E6%BF%80%E9%85%92%E5%BA%97%E7%AB%9F%E9%82%80%E5%86%8D%E6%B3%A1",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            24,
+            21,
+            12,
+            27,
+            23,
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时51分 ~ 07时49分]"
+          "appearance_count": 16,
+          "time_info": "[03时02分 ~ 11时27分]"
         },
         {
           "title": "为什么物理世界运行刚好就是那些简单的公式？",
@@ -180,20 +199,17 @@
           "time_info": "[00时51分 ~ 07时49分]"
         },
         {
-          "title": "男孩泡温泉被蛇吓应激酒店竟邀再泡",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%B3%A1%E6%B8%A9%E6%B3%89%E8%A2%AB%E8%9B%87%E5%90%93%E5%BA%94%E6%BF%80%E9%85%92%E5%BA%97%E7%AB%9F%E9%82%80%E5%86%8D%E6%B3%A1",
-          "source": "百度热搜",
+          "title": "简直尴尬！特朗普踉跄逃离枪击现场，竟还有人还在一旁偷酒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33057721",
+          "source": "澎湃新闻",
           "ranks": [
-            29,
-            24,
-            21,
-            12,
-            27,
-            23
+            20,
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[03时02分 ~ 07时49分]"
+          "appearance_count": 21,
+          "time_info": "[00时51分 ~ 11时27分]"
         },
         {
           "title": "aespa回归预告",
@@ -222,31 +238,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时43分 ~ 07时49分]"
+          "appearance_count": 16,
+          "time_info": "[01时43分 ~ 11时27分]"
         },
         {
           "title": "赛博抗日升级,日本人破防",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353730&amp;topic_name=%E8%B5%9B%E5%8D%9A%E6%8A%97%E6%97%A5%E5%8D%87%E7%BA%A7%2C%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%A0%B4%E9%98%B2",
           "source": "贴吧",
           "ranks": [
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时51分 ~ 07时49分]"
-        },
-        {
-          "title": "简直尴尬！特朗普踉跄逃离枪击现场，竟还有人还在一旁偷酒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33057721",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时51分 ~ 07时49分]"
+          "appearance_count": 21,
+          "time_info": "[00时51分 ~ 11时27分]"
         },
         {
           "title": "游泳池跑步成新健身方式，这种锻炼方式靠谱吗？真的可以更快燃烧热量吗？",
@@ -265,11 +270,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353732&amp;topic_name=%E5%85%A8%E6%98%AF%E5%90%8E%E5%AE%AB%E6%B2%A1%E7%94%B7%E4%B8%BB%2C%E5%B0%8F%E7%99%BD%E5%86%99%E6%96%87%E7%BF%BB%E8%BD%A6",
           "source": "贴吧",
           "ranks": [
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时51分 ~ 07时49分]"
+          "appearance_count": 21,
+          "time_info": "[00时51分 ~ 11时27分]"
         },
         {
           "title": "巧用3个喝水方法能加速燃脂",
@@ -290,11 +296,26 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353722&amp;topic_name=%E5%98%89%E8%B1%AA%E5%A7%8B%E7%A5%96%E9%A9%BE%E5%88%B0%2C%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%80%92%E5%8F%8D%E5%A4%A9%E7%BD%A1",
           "source": "贴吧",
           "ranks": [
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时51分 ~ 07时49分]"
+          "appearance_count": 21,
+          "time_info": "[00时51分 ~ 11时27分]"
+        },
+        {
+          "title": "陈思罕进行曲舞蹈挑战",
+          "url": "https://www.douyin.com/hot/2479572",
+          "source": "抖音",
+          "ranks": [
+            29,
+            24,
+            28,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 11时27分]"
         },
         {
           "title": "哀鸿被曝抄袭粉丝同人作品",
@@ -317,21 +338,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时51分 ~ 07时49分]"
-        },
-        {
-          "title": "陈思罕进行曲舞蹈挑战",
-          "url": "https://www.douyin.com/hot/2479572",
-          "source": "抖音",
-          "ranks": [
-            29,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 06时48分]"
+          "appearance_count": 19,
+          "time_info": "[00时51分 ~ 11时27分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年4月27日 周一",
@@ -399,6 +407,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时42分 ~ 06时48分]"
+        },
+        {
+          "title": "GPT-Image-2 图片很难一眼看出 AI 味，颠覆了有图有真相的认知，那普通人怎样才能鉴别真假？",
+          "url": "https://www.zhihu.com/question/2031001231607296969",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         },
         {
           "title": "提醒：日内请重点关注（以下均为北京时间）",
@@ -537,6 +556,116 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时44分 ~ 06时48分]"
+        },
+        {
+          "title": "伊朗战争“扑朔迷离”，全球科技股“爆炸上涨”！高盛对冲基金业务主管：这个市场很难做",
+          "url": "https://wallstreetcn.com/articles/3770921",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "日本最大电力公司JERA高管：正在密切关注澳大利亚ICHTHYS液化天然气项目发生罢工的可能性，以评估其对供应的影响。",
+          "url": "https://flash.jin10.com/detail/20260427105023158800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "灵光在手机端上线“体验世界模型 ”功能",
+          "url": "https://wallstreetcn.com/livenews/3094653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "AI 筛选简历正在成为企业标配，这会带来求职不公吗？「AI 友好型」简历应该怎么写？",
+          "url": "https://www.zhihu.com/question/2028419946921620186",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "柳智敏蛇塑回归",
+          "url": "https://s.weibo.com/weibo?q=%E6%9F%B3%E6%99%BA%E6%95%8F%E8%9B%87%E5%A1%91%E5%9B%9E%E5%BD%92&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "东方甄选正在变成普通直播电商",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E6%AD%A3%E5%9C%A8%E5%8F%98%E6%88%90%E6%99%AE%E9%80%9A%E7%9B%B4%E6%92%AD%E7%94%B5%E5%95%86%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "从基金角度看CBOT大豆后市：COT指数涨至90.49%，为何如此强势？",
+          "url": "https://flash.jin10.com/detail/20260427104455675800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "评论员解读白宫记者晚宴枪击案细节",
+          "url": "https://www.toutiao.com/trending/7633245702029577771/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "预告：国新办举行国务院政策例行吹风会 介绍《关于推进服务业扩能提质的意见》有关情况",
+          "url": "https://flash.jin10.com/detail/20260427103635346800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "黄晓明晒父母踏青打卡潦草小狗",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E6%99%92%E7%88%B6%E6%AF%8D%E8%B8%8F%E9%9D%92%E6%89%93%E5%8D%A1%E6%BD%A6%E8%8D%89%E5%B0%8F%E7%8B%97%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         }
       ]
     }
