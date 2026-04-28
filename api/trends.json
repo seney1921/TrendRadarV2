@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T17:29:22.908373+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2026-04-28T19:50:13.217224+08:00",
+  "total_titles_processed": 1468,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 115,
+      "match_count": 127,
       "titles": [
         {
           "title": "美食界有自己的丰容挑战",
@@ -48,6 +48,18 @@
           "time_info": "[00时30分 ~ 08时00分]"
         },
         {
+          "title": "「探店」网红白冰偷税被查，追缴并罚款共计超 1891 万元，有哪些警示意义？",
+          "url": "https://www.zhihu.com/question/2032399785731306001",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时59分 ~ 19时50分]"
+        },
+        {
           "title": "这个季节渔获满满就是这么简单",
           "url": "https://www.douyin.com/hot/2479775",
           "source": "抖音",
@@ -61,6 +73,20 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时30分 ~ 08时00分]"
+        },
+        {
+          "title": "4000万粉丝网红白冰偷税被查",
+          "url": "https://search.bilibili.com/all?keyword=4000%E4%B8%87%E7%B2%89%E4%B8%9D%E7%BD%91%E7%BA%A2%E7%99%BD%E5%86%B0%E5%81%B7%E7%A8%8E%E8%A2%AB%E6%9F%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            3,
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时44分 ~ 19时50分]"
         },
         {
           "title": "微信最新公告：立即挂断 不要回答",
@@ -77,6 +103,20 @@
           "time_info": "[00时30分 ~ 12时00分]"
         },
         {
+          "title": "“探店”网红白冰偷税超900万元被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33068237",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时44分 ~ 19时50分]"
+        },
+        {
           "title": "网友举报虐猫群聊后被造谣",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353787&amp;topic_name=%E7%BD%91%E5%8F%8B%E4%B8%BE%E6%8A%A5%E8%99%90%E7%8C%AB%E7%BE%A4%E8%81%8A%E5%90%8E%E8%A2%AB%E9%80%A0%E8%B0%A3",
           "source": "贴吧",
@@ -88,8 +128,21 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时30分 ~ 17时29分]"
+          "appearance_count": 22,
+          "time_info": "[00时30分 ~ 19时50分]"
+        },
+        {
+          "title": "员工一气之下说「不涨工资这活干不了」，三天后被告知已离职，法院判决口头辞职有效，为啥这能构成有效辞职？",
+          "url": "https://www.zhihu.com/question/2030685980089434393",
+          "source": "知乎",
+          "ranks": [
+            6,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时44分 ~ 19时50分]"
         },
         {
           "title": "网购、外卖、出行频繁捆绑信贷分期，八部门出台新规全面整治，白条、月付面临调整，释放了哪些监管信号？",
@@ -109,16 +162,29 @@
           "time_info": "[00时30分 ~ 08时00分]"
         },
         {
-          "title": "「探店」网红白冰偷税被查，追缴并罚款共计超 1891 万元，有哪些警示意义？",
-          "url": "https://www.zhihu.com/question/2032399785731306001",
-          "source": "知乎",
+          "title": "4000万粉丝网红白冰偷税被罚1891万",
+          "url": "https://www.toutiao.com/trending/7633629799567380009/",
+          "source": "今日头条",
           "ranks": [
-            5,
-            3
+            2,
+            11,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时59分 ~ 17时29分]"
+          "appearance_count": 9,
+          "time_info": "[11时44分 ~ 19时50分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 60 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032226305366647567",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[07时59分 ~ 19时50分]"
         },
         {
           "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
@@ -132,19 +198,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时30分 ~ 12时00分]"
-        },
-        {
-          "title": "4000万粉丝网红白冰偷税被查",
-          "url": "https://search.bilibili.com/all?keyword=4000%E4%B8%87%E7%B2%89%E4%B8%9D%E7%BD%91%E7%BA%A2%E7%99%BD%E5%86%B0%E5%81%B7%E7%A8%8E%E8%A2%AB%E6%9F%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时44分 ~ 17时29分]"
         },
         {
           "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
@@ -342,40 +395,15 @@
           "time_info": "[11时44分 ~ 17时29分]"
         },
         {
-          "title": "员工一气之下说「不涨工资这活干不了」，三天后被告知已离职，法院判决口头辞职有效，为啥这能构成有效辞职？",
-          "url": "https://www.zhihu.com/question/2030685980089434393",
-          "source": "知乎",
+          "title": "中共中央政治局：深入整治内卷式竞争",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%EF%BC%9A%E6%B7%B1%E5%85%A5%E6%95%B4%E6%B2%BB%E5%86%85%E5%8D%B7%E5%BC%8F%E7%AB%9E%E4%BA%89",
+          "source": "百度热搜",
           "ranks": [
-            6,
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时44分 ~ 17时29分]"
-        },
-        {
-          "title": "4000万粉丝网红白冰偷税被罚1891万",
-          "url": "https://www.toutiao.com/trending/7633629799567380009/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时44分 ~ 17时29分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 60 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032226305366647567",
-          "source": "知乎",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时59分 ~ 17时29分]"
+          "appearance_count": 4,
+          "time_info": "[17时26分 ~ 19时50分]"
         },
         {
           "title": "西安WE vs 北京JDG 挑战者杯",
@@ -405,6 +433,28 @@
           "time_info": "[04时11分 ~ 08时00分]"
         },
         {
+          "title": "异环S自选补偿,骂声转真香",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353832&amp;topic_name=%E5%BC%82%E7%8E%AFS%E8%87%AA%E9%80%89%E8%A1%A5%E5%81%BF%2C%E9%AA%82%E5%A3%B0%E8%BD%AC%E7%9C%9F%E9%A6%99",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时26分 ~ 19时50分]"
+        },
+        {
+          "title": "境外组织大力资助躺平网红",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353837&amp;topic_name=%E5%A2%83%E5%A4%96%E7%BB%84%E7%BB%87%E5%A4%A7%E5%8A%9B%E8%B5%84%E5%8A%A9%E8%BA%BA%E5%B9%B3%E7%BD%91%E7%BA%A2",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时26分 ~ 19时50分]"
+        },
+        {
           "title": "境外组织大力资助网红煽动躺平",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A2%83%E5%A4%96%E7%BB%84%E7%BB%87%E5%A4%A7%E5%8A%9B%E8%B5%84%E5%8A%A9%E7%BD%91%E7%BA%A2%E7%85%BD%E5%8A%A8%E8%BA%BA%E5%B9%B3%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -417,19 +467,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时44分 ~ 14时39分]"
-        },
-        {
-          "title": "“探店”网红白冰偷税超900万元被查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33068237",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时44分 ~ 17时29分]"
         },
         {
           "title": "国安部披露境外组织资助“躺平网红”",
@@ -467,17 +504,6 @@
           "time_info": "[14时35分 ~ 14时39分]"
         },
         {
-          "title": "中共中央政治局：深入整治内卷式竞争",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%EF%BC%9A%E6%B7%B1%E5%85%A5%E6%95%B4%E6%B2%BB%E5%86%85%E5%8D%B7%E5%BC%8F%E7%AB%9E%E4%BA%89",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 17时29分]"
-        },
-        {
           "title": "胖东来饺子皮贴心标注被网友点赞",
           "url": "https://www.toutiao.com/trending/7633354847546769459/",
           "source": "今日头条",
@@ -502,37 +528,88 @@
           "time_info": "[17时26分 ~ 17时29分]"
         },
         {
-          "title": "异环S自选补偿,骂声转真香",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353832&amp;topic_name=%E5%BC%82%E7%8E%AFS%E8%87%AA%E9%80%89%E8%A1%A5%E5%81%BF%2C%E9%AA%82%E5%A3%B0%E8%BD%AC%E7%9C%9F%E9%A6%99",
-          "source": "贴吧",
+          "title": "牛散章建平最新持仓曝光：一季度现身4股十大股东，新进3股",
+          "url": "https://www.cls.cn/detail/2358442",
+          "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时26分 ~ 17时29分]"
+          "time_info": "[19时49分 ~ 19时50分]"
         },
         {
-          "title": "境外组织大力资助躺平网红",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353837&amp;topic_name=%E5%A2%83%E5%A4%96%E7%BB%84%E7%BB%87%E5%A4%A7%E5%8A%9B%E8%B5%84%E5%8A%A9%E8%BA%BA%E5%B9%B3%E7%BD%91%E7%BA%A2",
-          "source": "贴吧",
+          "title": "网红白冰偷逃近千万为何没坐牢",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E7%99%BD%E5%86%B0%E5%81%B7%E9%80%83%E8%BF%91%E5%8D%83%E4%B8%87%E4%B8%BA%E4%BD%95%E6%B2%A1%E5%9D%90%E7%89%A2%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
           "ranks": [
-            3
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时26分 ~ 19时50分]"
+        },
+        {
+          "title": "这里才是假期旅行天花板",
+          "url": "https://www.douyin.com/hot/2481890",
+          "source": "抖音",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时26分 ~ 17时29分]"
+          "time_info": "[19时49分 ~ 19时50分]"
         },
         {
           "title": "中共中央政治局：深入整治内卷式竞争",
           "url": "https://www.toutiao.com/trending/7633678852108206099/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时26分 ~ 19时50分]"
+        },
+        {
+          "title": "正直播CBA季后赛首轮：山东VS辽宁",
+          "url": "https://www.toutiao.com/trending/7633345334887825414/",
+          "source": "今日头条",
+          "ranks": [
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时26分 ~ 17时29分]"
+          "time_info": "[19时49分 ~ 19时50分]"
+        },
+        {
+          "title": "网红大翻车,白冰偷税超900万",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353822&amp;topic_name=%E7%BD%91%E7%BA%A2%E5%A4%A7%E7%BF%BB%E8%BD%A6%2C%E7%99%BD%E5%86%B0%E5%81%B7%E7%A8%8E%E8%B6%85900%E4%B8%87",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时35分 ~ 19时50分]"
+        },
+        {
+          "title": "Attention背对背挑战",
+          "url": "https://www.douyin.com/hot/2481879",
+          "source": "抖音",
+          "ranks": [
+            7,
+            13,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时35分 ~ 19时50分]"
         },
         {
           "title": "金十图示：2026年04月27日（周一）美股热门股票行情一览（美股盘中）",
@@ -559,6 +636,32 @@
           "time_info": "[08时00分 ~ 14时39分]"
         },
         {
+          "title": "网红白冰回应偷逃税款被罚",
+          "url": "https://www.toutiao.com/trending/7633622709385674758/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时35分 ~ 19时50分]"
+        },
+        {
+          "title": "4000万粉丝博主白冰在镜头前认错，偷税漏税共计911.18万元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33068480",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时35分 ~ 19时50分]"
+        },
+        {
           "title": "金十图示：2026年04月27日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260428003031463800",
           "source": "金十数据",
@@ -579,6 +682,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
+        },
+        {
+          "title": "晚上被领导在群里@加班 他成功索赔",
+          "url": "https://www.baidu.com/s?wd=%E6%99%9A%E4%B8%8A%E8%A2%AB%E9%A2%86%E5%AF%BC%E5%9C%A8%E7%BE%A4%E9%87%8C%40%E5%8A%A0%E7%8F%AD+%E4%BB%96%E6%88%90%E5%8A%9F%E7%B4%A2%E8%B5%94",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            21,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时26分 ~ 19时50分]"
         },
         {
           "title": "桥水基金创始人达利欧：滞胀环境下，沃什不应降息",
@@ -682,6 +798,18 @@
           "time_info": "[00时31分 ~ 08时00分]"
         },
         {
+          "title": "【每日收评】深成指与创业板指双双跌超1%，煤炭、医药等防御性板块逆势活跃，工业气体概念持续爆发",
+          "url": "https://www.cls.cn/detail/2358189",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时26分 ~ 19时50分]"
+        },
+        {
           "title": "MSCI新兴市场股票指数收涨1.2%，突破美国与以色列发动伊朗战争之前出现的顶部，台积电、SK海力士等亚洲半导体概念股贡献突出。 MSCI新兴市场外汇指数涨0.3%，马来西亚林吉特、泰国泰铢、以色列谢克尔等货币涨幅居前。",
           "url": "https://wallstreetcn.com/livenews/3095250",
           "source": "华尔街见闻-快讯",
@@ -707,18 +835,6 @@
           "time_info": "[11时44分 ~ 12时00分]"
         },
         {
-          "title": "网红大翻车,白冰偷税超900万",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353822&amp;topic_name=%E7%BD%91%E7%BA%A2%E5%A4%A7%E7%BF%BB%E8%BD%A6%2C%E7%99%BD%E5%86%B0%E5%81%B7%E7%A8%8E%E8%B6%85900%E4%B8%87",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时35分 ~ 17时29分]"
-        },
-        {
           "title": "高盛：AI风险正加剧关于股票估值的争论",
           "url": "https://wallstreetcn.com/livenews/3095273",
           "source": "华尔街见闻-快讯",
@@ -729,6 +845,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时03分 ~ 08时00分]"
+        },
+        {
+          "title": "巴基斯坦总统扎尔达里 4 月 25 日至 5 月 1 日来华，访问湖南和海南，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032118225358598980",
+          "source": "知乎",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时26分 ~ 19时50分]"
         },
         {
           "title": "4月28日午间收评：创业板指半日跌0.54%，医药、化工股逆势走强",
@@ -756,17 +884,16 @@
           "time_info": "[11时44分 ~ 14时35分]"
         },
         {
-          "title": "Attention背对背挑战",
-          "url": "https://www.douyin.com/hot/2481879",
-          "source": "抖音",
+          "title": "释新闻｜两位以色列前总理宣布组建联盟，能否挑战内塔尼亚胡？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33062443",
+          "source": "澎湃新闻",
           "ranks": [
-            7,
-            13,
-            15
+            12,
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时35分 ~ 17时29分]"
+          "time_info": "[17时26分 ~ 19时50分]"
         },
         {
           "title": "甲骨文(ORCL.N)，Borderplex和Bloom Energy将利用更清洁、更节水的燃料电池技术为木星项目提供动力。甲骨文表示，木星计划将利用高达2.45GW的Bloom Energy的燃料电池容量，将承担木星项目的所有能源成本，该计划预计将创造4000个建筑职位和1500个长期职位。",
@@ -783,29 +910,28 @@
           "time_info": "[05时57分 ~ 07时03分]"
         },
         {
-          "title": "网红白冰回应偷逃税款被罚",
-          "url": "https://www.toutiao.com/trending/7633622709385674758/",
-          "source": "今日头条",
+          "title": "唐艺昕烫嘴rap翻唱挑战",
+          "url": "https://www.douyin.com/hot/2482172",
+          "source": "抖音",
           "ranks": [
-            16,
-            11,
-            21
+            14,
+            22
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时35分 ~ 17时29分]"
+          "time_info": "[17时26分 ~ 19时50分]"
         },
         {
-          "title": "4000万粉丝博主白冰在镜头前认错，偷税漏税共计911.18万元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33068480",
-          "source": "澎湃新闻",
+          "title": "东方甄选为防第二个董宇辉逼走四位主播，其去 IP 化策略在图什么？没有诗与远方的东方甄选，还有人买账吗？",
+          "url": "https://www.zhihu.com/question/2032063212619658752",
+          "source": "知乎",
           "ranks": [
             15,
-            14
+            18
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时35分 ~ 17时29分]"
+          "time_info": "[17时26分 ~ 19时50分]"
         },
         {
           "title": "赵丽颖喝咖啡被偶遇",
@@ -954,6 +1080,17 @@
           "time_info": "[11时44分 ~ 12时00分]"
         },
         {
+          "title": "夏日穿搭显贵技巧",
+          "url": "https://www.douyin.com/hot/2482372",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 19时50分]"
+        },
+        {
           "title": "研究：做饭是被低估的长寿“处方”",
           "url": "https://www.toutiao.com/trending/7633403519303499830/",
           "source": "今日头条",
@@ -978,25 +1115,14 @@
         },
         {
           "title": "网红白冰偷逃近千万为何没坐牢",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E7%99%BD%E5%86%B0%E5%81%B7%E9%80%83%E8%BF%91%E5%8D%83%E4%B8%87%E4%B8%BA%E4%BD%95%E6%B2%A1%E5%9D%90%E7%89%A2%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%99%BD%E5%86%B0%E5%81%B7%E9%80%83%E8%BF%91%E5%8D%83%E4%B8%87%E4%B8%BA%E4%BD%95%E6%B2%A1%E5%9D%90%E7%89%A2",
+          "source": "百度热搜",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时26分 ~ 17时29分]"
-        },
-        {
-          "title": "【每日收评】深成指与创业板指双双跌超1%，煤炭、医药等防御性板块逆势活跃，工业气体概念持续爆发",
-          "url": "https://www.cls.cn/detail/2358189",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 17时29分]"
+          "time_info": "[19时49分 ~ 19时50分]"
         },
         {
           "title": "清洁工捡40万现金？警方：是练功券",
@@ -1019,6 +1145,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时26分 ~ 17时29分]"
+        },
+        {
+          "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
+          "url": "https://wallstreetcn.com/articles/3771068",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 19时50分]"
         },
         {
           "title": "日本央行：经济前景风险偏向下行，通胀风险偏向上行。 日本经济增速可能在2026财年放缓；预计经济将继续温和增长，尽管增速有所放缓。 由于预计高油价的不利影响将减弱，日本经济增速可能从2027财年起温和回升。 原油价格上涨预计将压低企业利润和家庭实际收入。 受原油价格上涨影响，2026财年CPI预测同比涨幅显著提高。 需特别关注中东局势未来走向对金融及外汇市场的影响。 必须妥善关注，防止通胀大幅向上偏离目标的风险成为现实。 若原油价格维持高位的时间长于预期，由于企业利润和家庭实际收入大幅下降，经济可能进一步放缓。 原油价格上涨可能比以往更容易转嫁至各类商品和服务价格中。 还需关注原材料市场价格上涨导致食品价格涨幅超预期的可能性。",
@@ -1045,6 +1182,17 @@
           "time_info": "[14时35分 ~ 14时39分]"
         },
         {
+          "title": "【焦点复盘】创业板指4连阴失守10日线，资金连续热捧氦气概念，“股王”宝座盘中反复易主",
+          "url": "https://www.cls.cn/detail/2358265",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 19时50分]"
+        },
+        {
           "title": "年内逾200家港股公司回购，科技、消费类公司最积极",
           "url": "https://wallstreetcn.com/livenews/3095264",
           "source": "华尔街见闻-快讯",
@@ -1055,28 +1203,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时03分 ~ 08时00分]"
-        },
-        {
-          "title": "巴基斯坦总统扎尔达里 4 月 25 日至 5 月 1 日来华，访问湖南和海南，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032118225358598980",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 17时29分]"
-        },
-        {
-          "title": "释新闻｜两位以色列前总理宣布组建联盟，能否挑战内塔尼亚胡？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33062443",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 17时29分]"
         },
         {
           "title": "归环首测实机体验",
@@ -1102,17 +1228,6 @@
           "time_info": "[11时44分 ~ 12时00分]"
         },
         {
-          "title": "唐艺昕烫嘴rap翻唱挑战",
-          "url": "https://www.douyin.com/hot/2482172",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 17时29分]"
-        },
-        {
           "title": "提醒：日内请重点关注（以下均为北京时间）",
           "url": "https://wallstreetcn.com/livenews/3095261",
           "source": "华尔街见闻-快讯",
@@ -1123,17 +1238,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时03分 ~ 08时00分]"
-        },
-        {
-          "title": "东方甄选为防第二个董宇辉逼走四位主播，其去 IP 化策略在图什么？没有诗与远方的东方甄选，还有人买账吗？",
-          "url": "https://www.zhihu.com/question/2032063212619658752",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 17时29分]"
         },
         {
           "title": "A股收评：创业板指跌超1%收出4连阴",
@@ -1169,16 +1273,26 @@
           "time_info": "[14时35分 ~ 14时39分]"
         },
         {
-          "title": "晚上被领导在群里@加班 他成功索赔",
-          "url": "https://www.baidu.com/s?wd=%E6%99%9A%E4%B8%8A%E8%A2%AB%E9%A2%86%E5%AF%BC%E5%9C%A8%E7%BE%A4%E9%87%8C%40%E5%8A%A0%E7%8F%AD+%E4%BB%96%E6%88%90%E5%8A%9F%E7%B4%A2%E8%B5%94",
-          "source": "百度热搜",
+          "title": "北京JDG战胜西安WE 挑战者杯",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E5%AE%89WE%20%E5%8C%97%E4%BA%ACJDG",
+          "source": "bilibili 热搜",
           "ranks": [
-            25,
-            21
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时26分 ~ 17时29分]"
+          "time_info": "[19时49分 ~ 19时50分]"
+        },
+        {
+          "title": "曾沛慈学东北话嘎嘎上头",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BE%E6%B2%9B%E6%85%88%E5%AD%A6%E4%B8%9C%E5%8C%97%E8%AF%9D%E5%98%8E%E5%98%8E%E4%B8%8A%E5%A4%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 19时50分]"
         },
         {
           "title": "受益于油价飙升，英国石油一季度利润翻倍",
@@ -1236,6 +1350,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时35分 ~ 14时39分]"
+        },
+        {
+          "title": "吵一吵 vs 佛山DRG 挑战者杯",
+          "url": "https://search.bilibili.com/all?keyword=%E5%90%B5%E4%B8%80%E5%90%B5%20%E4%BD%9B%E5%B1%B1DRG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 19时50分]"
         },
         {
           "title": "湘邮科技：公司股票自4月29日起复牌并被实施退市风险警示",
@@ -1305,6 +1430,17 @@
           "time_info": "[11时44分 ~ 12时00分]"
         },
         {
+          "title": "回归公益后 中国殡葬业走向何方",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%9E%E5%BD%92%E5%85%AC%E7%9B%8A%E5%90%8E+%E4%B8%AD%E5%9B%BD%E6%AE%A1%E8%91%AC%E4%B8%9A%E8%B5%B0%E5%90%91%E4%BD%95%E6%96%B9",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 19时50分]"
+        },
+        {
           "title": "肥娟夫妇开健身房 离小吃店仅200米",
           "url": "https://www.baidu.com/s?wd=%E8%82%A5%E5%A8%9F%E5%A4%AB%E5%A6%87%E5%BC%80%E5%81%A5%E8%BA%AB%E6%88%BF+%E7%A6%BB%E5%B0%8F%E5%90%83%E5%BA%97%E4%BB%85200%E7%B1%B3",
           "source": "百度热搜",
@@ -1336,6 +1472,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时07分"
+        },
+        {
+          "title": "文成正在直播",
+          "url": "https://flash.jin10.com/detail/20260428192031196800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         },
         {
           "title": "恩比德满血回归",
@@ -1377,7 +1524,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
