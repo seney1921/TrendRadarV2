@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T21:21:22.194623+08:00",
-  "total_titles_processed": 1474,
+  "generated_at": "2026-05-02T21:26:03.955538+08:00",
+  "total_titles_processed": 1480,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时35分 ~ 21时21分]"
+          "appearance_count": 15,
+          "time_info": "[08时35分 ~ 21时26分]"
+        },
+        {
+          "title": "美伊局势追踪：特朗普“不满”伊朗最新谈判方案 白宫称敌对行动已“结束”",
+          "url": "https://www.cls.cn/detail/2362040",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时43分 ~ 21时26分]"
         },
         {
           "title": "香飘飘 2025 年净利润大降 62.38%，你还在喝香飘飘冲泡奶茶吗？",
@@ -99,23 +114,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时35分 ~ 21时21分]"
-        },
-        {
-          "title": "美伊局势追踪：特朗普“不满”伊朗最新谈判方案 白宫称敌对行动已“结束”",
-          "url": "https://www.cls.cn/detail/2362040",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时43分 ~ 21时21分]"
+          "appearance_count": 15,
+          "time_info": "[08时35分 ~ 21时26分]"
         },
         {
           "title": "王毅 4 月 30 日同美国国务卿鲁比奥通电话，哪些信息值得关注？",
@@ -163,8 +163,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时04分 ~ 21时21分]"
+          "appearance_count": 29,
+          "time_info": "[00时04分 ~ 21时26分]"
         },
         {
           "title": "聪明人五一扎堆捡漏一线城市五星酒店",
@@ -274,8 +274,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时29分 ~ 21时21分]"
+          "appearance_count": 12,
+          "time_info": "[11时29分 ~ 21时26分]"
         },
         {
           "title": "五一跟UP主去吃伦敦美食",
@@ -370,8 +370,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时04分 ~ 21时21分]"
+          "appearance_count": 29,
+          "time_info": "[00时04分 ~ 21时26分]"
         },
         {
           "title": "大衣哥回应空白纸上给粉丝签名留日期",
@@ -471,6 +471,18 @@
           "time_info": "[16时25分 ~ 19时51分]"
         },
         {
+          "title": "外宣翻车,日式营销遭群嘲",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353953&amp;topic_name=%E5%A4%96%E5%AE%A3%E7%BF%BB%E8%BD%A6%2C%E6%97%A5%E5%BC%8F%E8%90%A5%E9%94%80%E9%81%AD%E7%BE%A4%E5%98%B2",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时12分 ~ 21时26分]"
+        },
+        {
           "title": "金十图示：2026年05月01日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260502040603336800",
           "source": "金十数据",
@@ -542,6 +554,22 @@
           "time_info": "[03时20分 ~ 07时03分]"
         },
         {
+          "title": "干嘛猫的五一vlog",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B9%B2%E5%98%9B%E7%8C%AB%E7%9A%84%E4%BA%94%E4%B8%80vlog",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            10,
+            18,
+            13,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时43分 ~ 21时26分]"
+        },
+        {
           "title": "萧敬腾打卡沈阳老北市",
           "url": "https://www.douyin.com/hot/2485651",
           "source": "抖音",
@@ -558,6 +586,33 @@
           "time_info": "[04时07分 ~ 13时43分]"
         },
         {
+          "title": "12345 投诉成「许愿池」，医生被迫道歉，患者主导诊疗，医疗服务满意度考核如何回归改善医患关系初衷？",
+          "url": "https://www.zhihu.com/question/2032410844076695967",
+          "source": "知乎",
+          "ranks": [
+            20,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时25分 ~ 21时26分]"
+        },
+        {
+          "title": "伊朗向巴基斯坦提交伊美谈判最新方案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33090851",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时25分 ~ 21时26分]"
+        },
+        {
           "title": "为闪光的劳动者点赞",
           "url": "https://www.douyin.com/hot/2484976",
           "source": "抖音",
@@ -571,6 +626,17 @@
           "time_info": "[00时04分 ~ 11时29分]"
         },
         {
+          "title": "正直播苏超：南京vs常州",
+          "url": "https://www.toutiao.com/trending/7634308412175745065/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时21分 ~ 21时26分]"
+        },
+        {
           "title": "伊朗战争丨特朗普：对伊朗最新的谈判方案不满意",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -582,16 +648,16 @@
           "time_info": "[02时02分 ~ 05时57分]"
         },
         {
-          "title": "外宣翻车,日式营销遭群嘲",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353953&amp;topic_name=%E5%A4%96%E5%AE%A3%E7%BF%BB%E8%BD%A6%2C%E6%97%A5%E5%BC%8F%E8%90%A5%E9%94%80%E9%81%AD%E7%BE%A4%E5%98%B2",
+          "title": "敏感肌?湾湾人对中控台破防",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353954&amp;topic_name=%E6%95%8F%E6%84%9F%E8%82%8C%3F%E6%B9%BE%E6%B9%BE%E4%BA%BA%E5%AF%B9%E4%B8%AD%E6%8E%A7%E5%8F%B0%E7%A0%B4%E9%98%B2",
           "source": "贴吧",
           "ranks": [
-            4,
-            6
+            30,
+            3
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时12分 ~ 21时21分]"
+          "time_info": "[18时57分 ~ 21时26分]"
         },
         {
           "title": "苹果电话会：营收指引超预期，存储自Q3起拖累利润率，追加千亿回购",
@@ -619,20 +685,49 @@
           "time_info": "[04时07分 ~ 08时36分]"
         },
         {
-          "title": "干嘛猫的五一vlog",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B9%B2%E5%98%9B%E7%8C%AB%E7%9A%84%E4%BA%94%E4%B8%80vlog",
-          "source": "bilibili 热搜",
+          "title": "潮州辟谣“249元酒店涨到1千6”",
+          "url": "https://www.baidu.com/s?wd=%E6%BD%AE%E5%B7%9E%E8%BE%9F%E8%B0%A3%E2%80%9C249%E5%85%83%E9%85%92%E5%BA%97%E6%B6%A8%E5%88%B01%E5%8D%836%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            28,
-            10,
-            18,
-            13,
-            17,
-            15
+            11
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[13时43分 ~ 21时21分]"
+          "time_info": "[17时12分 ~ 21时26分]"
+        },
+        {
+          "title": "WST vs 成都AG超玩会 挑战者杯",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E8%80%85%E6%9D%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时51分 ~ 21时26分]"
+        },
+        {
+          "title": "伯克希尔连续第14个季度净卖出股票 现金储备升至3970亿美元",
+          "url": "https://flash.jin10.com/detail/20260502205209836800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 21时26分]"
+        },
+        {
+          "title": "截至3月31日，伯克希尔哈撒韦公司61%的股票投资总公允价值集中于美国运通、苹果、美国银行、雪佛龙和可口可乐。 截至3月31日，伯克希尔哈撒韦旗下的Pacificorp公司因野火预估累计损失约29亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3098157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 21时26分]"
         },
         {
           "title": "5月1日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
@@ -658,19 +753,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时43分 ~ 14时13分]"
-        },
-        {
-          "title": "12345 投诉成「许愿池」，医生被迫道歉，患者主导诊疗，医疗服务满意度考核如何回归改善医患关系初衷？",
-          "url": "https://www.zhihu.com/question/2032410844076695967",
-          "source": "知乎",
-          "ranks": [
-            20,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时25分 ~ 21时21分]"
         },
         {
           "title": "据知情人士透露，Cerebras Systems考虑通过美国IPO融资至多40亿美元，已经获得超过100亿美元认购意向。（彭博）",
@@ -707,6 +789,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时01分 ~ 08时36分]"
+        },
+        {
+          "title": "“水银奶茶”事件再起波澜：网友质疑投放者为饮用者男友",
+          "url": "https://news.ifeng.com/c/8snkD0PideB",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时04分 ~ 21时26分]"
         },
         {
           "title": "截止至4月28日当周CFTC商品类商业持仓报告在金十数据中心更新啦！欢迎点击查看>>",
@@ -784,20 +878,6 @@
           "time_info": "[00时04分 ~ 05时57分]"
         },
         {
-          "title": "伊朗向巴基斯坦提交伊美谈判最新方案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33090851",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时25分 ~ 21时21分]"
-        },
-        {
           "title": "突然就没有年龄焦虑了",
           "url": "https://s.weibo.com/weibo?q=%E7%AA%81%E7%84%B6%E5%B0%B1%E6%B2%A1%E6%9C%89%E5%B9%B4%E9%BE%84%E7%84%A6%E8%99%91%E4%BA%86&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -820,17 +900,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
-        },
-        {
-          "title": "正直播苏超：南京vs常州",
-          "url": "https://www.toutiao.com/trending/7634308412175745065/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
         },
         {
           "title": "【美媒：特朗普告知国会，对伊朗战事已“结束”】据美国多家媒体1日报道，美总统特朗普当天致函国会，称美国对伊朗战事已经“结束”，他已无限期延长停火协议。这一表态与“60天法律期限”有关，试图解释为何无需就此寻求国会授权。（新华社）",
@@ -880,28 +949,6 @@
           "time_info": "19时51分"
         },
         {
-          "title": "伯克希尔连续第14个季度净卖出股票 现金储备升至3970亿美元",
-          "url": "https://flash.jin10.com/detail/20260502205209836800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
-          "title": "截至3月31日，伯克希尔哈撒韦公司61%的股票投资总公允价值集中于美国运通、苹果、美国银行、雪佛龙和可口可乐。 截至3月31日，伯克希尔哈撒韦旗下的Pacificorp公司因野火预估累计损失约29亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3098157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
           "title": "5月1日芝加哥商业交易所（CME）外汇类商品成交量报告已在金十数据中心更新！欢迎点击查看",
           "url": "https://flash.jin10.com/detail/20260502133116475800",
           "source": "金十数据",
@@ -914,18 +961,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时43分 ~ 16时25分]"
-        },
-        {
-          "title": "敏感肌?湾湾人对中控台破防",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353954&amp;topic_name=%E6%95%8F%E6%84%9F%E8%82%8C%3F%E6%B9%BE%E6%B9%BE%E4%BA%BA%E5%AF%B9%E4%B8%AD%E6%8E%A7%E5%8F%B0%E7%A0%B4%E9%98%B2",
-          "source": "贴吧",
-          "ranks": [
-            30,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时57分 ~ 21时21分]"
         },
         {
           "title": "以色列国防军发言人：在最新一系列报复性打击中，摧毁了超过50个真主党基础设施地点。",
@@ -1008,17 +1043,6 @@
           "time_info": "[10时58分 ~ 14时13分]"
         },
         {
-          "title": "潮州辟谣“249元酒店涨到1千6”",
-          "url": "https://www.baidu.com/s?wd=%E6%BD%AE%E5%B7%9E%E8%BE%9F%E8%B0%A3%E2%80%9C249%E5%85%83%E9%85%92%E5%BA%97%E6%B6%A8%E5%88%B01%E5%8D%836%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时12分 ~ 21时21分]"
-        },
-        {
           "title": "顺德通报“外卖后厨人员在锅里洗扫把”：该店老板、涉事厨师禁业五年",
           "url": "https://m.thepaper.cn/newsDetail_forward_33088925",
           "source": "澎湃新闻",
@@ -1057,18 +1081,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时04分 ~ 07时03分]"
-        },
-        {
-          "title": "WST vs 成都AG超玩会 挑战者杯",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E8%80%85%E6%9D%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时51分 ~ 21时21分]"
         },
         {
           "title": "阿联酋“退群” 这个信号不简单",
@@ -1159,16 +1171,17 @@
           "time_info": "[13时43分 ~ 16时25分]"
         },
         {
-          "title": "“水银奶茶”事件再起波澜：网友质疑投放者为饮用者男友",
-          "url": "https://news.ifeng.com/c/8snkD0PideB",
-          "source": "凤凰网",
+          "title": "马上评｜短视频“素人访谈”莫为流量挑战公序良俗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33092189",
+          "source": "澎湃新闻",
           "ranks": [
-            11,
-            12
+            14,
+            13,
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时04分 ~ 21时21分]"
+          "time_info": "[19时51分 ~ 21时26分]"
         },
         {
           "title": "假期刚开始就焦虑节后的工作，你会这样吗？怎样才能让自己「放得下」尽情享受假期？",
@@ -1197,6 +1210,18 @@
           "time_info": "[17时12分 ~ 19时51分]"
         },
         {
+          "title": "高速堵车点外卖 女老板穿围裙开车送",
+          "url": "https://www.toutiao.com/trending/7635146774621880363/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时12分 ~ 21时26分]"
+        },
+        {
           "title": "猛攻节上线首日攻略速看",
           "url": "https://search.bilibili.com/all?keyword=%E7%8C%9B%E6%94%BB%E8%8A%82%E4%B8%8A%E7%BA%BF%E9%A6%96%E6%97%A5%E6%94%BB%E7%95%A5%E9%80%9F%E7%9C%8B",
           "source": "bilibili 热搜",
@@ -1221,6 +1246,17 @@
           "time_info": "[00时04分 ~ 01时04分]"
         },
         {
+          "title": "男子探店质疑胖东来 249 元毛巾暴利，被起诉名誉侵权，胖东来为何高调起诉？如何区分合理批评与诽谤？",
+          "url": "https://www.zhihu.com/question/2033884291512229961",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时21分 ~ 21时26分]"
+        },
+        {
           "title": "五一高速堵车点外卖 老板开车送到",
           "url": "https://www.baidu.com/s?wd=%E4%BA%94%E4%B8%80%E9%AB%98%E9%80%9F%E5%A0%B5%E8%BD%A6%E7%82%B9%E5%A4%96%E5%8D%96+%E8%80%81%E6%9D%BF%E5%BC%80%E8%BD%A6%E9%80%81%E5%88%B0",
           "source": "百度热搜",
@@ -1230,6 +1266,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时04分 ~ 19时51分]"
+        },
+        {
+          "title": "眨眼拼凑五官挑战",
+          "url": "https://www.douyin.com/hot/2486937",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时21分 ~ 21时26分]"
+        },
+        {
+          "title": "浪姐直播难度到底有多大",
+          "url": "https://www.douyin.com/hot/2486884",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时21分 ~ 21时26分]"
         },
         {
           "title": "“雨神”人设不倒 上海要下雨了",
@@ -1243,6 +1301,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时25分 ~ 18时04分]"
+        },
+        {
+          "title": "正直播CBA：山西vs青岛",
+          "url": "https://www.toutiao.com/trending/7634527927032512550/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时21分 ~ 21时26分]"
         },
         {
           "title": "拍1条爆款视频 这家景区奖励1块金砖",
@@ -1363,18 +1432,6 @@
           "time_info": "[03时21分 ~ 04时07分]"
         },
         {
-          "title": "马上评｜短视频“素人访谈”莫为流量挑战公序良俗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33092189",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时51分 ~ 21时21分]"
-        },
-        {
           "title": "欧洲汽车游说组织Acea拒绝置评美国总统特朗普最新汽车关税论调。 但呼吁欧盟议员们尽快批准相关立法。",
           "url": "https://wallstreetcn.com/livenews/3098006",
           "source": "华尔街见闻-快讯",
@@ -1469,18 +1526,6 @@
           "time_info": "[08时35分 ~ 08时36分]"
         },
         {
-          "title": "高速堵车点外卖 女老板穿围裙开车送",
-          "url": "https://www.toutiao.com/trending/7635146774621880363/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时12分 ~ 21时21分]"
-        },
-        {
           "title": "解说员：火箭的年轻人这赛季被耽误了",
           "url": "https://www.toutiao.com/trending/7635145444818173998/",
           "source": "今日头条",
@@ -1504,17 +1549,6 @@
           "time_info": "00时05分"
         },
         {
-          "title": "男子探店质疑胖东来 249 元毛巾暴利，被起诉名誉侵权，胖东来为何高调起诉？如何区分合理批评与诽谤？",
-          "url": "https://www.zhihu.com/question/2033884291512229961",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
           "title": "霸王茶姬水银事件当事人：奶茶男友购买",
           "url": "https://www.toutiao.com/trending/7635217729263455790/",
           "source": "今日头条",
@@ -1535,17 +1569,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
-        },
-        {
-          "title": "眨眼拼凑五官挑战",
-          "url": "https://www.douyin.com/hot/2486937",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
         },
         {
           "title": "躺平阴谋",
@@ -1678,28 +1701,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
-        },
-        {
-          "title": "浪姐直播难度到底有多大",
-          "url": "https://www.douyin.com/hot/2486884",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
-          "title": "正直播CBA：山西vs青岛",
-          "url": "https://www.toutiao.com/trending/7634527927032512550/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
         },
         {
           "title": "绝区零普罗米娅综合攻略",
