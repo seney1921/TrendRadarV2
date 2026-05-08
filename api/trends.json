@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T19:22:32.178947+08:00",
-  "total_titles_processed": 1556,
+  "generated_at": "2026-05-08T20:14:38.689203+08:00",
+  "total_titles_processed": 1622,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 130,
+      "match_count": 135,
       "titles": [
         {
           "title": "这只热门ETF又溢价到停牌，年内净值涨72%，停牌多达52次",
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时57分 ~ 19时22分]"
+          "appearance_count": 12,
+          "time_info": "[07时57分 ~ 20时14分]"
         },
         {
           "title": "UP主真人快打cos盲盒开箱",
@@ -148,11 +148,74 @@
             20,
             23,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时55分 ~ 19时22分]"
+          "appearance_count": 18,
+          "time_info": "[00时55分 ~ 20时14分]"
+        },
+        {
+          "title": "粉丝堵门威胁,Jiejie:还活着",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354082&amp;topic_name=%E7%B2%89%E4%B8%9D%E5%A0%B5%E9%97%A8%E5%A8%81%E8%83%81%2CJiejie%3A%E8%BF%98%E6%B4%BB%E7%9D%80",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7,
+            11,
+            16,
+            19,
+            20,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时27分 ~ 20时14分]"
+        },
+        {
+          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035771230985380677",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9,
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时27分 ~ 20时14分]"
+        },
+        {
+          "title": "解放军报评论员：坚持有腐必反、有贪必肃",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33119063",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时27分 ~ 20时14分]"
+        },
+        {
+          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时27分 ~ 20时14分]"
         },
         {
           "title": "鸣潮赛博朋克联动预告",
@@ -199,6 +262,18 @@
           "time_info": "[00时55分 ~ 14时02分]"
         },
         {
+          "title": "股票到底是什么",
+          "url": "https://www.douyin.com/hot/2491031",
+          "source": "抖音",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时27分 ~ 20时14分]"
+        },
+        {
           "title": "曹云金呼吁关注河南滞销蒜薹",
           "url": "https://www.douyin.com/hot/2491179",
           "source": "抖音",
@@ -226,6 +301,22 @@
           "time_info": "[00时55分 ~ 11时49分]"
         },
         {
+          "title": "红蓝按钮大挑战,吧友吵翻了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354085&amp;topic_name=%E7%BA%A2%E8%93%9D%E6%8C%89%E9%92%AE%E5%A4%A7%E6%8C%91%E6%88%98%2C%E5%90%A7%E5%8F%8B%E5%90%B5%E7%BF%BB%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时49分 ~ 20时14分]"
+        },
+        {
           "title": "冲上热搜！星空卫视宣布停播：已开播24年，正寻求战略投资与业务重组机会",
           "url": "https://m.thepaper.cn/newsDetail_forward_33108206",
           "source": "澎湃新闻",
@@ -237,21 +328,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时55分 ~ 07时59分]"
-        },
-        {
-          "title": "红蓝按钮大挑战,吧友吵翻了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354085&amp;topic_name=%E7%BA%A2%E8%93%9D%E6%8C%89%E9%92%AE%E5%A4%A7%E6%8C%91%E6%88%98%2C%E5%90%A7%E5%8F%8B%E5%90%B5%E7%BF%BB%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            5,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时49分 ~ 19时22分]"
         },
         {
           "title": "美以袭击伊朗进入第 70 天，当前局势如何？哪些信息值得关注？",
@@ -266,78 +342,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时57分 ~ 17时28分]"
-        },
-        {
-          "title": "粉丝堵门威胁,Jiejie:还活着",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354082&amp;topic_name=%E7%B2%89%E4%B8%9D%E5%A0%B5%E9%97%A8%E5%A8%81%E8%83%81%2CJiejie%3A%E8%BF%98%E6%B4%BB%E7%9D%80",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7,
-            11,
-            16,
-            19,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时27分 ~ 19时22分]"
-        },
-        {
-          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2035771230985380677",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时27分 ~ 19时22分]"
-        },
-        {
-          "title": "解放军报评论员：坚持有腐必反、有贪必肃",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33119063",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时27分 ~ 19时22分]"
-        },
-        {
-          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时27分 ~ 19时22分]"
-        },
-        {
-          "title": "股票到底是什么",
-          "url": "https://www.douyin.com/hot/2491031",
-          "source": "抖音",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时27分 ~ 19时22分]"
         },
         {
           "title": "EDG晋级伦敦大师赛Vlog",
@@ -415,6 +419,21 @@
           "time_info": "[00时55分 ~ 07时59分]"
         },
         {
+          "title": "网友偶遇「全李酒店」，以为被大风吹掉一撇，酒店称曾名为「全季酒店」，目前已不合作，酒店这种做法合规吗？",
+          "url": "https://www.zhihu.com/question/2035322673128002582",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18,
+            17,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时56分 ~ 20时14分]"
+        },
+        {
           "title": "曝浪姐三公不直播",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%B5%AA%E5%A7%90%E4%B8%89%E5%85%AC%E4%B8%8D%E7%9B%B4%E6%92%AD%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -481,36 +500,68 @@
           "ranks": [
             1,
             2,
-            10
+            10,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 19时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 20时14分]"
         },
         {
-          "title": "文成正在直播",
-          "url": "https://flash.jin10.com/detail/20260508192048471800",
-          "source": "金十数据",
+          "title": "中国超大型清洁能源船获重大突破",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%B6%85%E5%A4%A7%E5%9E%8B%E6%B8%85%E6%B4%81%E8%83%BD%E6%BA%90%E8%88%B9%E8%8E%B7%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4",
+          "source": "bilibili 热搜",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
-          "title": "网友偶遇「全李酒店」，以为被大风吹掉一撇，酒店称曾名为「全季酒店」，目前已不合作，酒店这种做法合规吗？",
-          "url": "https://www.zhihu.com/question/2035322673128002582",
-          "source": "知乎",
-          "ranks": [
-            20,
-            18,
-            17,
+            4,
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时56分 ~ 19时22分]"
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 20时14分]"
+        },
+        {
+          "title": "阶跃将完成近25亿美元融资：终端产业链资方集体入场，加速筹备赴港IPO",
+          "url": "https://www.cls.cn/detail/2365829",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时56分 ~ 20时14分]"
+        },
+        {
+          "title": "中国大陆球迷还能看到世界杯直播吗",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%90%83%E8%BF%B7%E8%BF%98%E8%83%BD%E7%9C%8B%E5%88%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9B%B4%E6%92%AD%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            12,
+            10,
+            13,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时56分 ~ 20时14分]"
+        },
+        {
+          "title": "嗨不动,网红自嗨锅宣布破产",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354096&amp;topic_name=%E5%97%A8%E4%B8%8D%E5%8A%A8%2C%E7%BD%91%E7%BA%A2%E8%87%AA%E5%97%A8%E9%94%85%E5%AE%A3%E5%B8%83%E7%A0%B4%E4%BA%A7",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            10,
+            11,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时56分 ~ 20时14分]"
         },
         {
           "title": "央视曝光悬空寺景区乱象，黄牛能买到售罄票翻倍加价，黑车司机揽客到落石区拍照，暴露出哪些治理短板？",
@@ -551,6 +602,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时27分 ~ 16时32分]"
+        },
+        {
+          "title": "原神月之七前瞻直播",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E6%9C%88%E4%B9%8B%E4%B8%83%E5%89%8D%E7%9E%BB%E7%9B%B4%E6%92%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "金十图示：2026年05月07日（周四）美股热门股票行情一览（美股收盘）",
@@ -608,17 +670,6 @@
           "time_info": "18时43分"
         },
         {
-          "title": "中国超大型清洁能源船获重大突破",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%B6%85%E5%A4%A7%E5%9E%8B%E6%B8%85%E6%B4%81%E8%83%BD%E6%BA%90%E8%88%B9%E8%8E%B7%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
           "title": "金十图示：2026年05月07日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260508040548175800",
           "source": "金十数据",
@@ -647,51 +698,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
-        },
-        {
-          "title": "阶跃将完成近25亿美元融资：终端产业链资方集体入场，加速筹备赴港IPO",
-          "url": "https://www.cls.cn/detail/2365829",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时56分 ~ 19时22分]"
-        },
-        {
-          "title": "中国大陆球迷还能看到世界杯直播吗",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%90%83%E8%BF%B7%E8%BF%98%E8%83%BD%E7%9C%8B%E5%88%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9B%B4%E6%92%AD%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            12,
-            10,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时56分 ~ 19时22分]"
-        },
-        {
-          "title": "嗨不动,网红自嗨锅宣布破产",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354096&amp;topic_name=%E5%97%A8%E4%B8%8D%E5%8A%A8%2C%E7%BD%91%E7%BA%A2%E8%87%AA%E5%97%A8%E9%94%85%E5%AE%A3%E5%B8%83%E7%A0%B4%E4%BA%A7",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            10,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时56分 ~ 19时22分]"
         },
         {
           "title": "失明员工被公司先免考勤、后要求打卡未告知地点，以旷工开除，法院判赔 20 万，法律该如何保护残疾员工？",
@@ -747,6 +756,18 @@
           "time_info": "[02时28分 ~ 06时07分]"
         },
         {
+          "title": "文成正在直播",
+          "url": "https://flash.jin10.com/detail/20260508192048471800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 20时14分]"
+        },
+        {
           "title": "国际能源署（IEA）署长Birol：IEA迄今仅释放了总石油储备的约20%，如有必要“随时准备再次采取行动”。 加拿大必须确保为其石油生产找到新的出口目的地。 随着各国在伊朗危机后寻求新的能源贸易伙伴，加拿大是一个显而易见的选择。 随着美伊战争持续，市场正步入“波动的深水区”。 一旦美伊战争结束，供应的回归将是渐进的，这将导致市场出现波动。",
           "url": "https://wallstreetcn.com/livenews/3100149",
           "source": "华尔街见闻-快讯",
@@ -769,6 +790,32 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时28分 ~ 18时43分]"
+        },
+        {
+          "title": "重仓韩国芯片股，又跑出一只基金黑马，单日大涨12%",
+          "url": "https://www.cls.cn/detail/2365813",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 20时14分]"
+        },
+        {
+          "title": "券商All in AI要多大财力？IT投入实力较量最新排行榜",
+          "url": "https://www.cls.cn/detail/2365785",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 20时14分]"
         },
         {
           "title": "洛克王国世界本周命定花种攻略",
@@ -808,6 +855,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时02分 ~ 17时28分]"
+        },
+        {
+          "title": "上海一男子旅行刚结束就被送进ICU",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%80%E7%94%B7%E5%AD%90%E6%97%85%E8%A1%8C%E5%88%9A%E7%BB%93%E6%9D%9F%E5%B0%B1%E8%A2%AB%E9%80%81%E8%BF%9BICU",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            24,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 20时14分]"
         },
         {
           "title": "世界杯还能看到直播吗",
@@ -871,31 +932,6 @@
           "time_info": "[11时27分 ~ 11时49分]"
         },
         {
-          "title": "重仓韩国芯片股，又跑出一只基金黑马，单日大涨12%",
-          "url": "https://www.cls.cn/detail/2365813",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 19时22分]"
-        },
-        {
-          "title": "券商All in AI要多大财力？IT投入实力较量最新排行榜",
-          "url": "https://www.cls.cn/detail/2365785",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 19时22分]"
-        },
-        {
           "title": "薛之谦点赞了和刘维的合照",
           "url": "https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E7%82%B9%E8%B5%9E%E4%BA%86%E5%92%8C%E5%88%98%E7%BB%B4%E7%9A%84%E5%90%88%E7%85%A7%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -921,17 +957,42 @@
           "time_info": "[17时28分 ~ 19时22分]"
         },
         {
-          "title": "上海一男子旅行刚结束就被送进ICU",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%80%E7%94%B7%E5%AD%90%E6%97%85%E8%A1%8C%E5%88%9A%E7%BB%93%E6%9D%9F%E5%B0%B1%E8%A2%AB%E9%80%81%E8%BF%9BICU",
+          "title": "中方回应3家中企入选《时代》周刊榜单",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%943%E5%AE%B6%E4%B8%AD%E4%BC%81%E5%85%A5%E9%80%89%E3%80%8A%E6%97%B6%E4%BB%A3%E3%80%8B%E5%91%A8%E5%88%8A%E6%A6%9C%E5%8D%95",
           "source": "百度热搜",
           "ranks": [
-            27,
-            24,
-            20
+            14,
+            25,
+            26
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时28分 ~ 19时22分]"
+          "time_info": "[18时43分 ~ 20时14分]"
+        },
+        {
+          "title": "光谷玻璃硬盘实现量产，360TB、10 万年寿命、成本仅传统 1/10，西数将商售，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035987426468946533",
+          "source": "知乎",
+          "ranks": [
+            20,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时43分 ~ 20时14分]"
+        },
+        {
+          "title": "学校职工自曝吃空饷，太原通报：追究相关人员责任，正依法追回工资薪酬",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33122565",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时43分 ~ 20时14分]"
         },
         {
           "title": "提醒：日内请重点关注（以下均为北京时间）",
@@ -966,6 +1027,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时27分 ~ 11时49分]"
+        },
+        {
+          "title": "三星家电撤离中国大陆市场“真相”",
+          "url": "https://news.ifeng.com/c/8sxXPnxhIHI",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 20时14分]"
         },
         {
           "title": "深成指、创业板指均跌超1%，科创50指数跌超3%，沪指跌0.59%，半导体、风电设备、电池、小金属等方向跌幅居前，沪深京三市下跌个股近2700只。",
@@ -1025,30 +1098,6 @@
           "time_info": "[15时56分 ~ 16时32分]"
         },
         {
-          "title": "中方回应3家中企入选《时代》周刊榜单",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%943%E5%AE%B6%E4%B8%AD%E4%BC%81%E5%85%A5%E9%80%89%E3%80%8A%E6%97%B6%E4%BB%A3%E3%80%8B%E5%91%A8%E5%88%8A%E6%A6%9C%E5%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 19时22分]"
-        },
-        {
-          "title": "光谷玻璃硬盘实现量产，360TB、10 万年寿命、成本仅传统 1/10，西数将商售，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2035987426468946533",
-          "source": "知乎",
-          "ranks": [
-            20,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 19时22分]"
-        },
-        {
           "title": "周四（5月7日），美联储隔夜逆回购协议（RRP）使用规模为7.73亿美元（交易对手6家），上个交易日报16.33亿美元。",
           "url": "https://wallstreetcn.com/livenews/3100135",
           "source": "华尔街见闻-快讯",
@@ -1059,6 +1108,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时28分 ~ 02时51分]"
+        },
+        {
+          "title": "上交所：本周对*ST正平等异常波动退市风险警示股票、国晟科技等波动幅度较大的股票以及全球芯片LOF等溢价较高的基金进行重点监控。",
+          "url": "https://wallstreetcn.com/livenews/3100650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 20时14分]"
         },
         {
           "title": "微胖女生夏季穿搭测评",
@@ -1073,16 +1134,16 @@
           "time_info": "[16时32分 ~ 17时28分]"
         },
         {
-          "title": "学校职工自曝吃空饷，太原通报：追究相关人员责任，正依法追回工资薪酬",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33122565",
-          "source": "澎湃新闻",
+          "title": "沪硅产业：国家大基金5月6日至5月8日减持1630.3万股 持股比例降至15%",
+          "url": "https://wallstreetcn.com/livenews/3100643",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            19
+            21,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时43分 ~ 19时22分]"
+          "time_info": "[19时22分 ~ 20时14分]"
         },
         {
           "title": "迈过2021年高点，偏股混合型基金指数创历史新高",
@@ -1127,6 +1188,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时57分 ~ 07时59分]"
+        },
+        {
+          "title": "酒店回应住客晾衣致水漫房间",
+          "url": "https://www.toutiao.com/trending/7637412832841203721/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 20时14分]"
         },
         {
           "title": "英伟达获得了一项五年期认购权，可以每股70美元的价格购买IREN最多3000万股股票，这意味着英伟达有权向IREN投资至多21亿美元。",
@@ -1184,15 +1257,15 @@
           "time_info": "11时49分"
         },
         {
-          "title": "三星家电撤离中国大陆市场“真相”",
-          "url": "https://news.ifeng.com/c/8sxXPnxhIHI",
-          "source": "凤凰网",
+          "title": "外国人为了去中国的机票battle中文",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E5%9B%BD%E4%BA%BA%E4%B8%BA%E4%BA%86%E5%8E%BB%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%9C%BA%E7%A5%A8battle%E4%B8%AD%E6%96%87",
+          "source": "bilibili 热搜",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时22分"
+          "time_info": "20时14分"
         },
         {
           "title": "通富微电：国家集成电路产业投资基金减持0.71%至持股5.97%，触及1%整数倍",
@@ -1250,6 +1323,17 @@
           "time_info": "18时43分"
         },
         {
+          "title": "顺丰控股：控股子公司深圳同城认缴出资2.13亿元参与设立基金",
+          "url": "https://flash.jin10.com/detail/20260508192649060800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
           "title": "沙特主权财富基金PIF为70亿美元三部分债券的发行给出最终条款。（IFR）",
           "url": "https://wallstreetcn.com/livenews/3100113",
           "source": "华尔街见闻-快讯",
@@ -1305,6 +1389,28 @@
           "time_info": "02时28分"
         },
         {
+          "title": "国外骑行男子挑衅车辆后举手投降",
+          "url": "https://www.toutiao.com/trending/7637186823000932394/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
+          "title": "探秘怨灵2取景酒店",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8E%A2%E7%A7%98%E6%80%A8%E7%81%B52%E5%8F%96%E6%99%AF%E9%85%92%E5%BA%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
           "title": "商务部：一季度旅行服务出口1053.5亿元，增长32.3%",
           "url": "https://wallstreetcn.com/livenews/3100602",
           "source": "华尔街见闻-快讯",
@@ -1336,17 +1442,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
-        },
-        {
-          "title": "上交所：本周对*ST正平等异常波动退市风险警示股票、国晟科技等波动幅度较大的股票以及全球芯片LOF等溢价较高的基金进行重点监控。",
-          "url": "https://wallstreetcn.com/livenews/3100650",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
         },
         {
           "title": "欧洲央行执委施纳贝尔：如果能源成本上涨被转嫁到物价上，或者工资随之上涨，那就是货币政策必须采取行动的信号。",
@@ -1435,17 +1530,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
-        },
-        {
-          "title": "沪硅产业：国家大基金5月6日至5月8日减持1630.3万股 持股比例降至15%",
-          "url": "https://wallstreetcn.com/livenews/3100643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
         },
         {
           "title": "5月7日芝加哥商业交易所（CME）金属类商品成交量报告已在金十数据中心更新！欢迎点击查看",
@@ -1556,17 +1640,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
-        },
-        {
-          "title": "酒店回应住客晾衣致水漫房间",
-          "url": "https://www.toutiao.com/trending/7637412832841203721/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "创业板指拉升翻红，开盘一度跌超1%。",
