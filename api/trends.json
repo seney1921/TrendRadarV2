@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T08:05:44.387886+08:00",
-  "total_titles_processed": 683,
+  "generated_at": "2026-05-09T11:52:25.773957+08:00",
+  "total_titles_processed": 898,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 56,
+      "match_count": 71,
       "titles": [
         {
           "title": "解放军报评论员：坚持有腐必反、有贪必肃",
@@ -63,11 +63,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 08时05分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 11时52分]"
         },
         {
           "title": "网友偶遇「全李酒店」，以为被大风吹掉一撇，酒店称曾名为「全季酒店」，目前已不合作，酒店这种做法合规吗？",
@@ -147,18 +148,6 @@
           "time_info": "[00时21分 ~ 08时05分]"
         },
         {
-          "title": "红蓝按钮大挑战,吧友吵翻了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354085&amp;topic_name=%E7%BA%A2%E8%93%9D%E6%8C%89%E9%92%AE%E5%A4%A7%E6%8C%91%E6%88%98%2C%E5%90%A7%E5%8F%8B%E5%90%B5%E7%BF%BB%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 08时05分]"
-        },
-        {
           "title": "直播丨上海博物馆“世界树之巅：美洲古代文明大展”推介会",
           "url": "https://m.thepaper.cn/newsDetail_forward_33107875",
           "source": "澎湃新闻",
@@ -166,11 +155,25 @@
             18,
             17,
             14,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 08时05分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 11时52分]"
+        },
+        {
+          "title": "红蓝按钮大挑战,吧友吵翻了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354085&amp;topic_name=%E7%BA%A2%E8%93%9D%E6%8C%89%E9%92%AE%E5%A4%A7%E6%8C%91%E6%88%98%2C%E5%90%A7%E5%8F%8B%E5%90%B5%E7%BF%BB%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 11时52分]"
         },
         {
           "title": "嗨不动,网红自嗨锅宣布破产",
@@ -178,11 +181,12 @@
           "source": "贴吧",
           "ranks": [
             14,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 08时05分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 11时52分]"
         },
         {
           "title": "股票到底是什么",
@@ -201,11 +205,12 @@
           "source": "贴吧",
           "ranks": [
             21,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 08时05分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 11时52分]"
         },
         {
           "title": "运营碾压,NIP零封完虐AL",
@@ -220,6 +225,22 @@
           "time_info": "[00时21分 ~ 08时05分]"
         },
         {
+          "title": "外国人为了去中国的机票battle中文",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E5%9B%BD%E4%BA%BA%E4%B8%BA%E4%BA%86%E5%8E%BB%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%9C%BA%E7%A5%A8battle%E4%B8%AD%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            9,
+            8,
+            13,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[04时11分 ~ 11时52分]"
+        },
+        {
           "title": "美联储报告：对冲基金杠杆率仍处于历史高位附近，且主要集中在少数几家大型基金中。",
           "url": "https://flash.jin10.com/detail/20260509040241766800",
           "source": "金十数据",
@@ -232,30 +253,29 @@
           "time_info": "[04时11分 ~ 08时05分]"
         },
         {
-          "title": "外国人为了去中国的机票battle中文",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E5%9B%BD%E4%BA%BA%E4%B8%BA%E4%BA%86%E5%8E%BB%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%9C%BA%E7%A5%A8battle%E4%B8%AD%E6%96%87",
-          "source": "bilibili 热搜",
+          "title": "“潦草小狗”延迟退场：新晋“城市IP”如何跃入人心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33122507",
+          "source": "澎湃新闻",
           "ranks": [
-            23,
-            9,
-            8,
-            13,
-            14
+            20,
+            18,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时11分 ~ 08时05分]"
+          "appearance_count": 5,
+          "time_info": "[06时59分 ~ 11时52分]"
         },
         {
           "title": "外交部发言人毛宁点赞无人行李箱墙",
           "url": "https://www.toutiao.com/trending/7637545120350486570/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 08时05分]"
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 11时52分]"
         },
         {
           "title": "周五（5月8日），美联储隔夜逆回购协议（RRP）使用规模为7.87亿美元（交易对手5家），上个交易日报7.73亿美元。",
@@ -293,6 +313,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "盘点3个微表情见证活力中国",
+          "url": "https://www.douyin.com/hot/2492990",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
+        },
+        {
+          "title": "“精神病院炒股，成A股公司前十大股东”，最新回应",
+          "url": "https://www.cls.cn/detail/2366667",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
+        },
+        {
+          "title": "小孩哥拿石头砸滑梯 全网点赞",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E5%93%A5%E6%8B%BF%E7%9F%B3%E5%A4%B4%E7%A0%B8%E6%BB%91%E6%A2%AF+%E5%85%A8%E7%BD%91%E7%82%B9%E8%B5%9E",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
+        },
+        {
+          "title": "世卫组织更新邮轮疫情数据",
+          "url": "https://www.douyin.com/hot/2492884",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
         },
         {
           "title": "美食炸弹河南篇",
@@ -399,18 +463,6 @@
           "time_info": "[04时11分 ~ 05时09分]"
         },
         {
-          "title": "“潦草小狗”延迟退场：新晋“城市IP”如何跃入人心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33122507",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时59分 ~ 08时05分]"
-        },
-        {
           "title": "李现给张婧仪拍照",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E7%BB%99%E5%BC%A0%E5%A9%A7%E4%BB%AA%E6%8B%8D%E7%85%A7%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -475,6 +527,18 @@
           "time_info": "[08时01分 ~ 08时05分]"
         },
         {
+          "title": "女子月租10万住酒店退租被要磨损费",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%9C%88%E7%A7%9F10%E4%B8%87%E4%BD%8F%E9%85%92%E5%BA%97%E9%80%80%E7%A7%9F%E8%A2%AB%E8%A6%81%E7%A3%A8%E6%8D%9F%E8%B4%B9",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 11时52分]"
+        },
+        {
           "title": "李金铭全平台停更",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%87%91%E9%93%AD%E5%85%A8%E5%B9%B3%E5%8F%B0%E5%81%9C%E6%9B%B4%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -496,6 +560,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时04分 ~ 06时59分]"
+        },
+        {
+          "title": "毛宁点赞无人行李箱墙",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%9B%E5%AE%81%E7%82%B9%E8%B5%9E%E6%97%A0%E4%BA%BA%E8%A1%8C%E6%9D%8E%E7%AE%B1%E5%A2%99",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 11时52分]"
         },
         {
           "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
@@ -533,15 +609,26 @@
           "time_info": "[01时24分 ~ 02时15分]"
         },
         {
-          "title": "女子月租10万住酒店退租被要磨损费",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%9C%88%E7%A7%9F10%E4%B8%87%E4%BD%8F%E9%85%92%E5%BA%97%E9%80%80%E7%A7%9F%E8%A2%AB%E8%A6%81%E7%A3%A8%E6%8D%9F%E8%B4%B9",
-          "source": "百度热搜",
+          "title": "uzi直播哭惨,热度彻底凉透",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354115&amp;topic_name=uzi%E7%9B%B4%E6%92%AD%E5%93%AD%E6%83%A8%2C%E7%83%AD%E5%BA%A6%E5%BD%BB%E5%BA%95%E5%87%89%E9%80%8F",
+          "source": "贴吧",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时05分"
+          "time_info": "11时52分"
+        },
+        {
+          "title": "酒店的KPI正在偷走你的安全感",
+          "url": "https://www.toutiao.com/trending/7637695138994621978/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
         },
         {
           "title": "法庭文件显示，特朗普就关税问题最新败诉提起上诉。",
@@ -553,6 +640,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
+        },
+        {
+          "title": "美国国防部发布有关UFO的新文件 称公众可自行判断真相",
+          "url": "https://www.cls.cn/detail/2366578",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
+        },
+        {
+          "title": "创业板跌近1%，芯片半导体集体调整，机器人逆势爆发，恒指跌近1%，科网股多跌，快手涨超9%",
+          "url": "https://wallstreetcn.com/articles/3771807",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
         },
         {
           "title": "美联储古尔斯比：当价格压力加剧时，我们必须关注通胀率。",
@@ -588,15 +697,37 @@
           "time_info": "00时22分"
         },
         {
-          "title": "毛宁点赞无人行李箱墙",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%9B%E5%AE%81%E7%82%B9%E8%B5%9E%E6%97%A0%E4%BA%BA%E8%A1%8C%E6%9D%8E%E7%AE%B1%E5%A2%99",
-          "source": "百度热搜",
+          "title": "欧洲投资者也在“往光里挤” 两只瑞士光通信股票成为新宠",
+          "url": "https://www.cls.cn/detail/2366608",
+          "source": "财联社热门",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时05分"
+          "time_info": "11时52分"
+        },
+        {
+          "title": "网红牛散“鑫多多”陷争议，10倍“妖股”国晟科技游资魅影重重",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33124269",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
+        },
+        {
+          "title": "动物缘好是种什么样的体验?",
+          "url": "https://www.zhihu.com/question/51201174",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
         },
         {
           "title": "据德黑兰时报：伊朗外长和土耳其外长举行了电话会谈，讨论了该地区的最新局势。",
@@ -608,6 +739,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "摆脱传统试错模式，“90后”创业者用AI解决化工研发痛点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33120610",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
         },
         {
           "title": "据伊朗Press TV：伊朗外长阿拉格奇与英国外交大臣库珀通电话，就地区最新局势发展进行了讨论，并交换了意见。",
@@ -663,6 +805,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "产品线调整，百亿基金经理刘彦春增聘基金经理",
+          "url": "https://wallstreetcn.com/livenews/3100985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
+        },
+        {
+          "title": "想抹黑中国？BBC又翻车了",
+          "url": "https://www.baidu.com/s?wd=%E6%83%B3%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD%EF%BC%9FBBC%E5%8F%88%E7%BF%BB%E8%BD%A6%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
+        },
+        {
+          "title": "尚界Z7挑战世界落差最高山路",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%9A%E7%95%8CZ7%E6%8C%91%E6%88%98%E4%B8%96%E7%95%8C%E8%90%BD%E5%B7%AE%E6%9C%80%E9%AB%98%E5%B1%B1%E8%B7%AF%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
         },
         {
           "title": "三角洲cc语音彩蛋攻略",
