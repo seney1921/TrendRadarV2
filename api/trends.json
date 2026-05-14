@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T03:52:15.750296+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2026-05-15T03:59:01.012598+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "中美元首举行会谈，有哪些信息值得关注？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 03时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 03时59分]"
         },
         {
           "title": "特朗普访华欢迎宴会，都有哪些看点值得关注？",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 03时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 03时59分]"
         },
         {
           "title": "华强买瓜真相揭露,观众没记错",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 03时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 03时59分]"
         },
         {
           "title": "网友相信豆包「机票退票只扣 5% 手续费」，退票后发现与实际不符遂起诉字节，AI 该为传达错误信息担责吗？",
@@ -49,8 +49,30 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 03时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 03时59分]"
+        },
+        {
+          "title": "地平线6首发评测报告",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%B0%E5%B9%B3%E7%BA%BF6%E9%A6%96%E5%8F%91%E8%AF%84%E6%B5%8B%E6%8A%A5%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 03时59分]"
+        },
+        {
+          "title": "英国卫生和社会福利大臣宣布辞职",
+          "url": "https://news.ifeng.com/c/8t7tzDD6JmE",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 03时59分]"
         },
         {
           "title": "周四（5月14日），美联储隔夜逆回购协议（RRP）使用规模为20.34亿美元（交易对手8家），上个交易日报11.99亿美元。",
@@ -61,30 +83,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 03时52分]"
-        },
-        {
-          "title": "地平线6首发评测报告",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%B0%E5%B9%B3%E7%BA%BF6%E9%A6%96%E5%8F%91%E8%AF%84%E6%B5%8B%E6%8A%A5%E5%91%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时56分 ~ 03时52分]"
-        },
-        {
-          "title": "英国卫生和社会福利大臣宣布辞职",
-          "url": "https://news.ifeng.com/c/8t7tzDD6JmE",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 03时52分]"
+          "time_info": "[01时56分 ~ 03时59分]"
         },
         {
           "title": "反复提示溢价风险意味着什么？5月来35只基金有动作",
@@ -94,8 +94,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 03时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 03时59分]"
         },
         {
           "title": "评论员：台积电独霸时代结束",
@@ -106,8 +106,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 03时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 03时59分]"
         },
         {
           "title": "下午3点半，员工厕所“爆满”，大家都在看股票账户！韩国股市暴涨，散户疯狂涌入，全国人口5100万，活跃股票账户超1亿",
@@ -118,8 +118,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 03时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 03时59分]"
         },
         {
           "title": "【焦点复盘】创业板指、科创50双双跌逾2%，AI硬件股分歧加剧，光伏概念逆势活跃",
@@ -129,8 +129,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 03时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 03时59分]"
         },
         {
           "title": "美记者在北京体验中国科技",
@@ -140,8 +140,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 03时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 03时59分]"
         },
         {
           "title": "徐志胜疯狂暗示方媛不太方便",
@@ -151,8 +151,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 03时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 03时59分]"
         },
         {
           "title": "mlxg放弃直播,自曝9W还不起",
@@ -162,8 +162,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 03时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 03时59分]"
         },
         {
           "title": "半壶纱翻唱挑战",
@@ -174,8 +174,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 03时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 03时59分]"
         },
         {
           "title": "程十安改名姜乘澜回归",
@@ -186,8 +186,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 03时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 03时59分]"
         },
         {
           "title": "三角洲行动更新公告",
@@ -198,8 +198,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 03时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 03时59分]"
         },
         {
           "title": "带何润东哥自律一天什么体验",
@@ -210,8 +210,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 03时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 03时59分]"
         },
         {
           "title": "外卖新规:没贴封签可拒收",
@@ -221,8 +221,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 03时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 03时59分]"
         },
         {
           "title": "美国总统特朗普开始对中国进行国事访问，有哪些信息值得关注？",
@@ -232,8 +232,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 03时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 03时59分]"
         },
         {
           "title": "洛克王国世界S2赛季最新PV",
@@ -244,8 +244,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 03时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 03时59分]"
         },
         {
           "title": "徐志胜疯狂暗示方媛不太方便",
@@ -255,8 +255,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 03时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 03时59分]"
         },
         {
           "title": "数节拍手势挑战",
@@ -267,8 +267,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 03时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 03时59分]"
         },
         {
           "title": "官方认证的短剧片单含金量",
@@ -278,8 +278,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 03时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 03时59分]"
         },
         {
           "title": "现场直播!吧友声讨神人舍友",
@@ -289,8 +289,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 03时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 03时59分]"
         },
         {
           "title": "JUMP总编怒喷热门漫画拉垮",
@@ -300,8 +300,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 03时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 03时59分]"
         },
         {
           "title": "Cerebras美国IPO首日高开将近90%",
@@ -312,8 +312,19 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[01时56分 ~ 03时59分]"
+        },
+        {
+          "title": "女子花 1880 元办不限次数瑜伽季卡，连上 20 多天被教练踢出群聊，此举是否合理？",
+          "url": "https://www.zhihu.com/question/2037438839103426671",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时51分 ~ 03时59分]"
         },
         {
           "title": "新华社评论员：锚定中美关系新定位，共同书写时代答卷",
@@ -324,8 +335,30 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[01时56分 ~ 03时59分]"
+        },
+        {
+          "title": "曾沛慈练舞花絮终于来了",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BE%E6%B2%9B%E6%85%88%E7%BB%83%E8%88%9E%E8%8A%B1%E7%B5%AE%E7%BB%88%E4%BA%8E%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时51分 ~ 03时59分]"
+        },
+        {
+          "title": "情侣版不倒翁挑战",
+          "url": "https://www.douyin.com/hot/2498108",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时51分 ~ 03时59分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了8个对手方的20.34亿美元。",
@@ -339,15 +372,28 @@
           "time_info": "[01时56分 ~ 01时59分]"
         },
         {
-          "title": "女子花 1880 元办不限次数瑜伽季卡，连上 20 多天被教练踢出群聊，此举是否合理？",
-          "url": "https://www.zhihu.com/question/2037438839103426671",
-          "source": "知乎",
+          "title": "伊朗外长阿拉格齐：我们早已习惯敌人的这些威胁。他们长期以来以各种形式和方法重复着威胁，但他们自己清楚，从这些威胁甚至是从他们发动的战争中，他们一无所获，今后也不会有所得。",
+          "url": "https://flash.jin10.com/detail/20260515022055760800",
+          "source": "金十数据",
           "ranks": [
-            10
+            12,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
+          "time_info": "[03时52分 ~ 03时59分]"
+        },
+        {
+          "title": "斯塔默对英国卫生和社会福利大臣辞职表遗憾",
+          "url": "https://flash.jin10.com/detail/20260515021720164800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时52分 ~ 03时59分]"
         },
         {
           "title": "英镑/美元日内跌幅达0.5%，报1.3454。英国议员Josh Simons将辞职，意味着Andy Burnham将寻求复出。",
@@ -383,17 +429,6 @@
           "time_info": "[01时56分 ~ 01时59分]"
         },
         {
-          "title": "曾沛慈练舞花絮终于来了",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BE%E6%B2%9B%E6%85%88%E7%BB%83%E8%88%9E%E8%8A%B1%E7%B5%AE%E7%BB%88%E4%BA%8E%E6%9D%A5%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
-        },
-        {
           "title": "霍尔木兹海峡原油流量小幅回升，更多超级油轮驶离",
           "url": "https://wallstreetcn.com/livenews/3103820",
           "source": "华尔街见闻-快讯",
@@ -405,37 +440,15 @@
           "time_info": "[01时56分 ~ 01时59分]"
         },
         {
-          "title": "情侣版不倒翁挑战",
-          "url": "https://www.douyin.com/hot/2498108",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：我们早已习惯敌人的这些威胁。他们长期以来以各种形式和方法重复着威胁，但他们自己清楚，从这些威胁甚至是从他们发动的战争中，他们一无所获，今后也不会有所得。",
-          "url": "https://flash.jin10.com/detail/20260515022055760800",
+          "title": "委内瑞拉央行代理行长：即将前往华盛顿，和国际货币基金组织开展相关会面磋商。",
+          "url": "https://flash.jin10.com/detail/20260515032942131800",
           "source": "金十数据",
           "ranks": [
-            12
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时52分"
-        },
-        {
-          "title": "斯塔默对英国卫生和社会福利大臣辞职表遗憾",
-          "url": "https://flash.jin10.com/detail/20260515021720164800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时52分"
+          "time_info": "03时59分"
         },
         {
           "title": "伊朗外交部：外长阿拉格奇与俄罗斯外长拉夫罗夫会晤，双方讨论并回顾了德黑兰与莫斯科在政治、能源、交通及地区合作领域的合作情况。双方还就西亚地区的最新发展及与伊朗核问题相关的谈判交换了意见。",
@@ -444,7 +457,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         }
