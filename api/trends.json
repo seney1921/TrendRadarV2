@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T20:58:49.850039+08:00",
-  "total_titles_processed": 1451,
+  "generated_at": "2026-05-14T23:23:52.015992+08:00",
+  "total_titles_processed": 1593,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 140,
+      "match_count": 154,
       "titles": [
         {
           "title": "保洁离职前写千字辞职信：是退休教师",
@@ -17,20 +17,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时11分 ~ 08时08分]"
-        },
-        {
-          "title": "美国总统特朗普开始对中国进行国事访问，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2037998600785850525",
-          "source": "知乎",
-          "ranks": [
-            7,
-            1,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时05分 ~ 20时58分]"
         },
         {
           "title": "美国4月PPI同比飙升6% 创2022年以来最大增幅",
@@ -46,19 +32,19 @@
           "time_info": "[00时11分 ~ 08时08分]"
         },
         {
-          "title": "现场直播!吧友声讨神人舍友",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354257&amp;topic_name=%E7%8E%B0%E5%9C%BA%E7%9B%B4%E6%92%AD%21%E5%90%A7%E5%8F%8B%E5%A3%B0%E8%AE%A8%E7%A5%9E%E4%BA%BA%E8%88%8D%E5%8F%8B",
-          "source": "贴吧",
+          "title": "美国总统特朗普开始对中国进行国事访问，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2037998600785850525",
+          "source": "知乎",
           "ranks": [
+            7,
+            1,
+            2,
             4,
-            5,
-            11,
-            18,
-            22
+            15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时11分 ~ 20时58分]"
+          "appearance_count": 11,
+          "time_info": "[08时05分 ~ 23时23分]"
         },
         {
           "title": "女子花 1880 元办不限次数瑜伽季卡，连上 20 多天被教练踢出群聊，此举是否合理？",
@@ -74,6 +60,36 @@
           "time_info": "[08时05分 ~ 20时58分]"
         },
         {
+          "title": "现场直播!吧友声讨神人舍友",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354257&amp;topic_name=%E7%8E%B0%E5%9C%BA%E7%9B%B4%E6%92%AD%21%E5%90%A7%E5%8F%8B%E5%A3%B0%E8%AE%A8%E7%A5%9E%E4%BA%BA%E8%88%8D%E5%8F%8B",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            11,
+            18,
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时11分 ~ 23时23分]"
+        },
+        {
+          "title": "mlxg放弃直播,自曝9W还不起",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354263&amp;topic_name=mlxg%E6%94%BE%E5%BC%83%E7%9B%B4%E6%92%AD%2C%E8%87%AA%E6%9B%9D9W%E8%BF%98%E4%B8%8D%E8%B5%B7",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            5,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时49分 ~ 23时23分]"
+        },
+        {
           "title": "直播丨习近平同美国总统特朗普举行会谈",
           "url": "https://m.thepaper.cn/newsDetail_forward_33174728",
           "source": "澎湃新闻",
@@ -85,17 +101,15 @@
           "time_info": "[12时49分 ~ 18时26分]"
         },
         {
-          "title": "mlxg放弃直播,自曝9W还不起",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354263&amp;topic_name=mlxg%E6%94%BE%E5%BC%83%E7%9B%B4%E6%92%AD%2C%E8%87%AA%E6%9B%9D9W%E8%BF%98%E4%B8%8D%E8%B5%B7",
-          "source": "贴吧",
+          "title": "中美元首举行会谈，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2038210796468098494",
+          "source": "知乎",
           "ranks": [
-            2,
-            5,
-            10
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时49分 ~ 20时58分]"
+          "appearance_count": 6,
+          "time_info": "[15时46分 ~ 23时23分]"
         },
         {
           "title": "宇宙中为何没有文明进化到可以星际旅行，通过虫洞找到我们？",
@@ -150,17 +164,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时11分 ~ 08时08分]"
-        },
-        {
-          "title": "中美元首举行会谈，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2038210796468098494",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时46分 ~ 20时58分]"
         },
         {
           "title": "Hello girl卡点挑战",
@@ -234,8 +237,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时11分 ~ 20时58分]"
+          "appearance_count": 18,
+          "time_info": "[00时11分 ~ 23时23分]"
         },
         {
           "title": "带何润东哥自律一天什么体验",
@@ -250,8 +253,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时11分 ~ 20时58分]"
+          "appearance_count": 17,
+          "time_info": "[00时11分 ~ 23时23分]"
         },
         {
           "title": "BLG粉丝喊wei涅槃被清算",
@@ -327,6 +330,38 @@
           "time_info": "[00时11分 ~ 08时08分]"
         },
         {
+          "title": "程十安改名姜乘澜回归",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A8%8B%E5%8D%81%E5%AE%89%E6%94%B9%E5%90%8D%E5%A7%9C%E4%B9%98%E6%BE%9C%E5%9B%9E%E5%BD%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            17,
+            15,
+            16,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时49分 ~ 23时23分]"
+        },
+        {
+          "title": "情侣版不倒翁挑战",
+          "url": "https://www.douyin.com/hot/2498108",
+          "source": "抖音",
+          "ranks": [
+            13,
+            10,
+            15,
+            18,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时49分 ~ 23时23分]"
+        },
+        {
           "title": "九华山有人露营去世致封山系谣言",
           "url": "https://www.baidu.com/s?wd=%E4%B9%9D%E5%8D%8E%E5%B1%B1%E6%9C%89%E4%BA%BA%E9%9C%B2%E8%90%A5%E5%8E%BB%E4%B8%96%E8%87%B4%E5%B0%81%E5%B1%B1%E7%B3%BB%E8%B0%A3%E8%A8%80",
           "source": "百度热搜",
@@ -338,34 +373,19 @@
           "time_info": "[00时11分 ~ 08时08分]"
         },
         {
-          "title": "程十安改名姜乘澜回归",
-          "url": "https://search.bilibili.com/all?keyword=%E7%A8%8B%E5%8D%81%E5%AE%89%E6%94%B9%E5%90%8D%E5%A7%9C%E4%B9%98%E6%BE%9C%E5%9B%9E%E5%BD%92",
+          "title": "洛克王国世界S2赛季最新PV",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD%E4%B8%96%E7%95%8CS2%E8%B5%9B%E5%AD%A3%E6%9C%80%E6%96%B0PV",
           "source": "bilibili 热搜",
           "ranks": [
-            8,
-            17,
-            15,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时49分 ~ 20时58分]"
-        },
-        {
-          "title": "情侣版不倒翁挑战",
-          "url": "https://www.douyin.com/hot/2498108",
-          "source": "抖音",
-          "ranks": [
+            12,
             13,
-            10,
-            15,
-            18,
-            16
+            14,
+            11,
+            19
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[12时49分 ~ 20时58分]"
+          "time_info": "[12时49分 ~ 23时23分]"
         },
         {
           "title": "特朗普团队抵达下榻酒店",
@@ -396,6 +416,32 @@
           "time_info": "[00时11分 ~ 08时08分]"
         },
         {
+          "title": "华强买瓜真相揭露,观众没记错",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354285&amp;topic_name=%E5%8D%8E%E5%BC%BA%E4%B9%B0%E7%93%9C%E7%9C%9F%E7%9B%B8%E6%8F%AD%E9%9C%B2%2C%E8%A7%82%E4%BC%97%E6%B2%A1%E8%AE%B0%E9%94%99",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时29分 ~ 23时23分]"
+        },
+        {
+          "title": "网友相信豆包「机票退票只扣 5% 手续费」，退票后发现与实际不符遂起诉字节，AI 该为传达错误信息担责吗？",
+          "url": "https://www.zhihu.com/question/2037926535315677917",
+          "source": "知乎",
+          "ranks": [
+            15,
+            12,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时46分 ~ 23时23分]"
+        },
+        {
           "title": "偷税超900万被查的网红白冰：前员工坑我几千万，还要把我送进去",
           "url": "https://news.ifeng.com/c/8t63jd7c4F9",
           "source": "凤凰网",
@@ -405,6 +451,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时11分 ~ 06时17分]"
+        },
+        {
+          "title": "半壶纱翻唱挑战",
+          "url": "https://www.douyin.com/hot/2498067",
+          "source": "抖音",
+          "ranks": [
+            5,
+            8,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时46分 ~ 23时23分]"
         },
         {
           "title": "直播丨习近平举行仪式欢迎美国总统特朗普访华并举行会谈",
@@ -427,20 +487,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时49分 ~ 12时52分]"
-        },
-        {
-          "title": "洛克王国世界S2赛季最新PV",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD%E4%B8%96%E7%95%8CS2%E8%B5%9B%E5%AD%A3%E6%9C%80%E6%96%B0PV",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            13,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时49分 ~ 20时58分]"
         },
         {
           "title": "男子受雇开挖掘机修路遇塌方坠亡，贵州涉事社区：口头雇佣不担责",
@@ -501,19 +547,6 @@
           "time_info": "[08时05分 ~ 08时08分]"
         },
         {
-          "title": "半壶纱翻唱挑战",
-          "url": "https://www.douyin.com/hot/2498067",
-          "source": "抖音",
-          "ranks": [
-            5,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时46分 ~ 20时58分]"
-        },
-        {
           "title": "《奔跑吧》被质疑收视率低迷，官方账号 24 小时连发 8 条榜单数据，自证「全网第一」，有多少含金量？",
           "url": "https://www.zhihu.com/question/2036818549134419034",
           "source": "知乎",
@@ -535,31 +568,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时05分 ~ 08时08分]"
-        },
-        {
-          "title": "华强买瓜真相揭露,观众没记错",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354285&amp;topic_name=%E5%8D%8E%E5%BC%BA%E4%B9%B0%E7%93%9C%E7%9C%9F%E7%9B%B8%E6%8F%AD%E9%9C%B2%2C%E8%A7%82%E4%BC%97%E6%B2%A1%E8%AE%B0%E9%94%99",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时29分 ~ 20时58分]"
-        },
-        {
-          "title": "网友相信豆包「机票退票只扣 5% 手续费」，退票后发现与实际不符遂起诉字节，AI 该为传达错误信息担责吗？",
-          "url": "https://www.zhihu.com/question/2037926535315677917",
-          "source": "知乎",
-          "ranks": [
-            15,
-            12,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时46分 ~ 20时58分]"
         },
         {
           "title": "提醒：日内请重点关注（以下均为北京时间）",
@@ -605,9 +613,33 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
+        },
+        {
+          "title": "Anthropic公司与盖茨基金会达成2亿美元的合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3103808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
+          "title": "外卖新规:没贴封签可拒收",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354279&amp;topic_name=%E5%A4%96%E5%8D%96%E6%96%B0%E8%A7%84%3A%E6%B2%A1%E8%B4%B4%E5%B0%81%E7%AD%BE%E5%8F%AF%E6%8B%92%E6%94%B6",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时46分 ~ 23时23分]"
         },
         {
           "title": "00后靠“上门做饭”打开新赛道",
@@ -635,6 +667,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时49分 ~ 18时26分]"
+        },
+        {
+          "title": "特朗普访华欢迎宴会，都有哪些看点值得关注？",
+          "url": "https://www.zhihu.com/question/2038333650341557719",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "美联储柯林斯：每位美联储主席都有自己的方法和视角，这很有价值。",
@@ -665,7 +708,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -676,9 +719,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
+        },
+        {
+          "title": "国际货币基金组织（IMF）：预计执行董事会将在未来几周内审议与斯里兰卡的职员级协议。 一旦董事会批准审议，斯里兰卡将可以从其扩展基金便利（EFF）下获得约7亿美元的资金。",
+          "url": "https://wallstreetcn.com/livenews/3103804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "六公主直播放《功夫熊猫》",
@@ -690,6 +744,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
+        },
+        {
+          "title": "美记者在北京体验中国科技",
+          "url": "https://www.douyin.com/hot/2498543",
+          "source": "抖音",
+          "ranks": [
+            6,
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时23分 ~ 23时23分]"
         },
         {
           "title": "面试当天被带上手术台整容",
@@ -726,18 +793,6 @@
           "time_info": "[08时05分 ~ 12时52分]"
         },
         {
-          "title": "外卖新规:没贴封签可拒收",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354279&amp;topic_name=%E5%A4%96%E5%8D%96%E6%96%B0%E8%A7%84%3A%E6%B2%A1%E8%B4%B4%E5%B0%81%E7%AD%BE%E5%8F%AF%E6%8B%92%E6%94%B6",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时46分 ~ 20时58分]"
-        },
-        {
           "title": "给阿嬷的情书隐藏细节解说",
           "url": "https://www.douyin.com/hot/2497133",
           "source": "抖音",
@@ -752,16 +807,17 @@
           "time_info": "[00时11分 ~ 03时01分]"
         },
         {
-          "title": "美记者在北京体验中国科技",
-          "url": "https://www.douyin.com/hot/2498543",
+          "title": "数节拍手势挑战",
+          "url": "https://www.douyin.com/hot/2498702",
           "source": "抖音",
           "ranks": [
-            6,
-            7
+            12,
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时23分 ~ 20时58分]"
+          "appearance_count": 5,
+          "time_info": "[18时23分 ~ 23时23分]"
         },
         {
           "title": "英国卫生大臣斯特里廷辞职。",
@@ -800,6 +856,18 @@
           "time_info": "[20时29分 ~ 20时58分]"
         },
         {
+          "title": "徐志胜疯狂暗示方媛不太方便",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BF%97%E8%83%9C%E7%96%AF%E7%8B%82%E6%9A%97%E7%A4%BA%E6%96%B9%E5%AA%9B%E4%B8%8D%E5%A4%AA%E6%96%B9%E4%BE%BF%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 23时23分]"
+        },
+        {
           "title": "据知情人士透露，人工智能芯片制造商Cerebras Systems预计将把其美国IPO定价定为每股185美元。",
           "url": "https://flash.jin10.com/detail/20260514041527500800",
           "source": "金十数据",
@@ -823,19 +891,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时46分 ~ 20时29分]"
-        },
-        {
-          "title": "数节拍手势挑战",
-          "url": "https://www.douyin.com/hot/2498702",
-          "source": "抖音",
-          "ranks": [
-            12,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时23分 ~ 20时58分]"
         },
         {
           "title": "柳岩停更时间线",
@@ -1080,6 +1135,18 @@
           "time_info": "[15时46分 ~ 20时29分]"
         },
         {
+          "title": "反复提示溢价风险意味着什么？5月来35只基金有动作",
+          "url": "https://www.cls.cn/detail/2371483",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 23时23分]"
+        },
+        {
           "title": "摩根大通推出第二款代币化货币基金，针对的是以太坊（以太币）。",
           "url": "https://wallstreetcn.com/livenews/3103186",
           "source": "华尔街见闻-快讯",
@@ -1102,6 +1169,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时49分 ~ 06时17分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指、科创50双双跌逾2%，AI硬件股分歧加剧，光伏概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2371414",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 23时23分]"
         },
         {
           "title": "据知情人士透露，实物黄金交易商Gens Aurea SpA.寻求通过意大利IPO融资3亿-5亿欧元。 该公司及其大股东DVC Partners考虑最快在未来几个月内启动发行，且仅由股东出售股份。 Gens Aurea正与法国巴黎银行、杰富瑞金融集团（Jefferies Financial Group Inc.）以及联合信贷银行（UniCredit SpA）的银行家合作筹划此次交易。（彭博）",
@@ -1260,6 +1339,17 @@
           "time_info": "[12时49分 ~ 12时52分]"
         },
         {
+          "title": "小米17Max首发搭载徕卡2亿主摄",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B317Max%E9%A6%96%E5%8F%91%E6%90%AD%E8%BD%BD%E5%BE%95%E5%8D%A12%E4%BA%BF%E4%B8%BB%E6%91%84%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时29分 ~ 23时23分]"
+        },
+        {
           "title": "5月14日午间收评：创业板指半日跌近2%，全市场下跌个股超4300只",
           "url": "https://wallstreetcn.com/livenews/3103394",
           "source": "华尔街见闻-快讯",
@@ -1299,9 +1389,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
+        },
+        {
+          "title": "英国卫生和社会福利大臣宣布辞职",
+          "url": "https://news.ifeng.com/c/8t7tzDD6JmE",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "Arm与软银曾在Cerebras IPO前提出收购意向 但遭拒绝",
@@ -1313,6 +1414,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "加拿大总理卡尼：加拿大将适时更新气候计划和减排目标。",
+          "url": "https://flash.jin10.com/detail/20260514223825314800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "Anduril最新融资使估值翻倍至610亿美元",
@@ -1332,7 +1444,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1348,15 +1460,15 @@
           "time_info": "06时17分"
         },
         {
-          "title": "反复提示溢价风险意味着什么？5月来35只基金有动作",
-          "url": "https://www.cls.cn/detail/2371483",
-          "source": "财联社热门",
+          "title": "下午3点半，员工厕所“爆满”，大家都在看股票账户！韩国股市暴涨，散户疯狂涌入，全国人口5100万，活跃股票账户超1亿",
+          "url": "https://wallstreetcn.com/articles/3772290",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时58分"
+          "time_info": "23时23分"
         },
         {
           "title": "鲁比奥点赞人民大会堂中式装饰",
@@ -1370,24 +1482,13 @@
           "time_info": "15时46分"
         },
         {
-          "title": "【焦点复盘】创业板指、科创50双双跌逾2%，AI硬件股分歧加剧，光伏概念逆势活跃",
-          "url": "https://www.cls.cn/detail/2371414",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
           "title": "正在直播中",
           "url": "https://flash.jin10.com/detail/20260514204059542800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1398,7 +1499,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1412,17 +1513,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
-        },
-        {
-          "title": "徐志胜疯狂暗示方媛不太方便",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BF%97%E8%83%9C%E7%96%AF%E7%8B%82%E6%9A%97%E7%A4%BA%E6%96%B9%E5%AA%9B%E4%B8%8D%E5%A4%AA%E6%96%B9%E4%BE%BF%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
         },
         {
           "title": "美联储柯林斯：近期出现了许多供应冲击，十分关注供应端问题。",
@@ -1458,6 +1548,17 @@
           "time_info": "15时46分"
         },
         {
+          "title": "美国进出口价格创逾四年最大涨幅，受油价飙升推动",
+          "url": "https://wallstreetcn.com/livenews/3103791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "餐厅股受美国通胀压力与客流量疲软影响走低",
           "url": "https://wallstreetcn.com/livenews/3103181",
           "source": "华尔街见闻-快讯",
@@ -1469,13 +1570,24 @@
           "time_info": "03时01分"
         },
         {
+          "title": "地平线6首发评测报告",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%B0%E5%B9%B3%E7%BA%BF6%E9%A6%96%E5%8F%91%E8%AF%84%E6%B5%8B%E6%8A%A5%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "曹操出行：拟启动最高2亿港元股份回购计划",
           "url": "https://flash.jin10.com/detail/20260514203939504800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1486,7 +1598,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1544,6 +1656,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
+        },
+        {
+          "title": "曹操出行：拟启动最高2亿港元股份回购计划",
+          "url": "https://wallstreetcn.com/livenews/3103785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
+          "title": "装修中，不能省钱图便宜的是什么？",
+          "url": "https://www.zhihu.com/question/13659081112",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
+          "title": "深海迷航2首发直播",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E6%B5%B7%E8%BF%B7%E8%88%AA2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
+          "title": "三角洲行动更新公告",
+          "url": "https://www.douyin.com/hot/2499189",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "金十访谈间",
@@ -1612,6 +1768,17 @@
           "time_info": "15时46分"
         },
         {
+          "title": "徐志胜疯狂暗示方媛不太方便",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%90%E5%BF%97%E8%83%9C%E7%96%AF%E7%8B%82%E6%9A%97%E7%A4%BA%E6%96%B9%E5%AA%9B%E4%B8%8D%E5%A4%AA%E6%96%B9%E4%BE%BF",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "天岳先进：公司所处的碳化硅半导体衬底行业近年来市场竞争日趋激烈，产品价格面临一定下行压力。经公司自查，公司关注到近期部分证券公司发布的研究报告中对公司未来的营业收入、利润水平、股价等指标进行了预测。上述指标预测为证券公司单方面预测，公司未就上述指标预测进行确认。",
           "url": "https://wallstreetcn.com/livenews/3103660",
           "source": "华尔街见闻-快讯",
@@ -1623,15 +1790,15 @@
           "time_info": "20时29分"
         },
         {
-          "title": "小米17Max首发搭载徕卡2亿主摄",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B317Max%E9%A6%96%E5%8F%91%E6%90%AD%E8%BD%BD%E5%BE%95%E5%8D%A12%E4%BA%BF%E4%B8%BB%E6%91%84%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
+          "title": "英国教育大臣Phillipson：卫生大臣斯特里廷（Wes Streeting）的辞职是彻底结束这一切（划清界限）的契机。 首相斯塔默得到了我的支持。 首相拥有内阁大臣们的支持。",
+          "url": "https://wallstreetcn.com/livenews/3103774",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时29分"
+          "time_info": "23时23分"
         },
         {
           "title": "迪士尼回应优速通体验规则更改",
