@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T18:32:04.917064+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2026-05-15T20:58:23.521686+08:00",
+  "total_titles_processed": 1454,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 131,
+      "match_count": 142,
       "titles": [
         {
           "title": "中美元首举行会谈，有哪些信息值得关注？",
@@ -74,11 +74,26 @@
             14,
             18,
             20,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时56分 ~ 18时32分]"
+          "appearance_count": 18,
+          "time_info": "[01时56分 ~ 20时58分]"
+        },
+        {
+          "title": "媒体报道称俄罗斯总统普京即将访华，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2038367718697431356",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时58分 ~ 20时58分]"
         },
         {
           "title": "英国卫生和社会福利大臣宣布辞职",
@@ -105,19 +120,6 @@
           "time_info": "[01时56分 ~ 11时59分]"
         },
         {
-          "title": "媒体报道称俄罗斯总统普京即将访华，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2038367718697431356",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时58分 ~ 18时32分]"
-        },
-        {
           "title": "反复提示溢价风险意味着什么？5月来35只基金有动作",
           "url": "https://www.cls.cn/detail/2371483",
           "source": "财联社热门",
@@ -140,11 +142,12 @@
             15,
             17,
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时56分 ~ 18时32分]"
+          "appearance_count": 18,
+          "time_info": "[01时56分 ~ 20时58分]"
         },
         {
           "title": "评论员：台积电独霸时代结束",
@@ -183,11 +186,12 @@
             19,
             14,
             11,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时56分 ~ 18时32分]"
+          "appearance_count": 14,
+          "time_info": "[01时56分 ~ 20时58分]"
         },
         {
           "title": "徐志胜疯狂暗示方媛不太方便",
@@ -343,11 +347,27 @@
             4,
             7,
             9,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时58分 ~ 18时32分]"
+          "appearance_count": 8,
+          "time_info": "[11时58分 ~ 20时58分]"
+        },
+        {
+          "title": "比亚迪首款皮卡「鲨鱼」将在国内销售，能否改变现有市场格局？",
+          "url": "https://www.zhihu.com/question/2038053798040576268",
+          "source": "知乎",
+          "ranks": [
+            18,
+            10,
+            8,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时58分 ~ 20时58分]"
         },
         {
           "title": "美国总统特朗普开始对中国进行国事访问，有哪些信息值得关注？",
@@ -361,18 +381,35 @@
           "time_info": "[01时56分 ~ 07时01分]"
         },
         {
-          "title": "比亚迪首款皮卡「鲨鱼」将在国内销售，能否改变现有市场格局？",
-          "url": "https://www.zhihu.com/question/2038053798040576268",
-          "source": "知乎",
+          "title": "BLG见面会搞事,黑粉全过审",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354296&amp;topic_name=BLG%E8%A7%81%E9%9D%A2%E4%BC%9A%E6%90%9E%E4%BA%8B%2C%E9%BB%91%E7%B2%89%E5%85%A8%E8%BF%87%E5%AE%A1",
+          "source": "贴吧",
           "ranks": [
-            18,
-            10,
+            5,
             8,
-            4
+            12,
+            14,
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时58分 ~ 18时32分]"
+          "appearance_count": 8,
+          "time_info": "[11时58分 ~ 20时58分]"
+        },
+        {
+          "title": "寻亲之后②丨“梅姨案”受害人钟彬回归原生家庭这一年：主动帮家里还债，长胖40斤自称“幸福肥”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33164681",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            14,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时58分 ~ 20时58分]"
         },
         {
           "title": "半壶纱翻唱挑战",
@@ -398,21 +435,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时51分 ~ 15时32分]"
-        },
-        {
-          "title": "BLG见面会搞事,黑粉全过审",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354296&amp;topic_name=BLG%E8%A7%81%E9%9D%A2%E4%BC%9A%E6%90%9E%E4%BA%8B%2C%E9%BB%91%E7%B2%89%E5%85%A8%E8%BF%87%E5%AE%A1",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            8,
-            12,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时58分 ~ 18时32分]"
         },
         {
           "title": "日本翻车了",
@@ -459,21 +481,6 @@
           "ranks": [
             9,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时58分 ~ 18时32分]"
-        },
-        {
-          "title": "寻亲之后②丨“梅姨案”受害人钟彬回归原生家庭这一年：主动帮家里还债，长胖40斤自称“幸福肥”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33164681",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            14,
-            13,
-            11
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -572,6 +579,17 @@
           "time_info": "11时59分"
         },
         {
+          "title": "堵上“鼓肚子套利”漏洞，基金销售结算新规整改倒计时",
+          "url": "https://wallstreetcn.com/livenews/3104456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "iPhone17系列大降价",
           "url": "https://search.bilibili.com/all?keyword=iPhone17%E7%B3%BB%E5%88%97%E5%A4%A7%E9%99%8D%E4%BB%B7",
           "source": "bilibili 热搜",
@@ -602,7 +620,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -618,6 +636,17 @@
           "time_info": "08时07分"
         },
         {
+          "title": "全球长债收益率飙升，股市普遍下挫，美股盘前跌幅扩大，白银跌破80美元，黄金跌超1%",
+          "url": "https://wallstreetcn.com/articles/3772341",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "iPhone华为同时降价",
           "url": "https://s.weibo.com/weibo?q=%23iPhone%E5%8D%8E%E4%B8%BA%E5%90%8C%E6%97%B6%E9%99%8D%E4%BB%B7%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -627,6 +656,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
+          "url": "https://wallstreetcn.com/articles/3772300",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时32分 ~ 20时58分]"
         },
         {
           "title": "《给阿嬷的情书》预测票房飙升至10亿",
@@ -651,6 +692,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时54分 ~ 18时32分]"
+        },
+        {
+          "title": "站在光里，首批浮费基金有了“两倍基”，3只基金竟还在亏钱",
+          "url": "https://www.cls.cn/detail/2372261",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时32分 ~ 20时58分]"
         },
         {
           "title": "曾沛慈练舞花絮终于来了",
@@ -725,28 +778,17 @@
           "time_info": "[07时01分 ~ 08时07分]"
         },
         {
-          "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
-          "url": "https://wallstreetcn.com/articles/3772300",
-          "source": "华尔街见闻",
+          "title": "阿雅视频抄袭",
+          "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E9%9B%85%E8%A7%86%E9%A2%91%E6%8A%84%E8%A2%AD&t=31&band_rank=13&Refer=top",
+          "source": "微博",
           "ranks": [
-            10,
-            8
+            13,
+            14,
+            24
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时32分 ~ 18时32分]"
-        },
-        {
-          "title": "站在光里，首批浮费基金有了“两倍基”，3只基金竟还在亏钱",
-          "url": "https://www.cls.cn/detail/2372261",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时32分 ~ 18时32分]"
+          "time_info": "[16时02分 ~ 20时58分]"
         },
         {
           "title": "新华社评论员：锚定中美关系新定位，共同书写时代答卷",
@@ -799,16 +841,50 @@
           "time_info": "[07时01分 ~ 12时54分]"
         },
         {
-          "title": "阿雅视频抄袭",
-          "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E9%9B%85%E8%A7%86%E9%A2%91%E6%8A%84%E8%A2%AD&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "ENEMY主创最新作品预告",
+          "url": "https://search.bilibili.com/all?keyword=ENEMY%E4%B8%BB%E5%88%9B%E6%9C%80%E6%96%B0%E4%BD%9C%E5%93%81%E9%A2%84%E5%91%8A",
+          "source": "bilibili 热搜",
           "ranks": [
-            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 20时58分]"
+        },
+        {
+          "title": "ENEMY主创最新作品预告",
+          "url": "https://www.douyin.com/hot/2500244",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 20时58分]"
+        },
+        {
+          "title": "会还没开完企业家已经走了一大半，四川内江这场政企交流会缘何引关注",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33181580",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
             14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时32分]"
+          "time_info": "[18时31分 ~ 20时58分]"
+        },
+        {
+          "title": "直播丨美国总统特朗普结束访华，乘专机离开北京",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33181476",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 20时58分]"
         },
         {
           "title": "明天起 机票燃油附加费上调",
@@ -904,17 +980,6 @@
           "time_info": "[11时59分 ~ 12时54分]"
         },
         {
-          "title": "ENEMY主创最新作品预告",
-          "url": "https://search.bilibili.com/all?keyword=ENEMY%E4%B8%BB%E5%88%9B%E6%9C%80%E6%96%B0%E4%BD%9C%E5%93%81%E9%A2%84%E5%91%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
-        },
-        {
           "title": "美国投资公司协会（ICI）：截至5月13日当周，货币市场基金总资产增加4.36亿美元，至7.75万亿美元。在应税货币市场基金中，政府基金增加32.5亿美元，优质基金减少40.8亿美元；免税货币市场基金增加12.7亿美元。",
           "url": "https://flash.jin10.com/detail/20260515041510937800",
           "source": "金十数据",
@@ -985,17 +1050,6 @@
           "time_info": "[07时01分 ~ 08时07分]"
         },
         {
-          "title": "ENEMY主创最新作品预告",
-          "url": "https://www.douyin.com/hot/2500244",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
-        },
-        {
           "title": "斯塔默对英国卫生和社会福利大臣辞职表遗憾",
           "url": "https://flash.jin10.com/detail/20260515021720164800",
           "source": "金十数据",
@@ -1041,17 +1095,6 @@
           "time_info": "[15时32分 ~ 16时02分]"
         },
         {
-          "title": "会还没开完企业家已经走了一大半，四川内江这场政企交流会缘何引关注",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33181580",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
-        },
-        {
           "title": "这就是我花一万买iPhone的意义",
           "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E5%B0%B1%E6%98%AF%E6%88%91%E8%8A%B1%E4%B8%80%E4%B8%87%E4%B9%B0iPhone%E7%9A%84%E6%84%8F%E4%B9%89&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -1062,17 +1105,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时32分 ~ 16时02分]"
-        },
-        {
-          "title": "直播丨美国总统特朗普结束访华，乘专机离开北京",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33181476",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "金十图示：2026年05月14日（周四）热门中概股行情一览（美股收盘）",
@@ -1164,6 +1196,17 @@
           "time_info": "[18时31分 ~ 18时32分]"
         },
         {
+          "title": "2025年平均工资出炉",
+          "url": "https://www.toutiao.com/trending/7639388022571843625/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "委内瑞拉央行代理行长：即将前往华盛顿，和国际货币基金组织开展相关会面磋商。",
           "url": "https://flash.jin10.com/detail/20260515032942131800",
           "source": "金十数据",
@@ -1195,6 +1238,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
+        },
+        {
+          "title": "堵上“鼓肚子套利”漏洞，基金销售结算新规整改倒计时",
+          "url": "https://flash.jin10.com/detail/20260515204627344800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "多家银行理财子公司推出“T+0.5”赎回到账模式",
@@ -1230,6 +1284,17 @@
           "time_info": "16时02分"
         },
         {
+          "title": "iPhone一年一换比三年一换更省钱",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone%E4%B8%80%E5%B9%B4%E4%B8%80%E6%8D%A2%E6%AF%94%E4%B8%89%E5%B9%B4%E4%B8%80%E6%8D%A2%E6%9B%B4%E7%9C%81%E9%92%B1%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "“巴菲特慈善午餐”回归 900万美元成交",
           "url": "https://flash.jin10.com/detail/20260515122810127800",
           "source": "金十数据",
@@ -1247,7 +1312,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -1285,6 +1350,17 @@
           "time_info": "15时32分"
         },
         {
+          "title": "第十二批国采打响“发令枪” 233个品规预填报启动 政策组合拳下药企博弈反内卷新局",
+          "url": "https://www.cls.cn/detail/2372509",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（5月15日）",
           "url": "https://flash.jin10.com/detail/20260515060824314800",
           "source": "金十数据",
@@ -1307,6 +1383,17 @@
           "time_info": "11时59分"
         },
         {
+          "title": "DeepTalk：利率下降，黄金才能涨？35年市场老兵拆解金价真相",
+          "url": "https://flash.jin10.com/detail/20260515204143363800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "关闭支付功能后被扣款捐赠184万元？支付宝最新回应：账户不排除涉嫌违法犯罪，正向警方寻求帮助",
           "url": "https://wallstreetcn.com/livenews/3104103",
           "source": "华尔街见闻-快讯",
@@ -1316,6 +1403,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
+        },
+        {
+          "title": "余承东曾想挑战用摄像头替代激光雷达",
+          "url": "https://www.toutiao.com/trending/7640043930876756009/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "预告：国新办将于5月18日举行新闻发布会 介绍加力优化离境退税措施扩大入境消费有关情况",
@@ -1357,7 +1455,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -1379,7 +1477,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -1393,6 +1491,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
+        },
+        {
+          "title": "暴雨中救小孩的一名外卖小哥找到了",
+          "url": "https://www.toutiao.com/trending/7639888613500583999/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "中巨芯：公司股票连续3个交易日内收盘价格涨幅偏离值累计达到30%",
+          "url": "https://flash.jin10.com/detail/20260515203948709800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "库克你的iPhone在北京烫吗",
@@ -1437,6 +1557,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "2025年平均工资出炉",
+          "url": "https://www.baidu.com/s?wd=2025%E5%B9%B4%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%84%E5%87%BA%E7%82%89",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "土耳其央行调查显示，未来12个月回购利率预计为30.22%（前次调查29.56%）。",
@@ -1500,7 +1631,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
