@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T19:12:02.807025+08:00",
+  "generated_at": "2026-05-17T19:15:13.229319+08:00",
   "total_titles_processed": 1090,
   "failed_sources": [],
   "trends": [
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时58分 ~ 19时12分]"
+          "appearance_count": 12,
+          "time_info": "[11时58分 ~ 19时15分]"
         },
         {
           "title": "成都AG超玩会战胜北京JDG 挑战者杯",
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时58分 ~ 19时12分]"
+          "appearance_count": 12,
+          "time_info": "[11时58分 ~ 19时15分]"
         },
         {
           "title": "全球最大对冲基金调仓大动作：大举加仓芯片 全面清仓软件股",
@@ -66,8 +66,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时05分 ~ 19时12分]"
+          "appearance_count": 31,
+          "time_info": "[00时05分 ~ 19时15分]"
         },
         {
           "title": "中美经贸磋商初步成果公布，包含推动扩大包括农产品在内等领域的双向贸易等，还有哪些信息值得关注？",
@@ -91,8 +91,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时58分 ~ 19时12分]"
+          "appearance_count": 12,
+          "time_info": "[11时58分 ~ 19时15分]"
         },
         {
           "title": "俄罗斯总统普京将于 5 月 19 日至 20 日对中国进行国事访问，哪些信息值得关注？",
@@ -121,8 +121,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时58分 ~ 19时12分]"
+          "appearance_count": 12,
+          "time_info": "[11时58分 ~ 19时15分]"
         },
         {
           "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
@@ -138,6 +138,32 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时05分 ~ 11时58分]"
+        },
+        {
+          "title": "盘点路的各种叫法",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E8%B7%AF%E7%9A%84%E5%90%84%E7%A7%8D%E5%8F%AB%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            5,
+            24,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时16分 ~ 19时15分]"
+        },
+        {
+          "title": "体检和更新让城市有里有面",
+          "url": "https://www.douyin.com/hot/2502149",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时37分 ~ 19时15分]"
         },
         {
           "title": "当地通报“酒店床单未一客一换”",
@@ -163,8 +189,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时58分 ~ 19时12分]"
+          "appearance_count": 12,
+          "time_info": "[11时58分 ~ 19时15分]"
+        },
+        {
+          "title": "Viper报名亚运会,LPL危？",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354358&amp;topic_name=Viper%E6%8A%A5%E5%90%8D%E4%BA%9A%E8%BF%90%E4%BC%9A%2CLPL%E5%8D%B1%EF%BC%9F",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时37分 ~ 19时15分]"
         },
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
@@ -178,23 +215,22 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时05分 ~ 19时12分]"
+          "appearance_count": 31,
+          "time_info": "[00时05分 ~ 19时15分]"
         },
         {
-          "title": "盘点路的各种叫法",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E8%B7%AF%E7%9A%84%E5%90%84%E7%A7%8D%E5%8F%AB%E6%B3%95",
+          "title": "UP主鉴赏评论区的摄影作品",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%89%B4%E8%B5%8F%E8%AF%84%E8%AE%BA%E5%8C%BA%E7%9A%84%E6%91%84%E5%BD%B1%E4%BD%9C%E5%93%81",
           "source": "bilibili 热搜",
           "ranks": [
-            1,
-            5,
-            24,
-            19,
+            4,
+            11,
+            14,
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时16分 ~ 19时12分]"
+          "appearance_count": 11,
+          "time_info": "[12时16分 ~ 19时15分]"
         },
         {
           "title": "报道：贝莱德或将在SpaceX IPO中投资数十亿美元",
@@ -274,8 +310,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时58分 ~ 19时12分]"
+          "appearance_count": 12,
+          "time_info": "[11时58分 ~ 19时15分]"
         },
         {
           "title": "伊朗宣布5月19日起恢复股票市场交易",
@@ -287,8 +323,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时58分 ~ 19时12分]"
+          "appearance_count": 12,
+          "time_info": "[11时58分 ~ 19时15分]"
         },
         {
           "title": "中美元首会晤，这些细节值得关注",
@@ -322,18 +358,15 @@
           "time_info": "[07时57分 ~ 17时53分]"
         },
         {
-          "title": "UP主鉴赏评论区的摄影作品",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%89%B4%E8%B5%8F%E8%AF%84%E8%AE%BA%E5%8C%BA%E7%9A%84%E6%91%84%E5%BD%B1%E4%BD%9C%E5%93%81",
-          "source": "bilibili 热搜",
+          "title": "郑州一火锅店露天洗菜做饭走红",
+          "url": "https://www.toutiao.com/trending/7640323769763315775/",
+          "source": "今日头条",
           "ranks": [
-            4,
-            11,
-            14,
-            22
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时16分 ~ 19时12分]"
+          "appearance_count": 5,
+          "time_info": "[17时53分 ~ 19时15分]"
         },
         {
           "title": "黄仁勋打卡蜜雪冰城 同款产品销量暴增140%",
@@ -347,8 +380,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时05分 ~ 19时12分]"
+          "appearance_count": 31,
+          "time_info": "[00时05分 ~ 19时15分]"
         },
         {
           "title": "一个很好的解压方法",
@@ -392,8 +425,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时05分 ~ 19时12分]"
+          "appearance_count": 31,
+          "time_info": "[00时05分 ~ 19时15分]"
         },
         {
           "title": "多家酒店做不到床单一客一换",
@@ -454,8 +487,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[03时14分 ~ 19时12分]"
+          "appearance_count": 21,
+          "time_info": "[03时14分 ~ 19时15分]"
         },
         {
           "title": "iPhone17降价,安卓被打懵",
@@ -468,8 +501,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时05分 ~ 19时12分]"
+          "appearance_count": 31,
+          "time_info": "[00时05分 ~ 19时15分]"
         },
         {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
@@ -509,8 +542,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时58分 ~ 19时12分]"
+          "appearance_count": 12,
+          "time_info": "[11时58分 ~ 19时15分]"
         },
         {
           "title": "腾讯微信成立 800 人团队适配鸿蒙，几乎两天就迭代一版，怎样解读这一布局？高频迭代背后有哪些挑战？",
@@ -641,6 +674,22 @@
           "time_info": "[00时05分 ~ 04时58分]"
         },
         {
+          "title": "sakuya进行曲挑战",
+          "url": "https://www.douyin.com/hot/2500758",
+          "source": "抖音",
+          "ranks": [
+            28,
+            29,
+            30,
+            22,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时05分 ~ 19时15分]"
+        },
+        {
           "title": "男子花9.6万买车 凭发票中了10万",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%8A%B19.6%E4%B8%87%E4%B9%B0%E8%BD%A6+%E5%87%AD%E5%8F%91%E7%A5%A8%E4%B8%AD%E4%BA%8610%E4%B8%87",
           "source": "百度热搜",
@@ -658,22 +707,6 @@
           "time_info": "[00时05分 ~ 08时02分]"
         },
         {
-          "title": "sakuya进行曲挑战",
-          "url": "https://www.douyin.com/hot/2500758",
-          "source": "抖音",
-          "ranks": [
-            28,
-            29,
-            30,
-            22,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时05分 ~ 19时12分]"
-        },
-        {
           "title": "LPL情侣大盘点,甜虐交织",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354300&amp;topic_name=LPL%E6%83%85%E4%BE%A3%E5%A4%A7%E7%9B%98%E7%82%B9%2C%E7%94%9C%E8%99%90%E4%BA%A4%E7%BB%87",
           "source": "贴吧",
@@ -685,26 +718,18 @@
           "time_info": "[00时05分 ~ 08时02分]"
         },
         {
-          "title": "体检和更新让城市有里有面",
-          "url": "https://www.douyin.com/hot/2502149",
+          "title": "维斯塔潘超车看呆解说",
+          "url": "https://www.douyin.com/hot/2501963",
           "source": "抖音",
           "ranks": [
-            3
+            10,
+            7,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时37分 ~ 19时12分]"
-        },
-        {
-          "title": "Viper报名亚运会,LPL危？",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354358&amp;topic_name=Viper%E6%8A%A5%E5%90%8D%E4%BA%9A%E8%BF%90%E4%BC%9A%2CLPL%E5%8D%B1%EF%BC%9F",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时37分 ~ 19时12分]"
+          "appearance_count": 9,
+          "time_info": "[14时50分 ~ 19时15分]"
         },
         {
           "title": "价格下跌40% 新榴莲美食丰富夏日消费新业态",
@@ -750,6 +775,21 @@
           "time_info": "[03时14分 ~ 07时58分]"
         },
         {
+          "title": "2000万粉丝博主宣布断更：撑不住了",
+          "url": "https://www.toutiao.com/trending/7640387236544266294/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            15,
+            16,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时50分 ~ 19时15分]"
+        },
+        {
           "title": "50亿级新基涌现，主动权益基金年内新发规模大增六倍，接近去年全年",
           "url": "https://www.cls.cn/detail/2373088",
           "source": "财联社热门",
@@ -775,17 +815,6 @@
           "time_info": "[11时58分 ~ 15时37分]"
         },
         {
-          "title": "郑州一火锅店露天洗菜做饭走红",
-          "url": "https://www.toutiao.com/trending/7640323769763315775/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时53分 ~ 19时12分]"
-        },
-        {
           "title": "惠州仲恺高新区通报“多家酒店床单未一客一换”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33187806",
           "source": "澎湃新闻",
@@ -798,33 +827,29 @@
           "time_info": "[11时58分 ~ 17时53分]"
         },
         {
-          "title": "维斯塔潘超车看呆解说",
-          "url": "https://www.douyin.com/hot/2501963",
-          "source": "抖音",
+          "title": "如何看待耿同学最新一期视频：一名疑似上海大学的中间人想要耿同学淡化其打假上海大学某院长之事？",
+          "url": "https://www.zhihu.com/question/2038908254177206975",
+          "source": "知乎",
           "ranks": [
-            10,
+            8,
             7,
-            9,
-            8
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时50分 ~ 19时12分]"
+          "appearance_count": 6,
+          "time_info": "[17时09分 ~ 19时15分]"
         },
         {
-          "title": "2000万粉丝博主宣布断更：撑不住了",
-          "url": "https://www.toutiao.com/trending/7640387236544266294/",
-          "source": "今日头条",
+          "title": "Ray评歌手2026首发阵容",
+          "url": "https://search.bilibili.com/all?keyword=Ray%E8%AF%84%E6%AD%8C%E6%89%8B2026%E9%A6%96%E5%8F%91%E9%98%B5%E5%AE%B9",
+          "source": "bilibili 热搜",
           "ranks": [
-            11,
-            15,
-            16,
-            17,
-            18
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时50分 ~ 19时12分]"
+          "appearance_count": 5,
+          "time_info": "[17时53分 ~ 19时15分]"
         },
         {
           "title": "秋千坠亡事件最新调查进展",
@@ -839,6 +864,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时50分 ~ 17时53分]"
+        },
+        {
+          "title": "50-100亿美元！“全球最大资管”贝莱德考虑投资“历史最大IPO”Space X",
+          "url": "https://wallstreetcn.com/articles/3772438",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时09分 ~ 19时15分]"
         },
         {
           "title": "世界卫生组织：由本迪布焦病毒引发的埃博拉疾病在刚果民主共和国和乌干达暴发，已被认定为“国际关注的突发公共卫生事件”。",
@@ -864,17 +901,28 @@
           "time_info": "[11时58分 ~ 15时37分]"
         },
         {
-          "title": "如何看待耿同学最新一期视频：一名疑似上海大学的中间人想要耿同学淡化其打假上海大学某院长之事？",
-          "url": "https://www.zhihu.com/question/2038908254177206975",
+          "title": "商业航天概念股巨力索具遭证监会立案，涉嫌信披误导性陈述，过去半年股价涨 3 倍，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2038931761447564255",
           "source": "知乎",
           "ranks": [
-            8,
-            7,
-            4
+            20,
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时09分 ~ 19时12分]"
+          "appearance_count": 6,
+          "time_info": "[17时09分 ~ 19时15分]"
+        },
+        {
+          "title": "儿童服务站的孩子们问了很多「天真」却并不简单的问题，你愿意认真回答几个吗？",
+          "url": "https://www.zhihu.com/question/2037503645323892318",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时09分 ~ 19时15分]"
         },
         {
           "title": "记者贴脸开大,老黄被问无语",
@@ -888,16 +936,28 @@
           "time_info": "11时58分"
         },
         {
-          "title": "Ray评歌手2026首发阵容",
-          "url": "https://search.bilibili.com/all?keyword=Ray%E8%AF%84%E6%AD%8C%E6%89%8B2026%E9%A6%96%E5%8F%91%E9%98%B5%E5%AE%B9",
+          "title": "维斯塔潘超车解说反应合集",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%B4%E6%96%AF%E5%A1%94%E6%BD%98%E8%B6%85%E8%BD%A6%E8%A7%A3%E8%AF%B4%E5%8F%8D%E5%BA%94%E5%90%88%E9%9B%86",
           "source": "bilibili 热搜",
           "ranks": [
-            5,
-            17
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时53分 ~ 19时12分]"
+          "appearance_count": 5,
+          "time_info": "[17时09分 ~ 19时15分]"
+        },
+        {
+          "title": "iPhone降价 胖东来联系顾客退差价",
+          "url": "https://www.baidu.com/s?wd=iPhone%E9%99%8D%E4%BB%B7+%E8%83%96%E4%B8%9C%E6%9D%A5%E8%81%94%E7%B3%BB%E9%A1%BE%E5%AE%A2%E9%80%80%E5%B7%AE%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时53分 ~ 19时15分]"
         },
         {
           "title": "韩红基金会去年收入7.8亿支出2.9亿",
@@ -923,29 +983,26 @@
           "time_info": "[00时06分 ~ 01时05分]"
         },
         {
-          "title": "50-100亿美元！“全球最大资管”贝莱德考虑投资“历史最大IPO”Space X",
-          "url": "https://wallstreetcn.com/articles/3772438",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时09分 ~ 19时12分]"
-        },
-        {
-          "title": "商业航天概念股巨力索具遭证监会立案，涉嫌信披误导性陈述，过去半年股价涨 3 倍，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2038931761447564255",
+          "title": "最近在购买词元上花了不少钱，以后词元会和手机流量一样是刚需吗？",
+          "url": "https://www.zhihu.com/question/2016832855842522430",
           "source": "知乎",
           "ranks": [
-            20,
-            18,
-            15
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时09分 ~ 19时12分]"
+          "time_info": "[19时11分 ~ 19时15分]"
+        },
+        {
+          "title": "四川大摆荡坠亡事故直接原因是「释放开关提前松开」，还有哪些细节值得关注？暴露出运营方存在哪些管理漏洞？",
+          "url": "https://www.zhihu.com/question/2039343787952927667",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时11分 ~ 19时15分]"
         },
         {
           "title": "经纪人曝温岚最新病况：醒来就在道歉",
@@ -961,15 +1018,15 @@
           "time_info": "[14时50分 ~ 17时09分]"
         },
         {
-          "title": "儿童服务站的孩子们问了很多「天真」却并不简单的问题，你愿意认真回答几个吗？",
-          "url": "https://www.zhihu.com/question/2037503645323892318",
+          "title": "岗位被 AI 替代后，还可以去送外卖、跑网约车，如果这些兜底岗位也被取代，又该如何？",
+          "url": "https://www.zhihu.com/question/2037906428577277385",
           "source": "知乎",
           "ranks": [
-            17
+            19
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时09分 ~ 19时12分]"
+          "time_info": "[19时11分 ~ 19时15分]"
         },
         {
           "title": "老人挑战喝豆汁 眼睛眨三下后摇头",
@@ -1005,30 +1062,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时58分 ~ 12时17分]"
-        },
-        {
-          "title": "维斯塔潘超车解说反应合集",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BB%B4%E6%96%AF%E5%A1%94%E6%BD%98%E8%B6%85%E8%BD%A6%E8%A7%A3%E8%AF%B4%E5%8F%8D%E5%BA%94%E5%90%88%E9%9B%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时09分 ~ 19时12分]"
-        },
-        {
-          "title": "iPhone降价 胖东来联系顾客退差价",
-          "url": "https://www.baidu.com/s?wd=iPhone%E9%99%8D%E4%BB%B7+%E8%83%96%E4%B8%9C%E6%9D%A5%E8%81%94%E7%B3%BB%E9%A1%BE%E5%AE%A2%E9%80%80%E5%B7%AE%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时53分 ~ 19时12分]"
         },
         {
           "title": "王橹杰iPad上面视频是心理问题",
@@ -1135,17 +1168,6 @@
           "time_info": "[01时05分 ~ 01时58分]"
         },
         {
-          "title": "最近在购买词元上花了不少钱，以后词元会和手机流量一样是刚需吗？",
-          "url": "https://www.zhihu.com/question/2016832855842522430",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 19时12分]"
-        },
-        {
           "title": "中无人机：股东中航一期基金拟减持不超1%股份",
           "url": "https://flash.jin10.com/detail/20260517154058464800",
           "source": "金十数据",
@@ -1191,28 +1213,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时05分 ~ 01时58分]"
-        },
-        {
-          "title": "四川大摆荡坠亡事故直接原因是「释放开关提前松开」，还有哪些细节值得关注？暴露出运营方存在哪些管理漏洞？",
-          "url": "https://www.zhihu.com/question/2039343787952927667",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 19时12分]"
-        },
-        {
-          "title": "岗位被 AI 替代后，还可以去送外卖、跑网约车，如果这些兜底岗位也被取代，又该如何？",
-          "url": "https://www.zhihu.com/question/2037906428577277385",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 19时12分]"
         },
         {
           "title": "UP主时隔四年回归",
