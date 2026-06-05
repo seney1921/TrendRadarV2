@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T20:14:21.217439+08:00",
-  "total_titles_processed": 1518,
+  "generated_at": "2026-06-05T20:44:16.061094+08:00",
+  "total_titles_processed": 1614,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 175,
+      "match_count": 185,
       "titles": [
         {
           "title": "央行将开展5000亿元买断式逆回购操作 缩量趋势延续 机构：资金面或从“异常宽松”回到“合理充裕”",
@@ -46,6 +46,30 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时23分 ~ 08时14分]"
+        },
+        {
+          "title": "Bin哥摆烂原因:薪水太低",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354880&amp;topic_name=Bin%E5%93%A5%E6%91%86%E7%83%82%E5%8E%9F%E5%9B%A0%3A%E8%96%AA%E6%B0%B4%E5%A4%AA%E4%BD%8E",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时18分 ~ 20时44分]"
+        },
+        {
+          "title": "纯炫富?学生点外卖被diss",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354884&amp;topic_name=%E7%BA%AF%E7%82%AB%E5%AF%8C%3F%E5%AD%A6%E7%94%9F%E7%82%B9%E5%A4%96%E5%8D%96%E8%A2%ABdiss",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时18分 ~ 20时44分]"
         },
         {
           "title": "870亿市值蜜雪集团卖咖啡均价6.9元",
@@ -119,28 +143,17 @@
           "time_info": "[00时23分 ~ 07时15分]"
         },
         {
-          "title": "Bin哥摆烂原因:薪水太低",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354880&amp;topic_name=Bin%E5%93%A5%E6%91%86%E7%83%82%E5%8E%9F%E5%9B%A0%3A%E8%96%AA%E6%B0%B4%E5%A4%AA%E4%BD%8E",
-          "source": "贴吧",
+          "title": "瑞幸回应咖啡去冰后仅半杯，称去冰不满杯属于正常操作，这合理吗？算是变相的缺斤短两吗？",
+          "url": "https://www.zhihu.com/question/2046164114653668506",
+          "source": "知乎",
           "ranks": [
-            3,
-            2
+            2,
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时18分 ~ 20时14分]"
-        },
-        {
-          "title": "纯炫富?学生点外卖被diss",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354884&amp;topic_name=%E7%BA%AF%E7%82%AB%E5%AF%8C%3F%E5%AD%A6%E7%94%9F%E7%82%B9%E5%A4%96%E5%8D%96%E8%A2%ABdiss",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时18分 ~ 20时14分]"
+          "time_info": "[16时47分 ~ 20时44分]"
         },
         {
           "title": "外卖员送餐期间在小区电梯排泄，物业：已消杀，警方已介入",
@@ -180,8 +193,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时23分 ~ 20时14分]"
+          "appearance_count": 22,
+          "time_info": "[00时23分 ~ 20时44分]"
         },
         {
           "title": "女子27万买车正常行驶四年成“假车”",
@@ -260,8 +273,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时23分 ~ 20时14分]"
+          "appearance_count": 22,
+          "time_info": "[00时23分 ~ 20时44分]"
         },
         {
           "title": "小Lin说独家对谈帕梅拉",
@@ -293,8 +306,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时23分 ~ 20时14分]"
+          "appearance_count": 22,
+          "time_info": "[00时23分 ~ 20时44分]"
         },
         {
           "title": "马上测｜网红减重针网销乱象：有商家宣称“不瘦必赔”，虚报病症也能开处方",
@@ -425,6 +438,34 @@
           "time_info": "[00时23分 ~ 07时15分]"
         },
         {
+          "title": "要凉?终末地官号疯狂掉粉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354889&amp;topic_name=%E8%A6%81%E5%87%89%3F%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%AE%98%E5%8F%B7%E7%96%AF%E7%8B%82%E6%8E%89%E7%B2%89",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时18分 ~ 20时44分]"
+        },
+        {
+          "title": "韩国证券账户数比总人口还多，年轻人借钱炒股甚至辞职全职投资，这轮牛市为何成了普通人的「最后一搏」？",
+          "url": "https://www.zhihu.com/question/2045794379957278430",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时18分 ~ 20时44分]"
+        },
+        {
           "title": "小米寻天汽车最新谍照曝光",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%AF%BB%E5%A4%A9%E6%B1%BD%E8%BD%A6%E6%9C%80%E6%96%B0%E8%B0%8D%E7%85%A7%E6%9B%9D%E5%85%89%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -466,16 +507,44 @@
           "time_info": "[00时23分 ~ 06时42分]"
         },
         {
-          "title": "瑞幸回应咖啡去冰后仅半杯，称去冰不满杯属于正常操作，这合理吗？算是变相的缺斤短两吗？",
-          "url": "https://www.zhihu.com/question/2046164114653668506",
-          "source": "知乎",
+          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
+          "url": "https://wallstreetcn.com/articles/3773907",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            5
+            10,
+            9,
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时47分 ~ 20时14分]"
+          "appearance_count": 8,
+          "time_info": "[12时18分 ~ 20时44分]"
+        },
+        {
+          "title": "黄仁勋刚抵韩就放“大招”：宣布存储“三巨头”的HBM4均获认证",
+          "url": "https://www.cls.cn/detail/2391784",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时47分 ~ 20时44分]"
+        },
+        {
+          "title": "意识到了一杯奶茶钱真不是小钱",
+          "url": "https://s.weibo.com/weibo?q=%E6%84%8F%E8%AF%86%E5%88%B0%E4%BA%86%E4%B8%80%E6%9D%AF%E5%A5%B6%E8%8C%B6%E9%92%B1%E7%9C%9F%E4%B8%8D%E6%98%AF%E5%B0%8F%E9%92%B1&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时47分 ~ 20时44分]"
         },
         {
           "title": "SpaceX IPO路演盛况空前！华尔街火力全开 高喊AI收入将激增百倍",
@@ -491,6 +560,20 @@
           "time_info": "[13时22分 ~ 20时14分]"
         },
         {
+          "title": "Jump搞真人封面,粉丝连夜脱坑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354881&amp;topic_name=Jump%E6%90%9E%E7%9C%9F%E4%BA%BA%E5%B0%81%E9%9D%A2%2C%E7%B2%89%E4%B8%9D%E8%BF%9E%E5%A4%9C%E8%84%B1%E5%9D%91",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            13,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时18分 ~ 20时44分]"
+        },
+        {
           "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
           "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
           "source": "凤凰网",
@@ -500,33 +583,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时23分 ~ 02时22分]"
-        },
-        {
-          "title": "韩国证券账户数比总人口还多，年轻人借钱炒股甚至辞职全职投资，这轮牛市为何成了普通人的「最后一搏」？",
-          "url": "https://www.zhihu.com/question/2045794379957278430",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时18分 ~ 20时14分]"
-        },
-        {
-          "title": "要凉?终末地官号疯狂掉粉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354889&amp;topic_name=%E8%A6%81%E5%87%89%3F%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%AE%98%E5%8F%B7%E7%96%AF%E7%8B%82%E6%8E%89%E7%B2%89",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时18分 ~ 20时14分]"
         },
         {
           "title": "街霸6英格丽德实战体验",
@@ -603,31 +659,6 @@
           "time_info": "[16时47分 ~ 16时48分]"
         },
         {
-          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
-          "url": "https://wallstreetcn.com/articles/3773907",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时18分 ~ 20时14分]"
-        },
-        {
-          "title": "意识到了一杯奶茶钱真不是小钱",
-          "url": "https://s.weibo.com/weibo?q=%E6%84%8F%E8%AF%86%E5%88%B0%E4%BA%86%E4%B8%80%E6%9D%AF%E5%A5%B6%E8%8C%B6%E9%92%B1%E7%9C%9F%E4%B8%8D%E6%98%AF%E5%B0%8F%E9%92%B1&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时47分 ~ 20时14分]"
-        },
-        {
           "title": "广汽集团：公司无出借股票行为",
           "url": "https://flash.jin10.com/detail/20260605174434802800",
           "source": "金十数据",
@@ -665,18 +696,42 @@
           "time_info": "[12时18分 ~ 20时14分]"
         },
         {
-          "title": "Jump搞真人封面,粉丝连夜脱坑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354881&amp;topic_name=Jump%E6%90%9E%E7%9C%9F%E4%BA%BA%E5%B0%81%E9%9D%A2%2C%E7%B2%89%E4%B8%9D%E8%BF%9E%E5%A4%9C%E8%84%B1%E5%9D%91",
-          "source": "贴吧",
+          "title": "Mrbeast挑战北极生存7天",
+          "url": "https://search.bilibili.com/all?keyword=Mrbeast%E6%8C%91%E6%88%98%E5%8C%97%E6%9E%81%E7%94%9F%E5%AD%987%E5%A4%A9",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            13,
-            14,
-            16
+            21,
+            27,
+            30,
+            13
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时18分 ~ 20时14分]"
+          "time_info": "[16时47分 ~ 20时44分]"
+        },
+        {
+          "title": "电脑成精化身互联网喷子",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354897&amp;topic_name=%E7%94%B5%E8%84%91%E6%88%90%E7%B2%BE%E5%8C%96%E8%BA%AB%E4%BA%92%E8%81%94%E7%BD%91%E5%96%B7%E5%AD%90",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时47分 ~ 20时44分]"
+        },
+        {
+          "title": "37 岁工程师猝死时工作群仍在派活，生前常加班至凌晨，这种「停不下来」的死循环，究竟是谁在按下加速键？",
+          "url": "https://www.zhihu.com/question/2044735798428403181",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时47分 ~ 20时44分]"
         },
         {
           "title": "王鹤棣白鹿剧情人设引热议",
@@ -703,6 +758,29 @@
           "time_info": "12时18分"
         },
         {
+          "title": "正在直播解读中",
+          "url": "https://flash.jin10.com/detail/20260605204126864800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "浪姐直播",
+          "url": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E7%9B%B4%E6%92%AD&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时14分 ~ 20时44分]"
+        },
+        {
           "title": "追觅产业基金人士：目前基金运营一切正常，俞浩下午仍在群里发消息",
           "url": "https://wallstreetcn.com/livenews/3115002",
           "source": "华尔街见闻-快讯",
@@ -712,19 +790,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
-        },
-        {
-          "title": "黄仁勋刚抵韩就放“大招”：宣布存储“三巨头”的HBM4均获认证",
-          "url": "https://www.cls.cn/detail/2391784",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时47分 ~ 20时14分]"
         },
         {
           "title": "康康伦敦大师赛拍摄花絮",
@@ -747,6 +812,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
+        },
+        {
+          "title": "歌手直播",
+          "url": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E7%9B%B4%E6%92%AD&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时14分 ~ 20时44分]"
         },
         {
           "title": "英国首相发言人：斯塔默无意辞职。",
@@ -884,41 +961,16 @@
           "time_info": "[12时18分 ~ 13时22分]"
         },
         {
-          "title": "电脑成精化身互联网喷子",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354897&amp;topic_name=%E7%94%B5%E8%84%91%E6%88%90%E7%B2%BE%E5%8C%96%E8%BA%AB%E4%BA%92%E8%81%94%E7%BD%91%E5%96%B7%E5%AD%90",
-          "source": "贴吧",
+          "title": "【每日收评】创业板指放量跌超3%，多只AI硬件权重遭遇重挫，机器人概念逆势爆发",
+          "url": "https://www.cls.cn/detail/2391915",
+          "source": "财联社热门",
           "ranks": [
-            14,
-            15,
-            17
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时47分 ~ 20时14分]"
-        },
-        {
-          "title": "37 岁工程师猝死时工作群仍在派活，生前常加班至凌晨，这种「停不下来」的死循环，究竟是谁在按下加速键？",
-          "url": "https://www.zhihu.com/question/2044735798428403181",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时47分 ~ 20时14分]"
-        },
-        {
-          "title": "Mrbeast挑战北极生存7天",
-          "url": "https://search.bilibili.com/all?keyword=Mrbeast%E6%8C%91%E6%88%98%E5%8C%97%E6%9E%81%E7%94%9F%E5%AD%987%E5%A4%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时47分 ~ 20时14分]"
+          "time_info": "[17时58分 ~ 20时44分]"
         },
         {
           "title": "樊振东否认转型乒乓球解说",
@@ -930,6 +982,40 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时41分 ~ 07时15分]"
+        },
+        {
+          "title": "事关私募基金高质量发展 国办公布指导意见",
+          "url": "https://www.cls.cn/detail/2391950",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时14分 ~ 20时44分]"
+        },
+        {
+          "title": "深度详解“史上最大IPO”--SpaceX",
+          "url": "https://wallstreetcn.com/articles/3773924",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时14分 ~ 20时44分]"
+        },
+        {
+          "title": "摩托车驾驶员为博流量飙到高铁速度，警方通报",
+          "url": "https://news.ifeng.com/c/8tiI3jf70vb",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时14分 ~ 20时44分]"
         },
         {
           "title": "前5个月基金新开户数近160万，基金经理对后市普遍持乐观态度",
@@ -945,6 +1031,74 @@
           "time_info": "[06时42分 ~ 08时14分]"
         },
         {
+          "title": "网红打卡地，为了出片，踩踏麦田？",
+          "url": "https://news.ifeng.com/c/8tiIbtvGNiG",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时14分 ~ 20时44分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 98 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2046131640967984631",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时14分 ~ 20时44分]"
+        },
+        {
+          "title": "大批粉丝涌入头等舱围堵艺人，机组人员大喊劝阻被无视",
+          "url": "https://v.ifeng.com/c/8tiHvTP6nEz",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时14分 ~ 20时44分]"
+        },
+        {
+          "title": "官方叫停:录取通知回归一张纸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354907&amp;topic_name=%E5%AE%98%E6%96%B9%E5%8F%AB%E5%81%9C%3A%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E5%9B%9E%E5%BD%92%E4%B8%80%E5%BC%A0%E7%BA%B8",
+          "source": "贴吧",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时14分 ~ 20时44分]"
+        },
+        {
+          "title": "富途、老虎、长桥 3 家券商均已落地整治细则，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2046169196216547309",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时14分 ~ 20时44分]"
+        },
+        {
+          "title": "美国外卖机器人被当街暴打，该厂商曾称其要替代人工快递员，这一现象反映了哪些问题？",
+          "url": "https://www.zhihu.com/question/2045939490523276303",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时14分 ~ 20时44分]"
+        },
+        {
           "title": "网传的驱蛇神器是“智商税”吗",
           "url": "https://www.toutiao.com/trending/7647110924591579155/",
           "source": "今日头条",
@@ -955,6 +1109,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时23分 ~ 02时22分]"
+        },
+        {
+          "title": "儿科医生纪录片关注儿童意外伤害",
+          "url": "https://www.douyin.com/hot/2524359",
+          "source": "抖音",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时14分 ~ 20时44分]"
         },
         {
           "title": "三角洲ASVAL改法合集",
@@ -978,6 +1144,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时47分 ~ 16时48分]"
+        },
+        {
+          "title": "杭州非法试管婴儿事件最新通报",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E9%9D%9E%E6%B3%95%E8%AF%95%E7%AE%A1%E5%A9%B4%E5%84%BF%E4%BA%8B%E4%BB%B6%E6%9C%80%E6%96%B0%E9%80%9A%E6%8A%A5%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 20时44分]"
         },
         {
           "title": "27万元买车4年后发现是“假车”",
@@ -1060,18 +1237,6 @@
           "time_info": "[12时18分 ~ 13时22分]"
         },
         {
-          "title": "【每日收评】创业板指放量跌超3%，多只AI硬件权重遭遇重挫，机器人概念逆势爆发",
-          "url": "https://www.cls.cn/detail/2391915",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时58分 ~ 20时14分]"
-        },
-        {
           "title": "道指飙升近900点创历史新高",
           "url": "https://www.baidu.com/s?wd=%E9%81%93%E6%8C%87%E9%A3%99%E5%8D%87%E8%BF%91900%E7%82%B9%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
           "source": "百度热搜",
@@ -1092,6 +1257,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时58分 ~ 20时14分]"
+        },
+        {
+          "title": "创业板大跌超3%，机器人午后爆发，芯片半导体集体下挫，恒科指跌近2%，AI大模型股急跌",
+          "url": "https://wallstreetcn.com/articles/3773923",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 20时44分]"
         },
         {
           "title": "华尔街预计：SpaceX旗下AI业务收入到2030年将飙升100倍",
@@ -1127,6 +1303,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时13分 ~ 08时14分]"
+        },
+        {
+          "title": "私募业高质量发展18条出台！重点关注这十大要点",
+          "url": "https://www.cls.cn/detail/2392240",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 20时44分]"
         },
         {
           "title": "Lulumemon预计全年净营收110亿-111.5亿美元，公司原本预计113.5亿-115亿美元。",
@@ -1187,6 +1374,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时47分 ~ 06时42分]"
+        },
+        {
+          "title": "假如《楚门的世界》的主角摆烂了，会发生什么？",
+          "url": "https://www.zhihu.com/question/547938042",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 20时44分]"
+        },
+        {
+          "title": "正在直播中",
+          "url": "https://flash.jin10.com/detail/20260605195132311800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时14分 ~ 20时44分]"
         },
         {
           "title": "A股收评：创业板指放量跌超3%",
@@ -1311,37 +1520,15 @@
           "time_info": "08时14分"
         },
         {
-          "title": "事关私募基金高质量发展 国办公布指导意见",
-          "url": "https://www.cls.cn/detail/2391950",
-          "source": "财联社热门",
+          "title": "美国5月平均每小时工资同比 3.4%，预期 3.4%，前值 3.6%。",
+          "url": "https://wallstreetcn.com/livenews/3115137",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时14分"
-        },
-        {
-          "title": "浪姐直播",
-          "url": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E7%9B%B4%E6%92%AD&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时14分"
-        },
-        {
-          "title": "深度详解“史上最大IPO”--SpaceX",
-          "url": "https://wallstreetcn.com/articles/3773924",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时14分"
+          "time_info": "20时44分"
         },
         {
           "title": "据悉SpaceX锁定IPO发行价为135美元",
@@ -1353,17 +1540,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        },
-        {
-          "title": "摩托车驾驶员为博流量飙到高铁速度，警方通报",
-          "url": "https://news.ifeng.com/c/8tiI3jf70vb",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时14分"
         },
         {
           "title": "中国东航：6月5日回购公司0.01%股份",
@@ -1388,17 +1564,6 @@
           "time_info": "12时18分"
         },
         {
-          "title": "网红打卡地，为了出片，踩踏麦田？",
-          "url": "https://news.ifeng.com/c/8tiIbtvGNiG",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时14分"
-        },
-        {
           "title": "据港交所文件，腾讯控股(00700.HK)于6月5日回购110万股股份，耗资5.004亿港元。",
           "url": "https://flash.jin10.com/detail/20260605172833463800",
           "source": "金十数据",
@@ -1408,17 +1573,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
-        },
-        {
-          "title": "美以袭击伊朗进入第 98 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2046131640967984631",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时14分"
         },
         {
           "title": "终末地弭弗攻略",
@@ -1476,28 +1630,6 @@
           "time_info": "17时58分"
         },
         {
-          "title": "大批粉丝涌入头等舱围堵艺人，机组人员大喊劝阻被无视",
-          "url": "https://v.ifeng.com/c/8tiHvTP6nEz",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时14分"
-        },
-        {
-          "title": "官方叫停:录取通知回归一张纸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354907&amp;topic_name=%E5%AE%98%E6%96%B9%E5%8F%AB%E5%81%9C%3A%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E5%9B%9E%E5%BD%92%E4%B8%80%E5%BC%A0%E7%BA%B8",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时14分"
-        },
-        {
           "title": "日本4月加班工资年率 4.2%，前值1.9%。",
           "url": "https://flash.jin10.com/detail/20260605073002894800",
           "source": "金十数据",
@@ -1553,17 +1685,6 @@
           "time_info": "17时58分"
         },
         {
-          "title": "富途、老虎、长桥 3 家券商均已落地整治细则，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2046169196216547309",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时14分"
-        },
-        {
           "title": "潜水员戴夫团队官宣新作",
           "url": "https://search.bilibili.com/all?keyword=%E6%BD%9C%E6%B0%B4%E5%91%98%E6%88%B4%E5%A4%AB%E5%9B%A2%E9%98%9F%E5%AE%98%E5%AE%A3%E6%96%B0%E4%BD%9C",
           "source": "bilibili 热搜",
@@ -1597,6 +1718,17 @@
           "time_info": "16时48分"
         },
         {
+          "title": "美国10年期国债收益率在就业数据公布后上升，最新上涨4.7个基点至4.524%。2年期美债收益率最新上涨5.6个基点，报4.105%。",
+          "url": "https://flash.jin10.com/detail/20260605203338577800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "【国办：严格禁止私募基金违规从事借贷、“名股实债”等行为】国务院办公厅发布关于加强监管防范风险促进私募投资基金高质量发展的指导意见。意见提出，坚持目标导向和问题导向，针对私募基金行业准入机制有待完善、监管不到位、制度不健全、部际央地协调配合不足、部分政府投资基金和国有企业投资基金出资人责任落实不到位以及部分私募基金成为违法犯罪、新型腐败和隐性腐败工具等问题，构建加强监管、防范风险的制度体系和长效机制，推动行业在规范中发展、在发展中提升。坚守功能定位，统筹总体布局，优化增量、盘活存量，扶优限劣、提质增效，严格禁止私募基金违规从事借贷、“名股实债”等行为。坚持分类监管，根据出资主体、产品类型等不同维度实施“一类一策”监管。坚持既管合法更管非法，对合法机构从严监管，对非法机构坚决取缔，对非法行为严厉打击。绩和功能作用发挥为导向的激励约束制度。",
           "url": "https://wallstreetcn.com/livenews/3114983",
           "source": "华尔街见闻-快讯",
@@ -1606,6 +1738,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
+        },
+        {
+          "title": "美国5月平均每小时工资环比 0.3%，预期 0.3%，前值 0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3115130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "特朗普：愿见伊朗新最高领袖，“他在某些圈子里口碑不错”",
@@ -1658,7 +1801,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -1683,17 +1826,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
-        },
-        {
-          "title": "正在直播中",
-          "url": "https://flash.jin10.com/detail/20260605195132311800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时14分"
         },
         {
           "title": "周四（6月4日），美联储隔夜逆回购协议（RRP）使用规模为11.22亿美元（交易对手18家），上个交易日报20.62亿美元。",
@@ -1724,29 +1856,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时14分"
-        },
-        {
-          "title": "歌手直播",
-          "url": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E7%9B%B4%E6%92%AD&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时14分"
-        },
-        {
-          "title": "美国外卖机器人被当街暴打，该厂商曾称其要替代人工快递员，这一现象反映了哪些问题？",
-          "url": "https://www.zhihu.com/question/2045939490523276303",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -1768,7 +1878,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -1817,15 +1927,15 @@
           "time_info": "17时58分"
         },
         {
-          "title": "儿科医生纪录片关注儿童意外伤害",
-          "url": "https://www.douyin.com/hot/2524359",
-          "source": "抖音",
+          "title": "加拿大5月兼职就业人数变动 -6.62万人，前值 2.9万人。",
+          "url": "https://wallstreetcn.com/livenews/3115126",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时14分"
+          "time_info": "20时44分"
         },
         {
           "title": "追觅高管称旗下所有基金投资合规",
@@ -1834,7 +1944,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -1878,7 +1988,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -1903,6 +2013,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
+        },
+        {
+          "title": "提醒：北京时间20:30，将公布美国5月非农就业报告（含就业人口、失业率、平均每小时工资），加拿大5月就业报告。",
+          "url": "https://wallstreetcn.com/livenews/3115124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年6月5日 周五",
@@ -2010,7 +2131,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -2043,7 +2164,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -2065,7 +2186,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -2076,7 +2197,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
