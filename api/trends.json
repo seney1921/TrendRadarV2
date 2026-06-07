@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T22:02:45.566507+08:00",
+  "generated_at": "2026-06-07T22:07:47.833286+08:00",
   "total_titles_processed": 1230,
   "failed_sources": [],
   "trends": [
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时10分 ~ 22时02分]"
+          "appearance_count": 16,
+          "time_info": "[00时10分 ~ 22时07分]"
         },
         {
           "title": "2026年全国高考今日开考，这些新变化值得关注",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时25分 ~ 22时02分]"
+          "appearance_count": 10,
+          "time_info": "[13时25分 ~ 22时07分]"
         },
         {
           "title": "【早报】吴清发声！事关程序化交易、公募基金等；金饰价格跌回2025年水平",
@@ -39,8 +39,34 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时25分 ~ 22时02分]"
+          "appearance_count": 10,
+          "time_info": "[13时25分 ~ 22时07分]"
+        },
+        {
+          "title": "菲防长绕后厨躲中国记者幕后：其代表团成员回头辱骂",
+          "url": "https://news.ifeng.com/c/8tkyLaYQWuL",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时25分 ~ 22时07分]"
+        },
+        {
+          "title": "直播丨刚出炉！2026高考作文难不难？名校教授在线破译高分密码",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33299522",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时19分 ~ 22时07分]"
         },
         {
           "title": "吴清：公募基金要坚决遏制赌押赛道、风格漂移、高位发行等顽疾",
@@ -57,16 +83,18 @@
           "time_info": "[00时10分 ~ 13时26分]"
         },
         {
-          "title": "菲防长绕后厨躲中国记者幕后：其代表团成员回头辱骂",
-          "url": "https://news.ifeng.com/c/8tkyLaYQWuL",
-          "source": "凤凰网",
+          "title": "剧情太上头,re0热度断档登顶",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354933&amp;topic_name=%E5%89%A7%E6%83%85%E5%A4%AA%E4%B8%8A%E5%A4%B4%2Cre0%E7%83%AD%E5%BA%A6%E6%96%AD%E6%A1%A3%E7%99%BB%E9%A1%B6",
+          "source": "贴吧",
           "ranks": [
-            6,
-            5
+            3,
+            10,
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时25分 ~ 22时02分]"
+          "appearance_count": 10,
+          "time_info": "[13时25分 ~ 22时07分]"
         },
         {
           "title": "陶勇称近视手术是「掩耳盗铃」，强调近视是不可逆致盲眼病，这一说法合理吗？有哪些预防近视方法吗？",
@@ -82,20 +110,6 @@
           "time_info": "[00时10分 ~ 08时12分]"
         },
         {
-          "title": "直播丨刚出炉！2026高考作文难不难？名校教授在线破译高分密码",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33299522",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时19分 ~ 22时02分]"
-        },
-        {
           "title": "【早报】国常会最新部署！事关未来产业；事关私募基金高质量发展，国办公布指导意见",
           "url": "https://www.cls.cn/detail/2392513",
           "source": "财联社热门",
@@ -106,8 +120,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时10分 ~ 22时02分]"
+          "appearance_count": 16,
+          "time_info": "[00时10分 ~ 22时07分]"
         },
         {
           "title": "图说｜一声秦腔，《主角》取景地文旅流量破圈生长",
@@ -136,18 +150,19 @@
           "time_info": "[00时10分 ~ 17时25分]"
         },
         {
-          "title": "剧情太上头,re0热度断档登顶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354933&amp;topic_name=%E5%89%A7%E6%83%85%E5%A4%AA%E4%B8%8A%E5%A4%B4%2Cre0%E7%83%AD%E5%BA%A6%E6%96%AD%E6%A1%A3%E7%99%BB%E9%A1%B6",
-          "source": "贴吧",
+          "title": "我的高考｜两次高考两度考研，三甲医院科室主任坚信“人生处处可翻盘”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33314464",
+          "source": "澎湃新闻",
           "ranks": [
-            3,
-            10,
+            13,
             14,
-            16
+            12,
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时25分 ~ 22时02分]"
+          "appearance_count": 10,
+          "time_info": "[13时25分 ~ 22时07分]"
         },
         {
           "title": "打工人为节省时间手搓「人粮」，食材批量加工后用微波炉复热，营养价值如何？如何看待这种生活方式？",
@@ -175,8 +190,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时10分 ~ 22时02分]"
+          "appearance_count": 16,
+          "time_info": "[00时10分 ~ 22时07分]"
         },
         {
           "title": "日本宅男去世,满屋收藏变垃圾",
@@ -192,21 +207,6 @@
           "time_info": "[00时10分 ~ 17时25分]"
         },
         {
-          "title": "我的高考｜两次高考两度考研，三甲医院科室主任坚信“人生处处可翻盘”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33314464",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            12,
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时25分 ~ 22时02分]"
-        },
-        {
           "title": "官方拟规定 9 种情形可提取公积金，新增装修、支付物业费等，将带来哪些影响？",
           "url": "https://www.zhihu.com/question/2046366435539260174",
           "source": "知乎",
@@ -216,8 +216,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时19分 ~ 22时02分]"
+          "appearance_count": 8,
+          "time_info": "[17时19分 ~ 22时07分]"
         },
         {
           "title": "报道：黄仁勋周日将会见韩国游戏公司CEO，SK海力士老板回应HBM会谈提问，预告“下周另有安排”",
@@ -234,6 +234,19 @@
           "time_info": "[02时10分 ~ 13时26分]"
         },
         {
+          "title": "张忆东：警惕6月10-18日变盘点！6-8月“夏日寒风”，活着最重要、勿加杠杆；快则8月慢则9月，恒科恒指有望随A股迎主升浪",
+          "url": "https://wallstreetcn.com/articles/3774033",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时19分 ~ 22时07分]"
+        },
+        {
           "title": "保送生第一个出考场称来体验下",
           "url": "https://www.toutiao.com/trending/7648538650631949870/",
           "source": "今日头条",
@@ -243,6 +256,42 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时19分 ~ 17时25分]"
+        },
+        {
+          "title": "官方辟谣游客三亚拍照遭拦路收费",
+          "url": "https://www.toutiao.com/trending/7647381702306775086/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时19分 ~ 22时07分]"
+        },
+        {
+          "title": "抖音直播群星绽放季",
+          "url": "https://www.douyin.com/hot/2526127",
+          "source": "抖音",
+          "ranks": [
+            19,
+            18,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时19分 ~ 22时07分]"
+        },
+        {
+          "title": "专家辟谣外卖用的是人造大米",
+          "url": "https://www.douyin.com/hot/2525462",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时19分 ~ 22时07分]"
         },
         {
           "title": "Bin哥摆烂原因:薪水太低",
@@ -328,53 +377,16 @@
           "time_info": "[17时19分 ~ 17时25分]"
         },
         {
-          "title": "张忆东：警惕6月10-18日变盘点！6-8月“夏日寒风”，活着最重要、勿加杠杆；快则8月慢则9月，恒科恒指有望随A股迎主升浪",
-          "url": "https://wallstreetcn.com/articles/3774033",
-          "source": "华尔街见闻",
+          "title": "iPhone用户的崩溃瞬间",
+          "url": "https://s.weibo.com/weibo?q=iPhone%E7%94%A8%E6%88%B7%E7%9A%84%E5%B4%A9%E6%BA%83%E7%9E%AC%E9%97%B4&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
-            10,
-            9,
-            7
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时19分 ~ 22时02分]"
-        },
-        {
-          "title": "官方辟谣游客三亚拍照遭拦路收费",
-          "url": "https://www.toutiao.com/trending/7647381702306775086/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时19分 ~ 22时02分]"
-        },
-        {
-          "title": "抖音直播群星绽放季",
-          "url": "https://www.douyin.com/hot/2526127",
-          "source": "抖音",
-          "ranks": [
-            19,
-            18,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时19分 ~ 22时02分]"
-        },
-        {
-          "title": "专家辟谣外卖用的是人造大米",
-          "url": "https://www.douyin.com/hot/2525462",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时19分 ~ 22时02分]"
+          "appearance_count": 5,
+          "time_info": "[19时51分 ~ 22时07分]"
         },
         {
           "title": "送考家长满脸尴尬：全家都起晚了",
@@ -421,6 +433,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时10分 ~ 08时12分]"
+        },
+        {
+          "title": "冲刺IPO！本源量子完成30亿元融资",
+          "url": "https://wallstreetcn.com/livenews/3115572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时07分]"
+        },
+        {
+          "title": "清洁低碳氢煤混烧技术取得重大突破",
+          "url": "https://www.douyin.com/hot/2526517",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时07分]"
         },
         {
           "title": "《新闻联播》正在直播",
@@ -470,18 +504,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时10分 ~ 08时12分]"
-        },
-        {
-          "title": "iPhone用户的崩溃瞬间",
-          "url": "https://s.weibo.com/weibo?q=iPhone%E7%94%A8%E6%88%B7%E7%9A%84%E5%B4%A9%E6%BA%83%E7%9E%AC%E9%97%B4&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时51分 ~ 22时02分]"
         },
         {
           "title": "韩国游客暑期涌向中国：一旅行社赴华预订量同比上涨105%",
@@ -563,26 +585,16 @@
           "time_info": "[00时10分 ~ 08时12分]"
         },
         {
-          "title": "冲刺IPO！本源量子完成30亿元融资",
-          "url": "https://wallstreetcn.com/livenews/3115572",
-          "source": "华尔街见闻-快讯",
+          "title": "浪姐直播",
+          "url": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E7%9B%B4%E6%92%AD&t=31&band_rank=6&Refer=top",
+          "source": "微博",
           "ranks": [
-            3
+            6,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "清洁低碳氢煤混烧技术取得重大突破",
-          "url": "https://www.douyin.com/hot/2526517",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时51分 ~ 22时07分]"
         },
         {
           "title": "网红“阿全哥”车祸离世留下4个孩子",
@@ -600,6 +612,18 @@
           "time_info": "[00时10分 ~ 08时09分]"
         },
         {
+          "title": "世界杯签证问题持续，多国记者及伊朗队成员仍未获赴美签证",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33327810",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时51分 ~ 22时07分]"
+        },
+        {
           "title": "老人为申请补贴每月拍照证明还活着",
           "url": "https://www.toutiao.com/trending/7648123742825480238/",
           "source": "今日头条",
@@ -614,16 +638,15 @@
           "time_info": "[00时10分 ~ 08时09分]"
         },
         {
-          "title": "浪姐直播",
-          "url": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E7%9B%B4%E6%92%AD&t=31&band_rank=6&Refer=top",
-          "source": "微博",
+          "title": "扛住了柴米油盐的麻烦转场挑战",
+          "url": "https://www.douyin.com/hot/2526193",
+          "source": "抖音",
           "ranks": [
-            6,
-            28
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时51分 ~ 22时02分]"
+          "appearance_count": 5,
+          "time_info": "[19时51分 ~ 22时07分]"
         },
         {
           "title": "清华682分学霸分享考前唯一建议",
@@ -638,29 +661,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时10分 ~ 08时09分]"
-        },
-        {
-          "title": "世界杯签证问题持续，多国记者及伊朗队成员仍未获赴美签证",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33327810",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时51分 ~ 22时02分]"
-        },
-        {
-          "title": "扛住了柴米油盐的麻烦转场挑战",
-          "url": "https://www.douyin.com/hot/2526193",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时51分 ~ 22时02分]"
         },
         {
           "title": "郑州一高考生：数学比二模简单",
@@ -732,6 +732,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时51分 ~ 19时54分]"
+        },
+        {
+          "title": "618进行时·VIP直降1000！",
+          "url": "https://flash.jin10.com/detail/20260606204231959800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 22时07分]"
         },
         {
           "title": "网红边牧锄头鉴定价值超2000元",
@@ -815,6 +827,17 @@
           "time_info": "[00时10分 ~ 02时10分]"
         },
         {
+          "title": "女子多次恶意退款 健身时被抓",
+          "url": "https://www.toutiao.com/trending/7648566243914186788/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时07分]"
+        },
+        {
           "title": "本手妙手俗手 年年破防",
           "url": "https://s.weibo.com/weibo?q=%E6%9C%AC%E6%89%8B%E5%A6%99%E6%89%8B%E4%BF%97%E6%89%8B%20%E5%B9%B4%E5%B9%B4%E7%A0%B4%E9%98%B2&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -837,6 +860,17 @@
           "time_info": "[19时52分 ~ 19时54分]"
         },
         {
+          "title": "金十整理：下周重要事件与数据预告——中国贸易帐、CPI和PPI陆续公布；美国CPI；苹果WWDC开发者大会、华为开发者大会轮番上演、SpaceX上市",
+          "url": "https://flash.jin10.com/detail/20260607205913944800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时07分]"
+        },
+        {
           "title": "海南考生说语文作文题目很简单",
           "url": "https://www.toutiao.com/trending/7648117132967297066/",
           "source": "今日头条",
@@ -846,18 +880,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时25分 ~ 13时26分]"
-        },
-        {
-          "title": "618进行时·VIP直降1000！",
-          "url": "https://flash.jin10.com/detail/20260606204231959800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 22时02分]"
         },
         {
           "title": "燃油成本飙升施压航空业 英航称票价或再上调",
@@ -950,17 +972,6 @@
           "time_info": "13时26分"
         },
         {
-          "title": "女子多次恶意退款 健身时被抓",
-          "url": "https://www.toutiao.com/trending/7648566243914186788/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
           "title": "归唐夏日游戏节全新预告",
           "url": "https://search.bilibili.com/all?keyword=%E5%BD%92%E5%94%90%E5%A4%8F%E6%97%A5%E6%B8%B8%E6%88%8F%E8%8A%82%E5%85%A8%E6%96%B0%E9%A2%84%E5%91%8A",
           "source": "bilibili 热搜",
@@ -970,17 +981,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
-        },
-        {
-          "title": "金十整理：下周重要事件与数据预告——中国贸易帐、CPI和PPI陆续公布；美国CPI；苹果WWDC开发者大会、华为开发者大会轮番上演、SpaceX上市",
-          "url": "https://flash.jin10.com/detail/20260607205913944800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
         },
         {
           "title": "Boaster直播复盘大师赛",
