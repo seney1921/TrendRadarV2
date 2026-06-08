@@ -1,22 +1,58 @@
 {
-  "generated_at": "2026-06-09T00:05:50.923134+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-06-09T01:59:16.862761+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 27,
+      "match_count": 38,
       "titles": [
         {
           "title": "全球科技股急跌，黄仁勋喊话：能折价买股票 你应该感到高兴",
           "url": "https://www.cls.cn/detail/2393791",
           "source": "财联社热门",
           "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时59分]"
+        },
+        {
+          "title": "不少程序员为完成工作自费购买 AI Token 、变相付费上班，这算不算职场隐形降薪？",
+          "url": "https://www.zhihu.com/question/2047267736485631665",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时59分]"
+        },
+        {
+          "title": "为什么面试要填家庭成员信息",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9D%A2%E8%AF%95%E8%A6%81%E5%A1%AB%E5%AE%B6%E5%BA%AD%E6%88%90%E5%91%98%E4%BF%A1%E6%81%AF&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时59分]"
+        },
+        {
+          "title": "连获2个30cm涨停！机器人热股逼近新高，大号连板股年内盘点，这些板块占比领先",
+          "url": "https://www.cls.cn/detail/2393742",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时59分]"
         },
         {
           "title": "SpaceX IPO据悉获大幅超额认购",
@@ -30,15 +66,15 @@
           "time_info": "00时05分"
         },
         {
-          "title": "浪七暂停浪三强势回归",
-          "url": "https://s.weibo.com/weibo?q=%E6%B5%AA%E4%B8%83%E6%9A%82%E5%81%9C%E6%B5%AA%E4%B8%89%E5%BC%BA%E5%8A%BF%E5%9B%9E%E5%BD%92&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "苹果公司：Siri AI将登陆iPadOS。 为watchOS打造专属Siri AI。 将Visual Intelligence（视觉智能）拓展至Mac。",
+          "url": "https://wallstreetcn.com/livenews/3116305",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时05分"
+          "time_info": "01时59分"
         },
         {
           "title": "据以色列i24新闻台：以色列后方司令部宣布，从明早6点起，除北部社区外，全国范围内的所有聚集限制将被解除。",
@@ -52,37 +88,51 @@
           "time_info": "00时05分"
         },
         {
-          "title": "不少程序员为完成工作自费购买 AI Token 、变相付费上班，这算不算职场隐形降薪？",
-          "url": "https://www.zhihu.com/question/2047267736485631665",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "连获2个30cm涨停！机器人热股逼近新高，大号连板股年内盘点，这些板块占比领先",
-          "url": "https://www.cls.cn/detail/2393742",
-          "source": "财联社热门",
+          "title": "苹果(AAPL.O)：写作工具功能更强大，并已深度融入Siri体验。",
+          "url": "https://flash.jin10.com/detail/20260609015115310800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时05分"
+          "time_info": "01时59分"
         },
         {
-          "title": "为什么面试要填家庭成员信息",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9D%A2%E8%AF%95%E8%A6%81%E5%A1%AB%E5%AE%B6%E5%BA%AD%E6%88%90%E5%91%98%E4%BF%A1%E6%81%AF&t=31&band_rank=5&Refer=top",
+          "title": "浪七暂停浪三强势回归",
+          "url": "https://s.weibo.com/weibo?q=%E6%B5%AA%E4%B8%83%E6%9A%82%E5%81%9C%E6%B5%AA%E4%B8%89%E5%BC%BA%E5%8A%BF%E5%9B%9E%E5%BD%92&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时59分]"
+        },
+        {
+          "title": "双胞胎姐妹遭袭一死一伤案最新进展",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E9%81%AD%E8%A2%AD%E4%B8%80%E6%AD%BB%E4%B8%80%E4%BC%A4%E6%A1%88%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时59分]"
+        },
+        {
+          "title": "如何看待乌贼、肘子、天下霸唱、猫腻等网络作家发起的反抄袭倡议书? 网文的抄袭到底该如何整治？",
+          "url": "https://www.zhihu.com/question/2047333025197904792",
+          "source": "知乎",
+          "ranks": [
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时59分]"
         },
         {
           "title": "年年破防,22届考生没完了",
@@ -92,8 +142,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时59分]"
         },
         {
           "title": "创业板重挫超3%，芯片半导体集体下跌，机器人逆势拉升，恒科指跌超2%，沪银狂泻10%",
@@ -103,8 +153,145 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时59分]"
+        },
+        {
+          "title": "滤镜失效,女主播靠真容圈粉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354961&amp;topic_name=%E6%BB%A4%E9%95%9C%E5%A4%B1%E6%95%88%2C%E5%A5%B3%E4%B8%BB%E6%92%AD%E9%9D%A0%E7%9C%9F%E5%AE%B9%E5%9C%88%E7%B2%89",
+          "source": "贴吧",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时59分]"
+        },
+        {
+          "title": "住房公积金管理条例修订征求意见，新增装修、物业费等用途，并允许灵活就业人员自愿缴存，如何解读？",
+          "url": "https://www.zhihu.com/question/2046903500739700675",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时59分]"
+        },
+        {
+          "title": "住建部：城市更新“十五五”规划提出10项主要指标，23项重点任务",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33331903",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时59分]"
+        },
+        {
+          "title": "为什么感觉今年高考氛围淡淡的，往年提前半个月互联网就预热了，今年似乎大家都不太关注了，这是怎么回事？",
+          "url": "https://www.zhihu.com/question/2046272383623881620",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时59分]"
+        },
+        {
+          "title": "想要问问你敢不敢转场挑战",
+          "url": "https://www.douyin.com/hot/2526945",
+          "source": "抖音",
+          "ranks": [
+            24,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时59分]"
+        },
+        {
+          "title": "为什么我的外卖总比别人贵？是账号权重问题吗？",
+          "url": "https://www.zhihu.com/question/2046542489666990525",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时59分]"
+        },
+        {
+          "title": "不如同人,女神4RE立绘翻车",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354951&amp;topic_name=%E4%B8%8D%E5%A6%82%E5%90%8C%E4%BA%BA%2C%E5%A5%B3%E7%A5%9E4RE%E7%AB%8B%E7%BB%98%E7%BF%BB%E8%BD%A6",
+          "source": "贴吧",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时59分]"
+        },
+        {
+          "title": "开团!起点作家联名反抄袭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354974&amp;topic_name=%E5%BC%80%E5%9B%A2%21%E8%B5%B7%E7%82%B9%E4%BD%9C%E5%AE%B6%E8%81%94%E5%90%8D%E5%8F%8D%E6%8A%84%E8%A2%AD",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时59分]"
+        },
+        {
+          "title": "浪姐7四公跨团合作解说",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B5%AA%E5%A7%907%E5%9B%9B%E5%85%AC%E8%B7%A8%E5%9B%A2%E5%90%88%E4%BD%9C%E8%A7%A3%E8%AF%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时59分]"
+        },
+        {
+          "title": "苹果(AAPL.O)：Siri AI将登陆iPadOS。",
+          "url": "https://flash.jin10.com/detail/20260609014651841800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时05分"
+          "time_info": "01时59分"
+        },
+        {
+          "title": "法官驳回美国总统特朗普政府的10万美元H-1B签证费用制度。",
+          "url": "https://wallstreetcn.com/livenews/3116296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时59分"
+        },
+        {
+          "title": "美国法官叫停特朗普10万美元H-1B签证收费令",
+          "url": "https://flash.jin10.com/detail/20260609014412648800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时59分"
         },
         {
           "title": "美国纽约联储最新调查结果显示，美国5月一年期通胀预期下降至3.46%，前值3.64%。 5月三年期通胀预期持稳于3.1%，五年期通胀预期持稳于3%。 5月家庭财务前景创2022年以来最差。 5月失业预期上升，求职预期下滑。 5月离职率预期创2023年2月份以来新高。 5月房价涨幅预期创2022年7月份以来新高。",
@@ -118,108 +305,75 @@
           "time_info": "00时05分"
         },
         {
-          "title": "滤镜失效,女主播靠真容圈粉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354961&amp;topic_name=%E6%BB%A4%E9%95%9C%E5%A4%B1%E6%95%88%2C%E5%A5%B3%E4%B8%BB%E6%92%AD%E9%9D%A0%E7%9C%9F%E5%AE%B9%E5%9C%88%E7%B2%89",
-          "source": "贴吧",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "住建部：城市更新“十五五”规划提出10项主要指标，23项重点任务",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33331903",
-          "source": "澎湃新闻",
+          "title": "周一（6月8日），美联储隔夜逆回购协议（RRP）使用规模为18.32亿美元（交易对手16家），上个交易日（非农日）报7.61亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3116292",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时05分"
+          "time_info": "01时59分"
         },
         {
-          "title": "住房公积金管理条例修订征求意见，新增装修、物业费等用途，并允许灵活就业人员自愿缴存，如何解读？",
-          "url": "https://www.zhihu.com/question/2046903500739700675",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "如何看待乌贼、肘子、天下霸唱、猫腻等网络作家发起的反抄袭倡议书? 网文的抄袭到底该如何整治？",
-          "url": "https://www.zhihu.com/question/2047333025197904792",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "为什么感觉今年高考氛围淡淡的，往年提前半个月互联网就预热了，今年似乎大家都不太关注了，这是怎么回事？",
-          "url": "https://www.zhihu.com/question/2046272383623881620",
-          "source": "知乎",
+          "title": "又一国产减肥药挑战司美格鲁肽",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%88%E4%B8%80%E5%9B%BD%E4%BA%A7%E5%87%8F%E8%82%A5%E8%8D%AF%E6%8C%91%E6%88%98%E5%8F%B8%E7%BE%8E%E6%A0%BC%E9%B2%81%E8%82%BD",
+          "source": "百度热搜",
           "ranks": [
             16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时05分"
+          "time_info": "01时59分"
         },
         {
-          "title": "不如同人,女神4RE立绘翻车",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354951&amp;topic_name=%E4%B8%8D%E5%A6%82%E5%90%8C%E4%BA%BA%2C%E5%A5%B3%E7%A5%9E4RE%E7%AB%8B%E7%BB%98%E7%BF%BB%E8%BD%A6",
-          "source": "贴吧",
+          "title": "Blue Owl旗下遭赎回冲击的私募信贷基金拟发债融资5亿美元",
+          "url": "https://wallstreetcn.com/livenews/3116289",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时05分"
+          "time_info": "01时59分"
         },
         {
-          "title": "双胞胎姐妹遭袭一死一伤案最新进展",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E9%81%AD%E8%A2%AD%E4%B8%80%E6%AD%BB%E4%B8%80%E4%BC%A4%E6%A1%88%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "苹果(AAPL.O)：推出全新语音体验，让Siri的声音更具表现力。",
+          "url": "https://flash.jin10.com/detail/20260609013849739800",
+          "source": "金十数据",
           "ranks": [
-            18
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时05分"
+          "time_info": "01时59分"
         },
         {
-          "title": "开团!起点作家联名反抄袭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354974&amp;topic_name=%E5%BC%80%E5%9B%A2%21%E8%B5%B7%E7%82%B9%E4%BD%9C%E5%AE%B6%E8%81%94%E5%90%8D%E5%8F%8D%E6%8A%84%E8%A2%AD",
-          "source": "贴吧",
+          "title": "苹果宣布MacOS 27 Golden Gate，称：MacOS的下一个版本是Golden Gate。 iOS 27将可以应用至最早为iPhone 11的机型。 iOS 27扩展iCloud功能，用户可以从安卓和 Windows 10、Windows 11 设备上共享近期出游拍摄的照片和视频，并且支持全分辨率共享。",
+          "url": "https://wallstreetcn.com/livenews/3116287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时59分"
+        },
+        {
+          "title": "苹果(AAPL.O)在WWDC大会上发布新AI功能后，最新股价上涨1.8%。",
+          "url": "https://flash.jin10.com/detail/20260609013835832800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时05分"
+          "time_info": "01时59分"
         },
         {
           "title": "考生许愿台湾早日回归",
           "url": "https://s.weibo.com/weibo?q=%23%E8%80%83%E7%94%9F%E8%AE%B8%E6%84%BF%E5%8F%B0%E6%B9%BE%E6%97%A9%E6%97%A5%E5%9B%9E%E5%BD%92%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "为什么我的外卖总比别人贵？是账号权重问题吗？",
-          "url": "https://www.zhihu.com/question/2046542489666990525",
-          "source": "知乎",
           "ranks": [
             20
           ],
@@ -244,28 +398,6 @@
           "source": "百度热搜",
           "ranks": [
             22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "想要问问你敢不敢转场挑战",
-          "url": "https://www.douyin.com/hot/2526945",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "浪姐7四公跨团合作解说",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B5%AA%E5%A7%907%E5%9B%9B%E5%85%AC%E8%B7%A8%E5%9B%A2%E5%90%88%E4%BD%9C%E8%A7%A3%E8%AF%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
           ],
           "is_new": false,
           "appearance_count": 1,
