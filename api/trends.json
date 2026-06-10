@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T12:15:39.433770+08:00",
-  "total_titles_processed": 946,
+  "generated_at": "2026-06-10T13:24:17.783699+08:00",
+  "total_titles_processed": 1045,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 72,
+      "match_count": 79,
       "titles": [
         {
           "title": "A股市场掀增持回购“小高潮”，药明康德、江淮汽车等宣布回购股份",
@@ -143,11 +143,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 12时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 13时24分]"
         },
         {
           "title": "瘦的真相就两个字扛饿",
@@ -180,6 +181,19 @@
           "time_info": "[00时09分 ~ 08时19分]"
         },
         {
+          "title": "贼喊捉贼,鹤守倡议反抄袭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354992&amp;topic_name=%E8%B4%BC%E5%96%8A%E6%8D%89%E8%B4%BC%2C%E9%B9%A4%E5%AE%88%E5%80%A1%E8%AE%AE%E5%8F%8D%E6%8A%84%E8%A2%AD",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 13时24分]"
+        },
+        {
           "title": "浙A255T0为你点赞",
           "url": "https://www.baidu.com/s?wd=%E6%B5%99A255T0%E4%B8%BA%E4%BD%A0%E7%82%B9%E8%B5%9E",
           "source": "百度热搜",
@@ -190,18 +204,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时01分 ~ 08时19分]"
-        },
-        {
-          "title": "贼喊捉贼,鹤守倡议反抄袭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354992&amp;topic_name=%E8%B4%BC%E5%96%8A%E6%8D%89%E8%B4%BC%2C%E9%B9%A4%E5%AE%88%E5%80%A1%E8%AE%AE%E5%8F%8D%E6%8A%84%E8%A2%AD",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 12时15分]"
         },
         {
           "title": "新质观察｜从“跟风”到“原创”：中国创新药如何筑牢地基",
@@ -234,11 +236,12 @@
           "source": "贴吧",
           "ranks": [
             17,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 12时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 13时24分]"
         },
         {
           "title": "年年破防,22届考生没完了",
@@ -246,11 +249,24 @@
           "source": "贴吧",
           "ranks": [
             26,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 12时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 13时24分]"
+        },
+        {
+          "title": "人形机器人价格大跳水，比iPhone还便宜",
+          "url": "https://wallstreetcn.com/articles/3774234",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[05时01分 ~ 13时24分]"
         },
         {
           "title": "37次“即将达成”！特朗普不断预告伊朗协议，却一次次落空",
@@ -266,18 +282,6 @@
           "time_info": "[03时21分 ~ 08时19分]"
         },
         {
-          "title": "人形机器人价格大跳水，比iPhone还便宜",
-          "url": "https://wallstreetcn.com/articles/3774234",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时01分 ~ 12时15分]"
-        },
-        {
           "title": "SpaceX的IPO据悉已获得数倍超额认购",
           "url": "https://flash.jin10.com/detail/20260609234423996800",
           "source": "金十数据",
@@ -287,6 +291,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 00时10分]"
+        },
+        {
+          "title": "世纪IPO炸场！报道：SpaceX认购规模狂飙至2500亿美元，近四倍超额认购",
+          "url": "https://wallstreetcn.com/articles/3774260",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时24分]"
+        },
+        {
+          "title": "创业板指盘中跌超3%，沪指现跌0.98%；减速器、电力、光伏设备、煤炭开采等板块跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260610130218087800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "想要问问你敢不敢转场挑战",
@@ -313,26 +339,48 @@
           "time_info": "[00时01分 ~ 03时21分]"
         },
         {
+          "title": "鹅腿阿姨事件 朝阳群众从未翻车",
+          "url": "https://s.weibo.com/weibo?q=%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E4%BA%8B%E4%BB%B6%20%E6%9C%9D%E9%98%B3%E7%BE%A4%E4%BC%97%E4%BB%8E%E6%9C%AA%E7%BF%BB%E8%BD%A6&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "创业板指跌超3%，沪指跌0.85%，深成指跌2.53%。有色金属、电网、光伏、消费电子、算力硬件等方向跌幅居前，沪深京三市下跌个股近4500只。",
+          "url": "https://wallstreetcn.com/livenews/3117235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "年轻人为啥开始攒“外卖袋”",
           "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E5%95%A5%E5%BC%80%E5%A7%8B%E6%94%92%E2%80%9C%E5%A4%96%E5%8D%96%E8%A2%8B%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
         {
-          "title": "世纪IPO炸场！报道：SpaceX认购规模狂飙至2500亿美元，近四倍超额认购",
-          "url": "https://wallstreetcn.com/articles/3774260",
-          "source": "华尔街见闻",
+          "title": "茅台股东大会报到酒店多房型售罄，仅剩4999元房间可定",
+          "url": "https://wallstreetcn.com/livenews/3117230",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时15分"
+          "time_info": "13时24分"
         },
         {
           "title": "博士UP主挑战高考数学",
@@ -447,6 +495,19 @@
           "time_info": "[00时01分 ~ 00时10分]"
         },
         {
+          "title": "提醒：日内请重点关注（以下均为北京时间）",
+          "url": "https://wallstreetcn.com/livenews/3117054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 13时24分]"
+        },
+        {
           "title": "莫离直播弹幕",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8E%AB%E7%A6%BB%E7%9B%B4%E6%92%AD%E5%BC%B9%E5%B9%95%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -456,6 +517,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时01分 ~ 05时52分]"
+        },
+        {
+          "title": "清北网红鹅腿阿姨被扒卖的是鸭腿，阿姨回应只是外号，这种行为涉嫌虚假宣传吗？能从口感上分辨出鹅鸭腿吗？",
+          "url": "https://www.zhihu.com/question/2047946806793696818",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时24分]"
+        },
+        {
+          "title": "IPO前“秀肌肉”：Anthropic推出最强公开模型Fable 5，戴安全枷锁解封Mythos级能力",
+          "url": "https://wallstreetcn.com/articles/3774258",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时24分]"
         },
         {
           "title": "周二（6月9日），美联储隔夜逆回购协议（RRP）使用规模为5.77亿美元（交易对手13家），上个交易日报18.32亿美元。",
@@ -482,16 +567,16 @@
           "time_info": "[02时18分 ~ 03时21分]"
         },
         {
-          "title": "提醒：日内请重点关注（以下均为北京时间）",
-          "url": "https://wallstreetcn.com/livenews/3117054",
-          "source": "华尔街见闻-快讯",
+          "title": "美以袭击伊朗进入第 103 天，当前局势如何？有哪些值得关注的信息？",
+          "url": "https://www.zhihu.com/question/2047888566534067312",
+          "source": "知乎",
           "ranks": [
-            9,
-            25
+            13,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时22分 ~ 08时19分]"
+          "time_info": "[12时15分 ~ 13时24分]"
         },
         {
           "title": "据知情人士透露，SpaceX美国IPO获得多倍超额认购。（彭博）",
@@ -503,6 +588,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 00时10分]"
+        },
+        {
+          "title": "上证指数早盘收报3986.66点，跌0.58%。 深证成指早盘收报14972.75点，跌1.94%。 创业板指早盘收报3870.83点，跌2.29%。 沪深300早盘收报4754.80点，跌0.98%。 科创50早盘收报1662.81点，跌0.02%。 中证500早盘收报8052.83点，跌1.51%。 中证1000早盘收报8176.14点，跌1.71%。",
+          "url": "https://wallstreetcn.com/livenews/3117200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时24分]"
+        },
+        {
+          "title": "6月10日午间收评：创业板指半日跌超2%，全市场下跌个股超4300只",
+          "url": "https://wallstreetcn.com/livenews/3117199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时24分]"
         },
         {
           "title": "Prosus于6月5日当周按均价40.7439欧元回购股票263.1597万股，合计超过1.072亿欧元（折合超1.245亿美元）。 Naspers同期按均价889.6830南非兰特回购90.5808万股，合计将近8.059亿兰特（折合将近0.495亿美元）。",
@@ -526,6 +635,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时52分 ~ 06时46分]"
+        },
+        {
+          "title": "黄晓明二战上戏博士，上岸！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33341922",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时24分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850547&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/DHZMW3QcAvif7iwXSllRk.jpg/lite\" height=\"120\"/></a>",
@@ -573,6 +694,17 @@
           "time_info": "[00时09分 ~ 00时10分]"
         },
         {
+          "title": "Angel手语舞挑战",
+          "url": "https://www.douyin.com/hot/2529054",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时24分]"
+        },
+        {
           "title": "据英国金融时报：英国首相斯塔默计划要求内阁成员，如果他们在工党领袖竞选中支持安迪·伯纳姆或其他竞争对手，就必须辞职；此举可能会使他的政府陷入混乱。",
           "url": "https://flash.jin10.com/detail/20260610012415340800",
           "source": "金十数据",
@@ -584,24 +716,13 @@
           "time_info": "02时18分"
         },
         {
-          "title": "清北网红鹅腿阿姨被扒卖的是鸭腿，阿姨回应只是外号，这种行为涉嫌虚假宣传吗？能从口感上分辨出鹅鸭腿吗？",
-          "url": "https://www.zhihu.com/question/2047946806793696818",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
           "title": "黄晓明二战上戏博士上岸",
           "url": "https://www.baidu.com/s?wd=%E9%BB%84%E6%99%93%E6%98%8E%E4%BA%8C%E6%88%98%E4%B8%8A%E6%88%8F%E5%8D%9A%E5%A3%AB%E4%B8%8A%E5%B2%B8",
           "source": "百度热搜",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -612,18 +733,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "IPO前“秀肌肉”：Anthropic推出最强公开模型Fable 5，戴安全枷锁解封Mythos级能力",
-          "url": "https://wallstreetcn.com/articles/3774258",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -661,17 +771,6 @@
           "time_info": "03时21分"
         },
         {
-          "title": "上证指数早盘收报3986.66点，跌0.58%。 深证成指早盘收报14972.75点，跌1.94%。 创业板指早盘收报3870.83点，跌2.29%。 沪深300早盘收报4754.80点，跌0.98%。 科创50早盘收报1662.81点，跌0.02%。 中证500早盘收报8052.83点，跌1.51%。 中证1000早盘收报8176.14点，跌1.71%。",
-          "url": "https://wallstreetcn.com/livenews/3117200",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
           "title": "谷歌(GOOG.O)：Anthropic最新的前沿模型Claude Fable 5现已在Google Cloud上全面开放。",
           "url": "https://flash.jin10.com/detail/20260610023003307800",
           "source": "金十数据",
@@ -694,26 +793,15 @@
           "time_info": "05时02分"
         },
         {
-          "title": "6月10日午间收评：创业板指半日跌超2%，全市场下跌个股超4300只",
-          "url": "https://wallstreetcn.com/livenews/3117199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "美以袭击伊朗进入第 103 天，当前局势如何？有哪些值得关注的信息？",
-          "url": "https://www.zhihu.com/question/2047888566534067312",
+          "title": "孩子高考结束了，计划假期骑行 318，并给了 15000 的费用清单（含自行车和装备），请问该支持吗？",
+          "url": "https://www.zhihu.com/question/2047428345973961106",
           "source": "知乎",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时15分"
+          "time_info": "13时24分"
         },
         {
           "title": "美国三年期国债收益率在拍卖后保持稳定，最新下跌1.8个基点，报4.189% 。",
@@ -771,15 +859,15 @@
           "time_info": "08时19分"
         },
         {
-          "title": "黄晓明二战上戏博士，上岸！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33341922",
-          "source": "澎湃新闻",
+          "title": "美加墨世界杯十大巨星盘点",
+          "url": "https://www.douyin.com/hot/2528765",
+          "source": "抖音",
           "ranks": [
-            16
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时15分"
+          "time_info": "13时24分"
         },
         {
           "title": "美元兑加元涨至1.3969，创12月以来新高，投资者关注布油跌穿90美元整数位心理关口。",
@@ -791,6 +879,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "关晓彤收工跑六七公里回酒店",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%94%B6%E5%B7%A5%E8%B7%91%E5%85%AD%E4%B8%83%E5%85%AC%E9%87%8C%E5%9B%9E%E9%85%92%E5%BA%97%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "美国5月成屋销售超预期跑出年内最快增速，住宅建筑商股集体飙升",
@@ -821,18 +920,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "Angel手语舞挑战",
-          "url": "https://www.douyin.com/hot/2529054",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -854,7 +942,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         }
