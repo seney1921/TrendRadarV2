@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T19:22:45.840947+08:00",
-  "total_titles_processed": 1255,
+  "generated_at": "2026-06-15T21:20:33.415863+08:00",
+  "total_titles_processed": 1402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 80,
+      "match_count": 90,
       "titles": [
         {
           "title": "“告诉他他就是个XXX”！直播会议现场失控，Meta内部爆发\"AI叛乱\"",
@@ -92,8 +92,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 19时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 21时20分]"
         },
         {
           "title": "财务给自己多发了780万元工资",
@@ -271,11 +271,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 19时22分]"
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 21时20分]"
         },
         {
           "title": "英国、法国、德国和意大利四国领导人联合声明：我们热烈欢迎美国与伊朗宣布达成谅解备忘录。 伊朗绝不能获得核武器。 作为对伊朗在其核计划上采取明确、可验证步骤的回应，我们准备解除相关制裁。",
@@ -325,6 +326,41 @@
           "time_info": "08时17分"
         },
         {
+          "title": "我的美妆宝藏大开箱",
+          "url": "https://www.douyin.com/hot/2535181",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
+          "title": "凡人动画换团队?导演打脸黑子",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355160&amp;topic_name=%E5%87%A1%E4%BA%BA%E5%8A%A8%E7%94%BB%E6%8D%A2%E5%9B%A2%E9%98%9F%3F%E5%AF%BC%E6%BC%94%E6%89%93%E8%84%B8%E9%BB%91%E5%AD%90",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时02分 ~ 21时20分]"
+        },
+        {
+          "title": "贺峻霖独家生日直播",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B4%BA%E5%B3%BB%E9%9C%96%E7%8B%AC%E5%AE%B6%E7%94%9F%E6%97%A5%E7%9B%B4%E6%92%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
           "title": "北交所公司调研热度攀升 新能源与医药赛道受关注",
           "url": "https://wallstreetcn.com/livenews/3119316",
           "source": "华尔街见闻-快讯",
@@ -334,6 +370,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
+        },
+        {
+          "title": "王濛说自己经验和天赋现在的运动员接收不进去，怎么理解？顶级运动员的方法论是不可复制的吗？",
+          "url": "https://www.zhihu.com/question/2048731297963405394",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年6月15日 周一",
@@ -347,19 +394,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时26分 ~ 07时15分]"
-        },
-        {
-          "title": "凡人动画换团队?导演打脸黑子",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355160&amp;topic_name=%E5%87%A1%E4%BA%BA%E5%8A%A8%E7%94%BB%E6%8D%A2%E5%9B%A2%E9%98%9F%3F%E5%AF%BC%E6%BC%94%E6%89%93%E8%84%B8%E9%BB%91%E5%AD%90",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时02分 ~ 19时22分]"
         },
         {
           "title": "据以色列媒体N12：特朗普告知内塔尼亚胡与伊朗签署协议的最新进展，协议最早可能于当地时间周日晚上就会达成。",
@@ -438,6 +472,18 @@
           "time_info": "[13时02分 ~ 19时22分]"
         },
         {
+          "title": "数十亿元回购护盘？股价持续低迷 头部药企掀起“估值保卫战”",
+          "url": "https://www.cls.cn/detail/2400149",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 21时20分]"
+        },
+        {
           "title": "巅峰盛会｜财联社VIP年中底价开启",
           "url": "https://www.cls.cn/detail/2383954",
           "source": "财联社热门",
@@ -448,6 +494,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时02分 ~ 14时29分]"
+        },
+        {
+          "title": "大爆发！创业板狂飙超5%，算力硬件掀起涨停潮，恒科指涨超1%，智谱狂飙超30%",
+          "url": "https://wallstreetcn.com/articles/3774643",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 21时20分]"
+        },
+        {
+          "title": "【每日收评】全市场超百股涨停！创业板指涨超5%，PCB等AI硬件概念股集体爆发",
+          "url": "https://www.cls.cn/detail/2400118",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 21时20分]"
         },
         {
           "title": "甲亢哥被伊布赶出直播间",
@@ -472,6 +542,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时15分 ~ 08时17分]"
+        },
+        {
+          "title": "独家｜丰子恺故居“日月楼”挂牌出售，标价860万元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33381558",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 21时20分]"
         },
         {
           "title": "山歌王舞蹈挑战",
@@ -509,6 +591,30 @@
           "time_info": "[00时26分 ~ 01时26分]"
         },
         {
+          "title": "长沙酒店房间现“充气娃娃”租借柜",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E9%85%92%E5%BA%97%E6%88%BF%E9%97%B4%E7%8E%B0%E2%80%9C%E5%85%85%E6%B0%94%E5%A8%83%E5%A8%83%E2%80%9D%E7%A7%9F%E5%80%9F%E6%9F%9C",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 21时20分]"
+        },
+        {
+          "title": "霍思燕发蜜蜡比赛vlog",
+          "url": "https://www.douyin.com/hot/2535458",
+          "source": "抖音",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 21时20分]"
+        },
+        {
           "title": "普通人要知道的湿厕纸真相",
           "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%80%9A%E4%BA%BA%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E6%B9%BF%E5%8E%95%E7%BA%B8%E7%9C%9F%E7%9B%B8%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -518,28 +624,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
-        },
-        {
-          "title": "数十亿元回购护盘？股价持续低迷 头部药企掀起“估值保卫战”",
-          "url": "https://www.cls.cn/detail/2400149",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
-          "title": "【每日收评】全市场超百股涨停！创业板指涨超5%，PCB等AI硬件概念股集体爆发",
-          "url": "https://www.cls.cn/detail/2400118",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
         },
         {
           "title": "逾百亿资金回流股票型ETF，业内人士称极致分化行情有望收敛",
@@ -564,24 +648,13 @@
           "time_info": "13时02分"
         },
         {
-          "title": "大爆发！创业板狂飙超5%，算力硬件掀起涨停潮，恒科指涨超1%，智谱狂飙超30%",
-          "url": "https://wallstreetcn.com/articles/3774643",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
           "title": "“黑色星期五”只是开始？基金经理：纳指年内恐跌35%，因“两大推手”！",
           "url": "https://www.cls.cn/detail/2399637",
           "source": "财联社热门",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -597,6 +670,17 @@
           "time_info": "14时29分"
         },
         {
+          "title": "黄金暴力跳空，V型反转有可能发生吗？留意黄金这个位置！金十研究员Steven正在直播，立即观看>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260615211447443800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
           "title": "诺伊尔首发出战",
           "url": "https://s.weibo.com/weibo?q=%23%E8%AF%BA%E4%BC%8A%E5%B0%94%E9%A6%96%E5%8F%91%E5%87%BA%E6%88%98%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -608,6 +692,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "iG 宣布 TheShy 回归队伍征战 2026 第三赛段，对此你有什么想说的？",
+          "url": "https://www.zhihu.com/question/2049899564811773860",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
           "title": "李书福现场“挑战”张雪",
           "url": "https://www.toutiao.com/trending/7650875382530474038/",
           "source": "今日头条",
@@ -617,6 +712,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "【午报】创业板指半日涨超3.5%，科技股全线回暖，PCB、MLCC等AI硬件细分领涨",
+          "url": "https://www.cls.cn/detail/2399807",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
         },
         {
           "title": "本周重要事件预告：“超级央行周”来袭，沃什首秀、日本或加息",
@@ -636,9 +742,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
+        },
+        {
+          "title": "全新 RTX3060 显卡再上市售价 2349 元，性价比如何？",
+          "url": "https://www.zhihu.com/question/2047077275779306805",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
         },
         {
           "title": "乘风2026五公选曲解说",
@@ -661,6 +778,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "80亿豪赌算力！老牌名企拟鲸吞数据中心巨头| 盘后公告精选",
+          "url": "https://flash.jin10.com/detail/20260615211408401800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
         },
         {
           "title": "荣耀X80 Pro Max将首发11000mAh超大电池",
@@ -696,6 +824,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "现货铂金延续涨势，最新涨幅5%，报每盎司1802.58美元。",
+          "url": "https://flash.jin10.com/detail/20260615211205244800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
           "title": "立讯精密计划最快7月份在香港上市，拟筹资20亿至30亿美元。（IFR国际金融评论）",
           "url": "https://wallstreetcn.com/livenews/3119433",
           "source": "华尔街见闻-快讯",
@@ -705,17 +844,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
-        },
-        {
-          "title": "独家｜丰子恺故居“日月楼”挂牌出售，标价860万元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33381558",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
         },
         {
           "title": "创业板指午后涨幅扩大至4%，沪指涨1.0%，深证成指涨2.7%。算力硬件、半导体芯片、机器人、航运等方向涨幅居前，全市场超3200只个股上涨。",
@@ -751,15 +879,15 @@
           "time_info": "00时26分"
         },
         {
-          "title": "长沙酒店房间现“充气娃娃”租借柜",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E9%85%92%E5%BA%97%E6%88%BF%E9%97%B4%E7%8E%B0%E2%80%9C%E5%85%85%E6%B0%94%E5%A8%83%E5%A8%83%E2%80%9D%E7%A7%9F%E5%80%9F%E6%9F%9C",
-          "source": "百度热搜",
+          "title": "花式解说世界杯",
+          "url": "https://www.douyin.com/hot/2535387",
+          "source": "抖音",
           "ranks": [
             21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时22分"
+          "time_info": "21时20分"
         },
         {
           "title": "甲亢哥预测C罗夺冠 被赶出直播间",
@@ -768,7 +896,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -790,7 +918,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -889,7 +1017,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -944,18 +1072,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
-          "title": "霍思燕发蜜蜡比赛vlog",
-          "url": "https://www.douyin.com/hot/2535458",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         }
