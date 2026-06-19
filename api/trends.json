@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T04:42:51.661573+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-06-20T06:07:56.652432+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 06时07分]"
         },
         {
           "title": "端午节一桌封神挑战",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 06时07分]"
         },
         {
           "title": "茄子解说法尔孔对战小蜜蜂",
@@ -37,11 +37,12 @@
           "source": "抖音",
           "ranks": [
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 06时07分]"
         },
         {
           "title": "在太空健身是什么体验",
@@ -51,8 +52,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 06时07分]"
         },
         {
           "title": "陈立武接手英特尔后首次播客访谈：我们的目标是“5-10年10倍”，押注先进封装、玻璃基板和人工钻石",
@@ -62,8 +63,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 06时07分]"
         },
         {
           "title": "日本宣布：签证费涨到5倍",
@@ -74,8 +75,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 06时07分]"
         },
         {
           "title": "259解说猎鹰vs小蜜蜂",
@@ -84,9 +85,64 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 06时07分]"
+        },
+        {
+          "title": "曝美团有偿搜集淘宝闪购黑料，多名商户称参与爆料可获千元奖励，具体情况如何？暴露了外卖行业哪些问题？",
+          "url": "https://www.zhihu.com/question/2050928981600204446",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 06时07分]"
+        },
+        {
+          "title": "日本签证费涨5倍",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%AD%BE%E8%AF%81%E8%B4%B9%E6%B6%A85%E5%80%8D%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            9,
+            7,
+            17,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 06时07分]"
+        },
+        {
+          "title": "BLG第二赛段优胜者Vlog",
+          "url": "https://search.bilibili.com/all?keyword=BLG%E7%AC%AC%E4%BA%8C%E8%B5%9B%E6%AE%B5%E4%BC%98%E8%83%9C%E8%80%85Vlog",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            16,
+            24,
+            29,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 06时07分]"
+        },
+        {
+          "title": "外卖吃出血,顾客服用阻断药",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355254&amp;topic_name=%E5%A4%96%E5%8D%96%E5%90%83%E5%87%BA%E8%A1%80%2C%E9%A1%BE%E5%AE%A2%E6%9C%8D%E7%94%A8%E9%98%BB%E6%96%AD%E8%8D%AF",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 06时07分]"
         },
         {
           "title": "英国交通大臣Alexander要求首相斯塔默辞职，并设定下台的时间表。（英国金融时报）",
@@ -100,45 +156,6 @@
           "time_info": "00时09分"
         },
         {
-          "title": "日本签证费涨5倍",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%AD%BE%E8%AF%81%E8%B4%B9%E6%B6%A85%E5%80%8D%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            9,
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 04时42分]"
-        },
-        {
-          "title": "曝美团有偿搜集淘宝闪购黑料，多名商户称参与爆料可获千元奖励，具体情况如何？暴露了外卖行业哪些问题？",
-          "url": "https://www.zhihu.com/question/2050928981600204446",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 04时42分]"
-        },
-        {
-          "title": "BLG第二赛段优胜者Vlog",
-          "url": "https://search.bilibili.com/all?keyword=BLG%E7%AC%AC%E4%BA%8C%E8%B5%9B%E6%AE%B5%E4%BC%98%E8%83%9C%E8%80%85Vlog",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            16,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 04时42分]"
-        },
-        {
           "title": "酒店再回应女子入住第5天发现摄像头",
           "url": "https://www.baidu.com/s?wd=%E9%85%92%E5%BA%97%E5%86%8D%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E5%85%A5%E4%BD%8F%E7%AC%AC5%E5%A4%A9%E5%8F%91%E7%8E%B0%E6%91%84%E5%83%8F%E5%A4%B4",
           "source": "百度热搜",
@@ -147,19 +164,6 @@
             16,
             13,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 04时42分]"
-        },
-        {
-          "title": "外卖吃出血,顾客服用阻断药",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355254&amp;topic_name=%E5%A4%96%E5%8D%96%E5%90%83%E5%87%BA%E8%A1%80%2C%E9%A1%BE%E5%AE%A2%E6%9C%8D%E7%94%A8%E9%98%BB%E6%96%AD%E8%8D%AF",
-          "source": "贴吧",
-          "ranks": [
-            28,
-            26,
-            27
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -189,6 +193,31 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时09分 ~ 02时59分]"
+        },
+        {
+          "title": "终末地危机合约攻略",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%8D%B1%E6%9C%BA%E5%90%88%E7%BA%A6%E6%94%BB%E7%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            28,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 06时07分]"
+        },
+        {
+          "title": "最适合打工人的老板出现了",
+          "url": "https://s.weibo.com/weibo?q=%E6%9C%80%E9%80%82%E5%90%88%E6%89%93%E5%B7%A5%E4%BA%BA%E7%9A%84%E8%80%81%E6%9D%BF%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时59分 ~ 06时07分]"
         },
         {
           "title": "SpaceX一度跌超10%，IPO当日散户需求推动嘉信理财跻身前五大最繁忙交易日",
@@ -224,30 +253,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时09分 ~ 00时35分]"
-        },
-        {
-          "title": "终末地危机合约攻略",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%8D%B1%E6%9C%BA%E5%90%88%E7%BA%A6%E6%94%BB%E7%95%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            28,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 04时42分]"
-        },
-        {
-          "title": "最适合打工人的老板出现了",
-          "url": "https://s.weibo.com/weibo?q=%E6%9C%80%E9%80%82%E5%90%88%E6%89%93%E5%B7%A5%E4%BA%BA%E7%9A%84%E8%80%81%E6%9D%BF%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 04时42分]"
         },
         {
           "title": "美参议员桑德斯：对美国大型AI公司一次性征收50%股权税，设立主权财富基金",
