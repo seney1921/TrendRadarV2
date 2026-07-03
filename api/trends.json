@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T22:13:56.715136+08:00",
-  "total_titles_processed": 1762,
+  "generated_at": "2026-07-03T23:21:48.589814+08:00",
+  "total_titles_processed": 1877,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 162,
+      "match_count": 173,
       "titles": [
         {
           "title": "头条世界杯｜不用进球就能统治比赛，亚马尔帮西班牙重回热门",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时48分 ~ 22时13分]"
+          "appearance_count": 13,
+          "time_info": "[11时48分 ~ 23时21分]"
         },
         {
           "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
@@ -128,23 +128,6 @@
           "time_info": "[00时53分 ~ 18时45分]"
         },
         {
-          "title": "奶茶店撞款LV,判赔千万冤不冤",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355846&amp;topic_name=%E5%A5%B6%E8%8C%B6%E5%BA%97%E6%92%9E%E6%AC%BELV%2C%E5%88%A4%E8%B5%94%E5%8D%83%E4%B8%87%E5%86%A4%E4%B8%8D%E5%86%A4",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            13,
-            14,
-            16,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时57分 ~ 22时13分]"
-        },
-        {
           "title": "创业板大跌近6%，科创50创年内最大单日跌幅，CPO领跌、存储芯片“一哥”跌停，贵金属逆势拉升",
           "url": "https://wallstreetcn.com/articles/3776030",
           "source": "华尔街见闻",
@@ -171,8 +154,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[05时16分 ~ 22时13分]"
+          "appearance_count": 17,
+          "time_info": "[05时16分 ~ 23时21分]"
         },
         {
           "title": "美国骑行博主在广西农村被请吃饭",
@@ -185,6 +168,24 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时53分 ~ 07时15分]"
+        },
+        {
+          "title": "奶茶店撞款LV,判赔千万冤不冤",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355846&amp;topic_name=%E5%A5%B6%E8%8C%B6%E5%BA%97%E6%92%9E%E6%AC%BELV%2C%E5%88%A4%E8%B5%94%E5%8D%83%E4%B8%87%E5%86%A4%E4%B8%8D%E5%86%A4",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            13,
+            14,
+            16,
+            18,
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[01时57分 ~ 23时21分]"
         },
         {
           "title": "多股晋级连板！业绩行情悄然发酵，“预喜”股扎堆板块盘点，这些方向率先交卷",
@@ -212,21 +213,6 @@
           "time_info": "[00时53分 ~ 18时45分]"
         },
         {
-          "title": "krd破防,Bin羞辱多兰被举报",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355848&amp;topic_name=krd%E7%A0%B4%E9%98%B2%2CBin%E7%BE%9E%E8%BE%B1%E5%A4%9A%E5%85%B0%E8%A2%AB%E4%B8%BE%E6%8A%A5",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8,
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时48分 ~ 22时13分]"
-        },
-        {
           "title": "不会英语但勇闯世界杯是什么体验",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%8D%E4%BC%9A%E8%8B%B1%E8%AF%AD%E4%BD%86%E5%8B%87%E9%97%AF%E4%B8%96%E7%95%8C%E6%9D%AF%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
           "source": "bilibili 热搜",
@@ -237,6 +223,22 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时53分 ~ 16时13分]"
+        },
+        {
+          "title": "krd破防,Bin羞辱多兰被举报",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355848&amp;topic_name=krd%E7%A0%B4%E9%98%B2%2CBin%E7%BE%9E%E8%BE%B1%E5%A4%9A%E5%85%B0%E8%A2%AB%E4%B8%BE%E6%8A%A5",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8,
+            10,
+            12,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时48分 ~ 23时21分]"
         },
         {
           "title": "机票捡漏黄金期来了",
@@ -278,11 +280,12 @@
             21,
             23,
             25,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时53分 ~ 22时13分]"
+          "appearance_count": 23,
+          "time_info": "[00时53分 ~ 23时21分]"
         },
         {
           "title": "盘点内娱离谱宣发",
@@ -350,6 +353,21 @@
           "time_info": "[00时53分 ~ 08时10分]"
         },
         {
+          "title": "网友推荐李清照选角",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%8E%A8%E8%8D%90%E6%9D%8E%E6%B8%85%E7%85%A7%E9%80%89%E8%A7%92%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            6,
+            1,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时44分 ~ 23时21分]"
+        },
+        {
           "title": "如果电梯故障，你会同意外卖骑手提出「各爬一半楼梯」的协商方案吗？",
           "url": "https://www.zhihu.com/question/2052184985809974611",
           "source": "知乎",
@@ -390,20 +408,6 @@
           "time_info": "[16时13分 ~ 19时36分]"
         },
         {
-          "title": "网友推荐李清照选角",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%8E%A8%E8%8D%90%E6%9D%8E%E6%B8%85%E7%85%A7%E9%80%89%E8%A7%92%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            6,
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时44分 ~ 22时13分]"
-        },
-        {
           "title": "莫迪喊高市早苗“我的妹妹”，这场外交好戏不简单",
           "url": "https://news.ifeng.com/c/8uRxm4N5dYe",
           "source": "凤凰网",
@@ -413,6 +417,34 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[15时29分 ~ 22时13分]"
+        },
+        {
+          "title": "C罗酒店楼下一片siu声",
+          "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E9%85%92%E5%BA%97%E6%A5%BC%E4%B8%8B%E4%B8%80%E7%89%87siu%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            9,
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时44分 ~ 23时21分]"
+        },
+        {
+          "title": "UP主流量大挑战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%B5%81%E9%87%8F%E5%A4%A7%E6%8C%91%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            10,
+            30,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时44分 ~ 23时21分]"
         },
         {
           "title": "高考699分女孩希望回归平静生活",
@@ -443,32 +475,6 @@
           "time_info": "[19时36分 ~ 21时02分]"
         },
         {
-          "title": "C罗酒店楼下一片siu声",
-          "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E9%85%92%E5%BA%97%E6%A5%BC%E4%B8%8B%E4%B8%80%E7%89%87siu%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时44分 ~ 22时13分]"
-        },
-        {
-          "title": "UP主流量大挑战",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%B5%81%E9%87%8F%E5%A4%A7%E6%8C%91%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时44分 ~ 22时13分]"
-        },
-        {
           "title": "小县城的瑜伽馆审美",
           "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%8E%BF%E5%9F%8E%E7%9A%84%E7%91%9C%E4%BC%BD%E9%A6%86%E5%AE%A1%E7%BE%8E&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -482,6 +488,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时53分 ~ 07时15分]"
+        },
+        {
+          "title": "万亿逆回购来了！央行结束缩量操作 精准对冲7月资金到期压力",
+          "url": "https://www.cls.cn/detail/2416860",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时01分 ~ 23时21分]"
         },
         {
           "title": "因印度供应商遭网络攻击，iPhone18 Pro Max 银灰色曝光，有哪些亮点？此泄露暴露出哪些问题？",
@@ -498,6 +517,20 @@
           "time_info": "[00时53分 ~ 08时10分]"
         },
         {
+          "title": "马上评｜被盗佛像现身观复博物馆？当尽快彻查真相",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33509864",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时44分 ~ 23时21分]"
+        },
+        {
           "title": "如何看待影视飓风创始人 Tim 6 月 28 日进行的「100 小时重返荒岛」挑战？有哪些看点？",
           "url": "https://www.zhihu.com/question/2055227089813608403",
           "source": "知乎",
@@ -510,20 +543,6 @@
           "time_info": "[00时53分 ~ 05时16分]"
         },
         {
-          "title": "马上评｜被盗佛像现身观复博物馆？当尽快彻查真相",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33509864",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时44分 ~ 22时13分]"
-        },
-        {
           "title": "顶奢与奶茶的商标博弈真相",
           "url": "https://search.bilibili.com/all?keyword=%E9%A1%B6%E5%A5%A2%E4%B8%8E%E5%A5%B6%E8%8C%B6%E7%9A%84%E5%95%86%E6%A0%87%E5%8D%9A%E5%BC%88%E7%9C%9F%E7%9B%B8",
           "source": "bilibili 热搜",
@@ -534,8 +553,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时44分 ~ 22时13分]"
+          "appearance_count": 7,
+          "time_info": "[18时44分 ~ 23时21分]"
         },
         {
           "title": "鸭血粉丝店也遭LV起诉",
@@ -544,9 +563,50 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 23时21分]"
+        },
+        {
+          "title": "19省份2025年平均工资出炉",
+          "url": "https://www.baidu.com/s?wd=19%E7%9C%81%E4%BB%BD2025%E5%B9%B4%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%84%E5%87%BA%E7%82%89",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            2,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时36分 ~ 23时21分]"
+        },
+        {
+          "title": "绝区零诺姆综合测评",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%9D%E5%8C%BA%E9%9B%B6%E8%AF%BA%E5%A7%86%E7%BB%BC%E5%90%88%E6%B5%8B%E8%AF%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            27,
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时45分 ~ 23时21分]"
+        },
+        {
+          "title": "佛得角的世界杯：方寸之地，绿茵无限",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33469060",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时48分 ~ 23时21分]"
         },
         {
           "title": "摩尔多瓦总理蒙泰亚努宣布辞职",
@@ -628,17 +688,17 @@
           "time_info": "18时45分"
         },
         {
-          "title": "19省份2025年平均工资出炉",
-          "url": "https://www.baidu.com/s?wd=19%E7%9C%81%E4%BB%BD2025%E5%B9%B4%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%84%E5%87%BA%E7%82%89",
-          "source": "百度热搜",
+          "title": "有人说 LV 四叶花卉疑似抄袭中国古代传统元素，其起诉茉莉奶白站不住脚，是这样吗？这个元素起源于哪里？",
+          "url": "https://www.zhihu.com/question/2056074267624568573",
+          "source": "知乎",
           "ranks": [
-            25,
-            2,
-            20
+            11,
+            7,
+            5
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时36分 ~ 22时13分]"
+          "time_info": "[21时01分 ~ 23时21分]"
         },
         {
           "title": "金十图示：2026年07月02日（周四）热门中概股行情一览（美股盘中）",
@@ -652,6 +712,20 @@
           "time_info": "00时54分"
         },
         {
+          "title": "CORTIS发来百万粉丝感谢",
+          "url": "https://search.bilibili.com/all?keyword=CORTIS%E5%8F%91%E6%9D%A5%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E6%84%9F%E8%B0%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            9,
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时36分 ~ 23时21分]"
+        },
+        {
           "title": "《新闻联播》正在直播",
           "url": "https://www.toutiao.com/trending/7658070215498104874/",
           "source": "今日头条",
@@ -661,6 +735,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
+        },
+        {
+          "title": "市场消息：阿曼石油营销公司首席财务官Bingaradi辞职。",
+          "url": "https://flash.jin10.com/detail/20260703231547814800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "中信建投：关注粉体材料和含氟高分子材料国内标的的成长速度和进口替代加速的机会",
@@ -674,41 +759,17 @@
           "time_info": "08时10分"
         },
         {
-          "title": "万亿逆回购来了！央行结束缩量操作 精准对冲7月资金到期压力",
-          "url": "https://www.cls.cn/detail/2416860",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时01分 ~ 22时13分]"
-        },
-        {
-          "title": "绝区零诺姆综合测评",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BB%9D%E5%8C%BA%E9%9B%B6%E8%AF%BA%E5%A7%86%E7%BB%BC%E5%90%88%E6%B5%8B%E8%AF%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时45分 ~ 22时13分]"
-        },
-        {
-          "title": "佛得角的世界杯：方寸之地，绿茵无限",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33469060",
+          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            17
+            16,
+            14,
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时48分 ~ 22时13分]"
+          "time_info": "[19时36分 ~ 23时21分]"
         },
         {
           "title": "提醒：日内请重点关注（以下均为北京时间）",
@@ -800,19 +861,6 @@
           "time_info": "[04时22分 ~ 05时16分]"
         },
         {
-          "title": "CORTIS发来百万粉丝感谢",
-          "url": "https://search.bilibili.com/all?keyword=CORTIS%E5%8F%91%E6%9D%A5%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E6%84%9F%E8%B0%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时36分 ~ 22时13分]"
-        },
-        {
           "title": "金十图示：2026年07月02日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260703040551550800",
           "source": "金十数据",
@@ -862,18 +910,6 @@
           "time_info": "[00时53分 ~ 06时11分]"
         },
         {
-          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时36分 ~ 22时13分]"
-        },
-        {
           "title": "影视飓风 直播事故",
           "url": "https://s.weibo.com/weibo?q=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%20%E7%9B%B4%E6%92%AD%E4%BA%8B%E6%95%85&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -904,18 +940,6 @@
           "ranks": [
             6,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时01分 ~ 22时13分]"
-        },
-        {
-          "title": "有人说 LV 四叶花卉疑似抄袭中国古代传统元素，其起诉茉莉奶白站不住脚，是这样吗？这个元素起源于哪里？",
-          "url": "https://www.zhihu.com/question/2056074267624568573",
-          "source": "知乎",
-          "ranks": [
-            11,
-            7
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -1184,6 +1208,18 @@
           "time_info": "[00时53分 ~ 00时54分]"
         },
         {
+          "title": "欧洲人终于对中国空调“真香”了吗",
+          "url": "https://www.toutiao.com/trending/7658255677353102867/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 23时21分]"
+        },
+        {
           "title": "深交所：完善锁价定增制度，增加上市公司向特定对象发行股票的储架发行制度",
           "url": "https://wallstreetcn.com/livenews/3128700",
           "source": "华尔街见闻-快讯",
@@ -1359,7 +1395,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -1425,7 +1461,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -1447,7 +1483,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -1461,6 +1497,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
+        },
+        {
+          "title": "阿根廷央行将回购协议期限延长至2028年",
+          "url": "https://wallstreetcn.com/livenews/3128764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "美国总统特朗普：我持有一些英伟达股票，但我认为很少。 赞赏英伟达CEO黄仁勋。",
@@ -1507,6 +1554,17 @@
           "time_info": "15时29分"
         },
         {
+          "title": "媒体调查：霍尔木兹海峡流量激增，6月OPEC原油产量大幅飙升",
+          "url": "https://wallstreetcn.com/livenews/3128762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "中信建投：关注粉体材料和含氟高分子材料国内标的的成长速度和进口替代加速的机会",
           "url": "https://flash.jin10.com/detail/20260703074119975800",
           "source": "金十数据",
@@ -1551,6 +1609,28 @@
           "time_info": "19时36分"
         },
         {
+          "title": "三项光伏强标实施进入倒计时 头部企业判断：硅料产能出清还有三个步骤",
+          "url": "https://www.cls.cn/detail/2416919",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
+          "title": "法国巴黎银行首席经济学家Isabelle Mateos y Lago：如果我们看到的美国非农就业数据非常强劲，接近13万或以上，那么我认为7月的会议将会非常、非常引人关注。 现在这种可能性可能降低了，但在我看来，美联储加息的理由并未减弱。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3128760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "Meta Platforms(META.O)短线小幅下挫，最新跌4.89%。",
           "url": "https://flash.jin10.com/detail/20260703025717494800",
           "source": "金十数据",
@@ -1568,7 +1648,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -1590,18 +1670,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "欧洲人终于对中国空调“真香”了吗",
-          "url": "https://www.toutiao.com/trending/7658255677353102867/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -1683,6 +1752,28 @@
           "time_info": "16时13分"
         },
         {
+          "title": "三部门调整节能汽车、新能源汽车车船税优惠政策，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2056425679093339668",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
+          "title": "BLG参加MSI的Vlog",
+          "url": "https://search.bilibili.com/all?keyword=BLG%E5%8F%82%E5%8A%A0MSI%E7%9A%84Vlog",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "黑石面向富裕人士的基金5月创下最强单月表现，得益于投资Anthropic",
           "url": "https://wallstreetcn.com/livenews/3128132",
           "source": "华尔街见闻-快讯",
@@ -1714,6 +1805,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
+        },
+        {
+          "title": "沪锡2608持续走高，涨幅扩大至2.08%，最新报406400元/吨；成交额约341.93亿元，日内增仓近4700手，量仓活跃度同步抬升。",
+          "url": "https://flash.jin10.com/detail/20260703225218987800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
+          "title": "中东股市收盘播报｜周五（7月3日），迪拜金融市场综合指数收涨1.14%，报6059.14点，本周累计上涨0.68%。 阿布扎比证券市场综合指数收涨0.93%，报9900.80点，本周累涨0.21%。 在截至周四的连续五个自然日（下同），沙特证交所全股指数累跌0.74%，沙特阿美（ARAMCO.AB）收累跌0.53%，在沙特上市的Albilad南方东英MSCI香港中国股票ETF累涨1.80%。",
+          "url": "https://wallstreetcn.com/livenews/3128753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
+          "title": "LV曾起诉鸭血粉丝店商标侵权",
+          "url": "https://www.baidu.com/s?wd=LV%E6%9B%BE%E8%B5%B7%E8%AF%89%E9%B8%AD%E8%A1%80%E7%B2%89%E4%B8%9D%E5%BA%97%E5%95%86%E6%A0%87%E4%BE%B5%E6%9D%83",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "日本内阁官房长官木原稔：以高度紧迫性密切关注市场动向。",
@@ -1909,7 +2033,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -1956,6 +2080,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
+        },
+        {
+          "title": "中国“降温神器”缓解欧洲酷暑焦虑",
+          "url": "https://www.toutiao.com/trending/7657780859152039963/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         }
       ]
     }
