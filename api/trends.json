@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T15:51:02.453054+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2026-07-04T17:28:28.116786+08:00",
+  "total_titles_processed": 1115,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 73,
+      "match_count": 82,
       "titles": [
         {
           "title": "头条世界杯｜不用进球就能统治比赛，亚马尔帮西班牙重回热门",
@@ -27,8 +27,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 15时51分]"
+          "appearance_count": 20,
+          "time_info": "[00时29分 ~ 17时28分]"
+        },
+        {
+          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时08分 ~ 17时28分]"
         },
         {
           "title": "2000亿元两新设备更新资金已全部下达",
@@ -40,18 +52,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时29分 ~ 06时08分]"
-        },
-        {
-          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时08分 ~ 15时51分]"
         },
         {
           "title": "有人说 LV 四叶花卉疑似抄袭中国古代传统元素，其起诉茉莉奶白站不住脚，是这样吗？这个元素起源于哪里？",
@@ -96,6 +96,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时29分 ~ 08时09分]"
+        },
+        {
+          "title": "云南撒撇把美食吃出新高度",
+          "url": "https://www.douyin.com/hot/2557849",
+          "source": "抖音",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时38分 ~ 17时28分]"
         },
         {
           "title": "鸭血粉丝店也遭LV起诉",
@@ -216,20 +228,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 15时51分]"
-        },
-        {
-          "title": "云南撒撇把美食吃出新高度",
-          "url": "https://www.douyin.com/hot/2557849",
-          "source": "抖音",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时38分 ~ 15时51分]"
+          "appearance_count": 20,
+          "time_info": "[00时29分 ~ 17时28分]"
         },
         {
           "title": "krd破防,Bin羞辱多兰被举报",
@@ -241,11 +241,12 @@
             18,
             21,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 15时51分]"
+          "appearance_count": 20,
+          "time_info": "[00时29分 ~ 17时28分]"
         },
         {
           "title": "UP主流量大挑战",
@@ -258,11 +259,12 @@
             18,
             24,
             21,
-            26
+            26,
+            22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时29分 ~ 14时53分]"
+          "appearance_count": 16,
+          "time_info": "[00时29分 ~ 17时28分]"
         },
         {
           "title": "顶奢与奶茶的商标博弈真相",
@@ -305,8 +307,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 15时51分]"
+          "appearance_count": 20,
+          "time_info": "[00时29分 ~ 17时28分]"
         },
         {
           "title": "绝区零诺姆综合测评",
@@ -354,6 +356,17 @@
           "time_info": "[00时29分 ~ 06时08分]"
         },
         {
+          "title": "本周这些数据最值得关注",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%91%A8%E8%BF%99%E4%BA%9B%E6%95%B0%E6%8D%AE%E6%9C%80%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时50分 ~ 17时28分]"
+        },
+        {
           "title": "AI焦虑暂退，全球股市反弹，欧股创历史新高，金铜拉涨，美元下跌",
           "url": "https://wallstreetcn.com/articles/3776124",
           "source": "华尔街见闻",
@@ -363,6 +376,32 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时08分 ~ 07时12分]"
+        },
+        {
+          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
+          "url": "https://wallstreetcn.com/articles/3776170",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时40分 ~ 17时28分]"
+        },
+        {
+          "title": "711起诉耐克抄袭",
+          "url": "https://s.weibo.com/weibo?q=%23711%E8%B5%B7%E8%AF%89%E8%80%90%E5%85%8B%E6%8A%84%E8%A2%AD%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            9,
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时38分 ~ 17时28分]"
         },
         {
           "title": "网友推荐李清照选角",
@@ -377,42 +416,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时29分 ~ 04时18分]"
-        },
-        {
-          "title": "本周这些数据最值得关注",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%91%A8%E8%BF%99%E4%BA%9B%E6%95%B0%E6%8D%AE%E6%9C%80%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 15时51分]"
-        },
-        {
-          "title": "711起诉耐克抄袭",
-          "url": "https://s.weibo.com/weibo?q=%23711%E8%B5%B7%E8%AF%89%E8%80%90%E5%85%8B%E6%8A%84%E8%A2%AD%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时38分 ~ 15时51分]"
-        },
-        {
-          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
-          "url": "https://wallstreetcn.com/articles/3776170",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时40分 ~ 15时51分]"
         },
         {
           "title": "如何评价蒋方舟回应被清华教授举报论文造假，称其混淆了学术批评与学术审查？还有哪些值得关注的信息？",
@@ -477,6 +480,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时15分 ~ 08时09分]"
+        },
+        {
+          "title": "韩红基金会回应八大问题，涉及电脑采购、人员薪资、投资理财等，能挽回公众信任吗？",
+          "url": "https://www.zhihu.com/question/2056125863993914328",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时38分 ~ 17时28分]"
         },
         {
           "title": "报道：经历跌宕起伏的上半年，小型对冲基金回报领先多策略基金",
@@ -548,18 +563,6 @@
           "time_info": "[12时38分 ~ 15时51分]"
         },
         {
-          "title": "韩红基金会回应八大问题，涉及电脑采购、人员薪资、投资理财等，能挽回公众信任吗？",
-          "url": "https://www.zhihu.com/question/2056125863993914328",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时38分 ~ 15时51分]"
-        },
-        {
           "title": "曝iPhone18无缘iOS27两大功能",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone18%E6%97%A0%E7%BC%98iOS27%E4%B8%A4%E5%A4%A7%E5%8A%9F%E8%83%BD%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -599,6 +602,30 @@
           "time_info": "[00时29分 ~ 05时15分]"
         },
         {
+          "title": "为什么提拔速度太快，反而很难立住管理者人设？",
+          "url": "https://www.zhihu.com/question/2041055275512227144",
+          "source": "知乎",
+          "ranks": [
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时53分 ~ 17时28分]"
+        },
+        {
+          "title": "7-11起诉耐克：新鞋配色涉嫌抄袭",
+          "url": "https://www.baidu.com/s?wd=7-11%E8%B5%B7%E8%AF%89%E8%80%90%E5%85%8B%EF%BC%9A%E6%96%B0%E9%9E%8B%E9%85%8D%E8%89%B2%E6%B6%89%E5%AB%8C%E6%8A%84%E8%A2%AD",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时53分 ~ 17时28分]"
+        },
+        {
           "title": "阿根廷赛后点赞佛得角：伟大的对手",
           "url": "https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%B5%9B%E5%90%8E%E7%82%B9%E8%B5%9E%E4%BD%9B%E5%BE%97%E8%A7%92%EF%BC%9A%E4%BC%9F%E5%A4%A7%E7%9A%84%E5%AF%B9%E6%89%8B",
           "source": "百度热搜",
@@ -611,15 +638,16 @@
           "time_info": "[11时40分 ~ 12时39分]"
         },
         {
-          "title": "为什么提拔速度太快，反而很难立住管理者人设？",
-          "url": "https://www.zhihu.com/question/2041055275512227144",
-          "source": "知乎",
+          "title": "建议大家统一下面试工作名称",
+          "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E7%BB%9F%E4%B8%80%E4%B8%8B%E9%9D%A2%E8%AF%95%E5%B7%A5%E4%BD%9C%E5%90%8D%E7%A7%B0&t=31&band_rank=8&Refer=top",
+          "source": "微博",
           "ranks": [
-            10
+            8,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时53分 ~ 15时51分]"
+          "time_info": "[15时50分 ~ 17时28分]"
         },
         {
           "title": "山东崂山景区被曝布设泰山同款“刀片网”，当地回应",
@@ -628,18 +656,6 @@
           "ranks": [
             13,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时53分 ~ 15时51分]"
-        },
-        {
-          "title": "7-11起诉耐克：新鞋配色涉嫌抄袭",
-          "url": "https://www.baidu.com/s?wd=7-11%E8%B5%B7%E8%AF%89%E8%80%90%E5%85%8B%EF%BC%9A%E6%96%B0%E9%9E%8B%E9%85%8D%E8%89%B2%E6%B6%89%E5%AB%8C%E6%8A%84%E8%A2%AD",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            13
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -676,17 +692,6 @@
           "source": "微博",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 15时51分]"
-        },
-        {
-          "title": "建议大家统一下面试工作名称",
-          "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E7%BB%9F%E4%B8%80%E4%B8%8B%E9%9D%A2%E8%AF%95%E5%B7%A5%E4%BD%9C%E5%90%8D%E7%A7%B0&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -844,6 +849,28 @@
           "time_info": "[15时50分 ~ 15时51分]"
         },
         {
+          "title": "印度正调查泄密iPhone事件",
+          "url": "https://www.douyin.com/hot/2557979",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "日媒关注：中国机车对日反向输出",
+          "url": "https://news.ifeng.com/c/8uUAOeqyjus",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
           "title": "蒋方舟贾浅浅论文争议同款调查速度",
           "url": "https://s.weibo.com/weibo?q=%23%E8%92%8B%E6%96%B9%E8%88%9F%E8%B4%BE%E6%B5%85%E6%B5%85%E8%AE%BA%E6%96%87%E4%BA%89%E8%AE%AE%E5%90%8C%E6%AC%BE%E8%B0%83%E6%9F%A5%E9%80%9F%E5%BA%A6%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -853,6 +880,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
+        },
+        {
+          "title": "网红打车直达拉萨视频冲击50万大奖",
+          "url": "https://www.toutiao.com/trending/7658371780306452521/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "实探泰山刀片铁丝网现场：有居民点赞“挡住野游”，有老人自带绳索进山称不便",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33517915",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "3年半老鼠仓赚了7.5万，准百亿基金经理的亏本买卖：罚没42万",
+          "url": "https://www.cls.cn/detail/2417124",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "德国队止步世界杯32强，主帅纳格尔斯曼辞职",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33511830",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "百亿私募6月调研路线图：电子行业独占三成，这些个股被关注",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33513033",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "C罗酒店楼下一片siu声",
@@ -877,6 +959,17 @@
           "time_info": "00时29分"
         },
         {
+          "title": "三亚一社区发生海水倒灌 街巷被淹",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E4%BA%9A%E4%B8%80%E7%A4%BE%E5%8C%BA%E5%8F%91%E7%94%9F%E6%B5%B7%E6%B0%B4%E5%80%92%E7%81%8C+%E8%A1%97%E5%B7%B7%E8%A2%AB%E6%B7%B9",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
           "title": "19省份2025年平均工资出炉",
           "url": "https://www.baidu.com/s?wd=19%E7%9C%81%E4%BB%BD2025%E5%B9%B4%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%84%E5%87%BA%E7%82%89",
           "source": "百度热搜",
@@ -897,6 +990,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "电子屏显示旅客如厕时长 旅客：尴尬",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%AD%90%E5%B1%8F%E6%98%BE%E7%A4%BA%E6%97%85%E5%AE%A2%E5%A6%82%E5%8E%95%E6%97%B6%E9%95%BF+%E6%97%85%E5%AE%A2%EF%BC%9A%E5%B0%B4%E5%B0%AC",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（7月4日）",
