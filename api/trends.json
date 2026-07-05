@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T20:22:34.745408+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2026-07-05T21:47:51.862602+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 83,
+      "match_count": 87,
       "titles": [
         {
           "title": "印度正调查泄密iPhone事件",
@@ -90,6 +90,18 @@
           "time_info": "[01时14分 ~ 13时02分]"
         },
         {
+          "title": "寒门女孩高考 699 分报考清华却被网暴，劝学生别沉迷手机为何引来几十万点赞的负面评论？",
+          "url": "https://www.zhihu.com/question/2056771003376722999",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时59分 ~ 21时47分]"
+        },
+        {
           "title": "盘点爱演戏的足坛名宿",
           "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E7%88%B1%E6%BC%94%E6%88%8F%E7%9A%84%E8%B6%B3%E5%9D%9B%E5%90%8D%E5%AE%BF",
           "source": "bilibili 热搜",
@@ -110,8 +122,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时07分 ~ 20时22分]"
+          "appearance_count": 19,
+          "time_info": "[00时07分 ~ 21时47分]"
         },
         {
           "title": "锐评互联网热门视频",
@@ -186,18 +198,6 @@
           "time_info": "[08时05分 ~ 18时23分]"
         },
         {
-          "title": "寒门女孩高考 699 分报考清华却被网暴，劝学生别沉迷手机为何引来几十万点赞的负面评论？",
-          "url": "https://www.zhihu.com/question/2056771003376722999",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时59分 ~ 20时22分]"
-        },
-        {
           "title": "日媒关注：中国机车对日反向输出",
           "url": "https://news.ifeng.com/c/8uUAOeqyjus",
           "source": "凤凰网",
@@ -225,18 +225,6 @@
           "time_info": "[00时07分 ~ 06时02分]"
         },
         {
-          "title": "网红回应西藏文旅奖50万：捐赠48万",
-          "url": "https://www.toutiao.com/trending/7658945797161012763/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时23分 ~ 20时22分]"
-        },
-        {
           "title": "“人造太阳”时间表更新",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BA%BA%E9%80%A0%E5%A4%AA%E9%98%B3%E2%80%9D%E6%97%B6%E9%97%B4%E8%A1%A8%E6%9B%B4%E6%96%B0",
           "source": "百度热搜",
@@ -253,11 +241,12 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时36分 ~ 20时22分]"
+          "appearance_count": 6,
+          "time_info": "[15时36分 ~ 21时47分]"
         },
         {
           "title": "BLG已反馈直播镜头露出BP板",
@@ -275,6 +264,34 @@
           "time_info": "[01时14分 ~ 06时02分]"
         },
         {
+          "title": "网红回应西藏文旅奖50万：捐赠48万",
+          "url": "https://www.toutiao.com/trending/7658945797161012763/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 21时47分]"
+        },
+        {
+          "title": "韩国总统幕僚长：政府寻求利用半导体繁荣带来的税收盈余设立“未来应对基金”。基金应投资于未来的增长动力，解决K型两极分化问题。",
+          "url": "https://wallstreetcn.com/livenews/3128986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4,
+            9,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时10分 ~ 21时47分]"
+        },
+        {
           "title": "苏超本周积分榜更新",
           "url": "https://www.douyin.com/hot/2558783",
           "source": "抖音",
@@ -289,18 +306,18 @@
           "time_info": "[08时05分 ~ 15时36分]"
         },
         {
-          "title": "韩国总统幕僚长：政府寻求利用半导体繁荣带来的税收盈余设立“未来应对基金”。基金应投资于未来的增长动力，解决K型两极分化问题。",
-          "url": "https://wallstreetcn.com/livenews/3128986",
-          "source": "华尔街见闻-快讯",
+          "title": "周末要闻汇总：A股交易新规，明起施行；万亿逆回购来了",
+          "url": "https://www.cls.cn/detail/2417296",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            4,
-            9,
-            13
+            10,
+            8,
+            5,
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时10分 ~ 20时22分]"
+          "time_info": "[18时23分 ~ 21时47分]"
         },
         {
           "title": "3岁女童被喂到70斤吃播赚流量",
@@ -316,15 +333,17 @@
           "time_info": "[11时59分 ~ 15时36分]"
         },
         {
-          "title": "18岁女生每天主动加班 店主给1万工资",
-          "url": "https://www.toutiao.com/trending/7658108180563787782/",
-          "source": "今日头条",
+          "title": "男子中692万怕儿子躺平只告诉老婆",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD692%E4%B8%87%E6%80%95%E5%84%BF%E5%AD%90%E8%BA%BA%E5%B9%B3%E5%8F%AA%E5%91%8A%E8%AF%89%E8%80%81%E5%A9%86",
+          "source": "百度热搜",
           "ranks": [
-            2
+            23,
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时08分 ~ 21时47分]"
         },
         {
           "title": "卓然股份：股票被实施退市风险警示 7月7日复牌",
@@ -338,17 +357,6 @@
           "time_info": "16时10分"
         },
         {
-          "title": "男子中了692万怕儿子躺平没敢告诉",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%AD%E4%BA%86692%E4%B8%87%E6%80%95%E5%84%BF%E5%AD%90%E8%BA%BA%E5%B9%B3%E6%B2%A1%E6%95%A2%E5%91%8A%E8%AF%89%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
           "title": "十几元一件的网红裤已让很多人社死",
           "url": "https://www.baidu.com/s?wd=%E5%8D%81%E5%87%A0%E5%85%83%E4%B8%80%E4%BB%B6%E7%9A%84%E7%BD%91%E7%BA%A2%E8%A3%A4%E5%B7%B2%E8%AE%A9%E5%BE%88%E5%A4%9A%E4%BA%BA%E7%A4%BE%E6%AD%BB",
           "source": "百度热搜",
@@ -360,6 +368,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时59分 ~ 16时10分]"
+        },
+        {
+          "title": "金十整理：下周重要事件与数据预告——美联储会议纪要重磅来袭、中国6月CPI数据将公布、SK海力士ADR暂定周五在纳斯达克上市",
+          "url": "https://flash.jin10.com/detail/20260705211246062800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
+          "title": "表哥带大幼弟,网友评论区揽功",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355918&amp;topic_name=%E8%A1%A8%E5%93%A5%E5%B8%A6%E5%A4%A7%E5%B9%BC%E5%BC%9F%2C%E7%BD%91%E5%8F%8B%E8%AF%84%E8%AE%BA%E5%8C%BA%E6%8F%BD%E5%8A%9F",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         },
         {
           "title": "南昌“佛得角”烟酒店意外走红",
@@ -377,17 +407,41 @@
           "time_info": "[15时36分 ~ 20时22分]"
         },
         {
-          "title": "周末要闻汇总：A股交易新规，明起施行；万亿逆回购来了",
-          "url": "https://www.cls.cn/detail/2417296",
-          "source": "财联社热门",
+          "title": "18岁女生每天主动加班 店主给1万工资",
+          "url": "https://www.toutiao.com/trending/7658108180563787782/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            8,
-            5
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时23分 ~ 20时22分]"
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 21时47分]"
+        },
+        {
+          "title": "男子中了692万怕儿子躺平没敢告诉",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%AD%E4%BA%86692%E4%B8%87%E6%80%95%E5%84%BF%E5%AD%90%E8%BA%BA%E5%B9%B3%E6%B2%A1%E6%95%A2%E5%91%8A%E8%AF%89%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 21时47分]"
+        },
+        {
+          "title": "霉霉被曝冠夫姓,独立人设崩塌",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355915&amp;topic_name=%E9%9C%89%E9%9C%89%E8%A2%AB%E6%9B%9D%E5%86%A0%E5%A4%AB%E5%A7%93%2C%E7%8B%AC%E7%AB%8B%E4%BA%BA%E8%AE%BE%E5%B4%A9%E5%A1%8C",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 21时47分]"
         },
         {
           "title": "优步暂停欧洲多数外卖扩张计划",
@@ -439,16 +493,17 @@
           "time_info": "[16时10分 ~ 20时22分]"
         },
         {
-          "title": "男子中692万怕儿子躺平只告诉老婆",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%AD692%E4%B8%87%E6%80%95%E5%84%BF%E5%AD%90%E8%BA%BA%E5%B9%B3%E5%8F%AA%E5%91%8A%E8%AF%89%E8%80%81%E5%A9%86",
-          "source": "百度热搜",
+          "title": "视频丨电弹就位、阻拦索安装！两栖攻击舰四川舰最新进展",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33521178",
+          "source": "澎湃新闻",
           "ranks": [
-            23,
-            5
+            15,
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时08分 ~ 20时22分]"
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 21时47分]"
         },
         {
           "title": "四大名著里，谁最适合做你的职场导师？",
@@ -461,6 +516,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时02分 ~ 08时05分]"
+        },
+        {
+          "title": "四川一地部分酒店在考公期间涨价，市监局：系市场行为，已引导经营者控制涨幅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33520675",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 21时47分]"
         },
         {
           "title": "打车到拉萨网红回应50万大奖",
@@ -476,52 +544,17 @@
           "time_info": "[03时23分 ~ 05时06分]"
         },
         {
-          "title": "霉霉被曝冠夫姓,独立人设崩塌",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355915&amp;topic_name=%E9%9C%89%E9%9C%89%E8%A2%AB%E6%9B%9D%E5%86%A0%E5%A4%AB%E5%A7%93%2C%E7%8B%AC%E7%AB%8B%E4%BA%BA%E8%AE%BE%E5%B4%A9%E5%A1%8C",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时23分 ~ 20时22分]"
-        },
-        {
-          "title": "视频丨电弹就位、阻拦索安装！两栖攻击舰四川舰最新进展",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33521178",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时23分 ~ 20时22分]"
-        },
-        {
-          "title": "四川一地部分酒店在考公期间涨价，市监局：系市场行为，已引导经营者控制涨幅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33520675",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时23分 ~ 20时22分]"
-        },
-        {
           "title": "Tim 称有时会送面试者 Switch，用《星露谷物语》筛选人才，如何评价他的方式？这个游戏能看出什么？",
           "url": "https://www.zhihu.com/question/2056022201455697979",
           "source": "知乎",
           "ranks": [
             17,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时23分 ~ 20时22分]"
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 21时47分]"
         },
         {
           "title": "网红回应西藏文旅奖50万：捐赠48万",
@@ -529,11 +562,12 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时23分 ~ 20时22分]"
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 21时47分]"
         },
         {
           "title": "云南撒撇把美食吃出新高度",
@@ -582,6 +616,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时36分 ~ 16时10分]"
+        },
+        {
+          "title": "韩国政府：拟使用半导体税收红利设立“未来应对基金”，规模最高100万亿韩元",
+          "url": "https://wallstreetcn.com/articles/3776221",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 21时47分]"
+        },
+        {
+          "title": "藏马熊凌晨推开酒店2楼反锁的房门，住客与熊对视",
+          "url": "https://news.ifeng.com/c/8uVz4NASaS9",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 21时47分]"
         },
         {
           "title": "韩国拟以芯片产业税收红利设立未来基金",
@@ -688,6 +744,18 @@
           "time_info": "[18时23分 ~ 19时08分]"
         },
         {
+          "title": "住酒店凌晨被藏马熊推开房门对视",
+          "url": "https://www.toutiao.com/trending/7658386028436291603/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 21时47分]"
+        },
+        {
           "title": "辽宁暴雨一女外卖员被激流冲走",
           "url": "https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E6%9A%B4%E9%9B%A8%E4%B8%80%E5%A5%B3%E5%A4%96%E5%8D%96%E5%91%98%E8%A2%AB%E6%BF%80%E6%B5%81%E5%86%B2%E8%B5%B0",
           "source": "百度热搜",
@@ -698,6 +766,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时08分 ~ 20时22分]"
+        },
+        {
+          "title": "男友拍照气死人系列",
+          "url": "https://www.douyin.com/hot/2559544",
+          "source": "抖音",
+          "ranks": [
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 21时47分]"
         },
         {
           "title": "加木民乐风说唱太上头了",
@@ -740,7 +820,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         },
@@ -762,7 +842,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         },
@@ -789,28 +869,6 @@
           "time_info": "18时23分"
         },
         {
-          "title": "韩国政府：拟使用半导体税收红利设立“未来应对基金”，规模最高100万亿韩元",
-          "url": "https://wallstreetcn.com/articles/3776221",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
-          "title": "藏马熊凌晨推开酒店2楼反锁的房门，住客与熊对视",
-          "url": "https://news.ifeng.com/c/8uVz4NASaS9",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
           "title": "韩国总统幕僚长：政府寻求利用半导体繁荣带来的税收盈余设立“未来应对基金”。",
           "url": "https://flash.jin10.com/detail/20260705153649852800",
           "source": "金十数据",
@@ -820,6 +878,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
+        },
+        {
+          "title": "媒体：从“鲁迅推荐”到“余华发抖”，浮夸的图书腰封该退场了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33520595",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
+          "title": "番茄新书流量下滑 48.4%，起点付费读者暴跌 10 万，网文是在衰退吗？",
+          "url": "https://www.zhihu.com/question/2056035813520102531",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         },
         {
           "title": "霉霉送场外粉丝婚礼甜品",
@@ -899,17 +979,6 @@
           "time_info": "11时59分"
         },
         {
-          "title": "住酒店凌晨被藏马熊推开房门对视",
-          "url": "https://www.toutiao.com/trending/7658386028436291603/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        },
-        {
           "title": "墨西哥球迷大闹英格兰队酒店",
           "url": "https://www.baidu.com/s?wd=%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%90%83%E8%BF%B7%E5%A4%A7%E9%97%B9%E8%8B%B1%E6%A0%BC%E5%85%B0%E9%98%9F%E9%85%92%E5%BA%97",
           "source": "百度热搜",
@@ -963,17 +1032,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
-        },
-        {
-          "title": "男友拍照气死人系列",
-          "url": "https://www.douyin.com/hot/2559544",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
         },
         {
           "title": "曝骑士在为詹姆斯回归作准备",
