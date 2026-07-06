@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T11:52:15.969001+08:00",
-  "total_titles_processed": 862,
+  "generated_at": "2026-07-06T13:18:17.088318+08:00",
+  "total_titles_processed": 985,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 65,
+      "match_count": 74,
       "titles": [
         {
           "title": "周末要闻汇总：A股交易新规，明起施行；万亿逆回购来了",
@@ -118,6 +118,19 @@
           "time_info": "[00时15分 ~ 08时14分]"
         },
         {
+          "title": "韩国政府：拟使用半导体税收红利设立“未来应对基金”，规模最高100万亿韩元",
+          "url": "https://wallstreetcn.com/articles/3776221",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 13时18分]"
+        },
+        {
           "title": "表哥带大幼弟,网友评论区揽功",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355918&amp;topic_name=%E8%A1%A8%E5%93%A5%E5%B8%A6%E5%A4%A7%E5%B9%BC%E5%BC%9F%2C%E7%BD%91%E5%8F%8B%E8%AF%84%E8%AE%BA%E5%8C%BA%E6%8F%BD%E5%8A%9F",
           "source": "贴吧",
@@ -129,18 +142,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时15分 ~ 08时14分]"
-        },
-        {
-          "title": "韩国政府：拟使用半导体税收红利设立“未来应对基金”，规模最高100万亿韩元",
-          "url": "https://wallstreetcn.com/articles/3776221",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 11时52分]"
         },
         {
           "title": "视频丨电弹就位、阻拦索安装！两栖攻击舰四川舰最新进展",
@@ -178,11 +179,12 @@
             11,
             12,
             13,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 11时52分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 13时18分]"
         },
         {
           "title": "LV 在中国密集维权，从茉莉奶白到鸭血粉丝、平价餐吧，目的何在？商标保护范围是不是太宽了？",
@@ -224,8 +226,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 11时52分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 13时18分]"
         },
         {
           "title": "韩国32年来首次重启钨矿开采，美日紧盯：“挑战中国”的希望？",
@@ -295,6 +297,17 @@
           "time_info": "[02时10分 ~ 06时07分]"
         },
         {
+          "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 13时18分]"
+        },
+        {
           "title": "韩国总统幕僚长：政府寻求利用半导体繁荣带来的税收盈余设立“未来应对基金”。基金应投资于未来的增长动力，解决K型两极分化问题。",
           "url": "https://wallstreetcn.com/livenews/3128986",
           "source": "华尔街见闻-快讯",
@@ -306,28 +319,6 @@
           "time_info": "[00时15分 ~ 06时07分]"
         },
         {
-          "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
-          "url": "https://wallstreetcn.com/articles/3776130",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 11时52分]"
-        },
-        {
-          "title": "上证指数早盘收报4046.70点，涨0.08%。 深证成指早盘收报15541.62点，跌0.36%。 创业板指早盘收报3999.28点，跌0.51%。 沪深300早盘收报4856.07点，涨0.29%。 科创50早盘收报2014.38点，涨1.96%。 中证500早盘收报8722.84点，跌0.26%。 中证1000早盘收报8554.65点，跌0.77%。",
-          "url": "https://wallstreetcn.com/livenews/3129135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        },
-        {
           "title": "人大通报蒋方舟被举报硕士论文造假，未发现学术不端行为，暂停其导师研究生招生资格 1 年，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2057229015937546031",
           "source": "知乎",
@@ -336,8 +327,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时14分 ~ 11时52分]"
+          "appearance_count": 4,
+          "time_info": "[08时14分 ~ 13时18分]"
         },
         {
           "title": "巴西vs挪威首发名单",
@@ -376,6 +367,31 @@
           "time_info": "[00时15分 ~ 08时14分]"
         },
         {
+          "title": "提醒：日内请重点关注（以下均为北京时间）",
+          "url": "https://wallstreetcn.com/livenews/3129028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时05分 ~ 13时18分]"
+        },
+        {
+          "title": "上证指数早盘收报4046.70点，涨0.08%。 深证成指早盘收报15541.62点，跌0.36%。 创业板指早盘收报3999.28点，跌0.51%。 沪深300早盘收报4856.07点，涨0.29%。 科创50早盘收报2014.38点，涨1.96%。 中证500早盘收报8722.84点，跌0.26%。 中证1000早盘收报8554.65点，跌0.77%。",
+          "url": "https://wallstreetcn.com/livenews/3129135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 13时18分]"
+        },
+        {
           "title": "A股交易新规今起施行，券商配套更新风险揭示书",
           "url": "https://wallstreetcn.com/livenews/3129031",
           "source": "华尔街见闻-快讯",
@@ -394,18 +410,6 @@
           "ranks": [
             3,
             16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时05分 ~ 08时14分]"
-        },
-        {
-          "title": "提醒：日内请重点关注（以下均为北京时间）",
-          "url": "https://wallstreetcn.com/livenews/3129028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            17
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -436,6 +440,41 @@
           "time_info": "[05时05分 ~ 11时52分]"
         },
         {
+          "title": "芬兰总统最新涉华表态",
+          "url": "https://news.ifeng.com/c/8uX4PXHxaV3",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 13时18分]"
+        },
+        {
+          "title": "Karpathy最新Agent观点：大厂并没有掌握智能体核心技术，个人开发者正称霸前沿",
+          "url": "https://wallstreetcn.com/articles/3776229",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 13时18分]"
+        },
+        {
+          "title": "华为何庭波发布 v2 版「韬定律」论文，补充工程细节和实测数据，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2056736081148748715",
+          "source": "知乎",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 13时18分]"
+        },
+        {
           "title": "林宥嘉独家公开蔡徐坤Demo",
           "url": "https://search.bilibili.com/all?keyword=%E6%9E%97%E5%AE%A5%E5%98%89%E7%8B%AC%E5%AE%B6%E5%85%AC%E5%BC%80%E8%94%A1%E5%BE%90%E5%9D%A4Demo",
           "source": "bilibili 热搜",
@@ -446,6 +485,66 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时19分 ~ 05时06分]"
+        },
+        {
+          "title": "【数读IPO】锂电设备细分龙头今日申购",
+          "url": "https://www.cls.cn/detail/2417463",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 13时18分]"
+        },
+        {
+          "title": "媒体：西藏文旅靠真诚赴约赢得关注",
+          "url": "https://www.douyin.com/hot/2559687",
+          "source": "抖音",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 13时18分]"
+        },
+        {
+          "title": "鹿晗工作室转发回应",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BD%AC%E5%8F%91%E5%9B%9E%E5%BA%94%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 13时18分]"
+        },
+        {
+          "title": "高考699分女孩被堵门直播，媒体：寒门逆袭不该是流量短剧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33523848",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 13时18分]"
+        },
+        {
+          "title": "人民日报读者点题·共同关注：夏粮连年丰收是“理所当然”吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33523931",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 13时18分]"
         },
         {
           "title": "网红回应西藏文旅奖50万：捐赠48万",
@@ -473,72 +572,6 @@
           "time_info": "[05时05分 ~ 06时07分]"
         },
         {
-          "title": "芬兰总统最新涉华表态",
-          "url": "https://news.ifeng.com/c/8uX4PXHxaV3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 11时52分]"
-        },
-        {
-          "title": "Karpathy最新Agent观点：大厂并没有掌握智能体核心技术，个人开发者正称霸前沿",
-          "url": "https://wallstreetcn.com/articles/3776229",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 11时52分]"
-        },
-        {
-          "title": "华为何庭波发布 v2 版「韬定律」论文，补充工程细节和实测数据，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2056736081148748715",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 11时52分]"
-        },
-        {
-          "title": "媒体：西藏文旅靠真诚赴约赢得关注",
-          "url": "https://www.douyin.com/hot/2559687",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 11时52分]"
-        },
-        {
-          "title": "【数读IPO】锂电设备细分龙头今日申购",
-          "url": "https://www.cls.cn/detail/2417463",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 11时52分]"
-        },
-        {
-          "title": "高考699分女孩被堵门直播，媒体：寒门逆袭不该是流量短剧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33523848",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 11时52分]"
-        },
-        {
           "title": "EWC热门项目前瞻",
           "url": "https://search.bilibili.com/all?keyword=EWC%E7%83%AD%E9%97%A8%E9%A1%B9%E7%9B%AE%E5%89%8D%E7%9E%BB",
           "source": "bilibili 热搜",
@@ -548,28 +581,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 06时07分]"
-        },
-        {
-          "title": "鹿晗工作室转发回应",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BD%AC%E5%8F%91%E5%9B%9E%E5%BA%94%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 11时52分]"
-        },
-        {
-          "title": "人民日报读者点题·共同关注：夏粮连年丰收是“理所当然”吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33523931",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 11时52分]"
         },
         {
           "title": "第一次去徐州旅行有什么必吃的美食？",
@@ -646,9 +657,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
+        },
+        {
+          "title": "PCB成关键瓶颈？机构爆料：制造工艺面临挑战 英伟达Kyber机架或遇延迟",
+          "url": "https://www.cls.cn/detail/2417600",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
+          "title": "博主“李要得”打车到拉萨视频点赞超千万，西藏文旅将兑现50万奖金",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33521506",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "科技基金交易拥挤风险增加 洼地资产有望逐步成为公募布局方向",
@@ -671,6 +704,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
+        },
+        {
+          "title": "55万人口的佛得角，没那么简单｜半卷书",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33511024",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
+          "title": "全球芯片LOF：将于2026年7月6日下午开市起停牌至当日收市，停牌期间本基金赎回业务照常办理。",
+          "url": "https://flash.jin10.com/detail/20260706123723119800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "三季度公募基金调查显示：科技成长仍是“心头好”，极致分化后打法生变",
@@ -701,9 +756,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
+        },
+        {
+          "title": "价格不到 50 元「次抛衣」火了，质量粗糙，多用于旅行拍照，穿完即扔或转卖，如何看待这种现象？",
+          "url": "https://www.zhihu.com/question/2049457693316927509",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "世界杯唯一中超球员已火速回归",
@@ -723,9 +789,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
+        },
+        {
+          "title": "上海46岁独居女子离世 遗产处置引关注",
+          "url": "https://www.toutiao.com/trending/7658620669345529882/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "40天加长三伏天 减脂黄金期来了",
@@ -745,9 +822,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
+        },
+        {
+          "title": "小学最后一天Vlog",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%AD%A6%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9vlog",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
+          "title": "华为韬定律芯片实测",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E9%9F%AC%E5%AE%9A%E5%BE%8B%E8%8A%AF%E7%89%87%E5%AE%9E%E6%B5%8B&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "本周重要事件与数据预告：美联储会议纪要；中国CPI、外储；SK海力士登陆美股",
@@ -767,7 +866,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -778,9 +877,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
+        },
+        {
+          "title": "第一次玩拼豆是什么体验",
+          "url": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%8E%A9%E6%8B%BC%E8%B1%86%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "博主：英格兰才是世界杯另一大热门",
