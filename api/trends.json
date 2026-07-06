@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T20:53:15.272480+08:00",
-  "total_titles_processed": 1473,
+  "generated_at": "2026-07-06T22:32:25.984196+08:00",
+  "total_titles_processed": 1598,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 120,
+      "match_count": 125,
       "titles": [
         {
           "title": "周末要闻汇总：A股交易新规，明起施行；万亿逆回购来了",
@@ -34,6 +34,18 @@
           "time_info": "[00时15分 ~ 08时14分]"
         },
         {
+          "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时51分 ~ 22时32分]"
+        },
+        {
           "title": "媒体：从“鲁迅推荐”到“余华发抖”，浮夸的图书腰封该退场了",
           "url": "https://m.thepaper.cn/newsDetail_forward_33520595",
           "source": "澎湃新闻",
@@ -45,18 +57,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时15分 ~ 08时14分]"
-        },
-        {
-          "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
-          "url": "https://wallstreetcn.com/articles/3776130",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时51分 ~ 20时53分]"
         },
         {
           "title": "19块的外卖用玻璃罐装",
@@ -198,8 +198,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时15分 ~ 20时53分]"
+          "appearance_count": 18,
+          "time_info": "[00时15分 ~ 22时32分]"
         },
         {
           "title": "LV 在中国密集维权，从茉莉奶白到鸭血粉丝、平价餐吧，目的何在？商标保护范围是不是太宽了？",
@@ -225,11 +225,12 @@
             18,
             16,
             12,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时15分 ~ 20时53分]"
+          "appearance_count": 16,
+          "time_info": "[00时15分 ~ 22时32分]"
         },
         {
           "title": "Tim 称有时会送面试者 Switch，用《星露谷物语》筛选人才，如何评价他的方式？这个游戏能看出什么？",
@@ -314,6 +315,34 @@
           "time_info": "[00时15分 ~ 07时05分]"
         },
         {
+          "title": "高考699分女孩被堵门直播，媒体：寒门逆袭不该是流量短剧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33523848",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时51分 ~ 22时32分]"
+        },
+        {
+          "title": "人民日报读者点题·共同关注：夏粮连年丰收是“理所当然”吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33523931",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时51分 ~ 22时32分]"
+        },
+        {
           "title": "藏马熊进酒店跟开罐头似的",
           "url": "https://s.weibo.com/weibo?q=%E8%97%8F%E9%A9%AC%E7%86%8A%E8%BF%9B%E9%85%92%E5%BA%97%E8%B7%9F%E5%BC%80%E7%BD%90%E5%A4%B4%E4%BC%BC%E7%9A%84&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -354,31 +383,19 @@
           "time_info": "[11时51分 ~ 20时53分]"
         },
         {
-          "title": "高考699分女孩被堵门直播，媒体：寒门逆袭不该是流量短剧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33523848",
-          "source": "澎湃新闻",
+          "title": "价格不到 50 元「次抛衣」火了，质量粗糙，多用于旅行拍照，穿完即扔或转卖，如何看待这种现象？",
+          "url": "https://www.zhihu.com/question/2049457693316927509",
+          "source": "知乎",
           "ranks": [
             14,
-            15,
+            12,
             11,
-            9
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时51分 ~ 20时53分]"
-        },
-        {
-          "title": "人民日报读者点题·共同关注：夏粮连年丰收是“理所当然”吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33523931",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时51分 ~ 20时53分]"
+          "appearance_count": 6,
+          "time_info": "[13时18分 ~ 22时32分]"
         },
         {
           "title": "韩国总统幕僚长：政府寻求利用半导体繁荣带来的税收盈余设立“未来应对基金”。基金应投资于未来的增长动力，解决K型两极分化问题。",
@@ -416,6 +433,17 @@
           "time_info": "18时50分"
         },
         {
+          "title": "中微公司：向特定对象发行股票募集配套资金15亿元 发行价格为290.88元/股",
+          "url": "https://wallstreetcn.com/livenews/3129428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "Karpathy最新Agent观点：大厂并没有掌握智能体核心技术，个人开发者正称霸前沿",
           "url": "https://wallstreetcn.com/articles/3776229",
           "source": "华尔街见闻",
@@ -438,6 +466,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "“你们的茉莉奶茶正在被水淹”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BD%A0%E4%BB%AC%E7%9A%84%E8%8C%89%E8%8E%89%E5%A5%B6%E8%8C%B6%E6%AD%A3%E5%9C%A8%E8%A2%AB%E6%B0%B4%E6%B7%B9%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "中国央行公开市场本周有6785亿元逆回购到期",
@@ -487,18 +526,18 @@
           "time_info": "[00时15分 ~ 08时14分]"
         },
         {
-          "title": "价格不到 50 元「次抛衣」火了，质量粗糙，多用于旅行拍照，穿完即扔或转卖，如何看待这种现象？",
-          "url": "https://www.zhihu.com/question/2049457693316927509",
+          "title": "网红董太太采访的太阳宫月亮宫小少爷平儿，摒弃数理化，不上学，在家学易经奇门遁甲，如何看待这种教育方式？",
+          "url": "https://www.zhihu.com/question/2055157666142541293",
           "source": "知乎",
           "ranks": [
-            14,
-            12,
-            11,
-            6
+            16,
+            18,
+            17,
+            14
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时18分 ~ 20时53分]"
+          "time_info": "[16时25分 ~ 22时32分]"
         },
         {
           "title": "提醒：日内请重点关注（以下均为北京时间）",
@@ -575,6 +614,18 @@
           "time_info": "[07时05分 ~ 08时14分]"
         },
         {
+          "title": "【每日收评】创业板指冲高回落跌1.77%，算力硬件股持续调整，煤炭、医药防御性板块逆势走强",
+          "url": "https://www.cls.cn/detail/2418067",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时50分 ~ 22时32分]"
+        },
+        {
           "title": "【数读IPO】锂电设备细分龙头今日申购",
           "url": "https://www.cls.cn/detail/2417463",
           "source": "财联社热门",
@@ -600,17 +651,26 @@
           "time_info": "[05时05分 ~ 11时52分]"
         },
         {
-          "title": "网红董太太采访的太阳宫月亮宫小少爷平儿，摒弃数理化，不上学，在家学易经奇门遁甲，如何看待这种教育方式？",
-          "url": "https://www.zhihu.com/question/2055157666142541293",
-          "source": "知乎",
+          "title": "创业板跌近2%，科创50巨震后收涨1%，PCB、CPO齐跌，创新药逆势再爆发，恒指涨超1%三连涨",
+          "url": "https://wallstreetcn.com/articles/3776252",
+          "source": "华尔街见闻",
           "ranks": [
-            16,
-            18,
-            17
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时25分 ~ 20时53分]"
+          "appearance_count": 3,
+          "time_info": "[20时52分 ~ 22时32分]"
+        },
+        {
+          "title": "刺客信条黑旗重置版首发实况",
+          "url": "https://search.bilibili.com/all?keyword=%E5%88%BA%E5%AE%A2%E4%BF%A1%E6%9D%A1%E9%BB%91%E6%97%97%E9%87%8D%E7%BD%AE%E7%89%88%E9%A6%96%E5%8F%91%E5%AE%9E%E5%86%B5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时52分 ~ 22时32分]"
         },
         {
           "title": "“最懂苹果分析师”郭明錤：折叠屏iPhone或“联合发布但推迟上市，年底前供货紧张”",
@@ -619,18 +679,6 @@
           "ranks": [
             9,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时50分 ~ 20时53分]"
-        },
-        {
-          "title": "【每日收评】创业板指冲高回落跌1.77%，算力硬件股持续调整，煤炭、医药防御性板块逆势走强",
-          "url": "https://www.cls.cn/detail/2418067",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -661,6 +709,18 @@
           "time_info": "[11时51分 ~ 13时18分]"
         },
         {
+          "title": "国产清洁机器人卖爆了",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E6%B8%85%E6%B4%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%96%E7%88%86%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时52分 ~ 22时32分]"
+        },
+        {
           "title": "鹿晗工作室转发回应",
           "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BD%AC%E5%8F%91%E5%9B%9E%E5%BA%94%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -671,6 +731,41 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时51分 ~ 13时18分]"
+        },
+        {
+          "title": "国际乒联更新世界排名",
+          "url": "https://www.toutiao.com/trending/7659039860099285011/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时52分 ~ 22时32分]"
+        },
+        {
+          "title": "横州六蓝水库最新航拍画面",
+          "url": "https://www.douyin.com/hot/2561128",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时52分 ~ 22时32分]"
+        },
+        {
+          "title": "穿搭技巧之如何穿出差异化",
+          "url": "https://www.douyin.com/hot/2559716",
+          "source": "抖音",
+          "ranks": [
+            30,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时52分 ~ 22时32分]"
         },
         {
           "title": "网红回应西藏文旅奖50万：捐赠48万",
@@ -698,15 +793,16 @@
           "time_info": "[05时05分 ~ 06时07分]"
         },
         {
-          "title": "创业板跌近2%，科创50巨震后收涨1%，PCB、CPO齐跌，创新药逆势再爆发，恒指涨超1%三连涨",
-          "url": "https://wallstreetcn.com/articles/3776252",
-          "source": "华尔街见闻",
+          "title": "你的股票基金操作逻辑变了",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E7%9A%84%E8%82%A1%E7%A5%A8%E5%9F%BA%E9%87%91%E6%93%8D%E4%BD%9C%E9%80%BB%E8%BE%91%E5%8F%98%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            7
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
+          "appearance_count": 3,
+          "time_info": "[20时52分 ~ 22时32分]"
         },
         {
           "title": "创业板跌近2%，PCB、CPO领跌，机器人板块调整，创新药再爆发，恒科指涨超1%",
@@ -719,17 +815,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时25分 ~ 18时50分]"
-        },
-        {
-          "title": "刺客信条黑旗重置版首发实况",
-          "url": "https://search.bilibili.com/all?keyword=%E5%88%BA%E5%AE%A2%E4%BF%A1%E6%9D%A1%E9%BB%91%E6%97%97%E9%87%8D%E7%BD%AE%E7%89%88%E9%A6%96%E5%8F%91%E5%AE%9E%E5%86%B5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
         },
         {
           "title": "西藏种草含量超标",
@@ -764,39 +849,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 06时07分]"
-        },
-        {
-          "title": "横州六蓝水库最新航拍画面",
-          "url": "https://www.douyin.com/hot/2561128",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
-        },
-        {
-          "title": "国际乒联更新世界排名",
-          "url": "https://www.toutiao.com/trending/7659039860099285011/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
-        },
-        {
-          "title": "国产清洁机器人卖爆了",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E6%B8%85%E6%B4%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%96%E7%88%86%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
         },
         {
           "title": "第一次玩拼豆是什么体验",
@@ -856,17 +908,6 @@
           "time_info": "[13时18分 ~ 18时50分]"
         },
         {
-          "title": "你的股票基金操作逻辑变了",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E7%9A%84%E8%82%A1%E7%A5%A8%E5%9F%BA%E9%87%91%E6%93%8D%E4%BD%9C%E9%80%BB%E8%BE%91%E5%8F%98%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
-        },
-        {
           "title": "去面试发现HR被辞退了",
           "url": "https://s.weibo.com/weibo?q=%E5%8E%BB%E9%9D%A2%E8%AF%95%E5%8F%91%E7%8E%B0HR%E8%A2%AB%E8%BE%9E%E9%80%80%E4%BA%86&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -912,17 +953,6 @@
           "time_info": "[05时05分 ~ 05时06分]"
         },
         {
-          "title": "穿搭技巧之如何穿出差异化",
-          "url": "https://www.douyin.com/hot/2559716",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
-        },
-        {
           "title": "ST龙元：接相关方通知，正在筹划涉及公司的重大事项，股票停牌。",
           "url": "https://wallstreetcn.com/livenews/3129326",
           "source": "华尔街见闻-快讯",
@@ -940,9 +970,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
+        },
+        {
+          "title": "武汉一酒店爆改超市日售200多种菜品",
+          "url": "https://www.toutiao.com/trending/7659355988710309930/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（7月6日）",
@@ -989,6 +1030,17 @@
           "time_info": "11时52分"
         },
         {
+          "title": "王俊凯王源同款抢票失败",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%E5%90%8C%E6%AC%BE%E6%8A%A2%E7%A5%A8%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "博主“李要得”打车到拉萨视频点赞超千万，西藏文旅将兑现50万奖金",
           "url": "https://m.thepaper.cn/newsDetail_forward_33521506",
           "source": "澎湃新闻",
@@ -1017,7 +1069,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -1110,13 +1162,24 @@
           "time_info": "08时14分"
         },
         {
+          "title": "Blue Owl旗下基金收购克利夫兰骑士队少数股权。",
+          "url": "https://wallstreetcn.com/livenews/3129417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "四连板ST洲际：2025年度财务报告内部控制被出具否定意见，股票于2026年4月29日起被实施其他风险警示",
           "url": "https://flash.jin10.com/detail/20260706201754853800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -1193,7 +1256,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -1248,7 +1311,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -1402,7 +1465,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -1413,7 +1476,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -1424,7 +1487,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
