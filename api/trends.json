@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-07T22:44:29.861266+08:00",
-  "total_titles_processed": 1541,
+  "generated_at": "2026-07-07T22:53:30.734794+08:00",
+  "total_titles_processed": 1555,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 117,
+      "match_count": 118,
       "titles": [
+        {
+          "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
+          "url": "https://wallstreetcn.com/articles/3776262",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时12分 ~ 22时53分]"
+        },
         {
           "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
           "url": "https://wallstreetcn.com/articles/3776130",
@@ -20,16 +32,39 @@
           "time_info": "[00时24分 ~ 08时13分]"
         },
         {
-          "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
-          "url": "https://wallstreetcn.com/articles/3776262",
+          "title": "挪威首相最新涉华表态",
+          "url": "https://news.ifeng.com/c/8uYfviWDdZS",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时56分 ~ 22时53分]"
+        },
+        {
+          "title": "三星电子Q2季度利润飙升19倍，超越英伟达成“全球最赚钱公司”",
+          "url": "https://wallstreetcn.com/articles/3776327",
           "source": "华尔街见闻",
           "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时56分 ~ 22时53分]"
+        },
+        {
+          "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
+          "url": "https://www.zhihu.com/question/2057753624717911009",
+          "source": "知乎",
+          "ranks": [
+            5,
             2,
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时12分 ~ 22时44分]"
+          "appearance_count": 6,
+          "time_info": "[12时56分 ~ 22时53分]"
         },
         {
           "title": "创业板跌近2%，科创50巨震后收涨1%，PCB、CPO齐跌，创新药逆势再爆发，恒指涨超1%三连涨",
@@ -45,26 +80,15 @@
           "time_info": "[00时24分 ~ 16时33分]"
         },
         {
-          "title": "挪威首相最新涉华表态",
-          "url": "https://news.ifeng.com/c/8uYfviWDdZS",
+          "title": "曾被中方制裁的荷兰大臣率团访华，这些议题受关注",
+          "url": "https://news.ifeng.com/c/8uZ1HZOwIbO",
           "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时56分 ~ 22时44分]"
-        },
-        {
-          "title": "三星电子Q2季度利润飙升19倍，超越英伟达成“全球最赚钱公司”",
-          "url": "https://wallstreetcn.com/articles/3776327",
-          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时56分 ~ 22时44分]"
+          "time_info": "[16时26分 ~ 22时53分]"
         },
         {
           "title": "99 万机器人伴侣续航仅 2-4 小时，为啥续航这么差​？技术核心卡点在哪？可能对用户体验有哪些影响？",
@@ -98,19 +122,6 @@
           "time_info": "[00时24分 ~ 12时56分]"
         },
         {
-          "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
-          "url": "https://www.zhihu.com/question/2057753624717911009",
-          "source": "知乎",
-          "ranks": [
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时56分 ~ 22时44分]"
-        },
-        {
           "title": "穿搭技巧之如何穿出差异化",
           "url": "https://www.douyin.com/hot/2559716",
           "source": "抖音",
@@ -125,17 +136,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时24分 ~ 19时54分]"
-        },
-        {
-          "title": "曾被中方制裁的荷兰大臣率团访华，这些议题受关注",
-          "url": "https://news.ifeng.com/c/8uZ1HZOwIbO",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时26分 ~ 22时44分]"
         },
         {
           "title": "【每日收评】创业板指冲高回落跌1.77%，算力硬件股持续调整，煤炭、医药防御性板块逆势走强",
@@ -227,6 +227,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时24分 ~ 06时17分]"
+        },
+        {
+          "title": "暑假工自愿加班,3千月薪变1万",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355980&amp;topic_name=%E6%9A%91%E5%81%87%E5%B7%A5%E8%87%AA%E6%84%BF%E5%8A%A0%E7%8F%AD%2C3%E5%8D%83%E6%9C%88%E8%96%AA%E5%8F%981%E4%B8%87",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 22时53分]"
         },
         {
           "title": "安徽：在科技创新方面探索打造“基金+科技贷+投担联动+知识产权质押”组合融资工具",
@@ -324,15 +335,18 @@
           "time_info": "06时17分"
         },
         {
-          "title": "暑假工自愿加班,3千月薪变1万",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355980&amp;topic_name=%E6%9A%91%E5%81%87%E5%B7%A5%E8%87%AA%E6%84%BF%E5%8A%A0%E7%8F%AD%2C3%E5%8D%83%E6%9C%88%E8%96%AA%E5%8F%981%E4%B8%87",
-          "source": "贴吧",
+          "title": "“扫描”主播｜百万粉丝主播的减肥“生意”：话术、私域与假进口糖果",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33525630",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            18,
+            17,
+            12,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时26分 ~ 22时53分]"
         },
         {
           "title": "网红董太太采访的太阳宫月亮宫小少爷平儿，摒弃数理化，不上学，在家学易经奇门遁甲，如何看待这种教育方式？",
@@ -347,6 +361,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时24分 ~ 08时13分]"
+        },
+        {
+          "title": "央视解说哽咽送别C罗",
+          "url": "https://www.douyin.com/hot/2561666",
+          "source": "抖音",
+          "ranks": [
+            16,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时26分 ~ 22时53分]"
         },
         {
           "title": "驱魔录全网首发",
@@ -449,33 +476,6 @@
           "time_info": "[16时33分 ~ 19时54分]"
         },
         {
-          "title": "“扫描”主播｜百万粉丝主播的减肥“生意”：话术、私域与假进口糖果",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33525630",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时26分 ~ 22时44分]"
-        },
-        {
-          "title": "央视解说哽咽送别C罗",
-          "url": "https://www.douyin.com/hot/2561666",
-          "source": "抖音",
-          "ranks": [
-            16,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时26分 ~ 22时44分]"
-        },
-        {
           "title": "三星电子公布最新季报，预计二季度利润同比暴增 1810%，如何看待这份财报？科技行情还能继续吗？",
           "url": "https://www.zhihu.com/question/2057735732068979803",
           "source": "知乎",
@@ -485,6 +485,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时56分 ~ 16时33分]"
+        },
+        {
+          "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时54分 ~ 22时53分]"
         },
         {
           "title": "科技股遭对冲基金连抛四周，高盛交易员：“买入一切AI”时代终结！",
@@ -520,6 +532,30 @@
           "time_info": "[12时56分 ~ 16时33分]"
         },
         {
+          "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
+          "url": "https://tech.ifeng.com/c/8uYAqpu54ML",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时54分 ~ 22时53分]"
+        },
+        {
+          "title": "哈兰德抖音粉丝数超过挪威人口",
+          "url": "https://www.douyin.com/hot/2562452",
+          "source": "抖音",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时54分 ~ 22时53分]"
+        },
+        {
           "title": "韩红基金会向广西捐赠200万",
           "url": "https://www.toutiao.com/trending/7658832742386450473/",
           "source": "今日头条",
@@ -541,6 +577,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时12分 ~ 08时13分]"
+        },
+        {
+          "title": "广西洪涝已致 5.5 万人受灾，面对暴雨灾情有哪些保命应急技巧？",
+          "url": "https://www.zhihu.com/question/2057739570632812323",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 22时53分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：对冲基金对日元的净空头头寸升至2007年以来最悲观水平。",
@@ -578,6 +625,17 @@
           "time_info": "[08时12分 ~ 08时13分]"
         },
         {
+          "title": "墨西哥比索、南非兰特、巴西雷亚尔刷新日低，投资者关注美元和油价走强。",
+          "url": "https://wallstreetcn.com/livenews/3130051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 22时53分]"
+        },
+        {
           "title": "美国CFTC：对冲基金对日元看跌情绪创2007年以来最高",
           "url": "https://wallstreetcn.com/livenews/3129541",
           "source": "华尔街见闻-快讯",
@@ -588,18 +646,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时07分 ~ 04时57分]"
-        },
-        {
-          "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时54分 ~ 22时44分]"
         },
         {
           "title": "欧洲央行管委Panetta：经济前景仍然脆弱。 通胀上行风险与经济增长下行风险并存。 不能将最新的能源冲击草率地视为暂时现象。 最近的能源冲击并非2022年的重演。 货币政策必须适应不断变化的经济环境。 最近的加息决策在一系列情景下都是稳健的。 在当前背景下，政策选择的稳健性非常重要。",
@@ -638,18 +684,6 @@
           "time_info": "[01时49分 ~ 02时59分]"
         },
         {
-          "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
-          "url": "https://tech.ifeng.com/c/8uYAqpu54ML",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时54分 ~ 22时44分]"
-        },
-        {
           "title": "7月7日投资避雷针：中公教育股票出现异常波动 深交所依规对相关投资者暂停交易",
           "url": "https://www.cls.cn/detail/2418629",
           "source": "财联社热门",
@@ -659,6 +693,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时26分 ~ 16时33分]"
+        },
+        {
+          "title": "三角洲最难用武器排行榜",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E6%9C%80%E9%9A%BE%E7%94%A8%E6%AD%A6%E5%99%A8%E6%8E%92%E8%A1%8C%E6%A6%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 22时53分]"
         },
         {
           "title": "动量策略失灵，量化对冲基金遭遇2023年以来最严重回撤",
@@ -708,16 +753,15 @@
           "time_info": "[08时12分 ~ 08时13分]"
         },
         {
-          "title": "哈兰德抖音粉丝数超过挪威人口",
-          "url": "https://www.douyin.com/hot/2562452",
-          "source": "抖音",
+          "title": "如何看待郭德纲直播称「儿子三个月不回家，让郭麒麟剧组导演跪着等自己」，父子俩到底谁在较劲？",
+          "url": "https://www.zhihu.com/question/2057250524936852697",
+          "source": "知乎",
           "ranks": [
-            15,
-            16
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时54分 ~ 22时44分]"
+          "time_info": "[22时44分 ~ 22时53分]"
         },
         {
           "title": "Rivian(RIVN.O)股价在盘前交易中下跌8.9%，因公司计划通过增发股票筹集资金。",
@@ -742,6 +786,29 @@
           "time_info": "[16时26分 ~ 16时33分]"
         },
         {
+          "title": "西藏文旅重奖创作者为地方文旅打开思路，多地“悬赏”拍爆款",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33533560",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 22时53分]"
+        },
+        {
+          "title": "小孩哥健身房旁模仿动感单车训练",
+          "url": "https://www.toutiao.com/trending/7658934964083802138/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 22时53分]"
+        },
+        {
           "title": "上证指数收报3990.24点，跌1.26%。 深证成指收报15225.11点，跌1.24%。 创业板指收报3911.91点，跌0.94%。 沪深300收报4792.26点，跌1.03%。 科创50收报2001.59点，涨0.27%。 中证500收报8508.79点，跌1.65%。 中证1000收报8301.80点，跌2.02%。",
           "url": "https://wallstreetcn.com/livenews/3129802",
           "source": "华尔街见闻-快讯",
@@ -764,6 +831,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时26分 ~ 16时33分]"
+        },
+        {
+          "title": "燃油2609盘中拉升，涨幅扩大至2.02%，最新报2983元/吨；成交额约45.22亿元，日内增仓近6000手，量仓活跃度同步抬升。",
+          "url": "https://flash.jin10.com/detail/20260707220401172800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 22时53分]"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（7月6日）担保隔夜融资利率（SOFR）报3.63%，之前一天报3.64%。 上个交易日有效的联邦基金利率报3.63%，之前一天报3.63%。",
+          "url": "https://wallstreetcn.com/livenews/3130038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 22时53分]"
         },
         {
           "title": "CS2赛季更新爆料汇总",
@@ -801,6 +890,28 @@
           "time_info": "[08时12分 ~ 08时13分]"
         },
         {
+          "title": "携程：为多地受灾情影响酒店订单承担退订损失，投入近300万元专项帮扶方案驰援广西",
+          "url": "https://wallstreetcn.com/livenews/3130030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 22时53分]"
+        },
+        {
+          "title": "雅高：未来五至六年计划在华实现1600家酒店的发展目标",
+          "url": "https://wallstreetcn.com/livenews/3130029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 22时53分]"
+        },
+        {
           "title": "SpaceX(SPCX.O)美股盘前跌1.2%，此前该公司股票被纳入纳斯达克100指数，多家券商开始覆盖该股。",
           "url": "https://flash.jin10.com/detail/20260707160217170800",
           "source": "金十数据",
@@ -834,6 +945,17 @@
           "time_info": "12时56分"
         },
         {
+          "title": "阿根廷对阵埃及首发轮换",
+          "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%AF%B9%E9%98%B5%E5%9F%83%E5%8F%8A%E9%A6%96%E5%8F%91%E8%BD%AE%E6%8D%A2&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "前华为天才少年吐槽DeepSeek面试",
           "url": "https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%8D%8E%E4%B8%BA%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%90%90%E6%A7%BDDeepSeek%E9%9D%A2%E8%AF%95%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -843,17 +965,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
-        },
-        {
-          "title": "广西洪涝已致 5.5 万人受灾，面对暴雨灾情有哪些保命应急技巧？",
-          "url": "https://www.zhihu.com/question/2057739570632812323",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
         },
         {
           "title": "马克龙下榻酒店附近连发爆炸",
@@ -887,17 +998,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
-        },
-        {
-          "title": "墨西哥比索、南非兰特、巴西雷亚尔刷新日低，投资者关注美元和油价走强。",
-          "url": "https://wallstreetcn.com/livenews/3130051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
         },
         {
           "title": "GMA文成正在直播中",
@@ -977,17 +1077,6 @@
           "time_info": "00时24分"
         },
         {
-          "title": "三角洲最难用武器排行榜",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E6%9C%80%E9%9A%BE%E7%94%A8%E6%AD%A6%E5%99%A8%E6%8E%92%E8%A1%8C%E6%A6%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
           "title": "日本5月实际工资连续第五个月增长 增速放缓",
           "url": "https://flash.jin10.com/detail/20260707073636640800",
           "source": "金十数据",
@@ -1021,17 +1110,6 @@
           "time_info": "04时57分"
         },
         {
-          "title": "如何看待郭德纲直播称「儿子三个月不回家，让郭麒麟剧组导演跪着等自己」，父子俩到底谁在较劲？",
-          "url": "https://www.zhihu.com/question/2057250524936852697",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
           "title": "SpaceX总裁将向“特朗普账户”捐赠股票",
           "url": "https://wallstreetcn.com/livenews/3129611",
           "source": "华尔街见闻-快讯",
@@ -1052,17 +1130,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
-        },
-        {
-          "title": "西藏文旅重奖创作者为地方文旅打开思路，多地“悬赏”拍爆款",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33533560",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850566&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/1kpbDlnwLmXOUl-HjThIH.jpg/lite\" height=\"120\"/></a>",
@@ -1109,17 +1176,6 @@
           "time_info": "12时56分"
         },
         {
-          "title": "燃油2609盘中拉升，涨幅扩大至2.02%，最新报2983元/吨；成交额约45.22亿元，日内增仓近6000手，量仓活跃度同步抬升。",
-          "url": "https://flash.jin10.com/detail/20260707220401172800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
           "title": "中共中央对外联络部部长刘海星会见法国前总理、展望与创新基金会主席拉法兰",
           "url": "https://wallstreetcn.com/livenews/3129930",
           "source": "华尔街见闻-快讯",
@@ -1162,17 +1218,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
-        },
-        {
-          "title": "据美国纽约联储数据，上个交易日（7月6日）担保隔夜融资利率（SOFR）报3.63%，之前一天报3.64%。 上个交易日有效的联邦基金利率报3.63%，之前一天报3.63%。",
-          "url": "https://wallstreetcn.com/livenews/3130038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
         },
         {
           "title": "日本5月加班工资年率 2.9%，前值4.2%。",
@@ -1252,17 +1297,6 @@
           "time_info": "19时54分"
         },
         {
-          "title": "小孩哥健身房旁模仿动感单车训练",
-          "url": "https://www.toutiao.com/trending/7658934964083802138/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
           "title": "韩国足协主席辞职",
           "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%B6%B3%E5%8D%8F%E4%B8%BB%E5%B8%AD%E8%BE%9E%E8%81%8C",
           "source": "百度热搜",
@@ -1285,17 +1319,6 @@
           "time_info": "08时13分"
         },
         {
-          "title": "携程：为多地受灾情影响酒店订单承担退订损失，投入近300万元专项帮扶方案驰援广西",
-          "url": "https://wallstreetcn.com/livenews/3130030",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
           "title": "国际乒联更新世界排名",
           "url": "https://www.toutiao.com/trending/7659039860099285011/",
           "source": "今日头条",
@@ -1316,17 +1339,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
-        },
-        {
-          "title": "雅高：未来五至六年计划在华实现1600家酒店的发展目标",
-          "url": "https://wallstreetcn.com/livenews/3130029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
         },
         {
           "title": "【央视网评：斩断“低俗赌约” 莫把股市当赌场】“央视网评”公众号发文称，近日，中公教育、共进股份等股票因股吧平台内的“低俗赌约”，引发股民的网络狂欢，前者4天内2个涨停，后者亦有1个涨停，接连上演了荒诞的股价异动戏码。这场靠“低俗赌约”撬动的股价异动，在监管的果断介入下被及时按下“暂停键”。 此类“低俗赌约”具有极强的夸大性与误导性：“一年20倍”等纯属夸张，低俗的“钩子”在传播过程中更被强行关联“有色”、AI硬件等热点概念，严重干扰投资者决策。这种流量炒作比股市“小作文”更为隐蔽：甚至无需捏造具体的利好谎言，只要足够低俗猎奇，猎奇心理和算法推荐机制就会替其将“误导性”放大。 投资者也要更清醒：在拿股吧赌约当买入逻辑之前，应先审视自身交易行为是否理性，是否会触碰红线。价格发现是资本市场的核心功能，容不下半点低俗流量的绑架。摒弃博傻心理，回归理性投资，才是长久之道。",
