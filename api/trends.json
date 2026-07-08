@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T01:44:44.241698+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2026-07-09T02:22:06.390948+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 02时22分]"
         },
         {
           "title": "GENG粉丝P黑白照嘲韩国滔博",
@@ -26,30 +26,43 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 02时22分]"
         },
         {
           "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2058168270499176758",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 02时22分]"
         },
         {
-          "title": "周三（7月8日），美联储隔夜逆回购协议（RRP）使用规模为33.47亿美元（交易对手8家），上个交易日报44.84亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3130840",
+          "title": "美联储6月会议纪要关注点",
+          "url": "https://wallstreetcn.com/livenews/3130752",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时44分"
+          "time_info": "02时22分"
+        },
+        {
+          "title": "周三（7月8日），美联储隔夜逆回购协议（RRP）使用规模为33.47亿美元（交易对手8家），上个交易日报44.84亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3130840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 02时22分]"
         },
         {
           "title": "【每日收评】创业板指冲高回落跌1.7%，算力租赁逆势走强，机器人、锂电概念股集体重挫",
@@ -59,8 +72,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 02时22分]"
         },
         {
           "title": "在职考研乱象调查：“院校合作”招生，是捷径还是陷阱？",
@@ -70,8 +83,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 02时22分]"
         },
         {
           "title": "时隔近2个月！市场再迎“7板高标”，年内高位连板股盘点，这些方向“出镜率”高",
@@ -81,20 +94,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 02时22分]"
         },
         {
-          "title": "美国总统特朗普：将关注能否维持油价下跌。",
-          "url": "https://wallstreetcn.com/livenews/3130816",
-          "source": "华尔街见闻-快讯",
+          "title": "最新世界杯夺冠概率出炉",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%87%E5%87%BA%E7%82%89%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
           "ranks": [
-            7,
-            25
+            12,
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 02时22分]"
         },
         {
           "title": "独家|苹果折叠机预计不会出现量产延期 液态金属铰链或将“爽约”第一代产品",
@@ -105,20 +119,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时44分]"
-        },
-        {
-          "title": "华纳兄弟探索（WBD）与亚马逊旗下AWS开发Agentic AI广告体验。",
-          "url": "https://wallstreetcn.com/livenews/3130814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 02时22分]"
         },
         {
           "title": "一香港起飞航班一度失联，北约战机升空警告！最新回应",
@@ -128,20 +130,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时44分]"
-        },
-        {
-          "title": "最新世界杯夺冠概率出炉",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%87%E5%87%BA%E7%82%89%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 02时22分]"
         },
         {
           "title": "净利同比最高增长5.61倍！120亿存储芯片概念股发布半年度业绩预告|盘后公告集锦",
@@ -152,8 +142,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 02时22分]"
         },
         {
           "title": "最新世界杯夺冠概率阿根廷第三",
@@ -161,11 +151,25 @@
           "source": "百度热搜",
           "ranks": [
             24,
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 02时22分]"
+        },
+        {
+          "title": "星铁姬子启行综合测评",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%9F%E9%93%81%E5%A7%AC%E5%AD%90%E5%90%AF%E8%A1%8C%E7%BB%BC%E5%90%88%E6%B5%8B%E8%AF%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            22,
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 02时22分]"
         },
         {
           "title": "印13岁女孩遭32人轮奸涉事酒店被拆",
@@ -176,20 +180,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时44分]"
-        },
-        {
-          "title": "星铁姬子启行综合测评",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%9F%E9%93%81%E5%A7%AC%E5%AD%90%E5%90%AF%E8%A1%8C%E7%BB%BC%E5%90%88%E6%B5%8B%E8%AF%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 02时22分]"
         },
         {
           "title": "无限流鼻祖恐怖游轮定档",
@@ -197,11 +189,12 @@
           "source": "抖音",
           "ranks": [
             27,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 02时22分]"
         },
         {
           "title": "暑假工自愿加班,3千月薪变1万",
@@ -209,6 +202,66 @@
           "source": "贴吧",
           "ranks": [
             28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 02时22分]"
+        },
+        {
+          "title": "美国总统特朗普：将关注能否维持油价下跌。",
+          "url": "https://wallstreetcn.com/livenews/3130816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时22分]"
+        },
+        {
+          "title": "粉笔CEO张小龙辞职",
+          "url": "https://www.baidu.com/s?wd=%E7%B2%89%E7%AC%94CEO%E5%BC%A0%E5%B0%8F%E9%BE%99%E8%BE%9E%E8%81%8C",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 02时22分]"
+        },
+        {
+          "title": "苹果追查 iPhone18Pro 泄密人员并下架爆料内容，此次事件暴露出苹果对产品信息管控的哪些问题？",
+          "url": "https://www.zhihu.com/question/2055448788882437948",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 02时22分]"
+        },
+        {
+          "title": "T1战队大田MSI Vlog",
+          "url": "https://search.bilibili.com/all?keyword=T1%E6%88%98%E9%98%9F%E5%A4%A7%E7%94%B0MSI%20Vlog",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时22分]"
+        },
+        {
+          "title": "华纳兄弟探索（WBD）与亚马逊旗下AWS开发Agentic AI广告体验。",
+          "url": "https://wallstreetcn.com/livenews/3130814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -243,7 +296,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
         },
@@ -259,37 +312,15 @@
           "time_info": "00时43分"
         },
         {
-          "title": "苹果追查 iPhone18Pro 泄密人员并下架爆料内容，此次事件暴露出苹果对产品信息管控的哪些问题？",
-          "url": "https://www.zhihu.com/question/2055448788882437948",
-          "source": "知乎",
+          "title": "金十整理：美联储6月会议纪要关注点",
+          "url": "https://flash.jin10.com/detail/20260709015555833800",
+          "source": "金十数据",
           "ranks": [
-            19
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "T1战队大田MSI Vlog",
-          "url": "https://search.bilibili.com/all?keyword=T1%E6%88%98%E9%98%9F%E5%A4%A7%E7%94%B0MSI%20Vlog",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "粉笔CEO张小龙辞职",
-          "url": "https://www.baidu.com/s?wd=%E7%B2%89%E7%AC%94CEO%E5%BC%A0%E5%B0%8F%E9%BE%99%E8%BE%9E%E8%81%8C",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "time_info": "02时22分"
         },
         {
           "title": "慢充旅行太治愈了",
@@ -298,7 +329,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
         }
