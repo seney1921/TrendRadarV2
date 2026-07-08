@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T13:56:37.177142+08:00",
-  "total_titles_processed": 1105,
+  "generated_at": "2026-07-08T15:34:40.765167+08:00",
+  "total_titles_processed": 1225,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 68,
+      "match_count": 77,
       "titles": [
         {
           "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时20分 ~ 13时56分]"
+          "appearance_count": 14,
+          "time_info": "[01时20分 ~ 15时34分]"
         },
         {
           "title": "三星电子Q2季度利润飙升19倍，超越英伟达成“全球最赚钱公司”",
@@ -55,8 +55,21 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时20分 ~ 13时56分]"
+          "appearance_count": 14,
+          "time_info": "[01时20分 ~ 15时34分]"
+        },
+        {
+          "title": "山西一小区使用楼顶高压雾化喷淋系统降温，喷淋 10 分钟地面直降 12℃，这种方式实用吗？值得推广吗？",
+          "url": "https://www.zhihu.com/question/2057560846138434263",
+          "source": "知乎",
+          "ranks": [
+            11,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时06分 ~ 15时34分]"
         },
         {
           "title": "西藏文旅重奖创作者为地方文旅打开思路，多地“悬赏”拍爆款",
@@ -66,11 +79,12 @@
             16,
             13,
             15,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时20分 ~ 13时56分]"
+          "appearance_count": 14,
+          "time_info": "[01时20分 ~ 15时34分]"
         },
         {
           "title": "三角洲最难用武器排行榜",
@@ -113,19 +127,6 @@
           "time_info": "[01时20分 ~ 05时38分]"
         },
         {
-          "title": "山西一小区使用楼顶高压雾化喷淋系统降温，喷淋 10 分钟地面直降 12℃，这种方式实用吗？值得推广吗？",
-          "url": "https://www.zhihu.com/question/2057560846138434263",
-          "source": "知乎",
-          "ranks": [
-            11,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时06分 ~ 13时56分]"
-        },
-        {
           "title": "曝某房产公司「借薪制」，入职三月未达业绩要求需全额退还工资，借薪制合法吗？反映了哪些问题？",
           "url": "https://www.zhihu.com/question/2057497034387453801",
           "source": "知乎",
@@ -151,6 +152,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时20分 ~ 08时04分]"
+        },
+        {
+          "title": "美国撤销伊朗石油制裁豁免，油价飙升",
+          "url": "https://www.cls.cn/detail/2419758",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时06分 ~ 15时34分]"
         },
         {
           "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
@@ -197,20 +213,6 @@
           "time_info": "[01时20分 ~ 01时24分]"
         },
         {
-          "title": "美国撤销伊朗石油制裁豁免，油价飙升",
-          "url": "https://www.cls.cn/detail/2419758",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时06分 ~ 13时56分]"
-        },
-        {
           "title": "葡萄牙主教练马丁内斯宣布辞职",
           "url": "https://www.douyin.com/hot/2561511",
           "source": "抖音",
@@ -246,6 +248,30 @@
           "time_info": "04时01分"
         },
         {
+          "title": "慢充旅行太治愈了",
+          "url": "https://www.douyin.com/hot/2563153",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "美国驻日大使馆，这次“翻车”了",
+          "url": "https://news.ifeng.com/c/8uaKd2egbm7",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时56分 ~ 15时34分]"
+        },
+        {
           "title": "创业板指拉升翻红，此前一度跌超2%。",
           "url": "https://wallstreetcn.com/livenews/3130322",
           "source": "华尔街见闻-快讯",
@@ -257,15 +283,16 @@
           "time_info": "10时56分"
         },
         {
-          "title": "穆祉丞请十日终焉剧组喝奶茶了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%A9%86%E7%A5%89%E4%B8%9E%E8%AF%B7%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E5%89%A7%E7%BB%84%E5%96%9D%E5%A5%B6%E8%8C%B6%E4%BA%86%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
+          "title": "【数读IPO】今日1申购1上市，涉及汽车零部件细分“小巨人”等",
+          "url": "https://www.cls.cn/detail/2419794",
+          "source": "财联社热门",
           "ranks": [
-            5
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时56分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时56分 ~ 15时34分]"
         },
         {
           "title": "央视解说哽咽送别C罗",
@@ -329,28 +356,29 @@
           "time_info": "[05时38分 ~ 07时06分]"
         },
         {
-          "title": "美国驻日大使馆，这次“翻车”了",
-          "url": "https://news.ifeng.com/c/8uaKd2egbm7",
-          "source": "凤凰网",
+          "title": "穆祉丞请十日终焉剧组喝奶茶了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A9%86%E7%A5%89%E4%B8%9E%E8%AF%B7%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E5%89%A7%E7%BB%84%E5%96%9D%E5%A5%B6%E8%8C%B6%E4%BA%86%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
-            11,
-            6
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时56分 ~ 13时56分]"
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 15时34分]"
         },
         {
-          "title": "【数读IPO】今日1申购1上市，涉及汽车零部件细分“小巨人”等",
-          "url": "https://www.cls.cn/detail/2419794",
-          "source": "财联社热门",
+          "title": "在职考研乱象调查：“院校合作”招生，是捷径还是陷阱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33535499",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            9
+            19,
+            16,
+            14
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时56分 ~ 13时56分]"
+          "time_info": "[12时19分 ~ 15时34分]"
         },
         {
           "title": "前华为天才少年吐槽DeepSeek面试",
@@ -377,18 +405,6 @@
           "time_info": "[01时20分 ~ 01时24分]"
         },
         {
-          "title": "在职考研乱象调查：“院校合作”招生，是捷径还是陷阱？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33535499",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 13时56分]"
-        },
-        {
           "title": "阿根廷对阵埃及首发轮换",
           "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%AF%B9%E9%98%B5%E5%9F%83%E5%8F%8A%E9%A6%96%E5%8F%91%E8%BD%AE%E6%8D%A2&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -409,6 +425,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时56分 ~ 12时20分]"
+        },
+        {
+          "title": "金晨仍持续掉粉",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E4%BB%8D%E6%8C%81%E7%BB%AD%E6%8E%89%E7%B2%89%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 15时34分]"
         },
         {
           "title": "半导体行业组织、麦肯锡与美国国家科学基金会研究显示，到2030年，芯片行业或面临最多15.7万个岗位缺口。",
@@ -594,18 +622,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "金晨仍持续掉粉",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E4%BB%8D%E6%8C%81%E7%BB%AD%E6%8E%89%E7%B2%89%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -649,7 +666,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -687,6 +704,17 @@
           "time_info": "05时38分"
         },
         {
+          "title": "现在买房是机会吗?",
+          "url": "https://www.zhihu.com/question/8392077829",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌0.58%，报5978.44点。 热门中概股里，日月光半导体初步收跌8.9%，蔚来、百度、拼多多、新东方、京东、百胜中国之多跌2.6%，阿里巴巴涨0.1%，腾讯涨1.9%，金山云涨3.2%，美团涨6%。 ETF中，MSCI新兴市场ex中国ETF（EMXC）收跌3.38%，XtrackersHarvest中证50（ASHS）收跌1.47%，德银嘉实沪深300指数ETF（ASHR）收跌1.27%。 中国科技指数ETF（CQQQ）收跌0.92%，中概互联网指数ETF（KWEB）收跌0.31%。",
           "url": "https://wallstreetcn.com/livenews/3130156",
           "source": "华尔街见闻-快讯",
@@ -718,6 +746,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "A股收评：创业板指收跌1.7% 算力股逆势走强",
+          "url": "https://flash.jin10.com/detail/20260708150244937800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "创业板指冲高回落跌1.7%，算力租赁概念集体走强",
+          "url": "https://wallstreetcn.com/livenews/3130451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "中国上证综指7月8日（周三）收盘下跌19.36点，跌幅：0.49%，报3970.88点；<br/>中国深证成指7月8日（周三）收盘下跌285.39点，跌幅：1.87%，报14939.73点；<br/>中国沪深300指数7月8日（周三）收盘下跌36.73点，跌幅：0.77%，报4755.53点；<br/>中国创业板指数7月8日（周三）收盘下跌66.56点，跌幅：1.7%，报3845.35点；<br/>中国科创50指数7月8日（周三）收盘上涨14.64点，涨幅：0.73%，报2016.23点。",
+          "url": "https://flash.jin10.com/detail/20260708150236070800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "台风天避坑攻略请查收",
+          "url": "https://www.toutiao.com/trending/7659982203354366003/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "上证指数收报3970.88点，跌0.49%。 深证成指收报14939.73点，跌1.87%。 创业板指收报3845.35点，跌1.70%。 沪深300收报4755.53点，跌0.77%。 科创50收报2016.23点，涨0.73%。 中证500收报8390.02点，跌1.40%。 中证1000收报8117.86点，跌2.22%。",
+          "url": "https://wallstreetcn.com/livenews/3130448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         },
         {
           "title": "芝加哥玉米期货涨超1.2%，咖啡C跌9.3%",
@@ -753,6 +836,17 @@
           "time_info": "10时56分"
         },
         {
+          "title": "三星电子支持的韩国AI芯片创企Rebellions计划明年在韩IPO",
+          "url": "https://wallstreetcn.com/livenews/3130444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
           "title": "对冲基金摆脱3月低迷，创下2021年以来最佳上半年业绩",
           "url": "https://wallstreetcn.com/livenews/3130146",
           "source": "华尔街见闻-快讯",
@@ -762,6 +856,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "NCT 无限缩减",
+          "url": "https://s.weibo.com/weibo?q=NCT%20%E6%97%A0%E9%99%90%E7%BC%A9%E5%87%8F&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         },
         {
           "title": "创业板指涨1% 此前一度跌超2%",
