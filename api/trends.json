@@ -1,759 +1,110 @@
 {
-  "generated_at": "2026-07-08T23:27:50.276611+08:00",
-  "total_titles_processed": 1950,
+  "generated_at": "2026-07-09T00:43:32.331297+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 129,
+      "match_count": 21,
       "titles": [
         {
-          "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7,
-            3,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时20分 ~ 15时34分]"
-        },
-        {
-          "title": "三星电子Q2季度利润飙升19倍，超越英伟达成“全球最赚钱公司”",
-          "url": "https://wallstreetcn.com/articles/3776327",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时20分 ~ 07时06分]"
-        },
-        {
-          "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
-          "url": "https://wallstreetcn.com/articles/3776262",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时20分 ~ 07时06分]"
-        },
-        {
-          "title": "暑假工自愿加班,3千月薪变1万",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355980&amp;topic_name=%E6%9A%91%E5%81%87%E5%B7%A5%E8%87%AA%E6%84%BF%E5%8A%A0%E7%8F%AD%2C3%E5%8D%83%E6%9C%88%E8%96%AA%E5%8F%981%E4%B8%87",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            7,
-            13,
-            19,
-            22,
-            25,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时20分 ~ 23时27分]"
-        },
-        {
-          "title": "慢充旅行太治愈了",
-          "url": "https://www.douyin.com/hot/2563153",
-          "source": "抖音",
-          "ranks": [
-            4,
-            5,
-            1,
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时34分 ~ 23时27分]"
-        },
-        {
-          "title": "山西一小区使用楼顶高压雾化喷淋系统降温，喷淋 10 分钟地面直降 12℃，这种方式实用吗？值得推广吗？",
-          "url": "https://www.zhihu.com/question/2057560846138434263",
-          "source": "知乎",
-          "ranks": [
-            11,
-            4,
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时06分 ~ 16时35分]"
-        },
-        {
-          "title": "西藏文旅重奖创作者为地方文旅打开思路，多地“悬赏”拍爆款",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33533560",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13,
-            15,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时20分 ~ 16时35分]"
-        },
-        {
-          "title": "在职考研乱象调查：“院校合作”招生，是捷径还是陷阱？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33535499",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            14,
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时19分 ~ 23时27分]"
-        },
-        {
-          "title": "三角洲最难用武器排行榜",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E6%9C%80%E9%9A%BE%E7%94%A8%E6%AD%A6%E5%99%A8%E6%8E%92%E8%A1%8C%E6%A6%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            15,
-            13,
-            14,
-            19,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时20分 ~ 23时27分]"
-        },
-        {
-          "title": "如何看待郭德纲直播称「儿子三个月不回家，让郭麒麟剧组导演跪着等自己」，父子俩到底谁在较劲？",
-          "url": "https://www.zhihu.com/question/2057250524936852697",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时20分 ~ 13时56分]"
-        },
-        {
-          "title": "T1战队大田MSI Vlog",
-          "url": "https://search.bilibili.com/all?keyword=T1%E6%88%98%E9%98%9F%E5%A4%A7%E7%94%B0MSI%20Vlog",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            5,
-            11,
-            13,
-            27,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时19分 ~ 23时27分]"
-        },
-        {
-          "title": "美国驻日大使馆，这次“翻车”了",
-          "url": "https://news.ifeng.com/c/8uaKd2egbm7",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时56分 ~ 19时09分]"
-        },
-        {
-          "title": "今年公募离职有点多，翻倍基金经理也密集出走，各有不得已",
-          "url": "https://www.cls.cn/detail/2420293",
+          "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2420785",
           "source": "财联社热门",
           "ranks": [
-            13,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时35分 ~ 23时27分]"
-        },
-        {
-          "title": "广西洪涝已致 5.5 万人受灾，面对暴雨灾情有哪些保命应急技巧？",
-          "url": "https://www.zhihu.com/question/2057739570632812323",
-          "source": "知乎",
-          "ranks": [
-            2,
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 05时38分]"
-        },
-        {
-          "title": "曝某房产公司「借薪制」，入职三月未达业绩要求需全额退还工资，借薪制合法吗？反映了哪些问题？",
-          "url": "https://www.zhihu.com/question/2057497034387453801",
-          "source": "知乎",
-          "ranks": [
-            18,
-            20,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时20分 ~ 08时04分]"
-        },
-        {
-          "title": "“扫描”主播｜百万粉丝主播的减肥“生意”：话术、私域与假进口糖果",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33525630",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时20分 ~ 08时04分]"
-        },
-        {
-          "title": "金晨仍持续掉粉",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E4%BB%8D%E6%8C%81%E7%BB%AD%E6%8E%89%E7%B2%89%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时56分 ~ 23时27分]"
-        },
-        {
-          "title": "美国撤销伊朗石油制裁豁免，油价飙升",
-          "url": "https://www.cls.cn/detail/2419758",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时06分 ~ 15时34分]"
-        },
-        {
-          "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
-          "url": "https://tech.ifeng.com/c/8uYAqpu54ML",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时20分 ~ 07时06分]"
-        },
-        {
-          "title": "挪威首相最新涉华表态",
-          "url": "https://news.ifeng.com/c/8uYfviWDdZS",
-          "source": "凤凰网",
-          "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 01时24分]"
+          "appearance_count": 1,
+          "time_info": "00时43分"
         },
         {
           "title": "GENG粉丝P黑白照嘲韩国滔博",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356014&amp;topic_name=GENG%E7%B2%89%E4%B8%9DP%E9%BB%91%E7%99%BD%E7%85%A7%E5%98%B2%E9%9F%A9%E5%9B%BD%E6%BB%94%E5%8D%9A",
           "source": "贴吧",
           "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时26分 ~ 23时27分]"
-        },
-        {
-          "title": "曾被中方制裁的荷兰大臣率团访华，这些议题受关注",
-          "url": "https://news.ifeng.com/c/8uZ1HZOwIbO",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 01时24分]"
-        },
-        {
-          "title": "美国3年期国债收益率在3年期国债竞拍后小幅收窄涨幅，最新上涨2.5个基点，报4.173%。",
-          "url": "https://flash.jin10.com/detail/20260708010459357800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时24分]"
-        },
-        {
-          "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2420785",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 23时27分]"
-        },
-        {
-          "title": "【每日收评】创业板指冲高回落跌1.7%，算力租赁逆势走强，机器人、锂电概念股集体重挫",
-          "url": "https://www.cls.cn/detail/2420430",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时25分 ~ 23时27分]"
-        },
-        {
-          "title": "【数读IPO】今日1申购1上市，涉及汽车零部件细分“小巨人”等",
-          "url": "https://www.cls.cn/detail/2419794",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时56分 ~ 16时35分]"
-        },
-        {
-          "title": "时隔近2个月！市场再迎“7板高标”，年内高位连板股盘点，这些方向“出镜率”高",
-          "url": "https://www.cls.cn/detail/2420512",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时25分 ~ 23时27分]"
-        },
-        {
-          "title": "葡萄牙主教练马丁内斯宣布辞职",
-          "url": "https://www.douyin.com/hot/2561511",
-          "source": "抖音",
-          "ranks": [
-            17,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时01分 ~ 08时04分]"
-        },
-        {
-          "title": "星铁姬子启行综合测评",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%9F%E9%93%81%E5%A7%AC%E5%AD%90%E5%90%AF%E8%A1%8C%E7%BB%BC%E5%90%88%E6%B5%8B%E8%AF%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            26,
-            17,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时25分 ~ 23时27分]"
-        },
-        {
-          "title": "美伊局势骤然紧张，美国恢复对伊朗石油经济制裁并发动新一轮打击，伊朗军方誓言予以“毁灭性回应”；中国央行连续第20个月增持黄金......当前美油多头仍占上风，现货金银维持强烈卖出信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）。",
-          "url": "https://flash.jin10.com/detail/20260708103658045800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "美特朗普再次扰乱市场！美伊停火协议已经终结？黄金应声暴跌！金十研究员Steven正在直播，立即观看>><font class=\"important-text\"></font>",
-          "url": "https://flash.jin10.com/detail/20260708201007546800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时26分"
-        },
-        {
-          "title": "国际货币基金组织（IMF）官员：全球通胀预期仍然牢牢被锚定。",
-          "url": "https://wallstreetcn.com/livenews/3130747",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "多伦多股票指数继续下跌，跌幅达到1%。",
-          "url": "https://flash.jin10.com/detail/20260708220330385800",
-          "source": "金十数据",
-          "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "上交所官网显示，英韧科技股份有限公司科创板IPO审核状态变更为“已问询”。",
-          "url": "https://wallstreetcn.com/livenews/3130786",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时27分"
-        },
-        {
-          "title": "莫德里奇点赞达利奇",
-          "url": "https://s.weibo.com/weibo?q=%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%E7%82%B9%E8%B5%9E%E8%BE%BE%E5%88%A9%E5%A5%87&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            20,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时35分 ~ 19时09分]"
-        },
-        {
-          "title": "“我们不想对朋友实施制裁，就这么简单”",
-          "url": "https://news.ifeng.com/c/8uZjIBssxoz",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时01分"
-        },
-        {
-          "title": "Speed会成为最伟大的网红吗",
-          "url": "https://search.bilibili.com/all?keyword=Speed%E4%BC%9A%E6%88%90%E4%B8%BA%E6%9C%80%E4%BC%9F%E5%A4%A7%E7%9A%84%E7%BD%91%E7%BA%A2%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时26分"
-        },
-        {
-          "title": "特斯拉FSD V14版国内独家首测",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89FSD%20V14%E7%89%88%E5%9B%BD%E5%86%85%E7%8B%AC%E5%AE%B6%E9%A6%96%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时27分"
-        },
-        {
-          "title": "创业板指拉升翻红，此前一度跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3130322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "7月国内航线机票预订量超3000万张",
-          "url": "https://wallstreetcn.com/livenews/3130784",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时27分"
-        },
-        {
-          "title": "男子送外卖爬上5楼误入一场画展",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%81%E5%A4%96%E5%8D%96%E7%88%AC%E4%B8%8A5%E6%A5%BC%E8%AF%AF%E5%85%A5%E4%B8%80%E5%9C%BA%E7%94%BB%E5%B1%95",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            12,
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时25分 ~ 22时21分]"
-        },
-        {
-          "title": "保洁工资900公司让每人出30",
-          "url": "https://s.weibo.com/weibo?q=%E4%BF%9D%E6%B4%81%E5%B7%A5%E8%B5%84900%E5%85%AC%E5%8F%B8%E8%AE%A9%E6%AF%8F%E4%BA%BA%E5%87%BA30&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 19时09分]"
-        },
-        {
-          "title": "现在买房是机会吗?",
-          "url": "https://www.zhihu.com/question/8392077829",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时34分 ~ 19时09分]"
-        },
-        {
-          "title": "野狗骨头疑似剧宣抄袭",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4%E7%96%91%E4%BC%BC%E5%89%A7%E5%AE%A3%E6%8A%84%E8%A2%AD%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            14,
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时35分 ~ 20时26分]"
-        },
-        {
-          "title": "央视解说哽咽送别C罗",
-          "url": "https://www.douyin.com/hot/2561666",
-          "source": "抖音",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时20分 ~ 04时05分]"
-        },
-        {
-          "title": "广西六蓝水库曾被官方列为问题水库，村民称 8 点通知泄洪 9 点堤坝就塌了，有哪些问题值得关注？",
-          "url": "https://www.zhihu.com/question/2057813632885286314",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时25分 ~ 22时21分]"
-        },
-        {
-          "title": "一图丨世界杯8强6席已定，最新对阵图出炉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33532229",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时01分 ~ 07时06分]"
-        },
-        {
-          "title": "提醒：日内请重点关注（以下均为北京时间）",
-          "url": "https://wallstreetcn.com/livenews/3130204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时06分 ~ 13时56分]"
-        },
-        {
-          "title": "最新世界杯夺冠概率阿根廷第三",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%87%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%AC%AC%E4%B8%89",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 23时27分]"
-        },
-        {
-          "title": "腾讯“打头阵” 上半年港股回购近千亿港元",
-          "url": "https://wallstreetcn.com/livenews/3130207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时06分 ~ 08时04分]"
-        },
-        {
-          "title": "腾讯控股：回购2.76万股股份，耗资约1273万港元。",
-          "url": "https://wallstreetcn.com/livenews/3130586",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 19时09分]"
-        },
-        {
-          "title": "多数拉美货币因油价飙升而下跌，新兴市场股指跌2%",
-          "url": "https://wallstreetcn.com/livenews/3130174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时38分 ~ 07时06分]"
-        },
-        {
-          "title": "MiniMax解禁前夕 超八成PreIPO及基石股东表态长期持有",
-          "url": "https://wallstreetcn.com/livenews/3130582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 19时09分]"
-        },
-        {
-          "title": "共进股份：关注到数据中心交换机概念受关注，但高速率交换机业务收入占比小",
-          "url": "https://wallstreetcn.com/livenews/3130580",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 19时09分]"
-        },
-        {
-          "title": "穆祉丞请十日终焉剧组喝奶茶了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%A9%86%E7%A5%89%E4%B8%9E%E8%AF%B7%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E5%89%A7%E7%BB%84%E5%96%9D%E5%A5%B6%E8%8C%B6%E4%BA%86%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 15时34分]"
+          "time_info": "00时43分"
         },
         {
           "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2058168270499176758",
           "source": "知乎",
           "ranks": [
-            15
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时09分 ~ 23时27分]"
+          "appearance_count": 1,
+          "time_info": "00时43分"
         },
         {
-          "title": "前华为天才少年吐槽DeepSeek面试",
-          "url": "https://www.toutiao.com/trending/7658530038409969718/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            27,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 07时06分]"
-        },
-        {
-          "title": "印13岁女孩遭32人轮奸涉事酒店被拆",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B013%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%AD32%E4%BA%BA%E8%BD%AE%E5%A5%B8%E6%B6%89%E4%BA%8B%E9%85%92%E5%BA%97%E8%A2%AB%E6%8B%86%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时09分 ~ 23时27分]"
-        },
-        {
-          "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
-          "url": "https://www.zhihu.com/question/2057753624717911009",
-          "source": "知乎",
+          "title": "【每日收评】创业板指冲高回落跌1.7%，算力租赁逆势走强，机器人、锂电概念股集体重挫",
+          "url": "https://www.cls.cn/detail/2420430",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 01时24分]"
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "美国总统特朗普：将关注能否维持油价下跌。",
+          "url": "https://wallstreetcn.com/livenews/3130816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "在职考研乱象调查：“院校合作”招生，是捷径还是陷阱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33535499",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "时隔近2个月！市场再迎“7板高标”，年内高位连板股盘点，这些方向“出镜率”高",
+          "url": "https://www.cls.cn/detail/2420512",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "金十图示：2026年07月08日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260709003131733800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "华纳兄弟探索（WBD）与亚马逊旗下AWS开发Agentic AI广告体验。",
+          "url": "https://wallstreetcn.com/livenews/3130814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
         },
         {
           "title": "一香港起飞航班一度失联，北约战机升空警告！最新回应",
@@ -763,769 +114,129 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时26分 ~ 23时27分]"
+          "appearance_count": 1,
+          "time_info": "00时43分"
         },
         {
-          "title": "阿根廷对阵埃及首发轮换",
-          "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%AF%B9%E9%98%B5%E5%9F%83%E5%8F%8A%E9%A6%96%E5%8F%91%E8%BD%AE%E6%8D%A2&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "独家|苹果折叠机预计不会出现量产延期 液态金属铰链或将“爽约”第一代产品",
+          "url": "https://www.cls.cn/detail/2420933",
+          "source": "财联社热门",
           "ranks": [
-            18
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 01时24分]"
+          "appearance_count": 1,
+          "time_info": "00时43分"
         },
         {
-          "title": "挪威首相最新涉华表态",
-          "url": "https://www.baidu.com/s?wd=%E6%8C%AA%E5%A8%81%E9%A6%96%E7%9B%B8%E6%9C%80%E6%96%B0%E6%B6%89%E5%8D%8E%E8%A1%A8%E6%80%81",
-          "source": "百度热搜",
+          "title": "金十图示：2026年07月08日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260709003031577800",
+          "source": "金十数据",
           "ranks": [
-            21
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时56分 ~ 12时20分]"
+          "appearance_count": 1,
+          "time_info": "00时43分"
         },
         {
           "title": "最新世界杯夺冠概率出炉",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%87%E5%87%BA%E7%82%89%23&t=31&band_rank=8&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%87%E5%87%BA%E7%82%89%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 23时27分]"
-        },
-        {
-          "title": "沉浸式体验阿根廷让二追三逆转",
-          "url": "https://www.douyin.com/hot/2562925",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
-        },
-        {
-          "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗跑路，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2058168270499176758",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
-        },
-        {
-          "title": "半导体行业组织、麦肯锡与美国国家科学基金会研究显示，到2030年，芯片行业或面临最多15.7万个岗位缺口。",
-          "url": "https://flash.jin10.com/detail/20260708030317424800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时01分 ~ 04时05分]"
-        },
-        {
-          "title": "美国国债收益率继续走高，10年期美债收益率升至四周新高，最新上涨5.4个基点，报4.533%。",
-          "url": "https://flash.jin10.com/detail/20260708025648666800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时01分 ~ 04时05分]"
-        },
-        {
-          "title": "为什么很多恋与深空玩家又希望敖尹回归了？",
-          "url": "https://www.zhihu.com/question/2056780709021348306",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 20时26分]"
-        },
-        {
-          "title": "金十图示：2026年07月07日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260708002522705800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时24分]"
-        },
-        {
-          "title": "现货黄金短线走低，最新报4125美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260708025554163800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时01分 ~ 04时05分]"
-        },
-        {
-          "title": "周二（7月7日），美联储隔夜逆回购协议（RRP）使用规模为44.84亿美元（交易对手14家），上个交易日报27.19亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3130120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时01分 ~ 04时05分]"
-        },
-        {
-          "title": "金十图示：2026年07月07日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260708002519398800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时24分]"
-        },
-        {
-          "title": "绝区零诺姆攻略",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BB%9D%E5%8C%BA%E9%9B%B6%E8%AF%BA%E5%A7%86%E6%94%BB%E7%95%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
-        },
-        {
-          "title": "据知情人士透露，SK海力士美国IPO获得数倍超额认购，大约1000名散户投资者参与了7月6日的（管理层营销）电话会。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3130088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时24分]"
-        },
-        {
-          "title": "瑞士vs哥伦比亚首发出炉",
-          "url": "https://search.bilibili.com/all?keyword=%E7%91%9E%E5%A3%ABvs%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E9%A6%96%E5%8F%91%E5%87%BA%E7%82%89",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 10时56分]"
-        },
-        {
-          "title": "“特斯拉劲敌”Rivian跌幅扩大至15%，创2024年11月份以来最差盘中表现，该公司发布业绩报告时宣布股票增发计划。",
-          "url": "https://wallstreetcn.com/livenews/3130087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时24分]"
-        },
-        {
-          "title": "黎明行者之血全球首次试玩体验报告",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%8E%E6%98%8E%E8%A1%8C%E8%80%85%E4%B9%8B%E8%A1%80%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%A1%E8%AF%95%E7%8E%A9%E4%BD%93%E9%AA%8C%E6%8A%A5%E5%91%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
-        },
-        {
-          "title": "市场消息：美国参议员麦康奈尔自6月14日起住院，其在本周一和周二与参议院共和党领导层通话。外界正关注他是否能在今年年底前重返参议院。",
-          "url": "https://flash.jin10.com/detail/20260708044348157800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
-          "title": "汇丰：结束对新兴市场股票的超配评级。将欧元区股票评级上调至超配评级。",
-          "url": "https://flash.jin10.com/detail/20260708181332170800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "SambaNova估值达110亿美元，投资者押注英伟达芯片挑战者",
-          "url": "https://wallstreetcn.com/livenews/3130741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（7月8日）",
-          "url": "https://flash.jin10.com/detail/20260708062100040800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "创业板指翻红，此前一度跌超2%；深证成指跌幅收窄至0.55%，沪指微跌0.01%，云计算板块涨幅居前。",
-          "url": "https://flash.jin10.com/detail/20260708103145377800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "亚马逊正在开发一个此前未被报道的Alexa项目，代号“Moonraker”，旨在帮用户处理更复杂、多步骤的任务。（Business Insider）",
-          "url": "https://wallstreetcn.com/livenews/3130569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "恒科指暴涨5%，阿里狂飙超10%，A股震荡收跌，创业板跌近2%，芯片、AI服务器爆发",
-          "url": "https://wallstreetcn.com/articles/3776428",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "28只创新药主题基金总规模突破1300亿元",
-          "url": "https://wallstreetcn.com/livenews/3130217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "泰国央行称，密切关注泰铢走势，随时准备干预。",
-          "url": "https://wallstreetcn.com/livenews/3130315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "视源股份：公司于2026年7月7日向香港联交所更新递交了本次发行并上市的申请，并于同日在香港联交所网站刊登了相关申请资料。",
-          "url": "https://wallstreetcn.com/livenews/3130382",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "家长求医生加班看牙痊愈后上门退费",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E6%B1%82%E5%8C%BB%E7%94%9F%E5%8A%A0%E7%8F%AD%E7%9C%8B%E7%89%99%E7%97%8A%E6%84%88%E5%90%8E%E4%B8%8A%E9%97%A8%E9%80%80%E8%B4%B9%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "Apex英雄联动赛博朋克预告",
-          "url": "https://search.bilibili.com/all?keyword=Apex%E8%8B%B1%E9%9B%84%E8%81%94%E5%8A%A8%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E9%A2%84%E5%91%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "金十交易学院直播中",
-          "url": "https://flash.jin10.com/detail/20260708200049318800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时26分"
-        },
-        {
-          "title": "集体回调！今年最热门交易为何突然失速？",
-          "url": "https://flash.jin10.com/detail/20260708225354132800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时27分"
-        },
-        {
-          "title": "深成指、创业板指均跌超2%，沪指跌0.43%，锂矿、玻璃基板、机器人、半导体芯片等方向跌幅居前，沪深京三市下跌个股超3500只。",
-          "url": "https://wallstreetcn.com/livenews/3130311",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "00时43分"
         },
         {
-          "title": "上证指数早盘收报4011.05点，涨0.52%。 深证成指早盘收报15237.45点，涨0.08%。 创业板指早盘收报3949.04点，涨0.95%。 沪深300早盘收报4821.65点，涨0.61%。 科创50早盘收报2064.20点，涨3.13%。 中证500早盘收报8546.14点，涨0.44%。 中证1000早盘收报8277.09点，跌0.30%。",
-          "url": "https://wallstreetcn.com/livenews/3130354",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "权益基金中长期业绩放榜：这家“小而美”七年跑出8倍基",
-          "url": "https://www.cls.cn/detail/2419624",
+          "title": "净利同比最高增长5.61倍！120亿存储芯片概念股发布半年度业绩预告|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2420778",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时38分"
+          "time_info": "00时43分"
         },
         {
-          "title": "今日重点关注的财经数据与事件：2026年7月8日 周三",
-          "url": "https://flash.jin10.com/detail/20260708134000001800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "据上交所官网显示，英韧科技股份有限公司科创板IPO审核状态变更为“已问询”。",
-          "url": "https://flash.jin10.com/detail/20260708224811352800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时27分"
-        },
-        {
-          "title": "市场消息：美国电动汽车公司Rivian据称将把75%的股票发售份额分配给10家投资机构。",
-          "url": "https://flash.jin10.com/detail/20260708224703070800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时27分"
-        },
-        {
-          "title": "精测电子：正在筹划发行股份、可转换公司债券及支付现金收购控股子公司上海精测半导体技术有限公司部分股权并募集配套资金，预计构成重大资产重组和关联交易，股票停牌。",
-          "url": "https://wallstreetcn.com/livenews/3130664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时26分"
-        },
-        {
-          "title": "看王俊凯演唱会机票打折",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%9C%8B%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9C%BA%E7%A5%A8%E6%89%93%E6%8A%98%23&t=31&band_rank=15&Refer=top",
+          "title": "金晨仍持续掉粉",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E4%BB%8D%E6%8C%81%E7%BB%AD%E6%8E%89%E7%B2%89%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时26分"
-        },
-        {
-          "title": "布局“非热门赛道”，公募逆势营销重构红利叙事",
-          "url": "https://wallstreetcn.com/livenews/3130210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时04分"
+          "time_info": "00时43分"
         },
         {
-          "title": "创业板指涨超1%，此前一度跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3130349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "马斯克旗下太空探索公司SpaceX收跌6.8%，创美国IPO以来收盘新低。",
-          "url": "https://wallstreetcn.com/livenews/3130157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.58%，报5978.44点。 热门中概股里，日月光半导体初步收跌8.9%，蔚来、百度、拼多多、新东方、京东、百胜中国之多跌2.6%，阿里巴巴涨0.1%，腾讯涨1.9%，金山云涨3.2%，美团涨6%。 ETF中，MSCI新兴市场ex中国ETF（EMXC）收跌3.38%，XtrackersHarvest中证50（ASHS）收跌1.47%，德银嘉实沪深300指数ETF（ASHR）收跌1.27%。 中国科技指数ETF（CQQQ）收跌0.92%，中概互联网指数ETF（KWEB）收跌0.31%。",
-          "url": "https://wallstreetcn.com/livenews/3130156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
-          "title": "创业板指、深成指双双跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3130301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "花旗：关注金蝶AI操作系统“灵基”下半年贡献",
-          "url": "https://flash.jin10.com/detail/20260708102512443800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "A股收评：创业板指收跌1.7% 算力股逆势走强",
-          "url": "https://flash.jin10.com/detail/20260708150244937800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时34分"
-        },
-        {
-          "title": "国际货币基金组织：全球范围内通胀预期保持相对稳定，但也出现了一些通胀预期上升的例子。",
-          "url": "https://flash.jin10.com/detail/20260708215230763800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "瑞幸咖啡：目前茉莉花茶原料库存和供应充足",
-          "url": "https://wallstreetcn.com/livenews/3130600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时09分"
-        },
-        {
-          "title": "美银向OpenAI提供5.2亿美元信贷额度，以争取IPO承销席位。",
-          "url": "https://wallstreetcn.com/livenews/3130727",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "A股热门科技股回撤超25%",
-          "url": "https://www.toutiao.com/trending/7660129507965144585/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时27分"
-        },
-        {
-          "title": "创业板指冲高回落跌1.7%，算力租赁概念集体走强",
-          "url": "https://wallstreetcn.com/livenews/3130451",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时34分"
-        },
-        {
-          "title": "中国上证综指7月8日（周三）收盘下跌19.36点，跌幅：0.49%，报3970.88点；<br/>中国深证成指7月8日（周三）收盘下跌285.39点，跌幅：1.87%，报14939.73点；<br/>中国沪深300指数7月8日（周三）收盘下跌36.73点，跌幅：0.77%，报4755.53点；<br/>中国创业板指数7月8日（周三）收盘下跌66.56点，跌幅：1.7%，报3845.35点；<br/>中国科创50指数7月8日（周三）收盘上涨14.64点，涨幅：0.73%，报2016.23点。",
-          "url": "https://flash.jin10.com/detail/20260708150236070800",
-          "source": "金十数据",
+          "title": "T1战队大田MSI Vlog",
+          "url": "https://search.bilibili.com/all?keyword=T1%E6%88%98%E9%98%9F%E5%A4%A7%E7%94%B0MSI%20Vlog",
+          "source": "bilibili 热搜",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时34分"
+          "time_info": "00时43分"
         },
         {
-          "title": "台风天避坑攻略请查收",
-          "url": "https://www.toutiao.com/trending/7659982203354366003/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时34分"
-        },
-        {
-          "title": "上证指数收报3970.88点，跌0.49%。 深证成指收报14939.73点，跌1.87%。 创业板指收报3845.35点，跌1.70%。 沪深300收报4755.53点，跌0.77%。 科创50收报2016.23点，涨0.73%。 中证500收报8390.02点，跌1.40%。 中证1000收报8117.86点，跌2.22%。",
-          "url": "https://wallstreetcn.com/livenews/3130448",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时34分"
-        },
-        {
-          "title": "芝加哥玉米期货涨超1.2%，咖啡C跌9.3%",
-          "url": "https://wallstreetcn.com/livenews/3130148",
-          "source": "华尔街见闻-快讯",
+          "title": "星铁姬子启行综合测评",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%9F%E9%93%81%E5%A7%AC%E5%AD%90%E5%90%AF%E8%A1%8C%E7%BB%BC%E5%90%88%E6%B5%8B%E8%AF%84",
+          "source": "bilibili 热搜",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时38分"
+          "time_info": "00时43分"
         },
         {
-          "title": "据研究机构PivotalPath的数据，截至6月30日，2026年对冲基金平均回报率为7.2%，创2021年以来最强劲的上半年表现。 其中，专注于科技股的对冲基金表现领跑，平均回报率高达27%。",
-          "url": "https://wallstreetcn.com/livenews/3130147",
-          "source": "华尔街见闻-快讯",
+          "title": "最新世界杯夺冠概率阿根廷第三",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%87%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%AC%AC%E4%B8%89",
+          "source": "百度热搜",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时38分"
+          "time_info": "00时43分"
         },
         {
-          "title": "深成指跌超1%，沪指跌0.12%，创业板指跌0.62%，机器人、锂矿、钛白粉、猪肉等方向跌幅居前，沪深京三市下跌个股近4200只。",
-          "url": "https://wallstreetcn.com/livenews/3130290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "三星电子支持的韩国AI芯片创企Rebellions计划明年在韩IPO",
-          "url": "https://wallstreetcn.com/livenews/3130444",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时34分"
-        },
-        {
-          "title": "广西贵港高中生喊着校训搬运物资",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E8%B4%B5%E6%B8%AF%E9%AB%98%E4%B8%AD%E7%94%9F%E5%96%8A%E7%9D%80%E6%A0%A1%E8%AE%AD%E6%90%AC%E8%BF%90%E7%89%A9%E8%B5%84%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时27分"
-        },
-        {
-          "title": "GMA高阳正在直播中",
-          "url": "https://flash.jin10.com/detail/20260708195008141800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时26分"
-        },
-        {
-          "title": "对冲基金摆脱3月低迷，创下2021年以来最佳上半年业绩",
-          "url": "https://wallstreetcn.com/livenews/3130146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
-          "title": "据美国纽约联储数据，上个交易日（7月7日）担保隔夜融资利率（SOFR）报3.62%，之前一天报3.63%。 上个交易日有效的联邦基金利率报3.63%，之前一天报3.63%。",
-          "url": "https://wallstreetcn.com/livenews/3130762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时27分"
-        },
-        {
-          "title": "NCT 无限缩减",
-          "url": "https://s.weibo.com/weibo?q=NCT%20%E6%97%A0%E9%99%90%E7%BC%A9%E5%87%8F&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时34分"
-        },
-        {
-          "title": "创业板指涨1% 此前一度跌超2%",
-          "url": "https://flash.jin10.com/detail/20260708112449656800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "苹果在与欧盟就应用商店和iPhone规则的法律纠纷中败诉。",
-          "url": "https://wallstreetcn.com/livenews/3130483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "韩国创业板指（KOSDAQ）下跌4.1%。",
-          "url": "https://flash.jin10.com/detail/20260708101900155800",
-          "source": "金十数据",
+          "title": "无限流鼻祖恐怖游轮定档",
+          "url": "https://www.douyin.com/hot/2563200",
+          "source": "抖音",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "00时43分"
         },
         {
-          "title": "深南电路：2026年度向特定对象发行股票获得有权国资监管单位批复",
-          "url": "https://flash.jin10.com/detail/20260708182138471800",
-          "source": "金十数据",
+          "title": "暑假工自愿加班,3千月薪变1万",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355980&amp;topic_name=%E6%9A%91%E5%81%87%E5%B7%A5%E8%87%AA%E6%84%BF%E5%8A%A0%E7%8F%AD%2C3%E5%8D%83%E6%9C%88%E8%96%AA%E5%8F%981%E4%B8%87",
+          "source": "贴吧",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时09分"
+          "time_info": "00时43分"
         },
         {
-          "title": "男童跌落深水区 钓鱼佬反复潜水打捞",
-          "url": "https://www.toutiao.com/trending/7660089843175391258/",
-          "source": "今日头条",
+          "title": "印13岁女孩遭32人轮奸涉事酒店被拆",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B013%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%AD32%E4%BA%BA%E8%BD%AE%E5%A5%B8%E6%B6%89%E4%BA%8B%E9%85%92%E5%BA%97%E8%A2%AB%E6%8B%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
           "ranks": [
-            30
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "上证指数开盘报3996.81点，涨0.16%。 深证成指开盘报15269.82点，涨0.29%。 创业板指开盘报3932.42点，涨0.52%。 沪深300开盘报4804.48点，涨0.26%。 科创50开盘报2022.45点，涨1.04%。 中证500开盘报8539.02点，涨0.36%。 中证1000开盘报8315.96点，涨0.17%。",
-          "url": "https://wallstreetcn.com/livenews/3130276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "00时43分"
         }
       ]
     }
