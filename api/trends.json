@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T04:58:46.684443+08:00",
-  "total_titles_processed": 431,
+  "generated_at": "2026-07-12T05:54:53.258039+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 04时58分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 05时54分]"
         },
         {
           "title": "誓言报仇！穆杰塔巴最新发声",
@@ -26,19 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 04时58分]"
-        },
-        {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 04时58分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 05时54分]"
         },
         {
           "title": "BW跟虎哥互相设置挑战",
@@ -47,6 +36,17 @@
           "ranks": [
             5,
             4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 05时54分]"
+        },
+        {
+          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
+          "url": "https://wallstreetcn.com/articles/3776680",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -65,8 +65,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 04时58分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 05时54分]"
         },
         {
           "title": "博主拍照惹祸,日网迁怒国人",
@@ -76,8 +76,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 04时58分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 05时54分]"
         },
         {
           "title": "功夫女足里的怀旧彩蛋",
@@ -89,11 +89,26 @@
             9,
             6,
             7,
-            26
+            26,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 04时58分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 05时54分]"
+        },
+        {
+          "title": "为什么西班牙蓝鳍金枪鱼被公认为高端食材？有什么方法让普通人也能平价吃到正宗蓝鳍金枪鱼？",
+          "url": "https://www.zhihu.com/question/2058955809854379421",
+          "source": "知乎",
+          "ranks": [
+            17,
+            14,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 05时54分]"
         },
         {
           "title": "长沙通报「体育局干部占车位事件」，彭某某被停职，纪检监察机关已对相关问题核实处理，哪些信息值得关注？",
@@ -103,8 +118,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 04时58分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 05时54分]"
         },
         {
           "title": "下一个是谁第7季更新",
@@ -117,8 +132,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 04时58分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 05时54分]"
         },
         {
           "title": "“巴威”加强为强台风级 最新路径公布",
@@ -129,8 +144,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 04时58分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 05时54分]"
         },
         {
           "title": "记者直播时手机被台风吹走",
@@ -140,24 +155,28 @@
             14,
             13,
             12,
-            28
+            28,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 04时58分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 05时54分]"
         },
         {
-          "title": "为什么西班牙蓝鳍金枪鱼被公认为高端食材？有什么方法让普通人也能平价吃到正宗蓝鳍金枪鱼？",
-          "url": "https://www.zhihu.com/question/2058955809854379421",
-          "source": "知乎",
+          "title": "凡人最新集有哪些看点",
+          "url": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E6%9C%80%E6%96%B0%E9%9B%86%E6%9C%89%E5%93%AA%E4%BA%9B%E7%9C%8B%E7%82%B9",
+          "source": "bilibili 热搜",
           "ranks": [
-            17,
-            14,
+            27,
+            22,
+            23,
+            24,
+            30,
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 04时58分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 05时54分]"
         },
         {
           "title": "战锤40K全球首发实机演示",
@@ -167,8 +186,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 04时58分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 05时54分]"
         },
         {
           "title": "Oner输完比赛摆烂找女友",
@@ -178,8 +197,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 04时58分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 05时54分]"
         },
         {
           "title": "上海发布台风黄色预警信号，全市防汛防台应急响应行动更新为三级",
@@ -192,8 +211,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 04时58分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 05时54分]"
         },
         {
           "title": "网大水平?功夫女足预告被嘲",
@@ -203,23 +222,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 04时58分]"
-        },
-        {
-          "title": "凡人最新集有哪些看点",
-          "url": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E6%9C%80%E6%96%B0%E9%9B%86%E6%9C%89%E5%93%AA%E4%BA%9B%E7%9C%8B%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            22,
-            23,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 04时58分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 05时54分]"
         },
         {
           "title": "抱团无门,粉丝跪求JKL离队",
@@ -230,8 +234,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 04时58分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 05时54分]"
         },
         {
           "title": "直接工作与读大专，哪个更划算？",
@@ -241,11 +245,12 @@
             19,
             18,
             17,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 04时58分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 05时54分]"
         },
         {
           "title": "桃黑黑直播回应",
@@ -255,11 +260,12 @@
             26,
             20,
             16,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时54分]"
         },
         {
           "title": "登陆少年想得美手势舞挑战",
@@ -272,8 +278,33 @@
             28
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 05时54分]"
+        },
+        {
+          "title": "巴威10级风圈内最新画面",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%A8%8110%E7%BA%A7%E9%A3%8E%E5%9C%88%E5%86%85%E6%9C%80%E6%96%B0%E7%94%BB%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            19,
+            24,
+            29
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时03分 ~ 03时20分]"
+          "time_info": "[00时02分 ~ 05时54分]"
+        },
+        {
+          "title": "直播丨台风“巴威”，威力不减！澎湃新闻多路“追风小队”直击抗台防汛第一线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33557236",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时59分 ~ 05时54分]"
         },
         {
           "title": "SK集团董事长：若股价稳定，考虑增发美国股票、扩大在美投资、推出\"内存即服务\"新模式",
@@ -302,41 +333,18 @@
           "time_info": "[00时03分 ~ 03时20分]"
         },
         {
-          "title": "巴威10级风圈内最新画面",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%A8%8110%E7%BA%A7%E9%A3%8E%E5%9C%88%E5%86%85%E6%9C%80%E6%96%B0%E7%94%BB%E9%9D%A2",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 01时59分]"
-        },
-        {
-          "title": "直播丨台风“巴威”，威力不减！澎湃新闻多路“追风小队”直击抗台防汛第一线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33557236",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时59分 ~ 04时58分]"
-        },
-        {
           "title": "折叠屏iPhone订单被传上调至千万级",
           "url": "https://www.toutiao.com/trending/7660801606261014574/",
           "source": "今日头条",
           "ranks": [
             26,
             23,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时59分 ~ 05时54分]"
         },
         {
           "title": "如何看待二次元 3D 动作游戏《深空之眼》官方宣布将停止更新？",
