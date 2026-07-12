@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T21:27:52.913810+08:00",
-  "total_titles_processed": 1298,
+  "generated_at": "2026-07-12T21:40:29.917225+08:00",
+  "total_titles_processed": 1307,
   "failed_sources": [],
   "trends": [
     {
@@ -61,11 +61,12 @@
           "ranks": [
             4,
             2,
-            18
+            18,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时59分 ~ 21时27分]"
+          "appearance_count": 15,
+          "time_info": "[07时59分 ~ 21时40分]"
         },
         {
           "title": "直播丨台风“巴威”，威力不减！澎湃新闻多路“追风小队”直击抗台防汛第一线",
@@ -114,8 +115,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时02分 ~ 21时27分]"
+          "appearance_count": 30,
+          "time_info": "[00时02分 ~ 21时40分]"
         },
         {
           "title": "记者直播时手机被台风吹走",
@@ -170,8 +171,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时02分 ~ 21时27分]"
+          "appearance_count": 30,
+          "time_info": "[00时02分 ~ 21时40分]"
         },
         {
           "title": "为什么西班牙蓝鳍金枪鱼被公认为高端食材？有什么方法让普通人也能平价吃到正宗蓝鳍金枪鱼？",
@@ -201,8 +202,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时45分 ~ 21时27分]"
+          "appearance_count": 11,
+          "time_info": "[11时45分 ~ 21时40分]"
         },
         {
           "title": "长沙通报「体育局干部占车位事件」，彭某某被停职，纪检监察机关已对相关问题核实处理，哪些信息值得关注？",
@@ -274,8 +275,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时02分 ~ 21时27分]"
+          "appearance_count": 30,
+          "time_info": "[00时02分 ~ 21时40分]"
         },
         {
           "title": "Oner输完比赛摆烂找女友",
@@ -367,6 +368,18 @@
           "time_info": "[00时02分 ~ 08时06分]"
         },
         {
+          "title": "将飞机票和火车票的时间显示改为 30 小时制，是否能有效防止凌晨出发的旅客因时间理解问题而迟到 24 小时？",
+          "url": "https://www.zhihu.com/question/2015414302245422985",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时57分 ~ 21时40分]"
+        },
+        {
           "title": "桃黑黑直播回应",
           "url": "https://s.weibo.com/weibo?q=%E6%A1%83%E9%BB%91%E9%BB%91%E7%9B%B4%E6%92%AD%E5%9B%9E%E5%BA%94&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -397,16 +410,30 @@
           "time_info": "[04时54分 ~ 15时33分]"
         },
         {
-          "title": "将飞机票和火车票的时间显示改为 30 小时制，是否能有效防止凌晨出发的旅客因时间理解问题而迟到 24 小时？",
-          "url": "https://www.zhihu.com/question/2015414302245422985",
-          "source": "知乎",
+          "title": "网红哭穷,3.5亿家产被转移",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356120&amp;topic_name=%E7%BD%91%E7%BA%A2%E5%93%AD%E7%A9%B7%2C3.5%E4%BA%BF%E5%AE%B6%E4%BA%A7%E8%A2%AB%E8%BD%AC%E7%A7%BB",
+          "source": "贴吧",
           "ranks": [
-            5,
+            3,
             4
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时57分 ~ 21时27分]"
+          "time_info": "[19时15分 ~ 21时40分]"
+        },
+        {
+          "title": "周末要闻汇总：国常会最新部署！加快新一代通信网、算力网建设；长江存储IPO有最新进展",
+          "url": "https://www.cls.cn/detail/2423777",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时06分 ~ 21时40分]"
         },
         {
           "title": "巴威10级风圈内最新画面",
@@ -423,30 +450,35 @@
           "time_info": "[00时02分 ~ 05时59分]"
         },
         {
-          "title": "网红哭穷,3.5亿家产被转移",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356120&amp;topic_name=%E7%BD%91%E7%BA%A2%E5%93%AD%E7%A9%B7%2C3.5%E4%BA%BF%E5%AE%B6%E4%BA%A7%E8%A2%AB%E8%BD%AC%E7%A7%BB",
-          "source": "贴吧",
+          "title": "沉浸式体验阿根廷瑞士比赛现场",
+          "url": "https://www.douyin.com/hot/2568019",
+          "source": "抖音",
           "ranks": [
-            3,
-            4
+            27,
+            24,
+            25,
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 21时27分]"
+          "appearance_count": 8,
+          "time_info": "[14时37分 ~ 21时40分]"
         },
         {
-          "title": "周末要闻汇总：国常会最新部署！加快新一代通信网、算力网建设；长江存储IPO有最新进展",
-          "url": "https://www.cls.cn/detail/2423777",
-          "source": "财联社热门",
+          "title": "伊朗称其武装力量目标清单持续更新",
+          "url": "https://wallstreetcn.com/livenews/3132389",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
+            1,
             7,
-            4,
-            1
+            11,
+            15,
+            18,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时06分 ~ 21时27分]"
+          "appearance_count": 7,
+          "time_info": "[14时37分 ~ 21时40分]"
         },
         {
           "title": "直击台风巴威最新状况",
@@ -476,34 +508,18 @@
           "time_info": "[01时59分 ~ 05时59分]"
         },
         {
-          "title": "沉浸式体验阿根廷瑞士比赛现场",
-          "url": "https://www.douyin.com/hot/2568019",
-          "source": "抖音",
+          "title": "鸣潮漂泊者导电攻略",
+          "url": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E6%BC%82%E6%B3%8A%E8%80%85%E5%AF%BC%E7%94%B5%E6%94%BB%E7%95%A5",
+          "source": "bilibili 热搜",
           "ranks": [
+            28,
+            29,
             27,
-            24,
-            25,
-            29
+            26
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[14时37分 ~ 21时27分]"
-        },
-        {
-          "title": "伊朗称其武装力量目标清单持续更新",
-          "url": "https://wallstreetcn.com/livenews/3132389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            11,
-            15,
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时37分 ~ 21时27分]"
+          "time_info": "[01时10分 ~ 21时40分]"
         },
         {
           "title": "BML线下现场会正在直播中",
@@ -515,6 +531,54 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时15分 ~ 19时16分]"
+        },
+        {
+          "title": "金十整理：下周重要事件与数据预告——美国CPI、中国GDP、沃什国会首秀、华尔街财报季来袭",
+          "url": "https://flash.jin10.com/detail/20260712210501681800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 21时40分]"
+        },
+        {
+          "title": "台风巴威风力持续减小 最新预测",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E9%A3%8E%E5%8A%9B%E6%8C%81%E7%BB%AD%E5%87%8F%E5%B0%8F+%E6%9C%80%E6%96%B0%E9%A2%84%E6%B5%8B",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 21时40分]"
+        },
+        {
+          "title": "星网宇达：公司与近期市场关注的长征十号乙运载火箭海上回收技术突破不存在业务关联",
+          "url": "https://wallstreetcn.com/livenews/3132408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6,
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时06分 ~ 21时40分]"
+        },
+        {
+          "title": "小红书前员工再发文实名举报 IPO 合规，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2058623048639689021",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 21时40分]"
         },
         {
           "title": "耗资上亿悬崖酒店将完工遇超强台风",
@@ -531,20 +595,6 @@
           "time_info": "[11时45分 ~ 15时33分]"
         },
         {
-          "title": "鸣潮漂泊者导电攻略",
-          "url": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E6%BC%82%E6%B3%8A%E8%80%85%E5%AF%BC%E7%94%B5%E6%94%BB%E7%95%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            29,
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时10分 ~ 21时27分]"
-        },
-        {
           "title": "挑战在BW让100个人无语",
           "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E5%9C%A8BW%E8%AE%A9100%E4%B8%AA%E4%BA%BA%E6%97%A0%E8%AF%AD",
           "source": "bilibili 热搜",
@@ -557,27 +607,17 @@
           "time_info": "[06时54分 ~ 08时06分]"
         },
         {
-          "title": "金十整理：下周重要事件与数据预告——美国CPI、中国GDP、沃什国会首秀、华尔街财报季来袭",
-          "url": "https://flash.jin10.com/detail/20260712210501681800",
-          "source": "金十数据",
+          "title": "霍尔木兹海峡商业航运流量大幅下降",
+          "url": "https://wallstreetcn.com/livenews/3132413",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
-        },
-        {
-          "title": "台风巴威风力持续减小 最新预测",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E9%A3%8E%E5%8A%9B%E6%8C%81%E7%BB%AD%E5%87%8F%E5%B0%8F+%E6%9C%80%E6%96%B0%E9%A2%84%E6%B5%8B",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            1
+            3,
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 21时27分]"
+          "appearance_count": 4,
+          "time_info": "[17时57分 ~ 21时40分]"
         },
         {
           "title": "印度外交部：印度驻阿曼大使馆正在密切关注局势。",
@@ -589,20 +629,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
-        },
-        {
-          "title": "星网宇达：公司与近期市场关注的长征十号乙运载火箭海上回收技术突破不存在业务关联",
-          "url": "https://wallstreetcn.com/livenews/3132408",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时06分 ~ 21时27分]"
         },
         {
           "title": "SK集团董事长：若股价稳定，考虑增发美国股票、扩大在美投资、推出\"内存即服务\"新模式",
@@ -628,15 +654,16 @@
           "time_info": "[11时45分 ~ 12时29分]"
         },
         {
-          "title": "小红书前员工再发文实名举报 IPO 合规，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2058623048639689021",
-          "source": "知乎",
+          "title": "长鑫IPO在即，长存“拍马追赶”",
+          "url": "https://wallstreetcn.com/articles/3776723",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时57分 ~ 21时40分]"
         },
         {
           "title": "长江存储公布IPO辅导团队 中信与中信建投合计31人组成",
@@ -652,19 +679,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时03分 ~ 03时20分]"
-        },
-        {
-          "title": "霍尔木兹海峡商业航运流量大幅下降",
-          "url": "https://wallstreetcn.com/livenews/3132413",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时57分 ~ 21时27分]"
         },
         {
           "title": "江苏多地：在家宅一天 尽量别点外卖",
@@ -703,18 +717,6 @@
           "time_info": "[17时06分 ~ 17时57分]"
         },
         {
-          "title": "长鑫IPO在即，长存“拍马追赶”",
-          "url": "https://wallstreetcn.com/articles/3776723",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时57分 ~ 21时27分]"
-        },
-        {
           "title": "bb解说席会面三冠王股东",
           "url": "https://www.douyin.com/hot/2568064",
           "source": "抖音",
@@ -736,6 +738,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时29分 ~ 15时33分]"
+        },
+        {
+          "title": "“台风+暴雨+强对流”三预警齐发，“巴威”最新路径公布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33568930",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 21时40分]"
         },
         {
           "title": "苹果起诉OpenAI及两名员工窃取产品机密：曾要求带着“零部件”去面试",
@@ -806,18 +820,6 @@
           "time_info": "[07时59分 ~ 08时06分]"
         },
         {
-          "title": "“台风+暴雨+强对流”三预警齐发，“巴威”最新路径公布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33568930",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 21时27分]"
-        },
-        {
           "title": "记者直播时手机被台风“巴威”吹走",
           "url": "https://www.toutiao.com/trending/7660783420004990982/",
           "source": "今日头条",
@@ -873,6 +875,17 @@
           "time_info": "[19时15分 ~ 19时16分]"
         },
         {
+          "title": "马上评｜三问“逐字翻译抄袭”人大博士惠某某拟入职安大",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33570799",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 21时40分]"
+        },
+        {
           "title": "评论员：假摔毁了瑞士队",
           "url": "https://www.toutiao.com/trending/7661524761767317028/",
           "source": "今日头条",
@@ -883,6 +896,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时06分 ~ 17时57分]"
+        },
+        {
+          "title": "为什么现在分享个人经历，很多人会用「创伤」来定义自己的感受？「创伤叙事」是不是被滥用了？",
+          "url": "https://www.zhihu.com/question/2057492254889964985",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 21时40分]"
         },
         {
           "title": "如何看待二次元 3D 动作游戏《深空之眼》官方宣布将停止更新？",
@@ -896,6 +920,17 @@
           "time_info": "[00时02分 ~ 00时03分]"
         },
         {
+          "title": "台风把演出吹到线上，空场直播浪漫依旧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33568963",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 21时40分]"
+        },
+        {
           "title": "《功夫女足》彩蛋周星驰身旁留了个空位",
           "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E5%BD%A9%E8%9B%8B%E5%91%A8%E6%98%9F%E9%A9%B0%E8%BA%AB%E6%97%81%E7%95%99%E4%BA%86%E4%B8%AA%E7%A9%BA%E4%BD%8D",
           "source": "百度热搜",
@@ -906,6 +941,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时06分 ~ 17时57分]"
+        },
+        {
+          "title": "中信证券：港股扰动趋缓卖空料将收敛 短期推荐创新药、航空、机器人及工业金属",
+          "url": "https://flash.jin10.com/detail/20260712190843394800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 21时40分]"
         },
         {
           "title": "杭州人一觉醒来发现外卖停了",
@@ -963,17 +1009,6 @@
           "time_info": "17时06分"
         },
         {
-          "title": "马上评｜三问“逐字翻译抄袭”人大博士惠某某拟入职安大",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33570799",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
-        },
-        {
           "title": "伊朗称其武装力量目标清单持续更新",
           "url": "https://flash.jin10.com/detail/20260712124529961800",
           "source": "金十数据",
@@ -983,17 +1018,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
-        },
-        {
-          "title": "为什么现在分享个人经历，很多人会用「创伤」来定义自己的感受？「创伤叙事」是不是被滥用了？",
-          "url": "https://www.zhihu.com/question/2057492254889964985",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
         },
         {
           "title": "国投白银LOF：提示A类基金份额二级市场交易价格溢价风险",
@@ -1029,17 +1053,6 @@
           "time_info": "17时57分"
         },
         {
-          "title": "台风把演出吹到线上，空场直播浪漫依旧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33568963",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
-        },
-        {
           "title": "霍尔木兹海峡商业航运流量大幅下降",
           "url": "https://flash.jin10.com/detail/20260712165712446800",
           "source": "金十数据",
@@ -1049,17 +1062,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
-        },
-        {
-          "title": "中信证券：港股扰动趋缓卖空料将收敛 短期推荐创新药、航空、机器人及工业金属",
-          "url": "https://flash.jin10.com/detail/20260712190843394800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
         },
         {
           "title": "民政部发布最新部署 全力做好民政领域防汛救灾",
@@ -1101,7 +1103,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },
