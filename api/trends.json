@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T11:46:05.351178+08:00",
-  "total_titles_processed": 712,
+  "generated_at": "2026-07-12T12:29:28.733811+08:00",
+  "total_titles_processed": 748,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "三预警齐发！“巴威”再度增强为强台风级，最新路径公布",
@@ -42,6 +42,20 @@
           "time_info": "[00时02分 ~ 04时58分]"
         },
         {
+          "title": "直播丨台风“巴威”，威力不减！澎湃新闻多路“追风小队”直击抗台防汛第一线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33557236",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[01时59分 ~ 12时29分]"
+        },
+        {
           "title": "BW跟虎哥互相设置挑战",
           "url": "https://search.bilibili.com/all?keyword=BW%E8%B7%9F%E8%99%8E%E5%93%A5%E4%BA%92%E7%9B%B8%E8%AE%BE%E7%BD%AE%E6%8C%91%E6%88%98",
           "source": "bilibili 热搜",
@@ -53,8 +67,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时02分 ~ 11时46分]"
+          "appearance_count": 21,
+          "time_info": "[00时02分 ~ 12时29分]"
         },
         {
           "title": "巴威最新位置",
@@ -74,17 +88,16 @@
           "time_info": "[00时02分 ~ 07时01分]"
         },
         {
-          "title": "直播丨台风“巴威”，威力不减！澎湃新闻多路“追风小队”直击抗台防汛第一线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33557236",
-          "source": "澎湃新闻",
+          "title": "特厨隋坡探店全差评餐厅引争议，老板「逆天回怼」是高明还是失策？",
+          "url": "https://www.zhihu.com/question/2059021609504186485",
+          "source": "知乎",
           "ranks": [
-            13,
-            12,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时59分 ~ 11时46分]"
+          "appearance_count": 6,
+          "time_info": "[07时59分 ~ 12时29分]"
         },
         {
           "title": "记者直播时手机被台风吹走",
@@ -109,11 +122,12 @@
           "ranks": [
             6,
             7,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时02分 ~ 11时46分]"
+          "appearance_count": 21,
+          "time_info": "[00时02分 ~ 12时29分]"
         },
         {
           "title": "功夫女足里的怀旧彩蛋",
@@ -129,11 +143,12 @@
             21,
             19,
             23,
-            28
+            28,
+            18
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时02分 ~ 11时46分]"
+          "appearance_count": 21,
+          "time_info": "[00时02分 ~ 12时29分]"
         },
         {
           "title": "为什么西班牙蓝鳍金枪鱼被公认为高端食材？有什么方法让普通人也能平价吃到正宗蓝鳍金枪鱼？",
@@ -157,11 +172,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时02分 ~ 11时46分]"
+          "appearance_count": 21,
+          "time_info": "[00时02分 ~ 12时29分]"
         },
         {
           "title": "“巴威”加强为强台风级 最新路径公布",
@@ -186,11 +202,12 @@
             11,
             13,
             24,
-            30
+            30,
+            23
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时02分 ~ 08时06分]"
+          "appearance_count": 19,
+          "time_info": "[00时02分 ~ 12时29分]"
         },
         {
           "title": "凡人最新集有哪些看点",
@@ -218,8 +235,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时02分 ~ 11时46分]"
+          "appearance_count": 21,
+          "time_info": "[00时02分 ~ 12时29分]"
         },
         {
           "title": "Oner输完比赛摆烂找女友",
@@ -228,11 +245,12 @@
           "ranks": [
             15,
             16,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时02分 ~ 11时46分]"
+          "appearance_count": 21,
+          "time_info": "[00时02分 ~ 12时29分]"
         },
         {
           "title": "直接工作与读大专，哪个更划算？",
@@ -260,8 +278,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 11时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 12时29分]"
         },
         {
           "title": "网大水平?功夫女足预告被嘲",
@@ -270,11 +288,12 @@
           "ranks": [
             19,
             20,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时02分 ~ 11时46分]"
+          "appearance_count": 21,
+          "time_info": "[00时02分 ~ 12时29分]"
         },
         {
           "title": "登陆少年想得美手势舞挑战",
@@ -290,8 +309,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时03分 ~ 11时46分]"
+          "appearance_count": 18,
+          "time_info": "[00时03分 ~ 12时29分]"
         },
         {
           "title": "抱团无门,粉丝跪求JKL离队",
@@ -304,18 +323,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时02分 ~ 08时06分]"
-        },
-        {
-          "title": "特厨隋坡探店全差评餐厅引争议，老板「逆天回怼」是高明还是失策？",
-          "url": "https://www.zhihu.com/question/2059021609504186485",
-          "source": "知乎",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时59分 ~ 11时46分]"
         },
         {
           "title": "桃黑黑直播回应",
@@ -361,28 +368,18 @@
           "time_info": "[01时59分 ~ 05时59分]"
         },
         {
-          "title": "江苏多地发文倡议：尽量不点外卖",
-          "url": "https://www.toutiao.com/trending/7661280779233935423/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 11时46分]"
-        },
-        {
           "title": "被金志文依兰爱情故事整破防了",
           "url": "https://www.douyin.com/hot/2566219",
           "source": "抖音",
           "ranks": [
             30,
             23,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时54分 ~ 11时46分]"
+          "appearance_count": 7,
+          "time_info": "[04时54分 ~ 12时29分]"
         },
         {
           "title": "挑战在BW让100个人无语",
@@ -397,6 +394,18 @@
           "time_info": "[06时54分 ~ 08时06分]"
         },
         {
+          "title": "为什么这次的台风巴威会这样铺天盖地的宣传，身边以前不关注的人也抢物资，是什么原因造成的？",
+          "url": "https://www.zhihu.com/question/2058922856549970490",
+          "source": "知乎",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 12时29分]"
+        },
+        {
           "title": "SK集团董事长：若股价稳定，考虑增发美国股票、扩大在美投资、推出\"内存即服务\"新模式",
           "url": "https://wallstreetcn.com/articles/3776682",
           "source": "华尔街见闻",
@@ -406,6 +415,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时02分 ~ 01时59分]"
+        },
+        {
+          "title": "江苏多地发文倡议：尽量不点外卖",
+          "url": "https://www.toutiao.com/trending/7661280779233935423/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 12时29分]"
         },
         {
           "title": "长江存储公布IPO辅导团队 中信与中信建投合计31人组成",
@@ -434,6 +455,30 @@
           "time_info": "[07时59分 ~ 08时06分]"
         },
         {
+          "title": "耗资上亿悬崖酒店将完工遇超强台风",
+          "url": "https://www.toutiao.com/trending/7660426802398593065/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 12时29分]"
+        },
+        {
+          "title": "如何看待 2026 年 7 月 11 日周星驰新电影《功夫女足》预测票房飙升至 18.6 亿人民币？",
+          "url": "https://www.zhihu.com/question/2059204572552361429",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 12时29分]"
+        },
+        {
           "title": "三预警齐发 巴威最新路径公布",
           "url": "https://www.baidu.com/s?wd=%E4%B8%89%E9%A2%84%E8%AD%A6%E9%BD%90%E5%8F%91+%E5%B7%B4%E5%A8%81%E6%9C%80%E6%96%B0%E8%B7%AF%E5%BE%84%E5%85%AC%E5%B8%83",
           "source": "百度热搜",
@@ -445,6 +490,17 @@
           "time_info": "[07时59分 ~ 08时06分]"
         },
         {
+          "title": "苹果起诉OpenAI及两名员工窃取产品机密：曾要求带着“零部件”去面试",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33566535",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 12时29分]"
+        },
+        {
           "title": "记者直播时手机被台风“巴威”吹走",
           "url": "https://www.toutiao.com/trending/7660783420004990982/",
           "source": "今日头条",
@@ -454,17 +510,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时59分 ~ 08时06分]"
-        },
-        {
-          "title": "为什么这次的台风巴威会这样铺天盖地的宣传，身边以前不关注的人也抢物资，是什么原因造成的？",
-          "url": "https://www.zhihu.com/question/2058922856549970490",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 11时46分]"
         },
         {
           "title": "苏州：在家宅一天 尽量别点外卖",
@@ -500,39 +545,6 @@
           "time_info": "[00时02分 ~ 00时03分]"
         },
         {
-          "title": "如何看待 2026 年 7 月 11 日周星驰新电影《功夫女足》预测票房飙升至 18.6 亿人民币？",
-          "url": "https://www.zhihu.com/question/2059204572552361429",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 11时46分]"
-        },
-        {
-          "title": "苹果起诉OpenAI及两名员工窃取产品机密：曾要求带着“零部件”去面试",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33566535",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 11时46分]"
-        },
-        {
-          "title": "耗资上亿悬崖酒店将完工遇超强台风",
-          "url": "https://www.toutiao.com/trending/7660426802398593065/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 11时46分]"
-        },
-        {
           "title": "杭州人一觉醒来发现外卖停了",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%BA%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E5%8F%91%E7%8E%B0%E5%A4%96%E5%8D%96%E5%81%9C%E4%BA%86%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -564,6 +576,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时10分 ~ 01时11分]"
+        },
+        {
+          "title": "江苏多地：在家宅一天 尽量别点外卖",
+          "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%A4%9A%E5%9C%B0%EF%BC%9A%E5%9C%A8%E5%AE%B6%E5%AE%85%E4%B8%80%E5%A4%A9+%E5%B0%BD%E9%87%8F%E5%88%AB%E7%82%B9%E5%A4%96%E5%8D%96",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
+          "title": "“台风+暴雨+强对流”三预警齐发 “巴威”最新路径公布",
+          "url": "https://www.cls.cn/detail/2423675",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "民政部发布最新部署 全力做好民政领域防汛救灾",
