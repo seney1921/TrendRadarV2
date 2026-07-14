@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T13:36:00.658051+08:00",
-  "total_titles_processed": 1143,
+  "generated_at": "2026-07-14T15:14:50.631883+08:00",
+  "total_titles_processed": 1270,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 98,
+      "match_count": 106,
       "titles": [
         {
           "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时38分 ~ 13时36分]"
+          "appearance_count": 18,
+          "time_info": "[00时38分 ~ 15时14分]"
         },
         {
           "title": "高盛：中国股票出现“轮动信号”，A股硬科技仍占优，H股互联网等盈利修复",
@@ -31,6 +31,17 @@
           "time_info": "[00时38分 ~ 08时03分]"
         },
         {
+          "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时02分 ~ 15时14分]"
+        },
+        {
           "title": "开宫!Xun点赞Bin哥黑粉",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356140&amp;topic_name=%E5%BC%80%E5%AE%AB%21Xun%E7%82%B9%E8%B5%9EBin%E5%93%A5%E9%BB%91%E7%B2%89",
           "source": "贴吧",
@@ -38,11 +49,12 @@
             3,
             6,
             9,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时38分 ~ 13时36分]"
+          "appearance_count": 18,
+          "time_info": "[00时38分 ~ 15时14分]"
         },
         {
           "title": "马上评｜人大是否应撤销“逐字翻译抄袭”惠某某博士学位",
@@ -56,19 +68,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时38分 ~ 13时36分]"
-        },
-        {
-          "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
-          "url": "https://wallstreetcn.com/articles/3776754",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时02分 ~ 13时36分]"
+          "appearance_count": 18,
+          "time_info": "[00时38分 ~ 15时14分]"
         },
         {
           "title": "挑战在韶关悬崖小屋上住一晚",
@@ -154,11 +155,12 @@
             8,
             9,
             12,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时38分 ~ 13时36分]"
+          "appearance_count": 18,
+          "time_info": "[00时38分 ~ 15时14分]"
         },
         {
           "title": "评论员：格雷厄姆去世让乌失去靠山",
@@ -231,11 +233,12 @@
             16,
             15,
             17,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时38分 ~ 13时36分]"
+          "appearance_count": 16,
+          "time_info": "[00时38分 ~ 15时14分]"
         },
         {
           "title": "最新｜长沙市体育局负责人回应澎湃：有些情况还在核实",
@@ -288,11 +291,12 @@
             20,
             21,
             24,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时38分 ~ 13时36分]"
+          "appearance_count": 18,
+          "time_info": "[00时38分 ~ 15时14分]"
         },
         {
           "title": "看小说把于谦看上头了",
@@ -320,6 +324,32 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[03时43分 ~ 08时03分]"
+        },
+        {
+          "title": "倒计时2天，长鑫科技最全打新攻略来了",
+          "url": "https://www.cls.cn/detail/2425498",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 15时14分]"
+        },
+        {
+          "title": "厨师离职被要求交出烹饪配方才结工资，饭店称为了标准化作业，烹饪配方属于个人还是饭店？可以和工资绑定吗？",
+          "url": "https://www.zhihu.com/question/2060062676676503140",
+          "source": "知乎",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时44分 ~ 15时14分]"
         },
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金重挫",
@@ -357,40 +387,31 @@
           "time_info": "[12时08分 ~ 13时36分]"
         },
         {
-          "title": "股票腰斩,赛力斯血亏18亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356158&amp;topic_name=%E8%82%A1%E7%A5%A8%E8%85%B0%E6%96%A9%2C%E8%B5%9B%E5%8A%9B%E6%96%AF%E8%A1%80%E4%BA%8F18%E4%BA%BF",
-          "source": "贴吧",
+          "title": "高盛、美银齐发卖出警报，对冲基金却重返科技股，美股仓位信号现分歧",
+          "url": "https://wallstreetcn.com/articles/3776816",
+          "source": "华尔街见闻",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时36分]"
-        },
-        {
-          "title": "倒计时2天，长鑫科技最全打新攻略来了",
-          "url": "https://www.cls.cn/detail/2425498",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时36分]"
-        },
-        {
-          "title": "厨师离职被要求交出烹饪配方才结工资，饭店称为了标准化作业，烹饪配方属于个人还是饭店？可以和工资绑定吗？",
-          "url": "https://www.zhihu.com/question/2060062676676503140",
-          "source": "知乎",
-          "ranks": [
+            9,
+            8,
             7,
-            3,
-            2
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时44分 ~ 13时36分]"
+          "appearance_count": 7,
+          "time_info": "[08时02分 ~ 15时14分]"
+        },
+        {
+          "title": "乌克兰总理辞职",
+          "url": "https://news.ifeng.com/c/8ujqReEoqcO",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时02分 ~ 15时14分]"
         },
         {
           "title": "曝苹果20系列回归玻璃机身",
@@ -436,17 +457,16 @@
           "time_info": "[04时19分 ~ 12时08分]"
         },
         {
-          "title": "高盛、美银齐发卖出警报，对冲基金却重返科技股，美股仓位信号现分歧",
-          "url": "https://wallstreetcn.com/articles/3776816",
-          "source": "华尔街见闻",
+          "title": "股票腰斩,赛力斯血亏18亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356158&amp;topic_name=%E8%82%A1%E7%A5%A8%E8%85%B0%E6%96%A9%2C%E8%B5%9B%E5%8A%9B%E6%96%AF%E8%A1%80%E4%BA%8F18%E4%BA%BF",
+          "source": "贴吧",
           "ranks": [
-            9,
-            8,
+            4,
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时02分 ~ 13时36分]"
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 15时14分]"
         },
         {
           "title": "地缘风暴叠加鹰派双杀，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金暴跌",
@@ -458,18 +478,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
-        },
-        {
-          "title": "乌克兰总理辞职",
-          "url": "https://news.ifeng.com/c/8ujqReEoqcO",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时02分 ~ 13时36分]"
         },
         {
           "title": "佛得角门将涨粉断层第一",
@@ -492,7 +500,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
         },
@@ -506,6 +514,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "A股收盘：创业板指大涨3.43%，算力硬件股集体反弹",
+          "url": "https://wallstreetcn.com/livenews/3133388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "上证指数收报3967.13点，涨1.36%。 深证成指收报14924.87点，涨2.77%。 创业板指收报3851.14点，涨3.43%。 沪深300收报4796.50点，涨2.15%。 科创50收报2009.73点，涨0.77%。 中证500收报8275.94点，涨1.69%。 中证1000收报7925.12点，涨1.76%。",
+          "url": "https://wallstreetcn.com/livenews/3133387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         },
         {
           "title": "提醒：日内请重点关注（以下均为北京时间）",
@@ -522,6 +552,32 @@
           "time_info": "[07时01分 ~ 13时36分]"
         },
         {
+          "title": "如何看待 2026 年 7 月 13 日周星驰新电影《功夫女足》预测票房飙升至 30.3 亿人民币？",
+          "url": "https://www.zhihu.com/question/2060124058038096124",
+          "source": "知乎",
+          "ranks": [
+            16,
+            14,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时44分 ~ 15时14分]"
+        },
+        {
+          "title": "9 岁出书、清华降分录取，客观评价作家蒋方舟到底是真的天才少女还是在人设炒作？",
+          "url": "https://www.zhihu.com/question/2060111984247272718",
+          "source": "知乎",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时44分 ~ 15时14分]"
+        },
+        {
           "title": "LPL解说谈MSI决赛上路差距",
           "url": "https://search.bilibili.com/all?keyword=LPL%E8%A7%A3%E8%AF%B4%E8%B0%88MSI%E5%86%B3%E8%B5%9B%E4%B8%8A%E8%B7%AF%E5%B7%AE%E8%B7%9D",
           "source": "bilibili 热搜",
@@ -533,6 +589,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时01分 ~ 13时36分]"
+        },
+        {
+          "title": "美伊开战4个月，美军最新伤亡情况公布",
+          "url": "https://news.ifeng.com/c/8ukVFqoxfr4",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 15时14分]"
         },
         {
           "title": "高年化收益率吸睛，券商新客理财走红",
@@ -646,39 +713,63 @@
           "time_info": "[07时07分 ~ 08时03分]"
         },
         {
-          "title": "如何看待 2026 年 7 月 13 日周星驰新电影《功夫女足》预测票房飙升至 30.3 亿人民币？",
-          "url": "https://www.zhihu.com/question/2060124058038096124",
-          "source": "知乎",
+          "title": "挑战在美国E人coser前跳舞",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E5%9C%A8%E7%BE%8E%E5%9B%BDE%E4%BA%BAcoser%E5%89%8D%E8%B7%B3%E8%88%9E",
+          "source": "bilibili 热搜",
           "ranks": [
-            16,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时44分 ~ 13时36分]"
-        },
-        {
-          "title": "9 岁出书、清华降分录取，客观评价作家蒋方舟到底是真的天才少女还是在人设炒作？",
-          "url": "https://www.zhihu.com/question/2060111984247272718",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时44分 ~ 13时36分]"
-        },
-        {
-          "title": "美伊开战4个月，美军最新伤亡情况公布",
-          "url": "https://news.ifeng.com/c/8ukVFqoxfr4",
-          "source": "凤凰网",
-          "ranks": [
-            6
+            10,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时36分]"
+          "time_info": "[13时35分 ~ 15时14分]"
+        },
+        {
+          "title": "三角洲S10武器强度排行榜",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2S10%E6%AD%A6%E5%99%A8%E5%BC%BA%E5%BA%A6%E6%8E%92%E8%A1%8C%E6%A6%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时35分 ~ 15时14分]"
+        },
+        {
+          "title": "邹市明2亿理财亏损始末",
+          "url": "https://s.weibo.com/weibo?q=%E9%82%B9%E5%B8%82%E6%98%8E2%E4%BA%BF%E7%90%86%E8%B4%A2%E4%BA%8F%E6%8D%9F%E5%A7%8B%E6%9C%AB&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时35分 ~ 15时14分]"
+        },
+        {
+          "title": "机票突现“1”字头 比坐高铁还便宜",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E7%A5%A8%E7%AA%81%E7%8E%B0%E2%80%9C1%E2%80%9D%E5%AD%97%E5%A4%B4+%E6%AF%94%E5%9D%90%E9%AB%98%E9%93%81%E8%BF%98%E4%BE%BF%E5%AE%9C",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时35分 ~ 15时14分]"
+        },
+        {
+          "title": "网红“峰哥”发长文彻底认输清仓",
+          "url": "https://www.toutiao.com/trending/7661763558614663206/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时35分 ~ 15时14分]"
         },
         {
           "title": "沉浸式体验阿根廷瑞士比赛现场",
@@ -753,17 +844,6 @@
           "time_info": "[05时03分 ~ 06时01分]"
         },
         {
-          "title": "挑战在美国E人coser前跳舞",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E5%9C%A8%E7%BE%8E%E5%9B%BDE%E4%BA%BAcoser%E5%89%8D%E8%B7%B3%E8%88%9E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时35分 ~ 13时36分]"
-        },
-        {
           "title": "今日重点关注的财经数据与事件：2026年7月14日 周二",
           "url": "https://flash.jin10.com/detail/20260714000000001800",
           "source": "金十数据",
@@ -774,28 +854,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 08时03分]"
-        },
-        {
-          "title": "三角洲S10武器强度排行榜",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2S10%E6%AD%A6%E5%99%A8%E5%BC%BA%E5%BA%A6%E6%8E%92%E8%A1%8C%E6%A6%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时35分 ~ 13时36分]"
-        },
-        {
-          "title": "邹市明2亿理财亏损始末",
-          "url": "https://s.weibo.com/weibo?q=%E9%82%B9%E5%B8%82%E6%98%8E2%E4%BA%BF%E7%90%86%E8%B4%A2%E4%BA%8F%E6%8D%9F%E5%A7%8B%E6%9C%AB&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时35分 ~ 13时36分]"
         },
         {
           "title": "美联储理事沃勒：我们持续收到了更好、更强劲的就业报告 人工智能（AI）可能会影响金融状况。 如果人工智能泡沫破裂或出现回调，我们将看到金融状况发生相当大的变化。 看不出有任何理由会处于准备金稀缺的机制中。 我认为没有任何理由会处于准备金稀缺的机制中。 如果能找到方法让银行不需要那么多准备金，那么相应地缩减资产负债表就没有问题。 关于仅凭准备金需求能缩减多少资产负债表，存在很多争议。 工作组将思考我们可以多认真地考虑缩减资产负债表。 我很难看出当前规模的资产负债表正在造成什么问题。",
@@ -831,28 +889,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时44分 ~ 12时08分]"
-        },
-        {
-          "title": "机票突现“1”字头 比坐高铁还便宜",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E7%A5%A8%E7%AA%81%E7%8E%B0%E2%80%9C1%E2%80%9D%E5%AD%97%E5%A4%B4+%E6%AF%94%E5%9D%90%E9%AB%98%E9%93%81%E8%BF%98%E4%BE%BF%E5%AE%9C",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时35分 ~ 13时36分]"
-        },
-        {
-          "title": "网红“峰哥”发长文彻底认输清仓",
-          "url": "https://www.toutiao.com/trending/7661763558614663206/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时35分 ~ 13时36分]"
         },
         {
           "title": "曝iPhone 20系列将回归玻璃材质",
@@ -939,7 +975,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
         },
@@ -966,15 +1002,48 @@
           "time_info": "12时08分"
         },
         {
+          "title": "沪指涨幅扩大至1%，深证成指涨2.33%，创业板指涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3133377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
           "title": "创业板指涨超3%，沪指涨0.61%，深成指涨2.05%，全市场上涨个股超4100只。",
           "url": "https://flash.jin10.com/detail/20260714131337131800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
+        },
+        {
+          "title": "预告：国新办7月17日举行新闻发布会 介绍2026年上半年外汇收支数据情况",
+          "url": "https://wallstreetcn.com/livenews/3133375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "章若楠跑男化妆师评论区被阴阳白干",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E8%B7%91%E7%94%B7%E5%8C%96%E5%A6%86%E5%B8%88%E8%AF%84%E8%AE%BA%E5%8C%BA%E8%A2%AB%E9%98%B4%E9%98%B3%E7%99%BD%E5%B9%B2%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         },
         {
           "title": "美国扩大对古巴制裁，旅游业成为最新目标",
@@ -1027,9 +1096,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
+        },
+        {
+          "title": "中国上证综指7月14日（周二）收盘上涨53.33点，涨幅：1.36%，报3967.13点；<br/>中国深证成指7月14日（周二）收盘上涨402.01点，涨幅：2.77%，报14924.87点；<br/>中国沪深300指数7月14日（周二）收盘上涨101.12点，涨幅：2.15%，报4796.5点；<br/>中国创业板指数7月14日（周二）收盘上涨127.62点，涨幅：3.43%，报3851.14点；<br/>中国科创50指数7月14日（周二）收盘上涨15.41点，涨幅：0.77%，报2009.73点。",
+          "url": "https://flash.jin10.com/detail/20260714150250971800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         },
         {
           "title": "创业板指涨超1%，沪指跌0.03%，深成指涨0.46%，PCB、油气、煤炭、医药等方向涨幅居前，沪深京三市上涨个股近2300只。",
@@ -1126,7 +1206,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
         },
@@ -1164,6 +1244,17 @@
           "time_info": "12时08分"
         },
         {
+          "title": "杭州警方通报一甜品店主被刺身亡",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%80%E7%94%9C%E5%93%81%E5%BA%97%E4%B8%BB%E8%A2%AB%E5%88%BA%E8%BA%AB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
           "title": "佛得角门将涨粉断层第一",
           "url": "https://www.toutiao.com/trending/7661877724442050601/",
           "source": "今日头条",
@@ -1195,6 +1286,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "评论员：千万不要轻视日本军力",
+          "url": "https://www.toutiao.com/trending/7661115799976804379/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         },
         {
           "title": "创业板指冲高回落翻绿，此前一度涨近2%，沪指跌0.45%，深成指跌0.26%，军工、半导体、游戏、算力租赁等方向跌幅居前，沪深京三市下跌个股超3000只。",
