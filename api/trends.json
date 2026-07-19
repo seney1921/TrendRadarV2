@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T00:05:15.482695+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-20T01:05:32.131209+08:00",
+  "total_titles_processed": 372,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时05分]"
         },
         {
           "title": "调整接近后半段？应该关注哪些景气线索？十大券商策略来了",
@@ -26,52 +26,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时05分]"
         },
         {
           "title": "凌晨点外卖被骂,顾客索赔一千",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356320&amp;topic_name=%E5%87%8C%E6%99%A8%E7%82%B9%E5%A4%96%E5%8D%96%E8%A2%AB%E9%AA%82%2C%E9%A1%BE%E5%AE%A2%E7%B4%A2%E8%B5%94%E4%B8%80%E5%8D%83",
           "source": "贴吧",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
-        },
-        {
-          "title": "长鑫科技中签号出炉，36支社保、养老基金参与战略配售",
-          "url": "https://www.cls.cn/detail/2430460",
-          "source": "财联社热门",
-          "ranks": [
+            4,
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
-        },
-        {
-          "title": "杂牌汉堡店扬言打脸勇哥",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356317&amp;topic_name=%E6%9D%82%E7%89%8C%E6%B1%89%E5%A0%A1%E5%BA%97%E6%89%AC%E8%A8%80%E6%89%93%E8%84%B8%E5%8B%87%E5%93%A5",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
-        },
-        {
-          "title": "美国前海军上将：除了霍尔木兹海峡，这一航运要道也应格外关注",
-          "url": "https://flash.jin10.com/detail/20260719234259485800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时05分]"
         },
         {
           "title": "中国诚通大额增持中国股票资产",
@@ -80,9 +48,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时05分]"
         },
         {
           "title": "中国国新：已使用股票回购增持专项再贷款及配套资金超500亿元",
@@ -91,31 +59,81 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时05分]"
         },
         {
-          "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
-          "url": "https://www.cls.cn/detail/2430332",
+          "title": "长鑫科技中签号出炉，36支社保、养老基金参与战略配售",
+          "url": "https://www.cls.cn/detail/2430460",
           "source": "财联社热门",
           "ranks": [
+            5,
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时05分]"
+        },
+        {
+          "title": "杂牌汉堡店扬言打脸勇哥",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356317&amp;topic_name=%E6%9D%82%E7%89%8C%E6%B1%89%E5%A0%A1%E5%BA%97%E6%89%AC%E8%A8%80%E6%89%93%E8%84%B8%E5%8B%87%E5%93%A5",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时05分]"
         },
         {
           "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
           "url": "https://www.zhihu.com/question/2062188301013071138",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时05分]"
+        },
+        {
+          "title": "中国诚通、中国国新出手，增持中国股票资产",
+          "url": "https://www.cls.cn/detail/2430604",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时05分]"
+        },
+        {
+          "title": "美国前海军上将：除了霍尔木兹海峡，这一航运要道也应格外关注",
+          "url": "https://flash.jin10.com/detail/20260719234259485800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "time_info": "[00时05分 ~ 01时05分]"
+        },
+        {
+          "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
+          "url": "https://www.cls.cn/detail/2430332",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时05分]"
         },
         {
           "title": "官方辟谣：网传“韩红基金会向和田地区人民医院捐赠医疗设备”为不实信息",
@@ -125,19 +143,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时05分]"
         },
         {
-          "title": "中国诚通、中国国新出手，增持中国股票资产",
-          "url": "https://www.cls.cn/detail/2430604",
-          "source": "财联社热门",
+          "title": "《功夫女足》和《少林足球》，抛开情怀滤镜，单论电影本身，你觉得哪个更好看？为什么？",
+          "url": "https://www.zhihu.com/question/2060160756528702468",
+          "source": "知乎",
           "ranks": [
-            9
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时05分]"
         },
         {
           "title": "卫健委辟谣韩红基金会物资分配不均",
@@ -147,8 +166,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时05分]"
         },
         {
           "title": "卫健委辟谣韩红基金会物资分配不均",
@@ -158,30 +177,68 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
-        },
-        {
-          "title": "《功夫女足》和《少林足球》，抛开情怀滤镜，单论电影本身，你觉得哪个更好看？为什么？",
-          "url": "https://www.zhihu.com/question/2060160756528702468",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时05分]"
         },
         {
           "title": "LCK双雄出局,粉丝:故意放水",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356306&amp;topic_name=LCK%E5%8F%8C%E9%9B%84%E5%87%BA%E5%B1%80%2C%E7%B2%89%E4%B8%9D%3A%E6%95%85%E6%84%8F%E6%94%BE%E6%B0%B4",
           "source": "贴吧",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时05分]"
+        },
+        {
+          "title": "如何看待 EWC 官方邀请其他赛区选手观看《突然的陀螺》，随后因引发 LPL 粉丝不满而下架并处罚相关人员？",
+          "url": "https://www.zhihu.com/question/2062125118537610523",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时05分]"
+        },
+        {
+          "title": "老外扎堆来中国,机票暴涨12倍",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356299&amp;topic_name=%E8%80%81%E5%A4%96%E6%89%8E%E5%A0%86%E6%9D%A5%E4%B8%AD%E5%9B%BD%2C%E6%9C%BA%E7%A5%A8%E6%9A%B4%E6%B6%A812%E5%80%8D",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时05分]"
+        },
+        {
+          "title": "玩具总动员配音挑战",
+          "url": "https://www.douyin.com/hot/2577350",
+          "source": "抖音",
+          "ranks": [
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时05分]"
+        },
+        {
+          "title": "印度水货教授被锤,中国高校踩雷",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356289&amp;topic_name=%E5%8D%B0%E5%BA%A6%E6%B0%B4%E8%B4%A7%E6%95%99%E6%8E%88%E8%A2%AB%E9%94%A4%2C%E4%B8%AD%E5%9B%BD%E9%AB%98%E6%A0%A1%E8%B8%A9%E9%9B%B7",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时05分]"
         },
         {
           "title": "有哪些制作过程简单却很美味的甜品？",
@@ -195,48 +252,15 @@
           "time_info": "[00时04分 ~ 00时05分]"
         },
         {
-          "title": "如何看待 EWC 官方邀请其他赛区选手观看《突然的陀螺》，随后因引发 LPL 粉丝不满而下架并处罚相关人员？",
-          "url": "https://www.zhihu.com/question/2062125118537610523",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
-        },
-        {
-          "title": "老外扎堆来中国,机票暴涨12倍",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356299&amp;topic_name=%E8%80%81%E5%A4%96%E6%89%8E%E5%A0%86%E6%9D%A5%E4%B8%AD%E5%9B%BD%2C%E6%9C%BA%E7%A5%A8%E6%9A%B4%E6%B6%A812%E5%80%8D",
-          "source": "贴吧",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
-        },
-        {
-          "title": "玩具总动员配音挑战",
-          "url": "https://www.douyin.com/hot/2577350",
-          "source": "抖音",
+          "title": "波音公司：预计737-7飞机将在“近期”获得认证。 公司接近完成737-10飞机的测试工作。 将在2027年向客户们交付777X飞机。",
+          "url": "https://wallstreetcn.com/livenews/3136284",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
-        },
-        {
-          "title": "印度水货教授被锤,中国高校踩雷",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356289&amp;topic_name=%E5%8D%B0%E5%BA%A6%E6%B0%B4%E8%B4%A7%E6%95%99%E6%8E%88%E8%A2%AB%E9%94%A4%2C%E4%B8%AD%E5%9B%BD%E9%AB%98%E6%A0%A1%E8%B8%A9%E9%9B%B7",
-          "source": "贴吧",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "time_info": "[00时05分 ~ 01时05分]"
         },
         {
           "title": "三角洲S10余烬MK47改法合集",
@@ -261,15 +285,59 @@
           "time_info": "[00时04分 ~ 00时05分]"
         },
         {
+          "title": "创通联达具身智能产品TurboX IRB10全球首发落地",
+          "url": "https://wallstreetcn.com/livenews/3136277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时05分]"
+        },
+        {
+          "title": "据沙特媒体哈达斯（Alhadath）：以色列国防军总参谋长表示，我们已关注到针对约旦亚喀巴地区的袭击，我方防空系统已处于高度戒备状态。",
+          "url": "https://flash.jin10.com/detail/20260720002226628800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "UP主探索后室Vlog",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8E%A2%E7%B4%A2%E5%90%8E%E5%AE%A4Vlog",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
           "title": "美的集团：截至7月17日累计回购A股股份数量为8433.94万股",
           "url": "https://flash.jin10.com/detail/20260719223655477800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2026年7月20日 周一",
+          "url": "https://flash.jin10.com/detail/20260720000000001800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时05分"
         },
         {
           "title": "中国诚通大额增持中国股票资产",
@@ -278,7 +346,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
         },
@@ -289,31 +357,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
         },
         {
-          "title": "波音公司：预计737-7飞机将在“近期”获得认证。 公司接近完成737-10飞机的测试工作。 将在2027年向客户们交付777X飞机。",
-          "url": "https://wallstreetcn.com/livenews/3136284",
-          "source": "华尔街见闻-快讯",
+          "title": "中国诚通近百亿元增持中国股票资产",
+          "url": "https://www.toutiao.com/trending/7664240982480977939/",
+          "source": "今日头条",
           "ranks": [
-            22
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时05分"
+          "time_info": "01时05分"
         },
         {
-          "title": "创通联达具身智能产品TurboX IRB10全球首发落地",
-          "url": "https://wallstreetcn.com/livenews/3136277",
-          "source": "华尔街见闻-快讯",
+          "title": "重庆彭水山体崩塌最新现场",
+          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E6%9C%80%E6%96%B0%E7%8E%B0%E5%9C%BA",
+          "source": "百度热搜",
           "ranks": [
-            30
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时05分"
+          "time_info": "01时05分"
         }
       ]
     }
