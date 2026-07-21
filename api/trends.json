@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T03:29:37.663176+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-07-22T03:40:48.619713+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时40分]"
         },
         {
           "title": "马克龙、默茨最新涉华表态，中方回应",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时40分]"
         },
         {
           "title": "A股又一波增持回购来了！近20家公司今日公布最新计划",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时40分]"
         },
         {
           "title": "沿虚线撕开我的旅行日记",
@@ -48,8 +48,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时40分]"
         },
         {
           "title": "网红狗被宰杀,身价才2千",
@@ -59,8 +59,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时40分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了1个对手方的2.75亿美元。",
@@ -85,17 +85,6 @@
           "time_info": "01时25分"
         },
         {
-          "title": "嘉信理财CEO Rick Wurster：市场下行期间，成交量比正常水平高出3.5倍。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3137716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时29分"
-        },
-        {
           "title": "NewJeans回归预告",
           "url": "https://s.weibo.com/weibo?q=%23NewJeans%E5%9B%9E%E5%BD%92%E9%A2%84%E5%91%8A%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -104,8 +93,20 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时40分]"
+        },
+        {
+          "title": "嘉信理财CEO Rick Wurster：市场下行期间，成交量比正常水平高出3.5倍。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3137716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时29分]"
+          "time_info": "[03时29分 ~ 03时40分]"
         },
         {
           "title": "面试因无证驾驶计算机被拒了",
@@ -115,8 +116,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时40分]"
         },
         {
           "title": "7 月 21 日科创 50 指数大涨 10.73%，创业板指涨超 7%，如何看待当下 A 股市场行情？",
@@ -126,8 +127,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时40分]"
         },
         {
           "title": "【每日收评】创业板指探底回升涨超7%，半导体芯片、算力硬件等科技赛道卷土重来",
@@ -138,8 +139,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时40分]"
         },
         {
           "title": "装修工人封顶将工友封进夹层",
@@ -150,8 +151,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时40分]"
         },
         {
           "title": "风月加入NIP,TES挥泪告别",
@@ -161,8 +162,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时40分]"
         },
         {
           "title": "头把交椅换人！前公募一哥退下，新一哥登顶，百亿主动权益基金经理扩至152位",
@@ -173,8 +174,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时40分]"
         },
         {
           "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
@@ -184,8 +185,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时40分]"
         },
         {
           "title": "公募非货规模最新座次出炉，万亿公募增至3家，中段座次重排",
@@ -196,8 +197,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时40分]"
         },
         {
           "title": "入伏美食解暑实力排行",
@@ -208,8 +209,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时40分]"
         },
         {
           "title": "1875只固收+基金遭遇震荡考验：66% 产品录得负收益，首尾收益相差超 21%",
@@ -220,8 +221,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时40分]"
         },
         {
           "title": "不妥协!旭旭宝宝硬刚黑粉",
@@ -231,8 +232,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时40分]"
         },
         {
           "title": "C罗点赞FIFA偏袒阿根廷",
@@ -242,8 +243,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时40分]"
         },
         {
           "title": "成吉思鸡小哥致谢中国粉丝",
@@ -254,8 +255,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时40分]"
         },
         {
           "title": "事关A股市场 证监会最新发声",
@@ -266,8 +267,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时40分]"
         },
         {
           "title": "复联5预告解析",
@@ -278,8 +279,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时40分]"
         },
         {
           "title": "哈兰德分享26岁的第一天",
@@ -290,8 +291,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时40分]"
         },
         {
           "title": "路人看到辛芷蕾以为去入伍了",
@@ -302,8 +303,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时40分]"
         },
         {
           "title": "主人遛狗不拴绳遭路人扇耳光",
@@ -313,8 +314,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时40分]"
         },
         {
           "title": "星铁远坂凛测评",
@@ -325,8 +326,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时40分]"
         },
         {
           "title": "复联5发预告,老面孔回归",
@@ -336,8 +337,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时40分]"
         },
         {
           "title": "普洱5.0级地震最新情况",
@@ -347,19 +348,87 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时40分]"
         },
         {
           "title": "中国医药控股一度飙升2000%，单日涨幅料创纪录",
           "url": "https://wallstreetcn.com/livenews/3137714",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 03时40分]"
+        },
+        {
+          "title": "1.94%！最新保险预定利率研究值环比回升1BP，寿险负债成本有望持续降低",
+          "url": "https://www.cls.cn/detail/2432802",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 03时40分]"
+        },
+        {
+          "title": "抓住IPO前机会 高盛为富豪打造私人市场投资平台",
+          "url": "https://flash.jin10.com/detail/20260722023626775800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 03时40分]"
+        },
+        {
+          "title": "女子因外卖口味淡差评被店家恶评",
+          "url": "https://www.douyin.com/hot/2580133",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 03时40分]"
+        },
+        {
+          "title": "周三（8月6日），美联储隔夜逆回购协议（RRP）使用规模为2.75亿美元（交易对手1家），上个交易日报0.3亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3137703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 03时40分]"
+        },
+        {
+          "title": "如何评价《绝区零》在游戏活动界面里，把 3.1 版本 PV 的内置跳转链接从 B 站改成了抖音精选？",
+          "url": "https://www.zhihu.com/question/2061595522134282638",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 03时40分]"
+        },
+        {
+          "title": "陈都灵新剧造型 不符合人设",
+          "url": "https://s.weibo.com/weibo?q=%E9%99%88%E9%83%BD%E7%81%B5%E6%96%B0%E5%89%A7%E9%80%A0%E5%9E%8B%20%E4%B8%8D%E7%AC%A6%E5%90%88%E4%BA%BA%E8%AE%BE&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 03时40分]"
         },
         {
           "title": "亚马逊云服务(AWS)：自2026年7月21日起，所有新创建的亚马逊简单邮件服务账户将默认采用基础版套餐。",
@@ -384,50 +453,6 @@
           "time_info": "01时25分"
         },
         {
-          "title": "1.94%！最新保险预定利率研究值环比回升1BP，寿险负债成本有望持续降低",
-          "url": "https://www.cls.cn/detail/2432802",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时29分"
-        },
-        {
-          "title": "抓住IPO前机会 高盛为富豪打造私人市场投资平台",
-          "url": "https://flash.jin10.com/detail/20260722023626775800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时29分"
-        },
-        {
-          "title": "女子因外卖口味淡差评被店家恶评",
-          "url": "https://www.douyin.com/hot/2580133",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时29分"
-        },
-        {
-          "title": "周三（8月6日），美联储隔夜逆回购协议（RRP）使用规模为2.75亿美元（交易对手1家），上个交易日报0.3亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3137703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时29分"
-        },
-        {
           "title": "英伟达详解下一代AI专用Vera CPU，向AMD和英特尔发起挑战",
           "url": "https://wallstreetcn.com/livenews/3137679",
           "source": "华尔街见闻-快讯",
@@ -448,28 +473,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
-        },
-        {
-          "title": "如何评价《绝区零》在游戏活动界面里，把 3.1 版本 PV 的内置跳转链接从 B 站改成了抖音精选？",
-          "url": "https://www.zhihu.com/question/2061595522134282638",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时29分"
-        },
-        {
-          "title": "陈都灵新剧造型 不符合人设",
-          "url": "https://s.weibo.com/weibo?q=%E9%99%88%E9%83%BD%E7%81%B5%E6%96%B0%E5%89%A7%E9%80%A0%E5%9E%8B%20%E4%B8%8D%E7%AC%A6%E5%90%88%E4%BA%BA%E8%AE%BE&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时29分"
         }
       ]
     }
