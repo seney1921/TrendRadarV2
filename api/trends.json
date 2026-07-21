@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T17:33:03.000072+08:00",
-  "total_titles_processed": 1355,
+  "generated_at": "2026-07-21T18:31:58.637784+08:00",
+  "total_titles_processed": 1453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 136,
+      "match_count": 145,
       "titles": [
         {
           "title": "复仇者联盟5正式预告公布",
@@ -60,6 +60,18 @@
           "time_info": "[00时26分 ~ 07时59分]"
         },
         {
+          "title": "中国海警局发布菲律宾非法「坐滩」57 号舰蓄意挑衅的声明，并公布现场画面，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2062608470700975381",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时35分 ~ 18时31分]"
+        },
+        {
           "title": "重点整治毒动画、规范平台推荐行为等，中央网信办部署开展未成年人网络保护专项行动",
           "url": "https://m.thepaper.cn/newsDetail_forward_33619311",
           "source": "澎湃新闻",
@@ -83,23 +95,12 @@
             10,
             12,
             14,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 17时33分]"
-        },
-        {
-          "title": "中国海警局发布菲律宾非法「坐滩」57 号舰蓄意挑衅的声明，并公布现场画面，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2062608470700975381",
-          "source": "知乎",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时35分 ~ 17时33分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 18时31分]"
         },
         {
           "title": "超节点、超集群、TPU方案涌现 算力“拼系统”时代产业最关心Token性价比|WAIC观察",
@@ -114,6 +115,34 @@
           "time_info": "[11时35分 ~ 17时33分]"
         },
         {
+          "title": "中方人员在仁爱礁“袭击”菲方？现场视频还原真相",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33624136",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[04时27分 ~ 18时31分]"
+        },
+        {
+          "title": "1.5万元机票退票仅退432元：携程称系航司规定，航司客服称费用需与平台确认",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33623764",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时35分 ~ 18时31分]"
+        },
+        {
           "title": "复联5发预告,老面孔回归",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356356&amp;topic_name=%E5%A4%8D%E8%81%945%E5%8F%91%E9%A2%84%E5%91%8A%2C%E8%80%81%E9%9D%A2%E5%AD%94%E5%9B%9E%E5%BD%92",
           "source": "贴吧",
@@ -123,11 +152,12 @@
             14,
             16,
             18,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时55分 ~ 17时33分]"
+          "appearance_count": 11,
+          "time_info": "[02时55分 ~ 18时31分]"
         },
         {
           "title": "AI不准用,日本漫画家被迫停更",
@@ -141,11 +171,12 @@
             18,
             20,
             22,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 17时33分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 18时31分]"
         },
         {
           "title": "理财王大赛收官预告震撼上线",
@@ -164,6 +195,21 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时26分 ~ 14时32分]"
+        },
+        {
+          "title": "不妥协!旭旭宝宝硬刚黑粉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356357&amp;topic_name=%E4%B8%8D%E5%A6%A5%E5%8D%8F%21%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D%E7%A1%AC%E5%88%9A%E9%BB%91%E7%B2%89",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            3,
+            5,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时35分 ~ 18时31分]"
         },
         {
           "title": "【早报】美股光通信、存储板块全线走强，中概股多数上涨；油价上行、黄金微跌；三环集团、三花智控、东山精密等计划回购股份",
@@ -195,33 +241,16 @@
           "time_info": "[00时26分 ~ 14时32分]"
         },
         {
-          "title": "不妥协!旭旭宝宝硬刚黑粉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356357&amp;topic_name=%E4%B8%8D%E5%A6%A5%E5%8D%8F%21%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D%E7%A1%AC%E5%88%9A%E9%BB%91%E7%B2%89",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            3,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时35分 ~ 17时33分]"
-        },
-        {
-          "title": "中方人员在仁爱礁“袭击”菲方？现场视频还原真相",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33624136",
+          "title": "回购增持、业绩预喜、中期分红、险资长投！近百家沪市公司释放积极信号",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33624071",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            9,
-            8,
             7,
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时27分 ~ 17时33分]"
+          "appearance_count": 7,
+          "time_info": "[11时35分 ~ 18时31分]"
         },
         {
           "title": "月租4600元的酒店谁在住",
@@ -238,19 +267,6 @@
           "time_info": "[00时26分 ~ 07时59分]"
         },
         {
-          "title": "1.5万元机票退票仅退432元：携程称系航司规定，航司客服称费用需与平台确认",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33623764",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时35分 ~ 17时33分]"
-        },
-        {
           "title": "C罗点赞FIFA偏袒阿根廷",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356358&amp;topic_name=C%E7%BD%97%E7%82%B9%E8%B5%9EFIFA%E5%81%8F%E8%A2%92%E9%98%BF%E6%A0%B9%E5%BB%B7",
           "source": "贴吧",
@@ -258,23 +274,24 @@
             2,
             4,
             6,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时35分 ~ 17时33分]"
+          "appearance_count": 7,
+          "time_info": "[11时35分 ~ 18时31分]"
         },
         {
-          "title": "回购增持、业绩预喜、中期分红、险资长投！近百家沪市公司释放积极信号",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33624071",
-          "source": "澎湃新闻",
+          "title": "3567亿股票ETF逆市抄底创纪录，哪些力量在集中扫货？",
+          "url": "https://www.cls.cn/detail/2432534",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            5
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时35分 ~ 17时33分]"
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 18时31分]"
         },
         {
           "title": "NBA球星造访少林寺，体验中国功夫还获赠宝剑",
@@ -325,6 +342,17 @@
           "time_info": "[00时26分 ~ 07时59分]"
         },
         {
+          "title": "“全面战争”！伊朗总统最新发声",
+          "url": "https://news.ifeng.com/c/8uvsqi231GR",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时35分 ~ 18时31分]"
+        },
+        {
           "title": "中国国新、中国诚通深夜发声，增持中国股票资产，释放什么信号？",
           "url": "https://www.zhihu.com/question/2062331320521450737",
           "source": "知乎",
@@ -337,6 +365,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时26分 ~ 04时27分]"
+        },
+        {
+          "title": "历史性突破！全球同步研发创新药在中国首报首发",
+          "url": "https://www.cls.cn/detail/2432469",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 18时31分]"
         },
         {
           "title": "复联5新预告",
@@ -369,39 +409,6 @@
           "time_info": "[04时27分 ~ 15时36分]"
         },
         {
-          "title": "FIFA更新男足世界排名",
-          "url": "https://s.weibo.com/weibo?q=FIFA%E6%9B%B4%E6%96%B0%E7%94%B7%E8%B6%B3%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 17时33分]"
-        },
-        {
-          "title": "3567亿股票ETF逆市抄底创纪录，哪些力量在集中扫货？",
-          "url": "https://www.cls.cn/detail/2432534",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 17时33分]"
-        },
-        {
-          "title": "“全面战争”！伊朗总统最新发声",
-          "url": "https://news.ifeng.com/c/8uvsqi231GR",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时35分 ~ 17时33分]"
-        },
-        {
           "title": "上证指数早盘收报3819.66点，涨0.62%。 深证成指早盘收报14074.22点，涨3.41%。 创业板指早盘收报3622.27点，涨5.20%。 沪深300早盘收报4679.41点，涨1.76%。 科创50早盘收报1837.94点，涨6.94%。 中证500早盘收报7680.64点，涨3.63%。 中证1000早盘收报7175.01点，涨3.01%。",
           "url": "https://wallstreetcn.com/livenews/3137296",
           "source": "华尔街见闻-快讯",
@@ -426,15 +433,18 @@
           "time_info": "[11时35分 ~ 12时19分]"
         },
         {
-          "title": "历史性突破！全球同步研发创新药在中国首报首发",
-          "url": "https://www.cls.cn/detail/2432469",
-          "source": "财联社热门",
+          "title": "男子买彩票中了 692 万只告诉老伴没告诉儿子，称孩子还太小，不能让他因此躺平，如何看待这一做法？",
+          "url": "https://www.zhihu.com/question/2057487320488613098",
+          "source": "知乎",
           "ranks": [
-            5
+            6,
+            5,
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 17时33分]"
+          "appearance_count": 5,
+          "time_info": "[14时32分 ~ 18时31分]"
         },
         {
           "title": "创业板指涨超4%，半导体、玻璃玻纤、通信设备板块涨幅居前。",
@@ -459,6 +469,18 @@
           "time_info": "07时59分"
         },
         {
+          "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
+          "url": "https://wallstreetcn.com/articles/3777491",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时19分 ~ 18时31分]"
+        },
+        {
           "title": "FIFA更新男足世界排名",
           "url": "https://www.baidu.com/s?wd=FIFA%E6%9B%B4%E6%96%B0%E7%94%B7%E8%B6%B3%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D",
           "source": "百度热搜",
@@ -473,6 +495,18 @@
           "time_info": "[11时35分 ~ 17时33分]"
         },
         {
+          "title": "外卖员被3烈犬吓尖叫主人说不咬人",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%91%98%E8%A2%AB3%E7%83%88%E7%8A%AC%E5%90%93%E5%B0%96%E5%8F%AB%E4%B8%BB%E4%BA%BA%E8%AF%B4%E4%B8%8D%E5%92%AC%E4%BA%BA%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 18时31分]"
+        },
+        {
           "title": "复联5预告有哪些彩蛋细节",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E8%81%945%E9%A2%84%E5%91%8A%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BD%A9%E8%9B%8B%E7%BB%86%E8%8A%82",
           "source": "bilibili 热搜",
@@ -483,6 +517,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时19分 ~ 15时36分]"
+        },
+        {
+          "title": "半年度冠军基调仓曝光，一举成百亿基金经理，绩优大旗能否扛稳？",
+          "url": "https://www.cls.cn/detail/2432582",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 18时31分]"
         },
         {
           "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（7月21日）",
@@ -496,19 +542,6 @@
           "time_info": "07时59分"
         },
         {
-          "title": "男子买彩票中了 692 万只告诉老伴没告诉儿子，称孩子还太小，不能让他因此躺平，如何看待这一做法？",
-          "url": "https://www.zhihu.com/question/2057487320488613098",
-          "source": "知乎",
-          "ranks": [
-            6,
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时32分 ~ 17时33分]"
-        },
-        {
           "title": "国际金银仍可能维持窄幅波动 美元或保持强势| Live分析更新中",
           "url": "https://flash.jin10.com/detail/20260721153340914800",
           "source": "金十数据",
@@ -520,13 +553,38 @@
           "time_info": "15时36分"
         },
         {
+          "title": "FIFA更新男足世界排名",
+          "url": "https://s.weibo.com/weibo?q=FIFA%E6%9B%B4%E6%96%B0%E7%94%B7%E8%B6%B3%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 18时31分]"
+        },
+        {
+          "title": "AI的猴子为什么能让菲律宾“破防”",
+          "url": "https://www.toutiao.com/trending/7664683124179337279/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时36分 ~ 18时31分]"
+        },
+        {
           "title": "正泰电源：截至7月21日累计回购股份占比达1.07%",
           "url": "https://flash.jin10.com/detail/20260721171007439800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -540,30 +598,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
-        },
-        {
-          "title": "AI的猴子为什么能让菲律宾“破防”",
-          "url": "https://www.toutiao.com/trending/7664683124179337279/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时36分 ~ 17时33分]"
-        },
-        {
-          "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
-          "url": "https://wallstreetcn.com/articles/3777491",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时19分 ~ 17时33分]"
         },
         {
           "title": "沪指、创业板指收红，电力、煤炭板块走强，如何看待 2026 年 7 月 20 日 A 股市场行情？",
@@ -602,6 +636,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时55分 ~ 17时33分]"
+        },
+        {
+          "title": "阿哲回归秀老友欢聚",
+          "url": "https://www.douyin.com/hot/2578844",
+          "source": "抖音",
+          "ranks": [
+            25,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时19分 ~ 18时31分]"
         },
         {
           "title": "韩国博主在日本探店遇阴阳菜单，英文菜单标价远高于日文，这在日本是普遍现象吗？如何避免旅游时遇阴阳菜单？",
@@ -729,39 +776,51 @@
           "time_info": "[11时35分 ~ 15时36分]"
         },
         {
-          "title": "阿哲回归秀老友欢聚",
-          "url": "https://www.douyin.com/hot/2578844",
-          "source": "抖音",
-          "ranks": [
-            25,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时19分 ~ 17时33分]"
-        },
-        {
-          "title": "外卖员被3烈犬吓尖叫主人说不咬人",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%91%98%E8%A2%AB3%E7%83%88%E7%8A%AC%E5%90%93%E5%B0%96%E5%8F%AB%E4%B8%BB%E4%BA%BA%E8%AF%B4%E4%B8%8D%E5%92%AC%E4%BA%BA%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 17时33分]"
-        },
-        {
-          "title": "半年度冠军基调仓曝光，一举成百亿基金经理，绩优大旗能否扛稳？",
-          "url": "https://www.cls.cn/detail/2432582",
+          "title": "【每日收评】创业板指探底回升涨超7%，半导体芯片、算力硬件等科技赛道卷土重来",
+          "url": "https://www.cls.cn/detail/2432689",
           "source": "财联社热门",
           "ranks": [
-            6
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 17时33分]"
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 18时31分]"
+        },
+        {
+          "title": "33岁外卖员脑梗倒地多日才被发现",
+          "url": "https://www.toutiao.com/trending/7664782504877768745/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 18时31分]"
+        },
+        {
+          "title": "AI都扛不住反复焦虑的人",
+          "url": "https://s.weibo.com/weibo?q=AI%E9%83%BD%E6%89%9B%E4%B8%8D%E4%BD%8F%E5%8F%8D%E5%A4%8D%E7%84%A6%E8%99%91%E7%9A%84%E4%BA%BA&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 18时31分]"
+        },
+        {
+          "title": "成吉思鸡小哥致谢中国粉丝",
+          "url": "https://www.douyin.com/hot/2579641",
+          "source": "抖音",
+          "ranks": [
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 18时31分]"
         },
         {
           "title": "高盛称对冲基金以创纪录的速度抛售美国科技股，一些投降迹象也开始出现",
@@ -774,6 +833,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时55分 ~ 04时27分]"
+        },
+        {
+          "title": "嘉实基金王贵重：AI产业链仍然存在持续的投资机会",
+          "url": "https://wallstreetcn.com/livenews/3137480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时31分]"
         },
         {
           "title": "周一（7月20日），美联储隔夜逆回购协议（RRP）使用规模为0.3亿美元（交易对手6家），上个交易日报1亿美元。",
@@ -823,15 +894,16 @@
           "time_info": "[02时11分 ~ 02时55分]"
         },
         {
-          "title": "【每日收评】创业板指探底回升涨超7%，半导体芯片、算力硬件等科技赛道卷土重来",
-          "url": "https://www.cls.cn/detail/2432689",
-          "source": "财联社热门",
+          "title": "三孚新科：控股股东提议以2000万元-3000万元回购股份。",
+          "url": "https://wallstreetcn.com/livenews/3137476",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            10,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时32分 ~ 17时33分]"
+          "time_info": "[17时33分 ~ 18时31分]"
         },
         {
           "title": "美股资金大轮动开启！高盛：AI之外，关注三大替代投资主题",
@@ -892,17 +964,6 @@
           "time_info": "[17时32分 ~ 17时33分]"
         },
         {
-          "title": "33岁外卖员脑梗倒地多日才被发现",
-          "url": "https://www.toutiao.com/trending/7664782504877768745/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 17时33分]"
-        },
-        {
           "title": "美联储在固定利率逆回购操作中总计接纳了6个对手方的3000万美元。",
           "url": "https://flash.jin10.com/detail/20260721011855824800",
           "source": "金十数据",
@@ -927,17 +988,6 @@
           "time_info": "[11时35分 ~ 12时19分]"
         },
         {
-          "title": "AI都扛不住反复焦虑的人",
-          "url": "https://s.weibo.com/weibo?q=AI%E9%83%BD%E6%89%9B%E4%B8%8D%E4%BD%8F%E5%8F%8D%E5%A4%8D%E7%84%A6%E8%99%91%E7%9A%84%E4%BA%BA&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 17时33分]"
-        },
-        {
           "title": "C罗点赞FIFA想把世界杯送给阿根廷",
           "url": "https://www.toutiao.com/trending/7663792601795149867/",
           "source": "今日头条",
@@ -948,17 +998,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时32分 ~ 15时36分]"
-        },
-        {
-          "title": "成吉思鸡小哥致谢中国粉丝",
-          "url": "https://www.douyin.com/hot/2579641",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 17时33分]"
         },
         {
           "title": "国产大飞机凭什么绕开欧美适航认证",
@@ -1041,17 +1080,6 @@
           "time_info": "14时32分"
         },
         {
-          "title": "嘉实基金王贵重：AI产业链仍然存在持续的投资机会",
-          "url": "https://wallstreetcn.com/livenews/3137480",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
           "title": "运舟资本宣布1500万元自购旗下私募基金产品",
           "url": "https://wallstreetcn.com/livenews/3137363",
           "source": "华尔街见闻-快讯",
@@ -1072,6 +1100,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "网信办：深化互联网协议第六版（IPv6）技术创新和融合应用实施方案（2026—2030年）",
+          "url": "https://wallstreetcn.com/livenews/3137515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "1.5万元机票退票仅退432元",
@@ -1113,7 +1152,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -1138,17 +1177,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
-        },
-        {
-          "title": "三孚新科：控股股东提议以2000万元-3000万元回购股份。",
-          "url": "https://wallstreetcn.com/livenews/3137476",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
         },
         {
           "title": "上证指数收报3864.37点，涨1.79%。 深证成指收报14264.29点，涨4.81%。 创业板指收报3685.97点，涨7.05%。 沪深300收报4739.23点，涨3.06%。 科创50收报1903.16点，涨10.73%。 中证500收报7800.61点，涨5.25%。 中证1000收报7259.86点，涨4.23%。",
@@ -1179,7 +1207,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -1201,7 +1229,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -1305,6 +1333,17 @@
           "time_info": "07时59分"
         },
         {
+          "title": "高能环境：公司拟以1亿元~2亿元回购股份，用于维护公司市场价值及股东权益。回购价格不超过24元/股。",
+          "url": "https://flash.jin10.com/detail/20260721174830110800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "历史首次，私募证券投资基金规模突破8万亿元",
           "url": "https://wallstreetcn.com/livenews/3137398",
           "source": "华尔街见闻-快讯",
@@ -1314,6 +1353,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
+        },
+        {
+          "title": "阳光电源：董事长提议以5亿元-10亿元回购股份。",
+          "url": "https://wallstreetcn.com/livenews/3137492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "创业板指涨超7%，半导体产业链全线走强，存储芯片、CPO、光刻机等概念涨幅居前。",
@@ -1333,7 +1383,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -1437,6 +1487,17 @@
           "time_info": "15时36分"
         },
         {
+          "title": "3567亿股票ETF逆市抄底创纪录",
+          "url": "https://www.baidu.com/s?wd=3567%E4%BA%BF%E8%82%A1%E7%A5%A8ETF%E9%80%86%E5%B8%82%E6%8A%84%E5%BA%95%E5%88%9B%E7%BA%AA%E5%BD%95",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "英国财政大臣Reeves（已经宣布辞职）曾获得政府另外一份工作，但被她拒绝了。（英国天空新闻）",
           "url": "https://wallstreetcn.com/livenews/3136997",
           "source": "华尔街见闻-快讯",
@@ -1487,9 +1548,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
+        },
+        {
+          "title": "工信部点赞比亚迪打破技术瓶颈",
+          "url": "https://www.toutiao.com/trending/7664430049763983401/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "我国将安排220亿元支持老旧营运货车报废更新",
@@ -1509,9 +1581,42 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
+        },
+        {
+          "title": "据上交所官网，中电防务科技股份有限公司科创板IPO审核状态变更为“已问询”。",
+          "url": "https://flash.jin10.com/detail/20260721174458215800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "女方因给异性点赞遭男友烟头烫胸",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%96%B9%E5%9B%A0%E7%BB%99%E5%BC%82%E6%80%A7%E7%82%B9%E8%B5%9E%E9%81%AD%E7%94%B7%E5%8F%8B%E7%83%9F%E5%A4%B4%E7%83%AB%E8%83%B8%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "据上交所官网，浙江金连接科技股份有限公司科创板IPO审核状态变更为“已问询”。",
+          "url": "https://flash.jin10.com/detail/20260721174448896800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "创业板指涨超5%，半导体设备、MLCC、存储芯片、先进封装、PCB等板块大涨；成分股中，国瓷材料20cm涨停，长川科技等近10股涨超10%。",
@@ -1531,7 +1636,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -1542,7 +1647,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -1564,7 +1669,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -1622,6 +1727,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "网友买甜品被店员嘲讽45元还用团购",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E4%B9%B0%E7%94%9C%E5%93%81%E8%A2%AB%E5%BA%97%E5%91%98%E5%98%B2%E8%AE%BD45%E5%85%83%E8%BF%98%E7%94%A8%E5%9B%A2%E8%B4%AD",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         }
       ]
     }
