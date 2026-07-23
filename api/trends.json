@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T14:08:44.283681+08:00",
-  "total_titles_processed": 1200,
+  "generated_at": "2026-07-23T15:37:43.969793+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 104,
+      "match_count": 112,
       "titles": [
         {
           "title": "A股又一波增持回购潮来了，存储龙头拟最高回购2.5亿元",
@@ -40,11 +40,12 @@
             3,
             2,
             5,
-            30
+            30,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 12时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 15时37分]"
         },
         {
           "title": "主动权益基金又逼近4万亿，大举超车的基金公司都凭“爆款”",
@@ -102,8 +103,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 14时08分]"
+          "appearance_count": 15,
+          "time_info": "[00时25分 ~ 15时37分]"
+        },
+        {
+          "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
+          "url": "https://www.cls.cn/detail/2434518",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时06分 ~ 15时37分]"
         },
         {
           "title": "掉粉100w,旭宝自嘲鸡毛哥",
@@ -113,11 +125,12 @@
             4,
             8,
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 14时08分]"
+          "appearance_count": 15,
+          "time_info": "[00时25分 ~ 15时37分]"
         },
         {
           "title": "杜绝运动员“网红”化",
@@ -128,11 +141,12 @@
             6,
             25,
             26,
-            30
+            30,
+            20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 14时08分]"
+          "appearance_count": 15,
+          "time_info": "[00时25分 ~ 15时37分]"
         },
         {
           "title": "用AI通关高难度跑步游戏",
@@ -143,11 +157,12 @@
             5,
             21,
             22,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 14时08分]"
+          "appearance_count": 15,
+          "time_info": "[00时25分 ~ 15时37分]"
         },
         {
           "title": "又一家存储龙头提议回购 股份用于注销减少注册资本",
@@ -177,17 +192,6 @@
           "time_info": "[00时25分 ~ 14时08分]"
         },
         {
-          "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
-          "url": "https://www.cls.cn/detail/2434518",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时06分 ~ 14时08分]"
-        },
-        {
           "title": "中菲在仁爱礁爆发冲突幕后黑手是谁",
           "url": "https://www.toutiao.com/trending/7664779782164955190/",
           "source": "今日头条",
@@ -211,11 +215,12 @@
             8,
             12,
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 14时08分]"
+          "appearance_count": 15,
+          "time_info": "[00时25分 ~ 15时37分]"
         },
         {
           "title": "小红书回应IPO传闻：相关信息均不属实",
@@ -241,11 +246,12 @@
             18,
             23,
             24,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 14时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 15时37分]"
         },
         {
           "title": "网红狗被宰杀,身价才2千",
@@ -260,6 +266,23 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时25分 ~ 14时08分]"
+        },
+        {
+          "title": "星铁吉尔伽美什测评",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%9F%E9%93%81%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80%E6%B5%8B%E8%AF%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            29,
+            27,
+            23,
+            26,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 15时37分]"
         },
         {
           "title": "风月加入NIP,TES挥泪告别",
@@ -295,20 +318,16 @@
           "time_info": "[00时25分 ~ 07时08分]"
         },
         {
-          "title": "星铁吉尔伽美什测评",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%9F%E9%93%81%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80%E6%B5%8B%E8%AF%84",
-          "source": "bilibili 热搜",
+          "title": "小红书被曝正主动联系相关老员工，愿补发期权换签署相关条款，真实性多大？若能达成一致，能顺利 IPO 吗？",
+          "url": "https://www.zhihu.com/question/2063292318887539352",
+          "source": "知乎",
           "ranks": [
-            28,
-            29,
-            27,
-            23,
-            26,
-            25
+            8,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 14时08分]"
+          "appearance_count": 6,
+          "time_info": "[08时06分 ~ 15时37分]"
         },
         {
           "title": "C罗世界杯期间涨粉超千万",
@@ -342,16 +361,20 @@
           "time_info": "[02时13分 ~ 08时06分]"
         },
         {
-          "title": "小红书被曝正主动联系相关老员工，愿补发期权换签署相关条款，真实性多大？若能达成一致，能顺利 IPO 吗？",
-          "url": "https://www.zhihu.com/question/2063292318887539352",
-          "source": "知乎",
+          "title": "1.5万元机票退票仅退432元续：平台以小字标注退改签规则，律师称涉嫌侵害知情权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33635614",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            1
+            18,
+            17,
+            11,
+            12,
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时06分 ~ 14时08分]"
+          "appearance_count": 7,
+          "time_info": "[07时08分 ~ 15时37分]"
         },
         {
           "title": "BLG首发上单",
@@ -392,30 +415,43 @@
           "time_info": "[01时24分 ~ 12时20分]"
         },
         {
+          "title": "G2官推发文祝福Bin早日回归",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356426&amp;topic_name=G2%E5%AE%98%E6%8E%A8%E5%8F%91%E6%96%87%E7%A5%9D%E7%A6%8FBin%E6%97%A9%E6%97%A5%E5%9B%9E%E5%BD%92",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            8,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时58分 ~ 15时37分]"
+        },
+        {
           "title": "马斯克：Grok 4.5虽然不如Fable那么出色，但它速度非常快、性价比高，而且能完成任务。",
           "url": "https://wallstreetcn.com/livenews/3138639",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
         {
-          "title": "1.5万元机票退票仅退432元续：平台以小字标注退改签规则，律师称涉嫌侵害知情权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33635614",
-          "source": "澎湃新闻",
+          "title": "携程黑钻会员吐槽 1.5 万元机票仅退 432 元，称没想到扣那么狠，这种退票政策合理吗？",
+          "url": "https://www.zhihu.com/question/2062858376510451826",
+          "source": "知乎",
           "ranks": [
-            18,
-            17,
-            11,
             12,
-            10
+            11,
+            16,
+            13
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时08分 ~ 14时08分]"
+          "time_info": "[08时06分 ~ 15时37分]"
         },
         {
           "title": "这项全国性学生设计赛判定16件作品存在抄袭等问题，已作出降等、撤销奖项处理",
@@ -429,39 +465,15 @@
           "time_info": "00时25分"
         },
         {
-          "title": "理财王大赛S2结果公布",
-          "url": "https://search.bilibili.com/all?keyword=%E7%90%86%E8%B4%A2%E7%8E%8B%E5%A4%A7%E8%B5%9BS2%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
           "title": "青岛芯聚产业投资基金登记成立，出资额5.01亿",
           "url": "https://wallstreetcn.com/livenews/3138636",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
-        },
-        {
-          "title": "G2官推发文祝福Bin早日回归",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356426&amp;topic_name=G2%E5%AE%98%E6%8E%A8%E5%8F%91%E6%96%87%E7%A5%9D%E7%A6%8FBin%E6%97%A9%E6%97%A5%E5%9B%9E%E5%BD%92",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时58分 ~ 14时08分]"
         },
         {
           "title": "阿拉斯加航空高管：我们认为波音(BA.N)MAX10将很快获得认证。",
@@ -539,17 +551,43 @@
           "time_info": "[01时24分 ~ 07时08分]"
         },
         {
-          "title": "携程黑钻会员吐槽 1.5 万元机票仅退 432 元，称没想到扣那么狠，这种退票政策合理吗？",
-          "url": "https://www.zhihu.com/question/2062858376510451826",
-          "source": "知乎",
+          "title": "马上测•兼职②｜做兼职实名办电话卡有报酬？律师：极易被用于电诈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33620647",
+          "source": "澎湃新闻",
           "ranks": [
-            12,
-            11,
-            16
+            15,
+            16,
+            14,
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[08时06分 ~ 14时08分]"
+          "time_info": "[10时58分 ~ 15时37分]"
+        },
+        {
+          "title": "Breathe顶替Flandre首发",
+          "url": "https://search.bilibili.com/all?keyword=Breathe%E9%A1%B6%E6%9B%BFFlandre%E9%A6%96%E5%8F%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 15时37分]"
+        },
+        {
+          "title": "理财王大赛S2结果公布",
+          "url": "https://search.bilibili.com/all?keyword=%E7%90%86%E8%B4%A2%E7%8E%8B%E5%A4%A7%E8%B5%9BS2%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时08分 ~ 15时37分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了2个对手方的3.76亿美元。",
@@ -574,18 +612,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时59分 ~ 12时20分]"
-        },
-        {
-          "title": "Breathe顶替Flandre首发",
-          "url": "https://search.bilibili.com/all?keyword=Breathe%E9%A1%B6%E6%9B%BFFlandre%E9%A6%96%E5%8F%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 14时08分]"
         },
         {
           "title": "据The Information：支付平台Stripe 2025年自由现金流增长52%，达到32亿美元。Stripe在2026年第一季度实现营收20亿美元。",
@@ -623,17 +649,17 @@
           "time_info": "[00时25分 ~ 03时26分]"
         },
         {
-          "title": "马上测•兼职②｜做兼职实名办电话卡有报酬？律师：极易被用于电诈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33620647",
-          "source": "澎湃新闻",
+          "title": "异环伊洛伊综合测评",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BC%82%E7%8E%AF%E4%BC%8A%E6%B4%9B%E4%BC%8A%E7%BB%BC%E5%90%88%E6%B5%8B%E8%AF%84",
+          "source": "bilibili 热搜",
           "ranks": [
-            15,
-            16,
-            14
+            17,
+            20,
+            25
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时58分 ~ 14时08分]"
+          "time_info": "[10时58分 ~ 15时37分]"
         },
         {
           "title": "鹿晗给粉丝评论",
@@ -648,16 +674,16 @@
           "time_info": "[10时58分 ~ 12时20分]"
         },
         {
-          "title": "异环伊洛伊综合测评",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BC%82%E7%8E%AF%E4%BC%8A%E6%B4%9B%E4%BC%8A%E7%BB%BC%E5%90%88%E6%B5%8B%E8%AF%84",
-          "source": "bilibili 热搜",
+          "title": "一人唱一个字挑战",
+          "url": "https://www.douyin.com/hot/2581678",
+          "source": "抖音",
           "ranks": [
-            17,
-            20
+            20,
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时58分 ~ 12时20分]"
+          "time_info": "[12时20分 ~ 15时37分]"
         },
         {
           "title": "“防守一波”还是“放手一搏”，基金经理积极把握布局节奏",
@@ -743,6 +769,18 @@
           "time_info": "[02时13分 ~ 03时26分]"
         },
         {
+          "title": "苹果拟推出设备租赁计划，iPhone 可租用 24 个月，月付租机的模式可行吗？你会考虑租苹果设备吗？",
+          "url": "https://www.zhihu.com/question/2063258715155686223",
+          "source": "知乎",
+          "ranks": [
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时08分 ~ 15时37分]"
+        },
+        {
           "title": "摩根士丹利从SpaceX IPO中获1亿美元，但这仅仅是开始",
           "url": "https://wallstreetcn.com/livenews/3138328",
           "source": "华尔街见闻-快讯",
@@ -753,6 +791,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时24分 ~ 02时13分]"
+        },
+        {
+          "title": "女子买理财7万多本金1天亏157元",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E7%90%86%E8%B4%A27%E4%B8%87%E5%A4%9A%E6%9C%AC%E9%87%911%E5%A4%A9%E4%BA%8F157%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时08分 ~ 15时37分]"
         },
         {
           "title": "2026年《财富》中国500强排行榜：国家电网、中石油和中石化位列前三",
@@ -767,16 +817,16 @@
           "time_info": "[00时25分 ~ 01时24分]"
         },
         {
-          "title": "一人唱一个字挑战",
-          "url": "https://www.douyin.com/hot/2581678",
-          "source": "抖音",
+          "title": "台风“红霞”最新路径",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E2%80%9C%E7%BA%A2%E9%9C%9E%E2%80%9D%E6%9C%80%E6%96%B0%E8%B7%AF%E5%BE%84",
+          "source": "百度热搜",
           "ranks": [
             20,
-            18
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时20分 ~ 14时08分]"
+          "time_info": "[14时08分 ~ 15时37分]"
         },
         {
           "title": "中国足协辟谣“女足主教练米利西奇辞职”",
@@ -907,7 +957,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -934,6 +984,17 @@
           "time_info": "12时20分"
         },
         {
+          "title": "挂单报告：国际现货黄金关注多单押注 欧美上方空单密布",
+          "url": "https://flash.jin10.com/detail/20260723150828390800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
           "title": "美股大类资产类ETF多数收跌，小盘股指ETF跌超0.9%，大豆、黄金、布油基金涨超1%",
           "url": "https://wallstreetcn.com/livenews/3138406",
           "source": "华尔街见闻-快讯",
@@ -943,17 +1004,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
-        },
-        {
-          "title": "女子买理财7万多本金1天亏157元",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E7%90%86%E8%B4%A27%E4%B8%87%E5%A4%9A%E6%9C%AC%E9%87%911%E5%A4%A9%E4%BA%8F157%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时08分"
         },
         {
           "title": "SpaceX(SPCX.O)：猎鹰重型助推器已完成额外的发射前测试。目前已开始准备最早于当地时间7月23日（周四）发射星舰。目前天气状况仍是影响发射的重要关注因素。",
@@ -973,9 +1023,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
+        },
+        {
+          "title": "上证指数收报3876.78点，涨0.25%。 深证成指收报14123.31点，涨0.44%。 创业板指收报3575.52点，涨0.25%。 沪深300收报4728.00点，涨0.23%。 科创50收报1789.69点，跌3.78%。 中证500收报7734.31点，跌0.22%。 中证1000收报7195.50点，涨0.51%。",
+          "url": "https://wallstreetcn.com/livenews/3138679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         },
         {
           "title": "深成指、创业板指均涨超1%，沪指涨0.12%，锂矿、算力硬件、智能电网、油气等方向涨幅居前，沪深京三市上涨个股超3500只。",
@@ -1000,6 +1061,17 @@
           "time_info": "12时20分"
         },
         {
+          "title": "英特尔财报在即 市场关注AI芯片需求、裁员及与苹果的潜在合作",
+          "url": "https://flash.jin10.com/detail/20260723150653718800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
           "title": "高温干旱致多瑙河水位走低，匈牙利航运和旅游业遭遇挑战",
           "url": "https://wallstreetcn.com/livenews/3138376",
           "source": "华尔街见闻-快讯",
@@ -1017,7 +1089,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -1033,15 +1105,15 @@
           "time_info": "00时25分"
         },
         {
-          "title": "苹果拟推出设备租赁计划，iPhone 可租用 24 个月，月付租机的模式可行吗？你会考虑租苹果设备吗？",
-          "url": "https://www.zhihu.com/question/2063258715155686223",
-          "source": "知乎",
+          "title": "意法半导体在米兰上市的股票开始交易，跌幅14%。",
+          "url": "https://flash.jin10.com/detail/20260723150617379800",
+          "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时08分"
+          "time_info": "15时37分"
         },
         {
           "title": "体验毕业考核打导弹",
@@ -1050,9 +1122,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
+        },
+        {
+          "title": "异环伊洛伊攻略",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BC%82%E7%8E%AF%E4%BC%8A%E6%B4%9B%E4%BC%8A%E6%94%BB%E7%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         },
         {
           "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（7月23日）",
@@ -1064,17 +1147,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
-        },
-        {
-          "title": "台风“红霞”最新路径",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E2%80%9C%E7%BA%A2%E9%9C%9E%E2%80%9D%E6%9C%80%E6%96%B0%E8%B7%AF%E5%BE%84",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时08分"
         },
         {
           "title": "创业板指涨超1%。",
@@ -1108,6 +1180,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "中国上证综指7月23日（周四）收盘上涨9.74点，涨幅：0.25%，报3876.78点；<br/>中国深证成指7月23日（周四）收盘上涨61.87点，涨幅：0.44%，报14123.31点；<br/>中国沪深300指数7月23日（周四）收盘上涨10.76点，涨幅：0.23%，报4728.0点；<br/>中国创业板指数7月23日（周四）收盘上涨8.79点，涨幅：0.25%，报3575.52点；<br/>中国科创50指数7月23日（周四）收盘下跌70.39点，跌幅：3.78%，报1789.69点。",
+          "url": "https://flash.jin10.com/detail/20260723150218478800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         },
         {
           "title": "多家外资机构发声看好A股市场看多中国股票",
@@ -1171,7 +1254,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -1204,7 +1287,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -1242,6 +1325,17 @@
           "time_info": "05时13分"
         },
         {
+          "title": "纳尼亚的羔羊翻唱挑战",
+          "url": "https://www.douyin.com/hot/2581875",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
           "title": "同款鞋耐克官方店比经销商贵400元",
           "url": "https://www.baidu.com/s?wd=%E5%90%8C%E6%AC%BE%E9%9E%8B%E8%80%90%E5%85%8B%E5%AE%98%E6%96%B9%E5%BA%97%E6%AF%94%E7%BB%8F%E9%94%80%E5%95%86%E8%B4%B5400%E5%85%83",
           "source": "百度热搜",
@@ -1251,6 +1345,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "人民日报点赞13岁河南卖瓜男孩",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E7%82%B9%E8%B5%9E13%E5%B2%81%E6%B2%B3%E5%8D%97%E5%8D%96%E7%93%9C%E7%94%B7%E5%AD%A9",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         },
         {
           "title": "女子买理财7万多本金一天亏157元",
