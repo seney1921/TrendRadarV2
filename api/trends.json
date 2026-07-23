@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T01:37:14.379393+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2026-07-24T02:16:32.338078+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "如何看待旭旭宝宝展示水军「复制粘贴式同款黑文案」，硬刚黑粉报警且「每条有效水军证据悬赏 10 万元」？",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时16分]"
         },
         {
           "title": "耐克将清退数千家网络经销商，同款鞋官旗比经销商贵 400，为啥价差这么大？以后还能买到便宜的耐克吗？",
@@ -28,30 +28,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时16分]"
         },
         {
           "title": "周四（7月23日），美联储隔夜逆回购协议（RRP）使用规模为9.04亿美元（交易对手6家），上个交易日报3.76亿美元。",
           "url": "https://wallstreetcn.com/livenews/3139015",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 02时16分]"
         },
         {
-          "title": "美联储在固定利率逆回购操作中总计接纳了6个对手方的9.04亿美元。",
-          "url": "https://flash.jin10.com/detail/20260724011652107800",
-          "source": "金十数据",
+          "title": "过度分享其实也是一种打扰",
+          "url": "https://s.weibo.com/weibo?q=%E8%BF%87%E5%BA%A6%E5%88%86%E4%BA%AB%E5%85%B6%E5%AE%9E%E4%B9%9F%E6%98%AF%E4%B8%80%E7%A7%8D%E6%89%93%E6%89%B0&t=31&band_rank=12&Refer=top",
+          "source": "微博",
           "ranks": [
-            3
+            12,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时37分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时36分 ~ 02时16分]"
         },
         {
           "title": "马上测•兼职②｜做兼职实名办电话卡有报酬？律师：极易被用于电诈",
@@ -61,8 +63,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时16分]"
         },
         {
           "title": "圣枪要价太高,袁玺转投备胎NIP",
@@ -72,8 +74,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时16分]"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了6个对手方的9.04亿美元。",
+          "url": "https://flash.jin10.com/detail/20260724011652107800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 02时16分]"
         },
         {
           "title": "论文疑遭蒋方舟抄袭，台湾原作者回应：学术共同体必须建立在诚信之上",
@@ -83,8 +97,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时16分]"
         },
         {
           "title": "江西龙南市一工厂试用期工资1块钱1小时？劳动监察部门赴涉事工厂了解情况",
@@ -94,8 +108,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时16分]"
         },
         {
           "title": "别让贫困生喝咖啡争议撕裂舆论",
@@ -106,8 +120,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时16分]"
         },
         {
           "title": "小红书被曝正主动联系相关老员工，愿补发期权换签署相关条款，真实性多大？若能达成一致，能顺利 IPO 吗？",
@@ -117,8 +131,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时16分]"
         },
         {
           "title": "足协辟谣米利西奇辞职",
@@ -126,11 +140,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             19,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时16分]"
         },
         {
           "title": "很多人为减脂选择吃全麦面包作为碳水摄入，专家却称全麦面包热量往往高于白面包，真是这样吗？",
@@ -140,8 +155,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时16分]"
         },
         {
           "title": "理财王大赛S2结果公布",
@@ -149,11 +164,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             18,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时16分]"
         },
         {
           "title": "呼吸哥换圣枪,爱笑破防解散群",
@@ -163,8 +179,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时16分]"
         },
         {
           "title": "2男子频繁入住电竞酒店只为偷内存条",
@@ -175,8 +191,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时16分]"
         },
         {
           "title": "G2官推发文祝福Bin早日回归",
@@ -186,8 +202,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时16分]"
         },
         {
           "title": "掉粉100w,旭宝自嘲鸡毛哥",
@@ -197,41 +213,44 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时37分]"
-        },
-        {
-          "title": "过度分享其实也是一种打扰",
-          "url": "https://s.weibo.com/weibo?q=%E8%BF%87%E5%BA%A6%E5%88%86%E4%BA%AB%E5%85%B6%E5%AE%9E%E4%B9%9F%E6%98%AF%E4%B8%80%E7%A7%8D%E6%89%93%E6%89%B0&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时36分 ~ 01时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 02时16分]"
         },
         {
           "title": "男子因门诊排队掌掴拳打医生，获刑 11 个月，这反映出当前医患关系面临哪些挑战？",
           "url": "https://www.zhihu.com/question/2062565758266242024",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时36分 ~ 01时37分]"
+          "appearance_count": 3,
+          "time_info": "[01时36分 ~ 02时16分]"
         },
         {
           "title": "王者荣耀7.23正式服更新",
           "url": "https://www.douyin.com/hot/2581895",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时36分 ~ 02时16分]"
+        },
+        {
+          "title": "德国两年期国债收益率在欧洲央行决议日涨超4个基点，投资者关注国际油价涨势",
+          "url": "https://wallstreetcn.com/livenews/3138998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时36分 ~ 01时37分]"
+          "time_info": "[01时37分 ~ 02时16分]"
         },
         {
           "title": "纳尼亚的羔羊翻唱挑战",
@@ -273,20 +292,42 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
         },
         {
-          "title": "德国两年期国债收益率在欧洲央行决议日涨超4个基点，投资者关注国际油价涨势",
-          "url": "https://wallstreetcn.com/livenews/3138998",
+          "title": "美国财政部拍卖210亿美元10年期通胀保值国债（TIPS），得标利率2.438%——创2008年以来新高（5月21日为2.169%），投标倍数2.30（前次2.52）。",
+          "url": "https://wallstreetcn.com/livenews/3139009",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时37分"
+          "time_info": "02时16分"
+        },
+        {
+          "title": "异环伊洛伊综合测评",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BC%82%E7%8E%AF%E4%BC%8A%E6%B4%9B%E4%BC%8A%E7%BB%BC%E5%90%88%E6%B5%8B%E8%AF%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "一人唱一个字挑战",
+          "url": "https://www.douyin.com/hot/2581678",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时16分"
         }
       ]
     }
