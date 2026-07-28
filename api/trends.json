@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T19:22:19.269380+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2026-07-28T22:14:26.414253+08:00",
+  "total_titles_processed": 1491,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 128,
+      "match_count": 148,
       "titles": [
         {
           "title": "长鑫科技上市首日暴涨465%，成交破1400亿！创业板大涨3%，算力硬件午后拉升，恒科指涨逾1%，小米大涨超7%",
@@ -73,6 +73,20 @@
           "time_info": "[13时50分 ~ 16时57分]"
         },
         {
+          "title": "央媒调查：机票超售与高额退票费，是否触碰公平消费底线？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33669459",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时45分 ~ 22时14分]"
+        },
+        {
           "title": "闹剧结束!Bin哥回归BLG",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356536&amp;topic_name=%E9%97%B9%E5%89%A7%E7%BB%93%E6%9D%9F%21Bin%E5%93%A5%E5%9B%9E%E5%BD%92BLG",
           "source": "贴吧",
@@ -81,11 +95,12 @@
             7,
             12,
             18,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时46分 ~ 19时22分]"
+          "appearance_count": 17,
+          "time_info": "[01时46分 ~ 22时14分]"
         },
         {
           "title": "极客湾测续航,安卓机被打脸",
@@ -96,11 +111,12 @@
             11,
             16,
             22,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时46分 ~ 19时22分]"
+          "appearance_count": 17,
+          "time_info": "[01时46分 ~ 22时14分]"
         },
         {
           "title": "腾讯319亿企鹅岛基建疑翻车",
@@ -111,11 +127,12 @@
             12,
             17,
             23,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时46分 ~ 19时22分]"
+          "appearance_count": 17,
+          "time_info": "[01时46分 ~ 22时14分]"
         },
         {
           "title": "UP主挑战一天打五份工",
@@ -130,6 +147,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时46分 ~ 13时54分]"
+        },
+        {
+          "title": "GMM员工锁喉抱摔女粉丝",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356570&amp;topic_name=GMM%E5%91%98%E5%B7%A5%E9%94%81%E5%96%89%E6%8A%B1%E6%91%94%E5%A5%B3%E7%B2%89%E4%B8%9D",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时39分 ~ 22时14分]"
         },
         {
           "title": "“全款买房”的人在变多",
@@ -156,6 +185,31 @@
           "time_info": "[01时46分 ~ 07时07分]"
         },
         {
+          "title": "桶装水救队友遭键盘侠质疑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356561&amp;topic_name=%E6%A1%B6%E8%A3%85%E6%B0%B4%E6%95%91%E9%98%9F%E5%8F%8B%E9%81%AD%E9%94%AE%E7%9B%98%E4%BE%A0%E8%B4%A8%E7%96%91",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            8,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时50分 ~ 22时14分]"
+        },
+        {
+          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
+          "url": "https://wallstreetcn.com/articles/3778088",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时39分 ~ 22时14分]"
+        },
+        {
           "title": "网红景区10人遇难 3次预警为何失效",
           "url": "https://www.toutiao.com/trending/7667355494197235209/",
           "source": "今日头条",
@@ -170,19 +224,6 @@
           "time_info": "[10时45分 ~ 16时57分]"
         },
         {
-          "title": "央媒调查：机票超售与高额退票费，是否触碰公平消费底线？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33669459",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时45分 ~ 19时22分]"
-        },
-        {
           "title": "余霜大方晒孕照,吧友看尴尬",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356522&amp;topic_name=%E4%BD%99%E9%9C%9C%E5%A4%A7%E6%96%B9%E6%99%92%E5%AD%95%E7%85%A7%2C%E5%90%A7%E5%8F%8B%E7%9C%8B%E5%B0%B4%E5%B0%AC",
           "source": "贴吧",
@@ -192,43 +233,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时46分 ~ 10时55分]"
-        },
-        {
-          "title": "GMM员工锁喉抱摔女粉丝",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356570&amp;topic_name=GMM%E5%91%98%E5%B7%A5%E9%94%81%E5%96%89%E6%8A%B1%E6%91%94%E5%A5%B3%E7%B2%89%E4%B8%9D",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时39分 ~ 19时22分]"
-        },
-        {
-          "title": "桶装水救队友遭键盘侠质疑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356561&amp;topic_name=%E6%A1%B6%E8%A3%85%E6%B0%B4%E6%95%91%E9%98%9F%E5%8F%8B%E9%81%AD%E9%94%AE%E7%9B%98%E4%BE%A0%E8%B4%A8%E7%96%91",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时50分 ~ 19时22分]"
-        },
-        {
-          "title": "足球解说怼Bin没保姆不行",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356566&amp;topic_name=%E8%B6%B3%E7%90%83%E8%A7%A3%E8%AF%B4%E6%80%BCBin%E6%B2%A1%E4%BF%9D%E5%A7%86%E4%B8%8D%E8%A1%8C",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时39分 ~ 19时22分]"
         },
         {
           "title": "我国启动人工智能大模型IPv6能力提升专项行动",
@@ -243,15 +247,30 @@
           "time_info": "[16时39分 ~ 19时22分]"
         },
         {
-          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
-          "url": "https://wallstreetcn.com/articles/3778088",
-          "source": "华尔街见闻",
+          "title": "足球解说怼Bin没保姆不行",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356566&amp;topic_name=%E8%B6%B3%E7%90%83%E8%A7%A3%E8%AF%B4%E6%80%BCBin%E6%B2%A1%E4%BF%9D%E5%A7%86%E4%B8%8D%E8%A1%8C",
+          "source": "贴吧",
           "ranks": [
-            5
+            2,
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时39分 ~ 19时22分]"
+          "appearance_count": 5,
+          "time_info": "[16时39分 ~ 22时14分]"
+        },
+        {
+          "title": "把旅行做成一本zine",
+          "url": "https://www.douyin.com/hot/2587040",
+          "source": "抖音",
+          "ranks": [
+            5,
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时39分 ~ 22时14分]"
         },
         {
           "title": "一代人有一代人的美食人格",
@@ -265,6 +284,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时46分 ~ 10时45分]"
+        },
+        {
+          "title": "小米 MiMo-V2.5 升至全球大模型调用量第一，这背后反映了哪些趋势和挑战？",
+          "url": "https://www.zhihu.com/question/2065097727604741240",
+          "source": "知乎",
+          "ranks": [
+            16,
+            11,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时50分 ~ 22时14分]"
         },
         {
           "title": "美时政评论员：特朗普不希望赖清德搞“抗中保台”",
@@ -302,6 +335,20 @@
           "time_info": "[10时45分 ~ 13时54分]"
         },
         {
+          "title": "脑机接口火热行情背后：头部公司估值飙升 侵入式产品商业化预期升温",
+          "url": "https://www.cls.cn/detail/2438878",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时39分 ~ 22时14分]"
+        },
+        {
           "title": "网红书记带货知了猴被指破坏生态",
           "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E4%B9%A6%E8%AE%B0%E5%B8%A6%E8%B4%A7%E7%9F%A5%E4%BA%86%E7%8C%B4%E8%A2%AB%E6%8C%87%E7%A0%B4%E5%9D%8F%E7%94%9F%E6%80%81",
           "source": "百度热搜",
@@ -312,19 +359,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时50分 ~ 16时40分]"
-        },
-        {
-          "title": "把旅行做成一本zine",
-          "url": "https://www.douyin.com/hot/2587040",
-          "source": "抖音",
-          "ranks": [
-            5,
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时39分 ~ 19时22分]"
         },
         {
           "title": "比跑步更护心的运动找到了",
@@ -372,19 +406,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时46分 ~ 07时07分]"
-        },
-        {
-          "title": "小米 MiMo-V2.5 升至全球大模型调用量第一，这背后反映了哪些趋势和挑战？",
-          "url": "https://www.zhihu.com/question/2065097727604741240",
-          "source": "知乎",
-          "ranks": [
-            16,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时50分 ~ 19时22分]"
         },
         {
           "title": "露营遇山洪7人放弃财产全获救",
@@ -475,6 +496,28 @@
           "time_info": "07时07分"
         },
         {
+          "title": "利率决议恐有变数？黄金震荡能否破位？​《大有作V》栏目更新，3分钟解读国际金走势>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260728215623031800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（7月27日）担保隔夜融资利率（SOFR）报3.64%，之前一天报3.64%。 上个交易日有效的联邦基金利率报3.63%，之前一天报3.63%。",
+          "url": "https://wallstreetcn.com/livenews/3141065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "腾讯宣布QQ宠物回归",
           "url": "https://www.douyin.com/hot/2586851",
           "source": "抖音",
@@ -536,6 +579,28 @@
           "time_info": "05时15分"
         },
         {
+          "title": "苹果拟大举发力智能家居 以Siri AI为核心推出新品",
+          "url": "https://wallstreetcn.com/livenews/3141064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
+          "title": "荷兰弟说自己不被允许剧透",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8D%B7%E5%85%B0%E5%BC%9F%E8%AF%B4%E8%87%AA%E5%B7%B1%E4%B8%8D%E8%A2%AB%E5%85%81%E8%AE%B8%E5%89%A7%E9%80%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "天弘股份（Celestica Inc.，多伦多股票代码CLS.CN）ADR美股盘后涨8%。 该公司二季度营收47亿美元，分析师预期43.9亿美元。 二季度调整后每股收益（EPS）为2.54美元，分析师预期2.30美元。 预计全年营收205亿美元，分析师预期192.8亿美元，公司原本预计190亿美元。 预计全年调整后EPS为11.30美元，分析师预期10.29美元，公司原本预计10.15美元。 预计三季度营收52.5亿-55.5亿美元，分析师预期50.1亿美元。 预计三季度调整后EPS为2.88-3.08美元，分析师预期2.68美元。",
           "url": "https://wallstreetcn.com/livenews/3140513",
           "source": "华尔街见闻-快讯",
@@ -547,17 +612,15 @@
           "time_info": "05时15分"
         },
         {
-          "title": "脑机接口火热行情背后：头部公司估值飙升 侵入式产品商业化预期升温",
-          "url": "https://www.cls.cn/detail/2438878",
-          "source": "财联社热门",
+          "title": "【寒武纪：拟推500万股限制性股票激励计划 业绩考核目标为2026-2028年累计营收不低于1000亿元等】寒武纪公告称，公司发布2026年限制性股票激励计划(草案)，拟向激励对象授予500万股限制性股票，占公司总股本的0.80%，授予价格为750元/股。首次授予400万股，涉及激励对象945人，占员工总数的85.37%。业绩考核目标为：2026年营收不低于135亿元，2026-2027年累计营收不低于405亿元，2026-2028年累计营收不低于1000亿元。",
+          "url": "https://wallstreetcn.com/livenews/3141063",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            12,
-            5
+            3
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时39分 ~ 19时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "周一（7月27日），美联储隔夜逆回购协议（RRP）使用规模为13.80亿美元（交易对手3家），上个交易日报6.75亿美元。",
@@ -590,7 +653,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -606,6 +669,28 @@
           "time_info": "01时46分"
         },
         {
+          "title": "寒武纪：拟推500万股限制性股票激励计划 业绩考核目标为2026-2028年累计营收不低于1000亿元等",
+          "url": "https://flash.jin10.com/detail/20260728215131035800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
+          "title": "SpaceX股价自IPO发行价下跌20%，市值从峰值蒸发1.2万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3141060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "网红书记带货知了猴被指破坏生态",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E4%B9%A6%E8%AE%B0%E5%B8%A6%E8%B4%A7%E7%9F%A5%E4%BA%86%E7%8C%B4%E8%A2%AB%E6%8C%87%E7%A0%B4%E5%9D%8F%E7%94%9F%E6%80%81%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -616,6 +701,32 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时45分 ~ 13时54分]"
+        },
+        {
+          "title": "为什么菲尔兹奖的两个得主，大部分人都在关注王虹，而关于邓煜的消息寥寥无几？",
+          "url": "https://www.zhihu.com/question/2064575049152066959",
+          "source": "知乎",
+          "ranks": [
+            19,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时39分 ~ 22时14分]"
+        },
+        {
+          "title": "世界杯历史优秀球员盘点",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8E%86%E5%8F%B2%E4%BC%98%E7%A7%80%E7%90%83%E5%91%98%E7%9B%98%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时46分 ~ 22时14分]"
         },
         {
           "title": "外卖员送救命药顾客打赏50被指太少",
@@ -641,29 +752,28 @@
           "time_info": "[16时40分 ~ 16时57分]"
         },
         {
-          "title": "为什么菲尔兹奖的两个得主，大部分人都在关注王虹，而关于邓煜的消息寥寥无几？",
-          "url": "https://www.zhihu.com/question/2064575049152066959",
-          "source": "知乎",
+          "title": "【每日收评】创业板指跌超7%创阶段新低，算力硬件股集体重挫，大消费、脑机接口概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2439030",
+          "source": "财联社热门",
           "ranks": [
-            19,
-            11
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时39分 ~ 19时22分]"
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 22时14分]"
         },
         {
-          "title": "世界杯历史优秀球员盘点",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8E%86%E5%8F%B2%E4%BC%98%E7%A7%80%E7%90%83%E5%91%98%E7%9B%98%E7%82%B9",
-          "source": "bilibili 热搜",
+          "title": "河南多市三支一扶考试被指高分人数与招录名额高度对应，官方成立工作组调查，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2065160851711943119",
+          "source": "知乎",
           "ranks": [
-            27,
-            14,
-            28
+            12,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时46分 ~ 19时22分]"
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 22时14分]"
         },
         {
           "title": "酒店夜晚关空调 消费者被热醒",
@@ -1127,26 +1237,48 @@
           "time_info": "[13时51分 ~ 13时54分]"
         },
         {
+          "title": "高难度真实项目实测Kimi K3",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E9%9A%BE%E5%BA%A6%E7%9C%9F%E5%AE%9E%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%B5%8BKimi%20K3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "AMD将获得按市价认购Core Scientific股票的认股权证。",
           "url": "https://flash.jin10.com/detail/20260728190706328800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
         {
-          "title": "【每日收评】创业板指跌超7%创阶段新低，算力硬件股集体重挫，大消费、脑机接口概念逆势活跃",
-          "url": "https://www.cls.cn/detail/2439030",
-          "source": "财联社热门",
+          "title": "张凌赫是王楚然铁粉",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%98%AF%E7%8E%8B%E6%A5%9A%E7%84%B6%E9%93%81%E7%B2%89%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时22分"
+          "time_info": "22时14分"
+        },
+        {
+          "title": "佩德里也来打卡落地沪签",
+          "url": "https://www.douyin.com/hot/2586948",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "全球芯片LOF：将于2026年7月29日开市起停牌，自2026年7月29日10:30起复牌，停牌期间本基金赎回业务照常办理。",
@@ -1155,7 +1287,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -1188,9 +1320,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
+        },
+        {
+          "title": "韩国散户从FOMO急转JOMO，“没买股票的才是赢家”！KOSPI指数7月已暴跌33%",
+          "url": "https://wallstreetcn.com/articles/3778115",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
+          "title": "蜘蛛侠新角色盘点",
+          "url": "https://search.bilibili.com/all?keyword=%E8%9C%98%E8%9B%9B%E4%BE%A0%E6%96%B0%E8%A7%92%E8%89%B2%E7%9B%98%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "香港金管局：外汇基金上半年录得1347亿港元投资收入",
@@ -1215,24 +1369,13 @@
           "time_info": "07时07分"
         },
         {
-          "title": "河南多市三支一扶考试被指高分人数与招录名额高度对应，官方成立工作组调查，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2065160851711943119",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
           "title": "全款买房的人为何变多了",
           "url": "https://www.toutiao.com/trending/7667444179103055882/",
           "source": "今日头条",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -1298,9 +1441,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
+        },
+        {
+          "title": "美国最大电网警告：AI数据中心或面临强制断电，以避免居民电价飙升",
+          "url": "https://flash.jin10.com/detail/20260728214153560800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "长鑫科技获纳入MSCI中国全股票指数",
@@ -1309,7 +1463,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -1334,6 +1488,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
+        },
+        {
+          "title": "金十图示：2026年07月28日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260728214151374800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨2.51%，报6257.87点，逼近50日均线（该技术指标目前下移至6294.47点）。 热门中概股里，宝尊电商初步收涨12.8%，小米涨8.3%，亿航智能涨7.5%，文远知行涨5.5%，亚朵、腾讯音乐、金山云涨超5%，大全新能源涨4.2%，理想涨4%，网易涨3.5%，拼多多、腾讯、阿里巴巴涨超2%。 ETF中，中概互联网指数ETF（KWEB）收涨2.70%，中国科技指数ETF（CQQQ）收涨2.43%。 XtrackersHarvest中证50（ASHS）收涨2.03%，德银嘉实沪深300指数ETF（ASHR）收涨1.19%，MSCI新兴市场ex中国ETF（EMXC）收跌0.21%。",
@@ -1375,9 +1540,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
+        },
+        {
+          "title": "SpaceX(SPCX.O)股价自IPO发行价下跌20%，市值从峰值蒸发逾1.2万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260728213945452800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "上交所协议回购出资人展示名单扩容，新纳入8家金融机构",
@@ -1386,7 +1562,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -1400,6 +1576,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
+        },
+        {
+          "title": "金十图示：2026年07月28日（周二）热门中概股行情一览",
+          "url": "https://flash.jin10.com/detail/20260728213911925800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "商务部：中国产业快速发展为全球提供了高质量高效能高性价比产品",
@@ -1424,6 +1611,17 @@
           "time_info": "16时40分"
         },
         {
+          "title": "据悉苹果将以Siri AI为核心，进军智能家居领域",
+          "url": "https://flash.jin10.com/detail/20260728213809100800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "周二亚太盘初，WTI原油期货低开1.1%，跌至81.68美元/桶，投资者关注特朗普所谓的美国与伊朗正在“对话”。",
           "url": "https://wallstreetcn.com/livenews/3140533",
           "source": "华尔街见闻-快讯",
@@ -1433,6 +1631,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "VIP全新升级·9折加入！",
+          "url": "https://flash.jin10.com/detail/20260728213148368800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "女子告知酒店无需清理 服务员仍进入",
@@ -1452,7 +1661,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -1474,9 +1683,31 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
+        },
+        {
+          "title": "特朗普（谈美墨加协定）：我其实不想更新它。",
+          "url": "https://wallstreetcn.com/livenews/3141032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
+          "title": "虞书欣给粉丝买手镯",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%BB%99%E7%B2%89%E4%B8%9D%E4%B9%B0%E6%89%8B%E9%95%AF%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "滤镜操控特效舞蹈挑战",
@@ -1496,7 +1727,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         }
