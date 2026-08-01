@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-08-01T17:09:33.311521+08:00",
-  "total_titles_processed": 1050,
+  "generated_at": "2026-08-01T19:20:04.377143+08:00",
+  "total_titles_processed": 1181,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 95,
+      "match_count": 102,
       "titles": [
+        {
+          "title": "《国务院关于出境入境管理的规定》将于 9 月 15 日起施行，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2066576404393583263",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时16分 ~ 19时20分]"
+        },
+        {
+          "title": "【早报】事关核电，国常会最新部署；7月股票ETF净流入超5000亿元",
+          "url": "https://www.cls.cn/detail/2443161",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时16分 ~ 19时20分]"
+        },
         {
           "title": "低价大流量卡将集体退场",
           "url": "https://www.baidu.com/s?wd=%E4%BD%8E%E4%BB%B7%E5%A4%A7%E6%B5%81%E9%87%8F%E5%8D%A1%E5%B0%86%E9%9B%86%E4%BD%93%E9%80%80%E5%9C%BA",
@@ -19,27 +42,17 @@
           "time_info": "[01时42分 ~ 07时08分]"
         },
         {
-          "title": "《国务院关于出境入境管理的规定》将于 9 月 15 日起施行，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2066576404393583263",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时16分 ~ 17时09分]"
-        },
-        {
-          "title": "【早报】事关核电，国常会最新部署；7月股票ETF净流入超5000亿元",
-          "url": "https://www.cls.cn/detail/2443161",
+          "title": "“AI股神”最新表态：再也不碰杠杆了",
+          "url": "https://www.cls.cn/detail/2443109",
           "source": "财联社热门",
           "ranks": [
-            3,
-            5
+            13,
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时16分 ~ 17时09分]"
+          "appearance_count": 10,
+          "time_info": "[07时05分 ~ 19时20分]"
         },
         {
           "title": "男子健身时被他人指控偷拍",
@@ -48,11 +61,12 @@
           "ranks": [
             8,
             12,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时42分 ~ 17时09分]"
+          "appearance_count": 15,
+          "time_info": "[01时42分 ~ 19时20分]"
         },
         {
           "title": "刘北回归,星游记官宣重启",
@@ -61,11 +75,12 @@
           "ranks": [
             12,
             17,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时42分 ~ 17时09分]"
+          "appearance_count": 15,
+          "time_info": "[01时42分 ~ 19时20分]"
         },
         {
           "title": "BLG内部放料,营销号秒配合",
@@ -74,11 +89,12 @@
           "ranks": [
             16,
             21,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时42分 ~ 17时09分]"
+          "appearance_count": 15,
+          "time_info": "[01时42分 ~ 19时20分]"
         },
         {
           "title": "周星驰反向采访董宇辉，口称「辉哥」，坦言已无太大动力再出演，年纪大了，体能跟不上，哪些信息值得关注？",
@@ -91,6 +107,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时42分 ~ 07时08分]"
+        },
+        {
+          "title": "如何评价最新发布的人民军队宣传片《制胜》？有哪些值得关注的细节？",
+          "url": "https://www.zhihu.com/question/2065877408276918979",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时16分 ~ 19时20分]"
         },
         {
           "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
@@ -132,6 +162,19 @@
           "time_info": "[01时42分 ~ 11时29分]"
         },
         {
+          "title": "三大运营商停止第三方互联网渠道号卡办理，低价大流量卡将集体退场，出于哪些考量？对普通消费者有什么影响？",
+          "url": "https://www.zhihu.com/question/2066605797186823402",
+          "source": "知乎",
+          "ranks": [
+            14,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时32分 ~ 19时20分]"
+        },
+        {
           "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
           "url": "https://www.zhihu.com/question/2066521165246489298",
           "source": "知乎",
@@ -158,30 +201,31 @@
           "time_info": "[01时42分 ~ 07时08分]"
         },
         {
-          "title": "“AI股神”最新表态：再也不碰杠杆了",
-          "url": "https://www.cls.cn/detail/2443109",
+          "title": "美财政部据传罕见出手干预日元 核电巨头启动IPO | 环球市场",
+          "url": "https://www.cls.cn/detail/2443165",
           "source": "财联社热门",
           "ranks": [
-            13,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时05分 ~ 17时09分]"
-        },
-        {
-          "title": "如何评价最新发布的人民军队宣传片《制胜》？有哪些值得关注的细节？",
-          "url": "https://www.zhihu.com/question/2065877408276918979",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4,
+            11,
+            12,
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时16分 ~ 17时09分]"
+          "appearance_count": 8,
+          "time_info": "[11时16分 ~ 19时20分]"
+        },
+        {
+          "title": "「白海豚」爆发式增强，已成超强台风，中心最大风力 17 级，或直奔华东，最新动向如何？应做好哪些应对？",
+          "url": "https://www.zhihu.com/question/2065082521570600023",
+          "source": "知乎",
+          "ranks": [
+            15,
+            11,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时16分 ~ 19时20分]"
         },
         {
           "title": "陈天桥2.2亿“抄底”上海酒店",
@@ -207,6 +251,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时32分 ~ 14时36分]"
+        },
+        {
+          "title": "女子住酒店退房搬空用品只剩电视",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BD%8F%E9%85%92%E5%BA%97%E9%80%80%E6%88%BF%E6%90%AC%E7%A9%BA%E7%94%A8%E5%93%81%E5%8F%AA%E5%89%A9%E7%94%B5%E8%A7%86%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时20分]"
         },
         {
           "title": "72岁董明珠打卡成都太古里",
@@ -322,6 +377,28 @@
           "time_info": "[11时16分 ~ 11时29分]"
         },
         {
+          "title": "工党大会邀请台湾地区代表出席，澳前外长独家回应",
+          "url": "https://news.ifeng.com/c/8vEXNKzAP5B",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时20分]"
+        },
+        {
+          "title": "《新闻联播》正在直播",
+          "url": "https://www.toutiao.com/trending/7668506208847908415/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时20分]"
+        },
+        {
           "title": "实测DeepSeek V4 Flash",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeek%20V4%20Flash",
           "source": "bilibili 热搜",
@@ -335,18 +412,6 @@
           "time_info": "[11时16分 ~ 17时09分]"
         },
         {
-          "title": "三大运营商停止第三方互联网渠道号卡办理，低价大流量卡将集体退场，出于哪些考量？对普通消费者有什么影响？",
-          "url": "https://www.zhihu.com/question/2066605797186823402",
-          "source": "知乎",
-          "ranks": [
-            14,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时32分 ~ 17时09分]"
-        },
-        {
           "title": "2025年地方养老基金投资收益率为5.76%",
           "url": "https://flash.jin10.com/detail/20260801111427529800",
           "source": "金十数据",
@@ -356,32 +421,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
-        },
-        {
-          "title": "美财政部据传罕见出手干预日元 核电巨头启动IPO | 环球市场",
-          "url": "https://www.cls.cn/detail/2443165",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时16分 ~ 17时09分]"
-        },
-        {
-          "title": "「白海豚」爆发式增强，已成超强台风，中心最大风力 17 级，或直奔华东，最新动向如何？应做好哪些应对？",
-          "url": "https://www.zhihu.com/question/2065082521570600023",
-          "source": "知乎",
-          "ranks": [
-            15,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时16分 ~ 17时09分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的21.51亿美元。",
@@ -408,15 +447,16 @@
           "time_info": "[11时16分 ~ 14时36分]"
         },
         {
-          "title": "期货盯盘神器专属文章",
-          "url": "https://flash.jin10.com/detail/20260801164152450800",
-          "source": "金十数据",
+          "title": "这样的外卖才配收我的打包费",
+          "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E6%A0%B7%E7%9A%84%E5%A4%96%E5%8D%96%E6%89%8D%E9%85%8D%E6%94%B6%E6%88%91%E7%9A%84%E6%89%93%E5%8C%85%E8%B4%B9&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
-            3
+            5,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时09分 ~ 19时20分]"
         },
         {
           "title": "周五（7月31日），美联储隔夜逆回购协议（RRP）使用规模为21.51亿美元（交易对手4家），上个交易日报10.76亿美元。",
@@ -429,17 +469,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时43分 ~ 03时44分]"
-        },
-        {
-          "title": "这样的外卖才配收我的打包费",
-          "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E6%A0%B7%E7%9A%84%E5%A4%96%E5%8D%96%E6%89%8D%E9%85%8D%E6%94%B6%E6%88%91%E7%9A%84%E6%89%93%E5%8C%85%E8%B4%B9&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
         },
         {
           "title": "新兴市场股票指数涨6.6%，创2008年美国次贷危机以来最佳单日表现。",
@@ -501,6 +530,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时16分 ~ 11时29分]"
+        },
+        {
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20260801164152450800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 19时20分]"
         },
         {
           "title": "因美颜照走红主任医师照片已更新",
@@ -588,6 +629,19 @@
           "time_info": "[14时32分 ~ 17时09分]"
         },
         {
+          "title": "日赚600万后 县城零食批量翻车",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E8%B5%9A600%E4%B8%87%E5%90%8E+%E5%8E%BF%E5%9F%8E%E9%9B%B6%E9%A3%9F%E6%89%B9%E9%87%8F%E7%BF%BB%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 19时20分]"
+        },
+        {
           "title": "孖八被李小龙狂热粉周星驰认证",
           "url": "https://www.douyin.com/hot/2593101",
           "source": "抖音",
@@ -623,6 +677,41 @@
           "time_info": "[14时32分 ~ 14时36分]"
         },
         {
+          "title": "小伙辞职贷款百万开制冰厂月赚30万",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%BE%9E%E8%81%8C%E8%B4%B7%E6%AC%BE%E7%99%BE%E4%B8%87%E5%BC%80%E5%88%B6%E5%86%B0%E5%8E%82%E6%9C%88%E8%B5%9A30%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时09分 ~ 19时20分]"
+        },
+        {
+          "title": "低价大流量卡将集体退场",
+          "url": "https://www.toutiao.com/trending/7667958339342762026/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时09分 ~ 19时20分]"
+        },
+        {
+          "title": "测评一顿7角钱的成吉思鸡",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B5%8B%E8%AF%84%E4%B8%80%E9%A1%BF7%E8%A7%92%E9%92%B1%E7%9A%84%E6%88%90%E5%90%89%E6%80%9D%E9%B8%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时20分]"
+        },
+        {
           "title": "7月31日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
           "url": "https://flash.jin10.com/detail/20260801135424544800",
           "source": "金十数据",
@@ -632,6 +721,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时33分 ~ 14时36分]"
+        },
+        {
+          "title": "小伙辞职贷款百万开制冰厂月赚30万",
+          "url": "https://www.toutiao.com/trending/7668945104031727666/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时20分]"
         },
         {
           "title": "7月31日芝加哥商业交易所（CME）外汇类商品成交量报告已在金十数据中心更新！欢迎点击查看",
@@ -665,6 +765,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时33分 ~ 14时36分]"
+        },
+        {
+          "title": "特朗普最新支持率公布",
+          "url": "https://wallstreetcn.com/livenews/3143570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 19时20分]"
         },
         {
           "title": "张雅琪挑战玩手机",
@@ -733,18 +845,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 01时43分]"
-        },
-        {
-          "title": "日赚600万后 县城零食批量翻车",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E8%B5%9A600%E4%B8%87%E5%90%8E+%E5%8E%BF%E5%9F%8E%E9%9B%B6%E9%A3%9F%E6%89%B9%E9%87%8F%E7%BF%BB%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 17时09分]"
         },
         {
           "title": "OpenAI可能会将其首次公开募股 (IPO) 推迟到明年。（华尔街日报）",
@@ -847,6 +947,17 @@
           "time_info": "[14时33分 ~ 14时36分]"
         },
         {
+          "title": "大流量卡大撤退 有人连夜抢购",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E6%B5%81%E9%87%8F%E5%8D%A1%E5%A4%A7%E6%92%A4%E9%80%80+%E6%9C%89%E4%BA%BA%E8%BF%9E%E5%A4%9C%E6%8A%A2%E8%B4%AD",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时20分]"
+        },
+        {
           "title": "万妮达挑战孙楠成功",
           "url": "https://www.baidu.com/s?wd=%E4%B8%87%E5%A6%AE%E8%BE%BE%E6%8C%91%E6%88%98%E5%AD%99%E6%A5%A0%E6%88%90%E5%8A%9F",
           "source": "百度热搜",
@@ -869,15 +980,15 @@
           "time_info": "[07时05分 ~ 07时08分]"
         },
         {
-          "title": "低价大流量卡将集体退场",
-          "url": "https://www.toutiao.com/trending/7667958339342762026/",
-          "source": "今日头条",
+          "title": "国家医保局召开全国深化医保基金管理突出问题专项整治工作中期推进会",
+          "url": "https://flash.jin10.com/detail/20260801175716574800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时09分"
+          "time_info": "19时20分"
         },
         {
           "title": "新兴市场股票指数涨6.6%，创2008年美国次贷危机以来最佳单日表现。",
@@ -902,24 +1013,13 @@
           "time_info": "05时11分"
         },
         {
-          "title": "特朗普最新支持率公布",
-          "url": "https://wallstreetcn.com/livenews/3143570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
           "title": "四大行5年期大额存单集体回归",
           "url": "https://wallstreetcn.com/livenews/3143567",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -963,7 +1063,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -1109,17 +1209,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
-        },
-        {
-          "title": "小伙辞职贷款百万开制冰厂月赚30万",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%BE%9E%E8%81%8C%E8%B4%B7%E6%AC%BE%E7%99%BE%E4%B8%87%E5%BC%80%E5%88%B6%E5%86%B0%E5%8E%82%E6%9C%88%E8%B5%9A30%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
         }
       ]
     }
