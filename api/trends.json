@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T10:07:37.253696+08:00",
-  "total_titles_processed": 834,
+  "generated_at": "2026-08-11T11:49:51.819118+08:00",
+  "total_titles_processed": 973,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 75,
+      "match_count": 84,
       "titles": [
         {
           "title": "马斯克的新挑战：给光刻机“换束光”",
@@ -52,20 +52,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时57分 ~ 10时07分]"
-        },
-        {
-          "title": "阿宅搭讪被拒当场社死",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357082&amp;topic_name=%E9%98%BF%E5%AE%85%E6%90%AD%E8%AE%AA%E8%A2%AB%E6%8B%92%E5%BD%93%E5%9C%BA%E7%A4%BE%E6%AD%BB",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时57分 ~ 10时07分]"
+          "appearance_count": 20,
+          "time_info": "[00时57分 ~ 11时49分]"
         },
         {
           "title": "抓典型！最新监管通报指向“C基金公司”，再给大V带货、风格漂移敲警钟",
@@ -81,6 +69,19 @@
           "time_info": "[00时57分 ~ 07时39分]"
         },
         {
+          "title": "阿宅搭讪被拒当场社死",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357082&amp;topic_name=%E9%98%BF%E5%AE%85%E6%90%AD%E8%AE%AA%E8%A2%AB%E6%8B%92%E5%BD%93%E5%9C%BA%E7%A4%BE%E6%AD%BB",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时57分 ~ 11时49分]"
+        },
+        {
           "title": "浙江首创无堂食外卖集聚地",
           "url": "https://search.bilibili.com/all?keyword=%E6%B5%99%E6%B1%9F%E9%A6%96%E5%88%9B%E6%97%A0%E5%A0%82%E9%A3%9F%E5%A4%96%E5%8D%96%E9%9B%86%E8%81%9A%E5%9C%B0",
           "source": "bilibili 热搜",
@@ -92,23 +93,12 @@
             8,
             19,
             23,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时57分 ~ 10时07分]"
-        },
-        {
-          "title": "猪蹄外卖店被群友狂刷差评",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357001&amp;topic_name=%E7%8C%AA%E8%B9%84%E5%A4%96%E5%8D%96%E5%BA%97%E8%A2%AB%E7%BE%A4%E5%8F%8B%E7%8B%82%E5%88%B7%E5%B7%AE%E8%AF%84",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时57分 ~ 10时07分]"
+          "appearance_count": 16,
+          "time_info": "[00时57分 ~ 11时49分]"
         },
         {
           "title": "硅基vs碳基、光vs存储、开源vs闭源--这是高盛顶级科技交易员最关注的10张图表",
@@ -123,6 +113,19 @@
           "time_info": "[00时57分 ~ 07时39分]"
         },
         {
+          "title": "猪蹄外卖店被群友狂刷差评",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357001&amp;topic_name=%E7%8C%AA%E8%B9%84%E5%A4%96%E5%8D%96%E5%BA%97%E8%A2%AB%E7%BE%A4%E5%8F%8B%E7%8B%82%E5%88%B7%E5%B7%AE%E8%AF%84",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时57分 ~ 11时49分]"
+        },
+        {
           "title": "兰州回应公交能耗与工资挂钩",
           "url": "https://search.bilibili.com/all?keyword=%E5%85%B0%E5%B7%9E%E5%9B%9E%E5%BA%94%E5%85%AC%E4%BA%A4%E8%83%BD%E8%80%97%E4%B8%8E%E5%B7%A5%E8%B5%84%E6%8C%82%E9%92%A9",
           "source": "bilibili 热搜",
@@ -130,11 +133,12 @@
             8,
             7,
             9,
-            28
+            28,
+            16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时57分 ~ 10时07分]"
+          "appearance_count": 17,
+          "time_info": "[00时57分 ~ 11时49分]"
         },
         {
           "title": "创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%",
@@ -146,8 +150,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时57分 ~ 10时07分]"
+          "appearance_count": 20,
+          "time_info": "[00时57分 ~ 11时49分]"
+        },
+        {
+          "title": "江波龙上半年净利超百亿，拟最高8亿元回购股份",
+          "url": "https://www.cls.cn/detail/2450426",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时57分 ~ 11时49分]"
         },
         {
           "title": "伯克希尔 Q2 净利润 256.67 亿美元，时隔 3 年首次净买入股票，现金储备降至 3655 亿美元，如何解读？",
@@ -181,28 +198,17 @@
           "time_info": "[00时57分 ~ 07时39分]"
         },
         {
-          "title": "江波龙上半年净利超百亿，拟最高8亿元回购股份",
-          "url": "https://www.cls.cn/detail/2450426",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时57分 ~ 10时07分]"
-        },
-        {
           "title": "重庆木叶村被粉丝骚扰500次",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357006&amp;topic_name=%E9%87%8D%E5%BA%86%E6%9C%A8%E5%8F%B6%E6%9D%91%E8%A2%AB%E7%B2%89%E4%B8%9D%E9%AA%9A%E6%89%B0500%E6%AC%A1",
           "source": "贴吧",
           "ranks": [
             13,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时57分 ~ 10时07分]"
+          "appearance_count": 20,
+          "time_info": "[00时57分 ~ 11时49分]"
         },
         {
           "title": "IPO周报｜本周4只新股申购，“人形机器人第一股”宇树科技今日打新",
@@ -278,11 +284,12 @@
             20,
             26,
             22,
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时57分 ~ 10时07分]"
+          "appearance_count": 14,
+          "time_info": "[00时57分 ~ 11时49分]"
         },
         {
           "title": "马上评｜台风汛情绝不是流量密码",
@@ -294,8 +301,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时57分 ~ 10时07分]"
+          "appearance_count": 20,
+          "time_info": "[00时57分 ~ 11时49分]"
         },
         {
           "title": "三角洲宝藏箱所有点位",
@@ -324,15 +331,16 @@
           "time_info": "[00时57分 ~ 07时39分]"
         },
         {
-          "title": "上海降水量破纪录 学生舍不得点外卖",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E9%99%8D%E6%B0%B4%E9%87%8F%E7%A0%B4%E7%BA%AA%E5%BD%95+%E5%AD%A6%E7%94%9F%E8%88%8D%E4%B8%8D%E5%BE%97%E7%82%B9%E5%A4%96%E5%8D%96",
-          "source": "百度热搜",
+          "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
+          "url": "https://www.cls.cn/detail/2450678",
+          "source": "财联社热门",
           "ranks": [
-            2
+            8,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时56分 ~ 10时07分]"
+          "appearance_count": 6,
+          "time_info": "[07时38分 ~ 11时49分]"
         },
         {
           "title": "Kimi K3深度测评",
@@ -346,18 +354,6 @@
           "time_info": "[09时56分 ~ 10时07分]"
         },
         {
-          "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
-          "url": "https://www.cls.cn/detail/2450678",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时38分 ~ 10时07分]"
-        },
-        {
           "title": "百万粉丝女网红姜小柔因车祸去世",
           "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%A7%9C%E5%B0%8F%E6%9F%94%E5%9B%A0%E8%BD%A6%E7%A5%B8%E5%8E%BB%E4%B8%96%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -369,15 +365,28 @@
           "time_info": "[07时38分 ~ 07时39分]"
         },
         {
-          "title": "报道：苹果以玻璃为主体的iPhone仍将按计划于2027周年纪念日推出",
-          "url": "https://wallstreetcn.com/livenews/3147778",
-          "source": "华尔街见闻-快讯",
+          "title": "上海降水量破纪录 学生舍不得点外卖",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E9%99%8D%E6%B0%B4%E9%87%8F%E7%A0%B4%E7%BA%AA%E5%BD%95+%E5%AD%A6%E7%94%9F%E8%88%8D%E4%B8%8D%E5%BE%97%E7%82%B9%E5%A4%96%E5%8D%96",
+          "source": "百度热搜",
           "ranks": [
-            5
+            2,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 10时07分]"
+          "appearance_count": 4,
+          "time_info": "[09时56分 ~ 11时49分]"
+        },
+        {
+          "title": "因儿子说「大不了送外卖」，爸爸三伏天带他送外卖，竟意外修复父子关系，这一实践式教育怎么样？值得效仿吗？",
+          "url": "https://www.zhihu.com/question/2070152087481083737",
+          "source": "知乎",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时56分 ~ 11时49分]"
         },
         {
           "title": "明晟公司MSCI新兴市场股票指数涨0.7%，外汇指数涨0.1%。",
@@ -394,6 +403,17 @@
           "time_info": "[04时51分 ~ 06时42分]"
         },
         {
+          "title": "睡车里被酒店收150元住宿费事件反转",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9D%A1%E8%BD%A6%E9%87%8C%E8%A2%AB%E9%85%92%E5%BA%97%E6%94%B6150%E5%85%83%E4%BD%8F%E5%AE%BF%E8%B4%B9%E4%BA%8B%E4%BB%B6%E5%8F%8D%E8%BD%AC%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
+        },
+        {
           "title": "宏利投资管理高级投资组合经理Nathan Thooft：美国可以通过与日本协调干预来影响市场预期，但无法改写基本面。 （谈及美国当局的能力时，他说）口袋很深，但并非无限。",
           "url": "https://wallstreetcn.com/livenews/3147692",
           "source": "华尔街见闻-快讯",
@@ -406,6 +426,29 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时51分 ~ 06时42分]"
+        },
+        {
+          "title": "江波龙上半年净利润同比增长71529%，拟最高8亿元回购股份 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779092",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时38分 ~ 11时49分]"
+        },
+        {
+          "title": "Plus精选图表",
+          "url": "https://flash.jin10.com/detail/20260811114528176800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
         },
         {
           "title": "报道：英特尔拟扩大股票发售规模，筹资约200亿美元",
@@ -481,16 +524,16 @@
           "time_info": "[03时02分 ~ 03时59分]"
         },
         {
-          "title": "江波龙上半年净利润同比增长71529%，拟最高8亿元回购股份 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779092",
-          "source": "华尔街见闻",
+          "title": "报道：苹果以玻璃为主体的iPhone仍将按计划于2027周年纪念日推出",
+          "url": "https://wallstreetcn.com/livenews/3147778",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9
+            5,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时38分 ~ 10时07分]"
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 11时49分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，布油基金涨约6.8%",
@@ -507,6 +550,18 @@
           "time_info": "[04时51分 ~ 06时42分]"
         },
         {
+          "title": "这家基金公司被罚有深意！监管给持仓“集中度过高”敲警钟",
+          "url": "https://www.cls.cn/detail/2450741",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时56分 ~ 11时49分]"
+        },
+        {
           "title": "金十图示：2026年08月10日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260811040544089800",
           "source": "金十数据",
@@ -520,6 +575,18 @@
           "time_info": "[04时51分 ~ 05时50分]"
         },
         {
+          "title": "职场聊天句句以「哈」结尾，有人觉得礼貌，有人觉得敷衍，你怎么看待？为啥会有这种表达习惯？",
+          "url": "https://www.zhihu.com/question/2068715332844393812",
+          "source": "知乎",
+          "ranks": [
+            20,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时56分 ~ 11时49分]"
+        },
+        {
           "title": "金十图示：2026年08月10日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260811040524679800",
           "source": "金十数据",
@@ -531,6 +598,43 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时51分 ~ 05时50分]"
+        },
+        {
+          "title": "因为给我买车买房没提前跟我弟说，我弟把我全家都拉黑了快 7 年了，父子都不愿低头，怎么破冰？",
+          "url": "https://www.zhihu.com/question/2068757535138566295",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时56分 ~ 11时49分]"
+        },
+        {
+          "title": "豆包否认推荐酒店抽取 12% 佣金，称仅在订单成交后收取渠道服务费，字节在打哪些商业算盘？",
+          "url": "https://www.zhihu.com/question/2070274629227083477",
+          "source": "知乎",
+          "ranks": [
+            14,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时56分 ~ 11时49分]"
+        },
+        {
+          "title": "iPhone18Pro等7款新品彻底泄密",
+          "url": "https://www.baidu.com/s?wd=iPhone18Pro%E7%AD%897%E6%AC%BE%E6%96%B0%E5%93%81%E5%BD%BB%E5%BA%95%E6%B3%84%E5%AF%86",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时56分 ~ 11时49分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨1.65%，报6730.14点。 热门中概股里，陆控初步收涨14.3%，BOSS直聘涨5.4%，小马智行涨4.2%，阿里巴巴涨2.9%，新东方涨2.6%，世纪互联涨2.5%，比亚迪涨2%，携程涨1.9%，拼多多涨1.1%，日月光半导体、B站、百胜中国、中通快递、再鼎医药、亚朵至少涨0.7%，腾讯跌0.7%，理想跌0.9%，小鹏跌1.2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.61%，中国科技指数ETF（CQQQ）收跌0.40%。 XtrackersHarvest中证50（ASHS）收跌0.19%，德银嘉实沪深300指数ETF（ASHR）收跌0.46%，MSCI新兴市场ex中国ETF（EMXC）收跌1.01%。",
@@ -592,28 +696,6 @@
           "time_info": "[01时56分 ~ 03时08分]"
         },
         {
-          "title": "这家基金公司被罚有深意！监管给持仓“集中度过高”敲警钟",
-          "url": "https://www.cls.cn/detail/2450741",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时56分 ~ 10时07分]"
-        },
-        {
-          "title": "因儿子说「大不了送外卖」，爸爸三伏天带他送外卖，竟意外修复父子关系，这一实践式教育怎么样？值得效仿吗？",
-          "url": "https://www.zhihu.com/question/2070152087481083737",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时56分 ~ 10时07分]"
-        },
-        {
           "title": "英伟达信用违约互换跃升，巨额融资报道引发关注",
           "url": "https://wallstreetcn.com/livenews/3147665",
           "source": "华尔街见闻-快讯",
@@ -639,6 +721,18 @@
           "time_info": "[05时45分 ~ 06时42分]"
         },
         {
+          "title": "上证指数开盘报3950.71点，跌0.40%。 深证成指开盘报14266.44点，跌0.35%。 创业板指开盘报3533.89点，跌0.09%。 沪深300开盘报4689.45点，跌0.27%。 科创50开盘报1713.26点，跌1.41%。 中证500开盘报7979.28点，跌0.64%。 中证1000开盘报7686.04点，跌0.62%。",
+          "url": "https://wallstreetcn.com/livenews/3147771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 11时49分]"
+        },
+        {
           "title": "周一（8月10日）纽约尾盘，ICE原糖期货涨0.06%，ICE白糖期货涨0.50%。 ICE阿拉比卡咖啡期货跌0.10%，咖啡“C”期货跌0.22%。罗布斯塔咖啡期货涨0.85%。 纽约可可期货涨2.09%，报6018美元/吨。伦敦可可期货涨0.57%。 芝加哥WCE双低油菜籽期货涨1.91%。 ICE棉花期货跌0.75%。",
           "url": "https://wallstreetcn.com/livenews/3147663",
           "source": "华尔街见闻-快讯",
@@ -651,50 +745,16 @@
           "time_info": "[03时59分 ~ 04时56分]"
         },
         {
-          "title": "因为给我买车买房没提前跟我弟说，我弟把我全家都拉黑了快 7 年了，父子都不愿低头，怎么破冰？",
-          "url": "https://www.zhihu.com/question/2068757535138566295",
-          "source": "知乎",
+          "title": "中国央行公开市场7天期逆回购操作量为零。今日465亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3147769",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            11
+            11,
+            29
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时56分 ~ 10时07分]"
-        },
-        {
-          "title": "豆包否认推荐酒店抽取 12% 佣金，称仅在订单成交后收取渠道服务费，字节在打哪些商业算盘？",
-          "url": "https://www.zhihu.com/question/2070274629227083477",
-          "source": "知乎",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时56分 ~ 10时07分]"
-        },
-        {
-          "title": "iPhone18Pro等7款新品彻底泄密",
-          "url": "https://www.baidu.com/s?wd=iPhone18Pro%E7%AD%897%E6%AC%BE%E6%96%B0%E5%93%81%E5%BD%BB%E5%BA%95%E6%B3%84%E5%AF%86",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时56分 ~ 10时07分]"
-        },
-        {
-          "title": "职场聊天句句以「哈」结尾，有人觉得礼貌，有人觉得敷衍，你怎么看待？为啥会有这种表达习惯？",
-          "url": "https://www.zhihu.com/question/2068715332844393812",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时56分 ~ 10时07分]"
+          "time_info": "[09时57分 ~ 11时49分]"
         },
         {
           "title": "苹果20周年iPhone玻璃设计未取消 将于2027年推出",
@@ -732,28 +792,6 @@
           "time_info": "[00时57分 ~ 07时39分]"
         },
         {
-          "title": "上证指数开盘报3950.71点，跌0.40%。 深证成指开盘报14266.44点，跌0.35%。 创业板指开盘报3533.89点，跌0.09%。 沪深300开盘报4689.45点，跌0.27%。 科创50开盘报1713.26点，跌1.41%。 中证500开盘报7979.28点，跌0.64%。 中证1000开盘报7686.04点，跌0.62%。",
-          "url": "https://wallstreetcn.com/livenews/3147771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 10时07分]"
-        },
-        {
-          "title": "中国央行公开市场7天期逆回购操作量为零。今日465亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3147769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 10时07分]"
-        },
-        {
           "title": "德国两年期国债收益率涨约5个基点，非农过后，投资者关注油价涨势",
           "url": "https://wallstreetcn.com/livenews/3147612",
           "source": "华尔街见闻-快讯",
@@ -764,6 +802,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 01时56分]"
+        },
+        {
+          "title": "少年强抱女友跳河自己上岸女友溺亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%91%E5%B9%B4%E5%BC%BA%E6%8A%B1%E5%A5%B3%E5%8F%8B%E8%B7%B3%E6%B2%B3%E8%87%AA%E5%B7%B1%E4%B8%8A%E5%B2%B8%E5%A5%B3%E5%8F%8B%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 11时49分]"
         },
         {
           "title": "知情人士透露，苹果(AAPL.O)仍计划在明年iPhone问世20周年之际推出一款以玻璃材质为核心的全面升级版iPhone，此前一份分析师报告称该计划已被取消。",
@@ -810,6 +860,28 @@
           "time_info": "07时39分"
         },
         {
+          "title": "中国网红「雅典娜」确认遇害，被闺蜜骗去菲律宾后被绑架，哪些细节值得关注？",
+          "url": "https://www.zhihu.com/question/2070285462472582864",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
+        },
+        {
+          "title": "离岸人民币同业拆息利率涨跌互现，HKMA日间回购协议流动性被用过半",
+          "url": "https://flash.jin10.com/detail/20260811113603455800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
+        },
+        {
           "title": "金十图示：2026年08月10日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260811004202641800",
           "source": "金十数据",
@@ -843,6 +915,17 @@
           "time_info": "07时39分"
         },
         {
+          "title": "【数读IPO】今日3只新股上市，涉及新材料细分领域“小巨人”等",
+          "url": "https://www.cls.cn/detail/2450706",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
+        },
+        {
           "title": "综合多重因素，赴港投保性价比被重新评估",
           "url": "https://wallstreetcn.com/livenews/3147722",
           "source": "华尔街见闻-快讯",
@@ -854,15 +937,26 @@
           "time_info": "07时39分"
         },
         {
-          "title": "少年强抱女友跳河自己上岸女友溺亡",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%91%E5%B9%B4%E5%BC%BA%E6%8A%B1%E5%A5%B3%E5%8F%8B%E8%B7%B3%E6%B2%B3%E8%87%AA%E5%B7%B1%E4%B8%8A%E5%B2%B8%E5%A5%B3%E5%8F%8B%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "创业板指涨超1%，沪指跌0.3%，深成指涨0.27%，医药医疗、MLCC、油气、影视等方向涨幅居前，沪深京三市上涨个股近1800只。",
+          "url": "https://wallstreetcn.com/livenews/3147812",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "11时49分"
+        },
+        {
+          "title": "费大厨撤下「全国小炒肉大王」 宣传，上菜口号更换为 「精选黑猪肉、专业大厨炒」，此举带来的影响有多大？",
+          "url": "https://www.zhihu.com/question/2070112824437876354",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
         },
         {
           "title": "美国总统特朗普：武器化基金的未来将由司法部长布兰奇决定。",
@@ -907,6 +1001,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "基本养老保险基金运营稳健",
+          "url": "https://www.toutiao.com/trending/7671674903452254262/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
+        },
+        {
+          "title": "睡车里被酒店收150元住宿费事件反转",
+          "url": "https://www.baidu.com/s?wd=%E7%9D%A1%E8%BD%A6%E9%87%8C%E8%A2%AB%E9%85%92%E5%BA%97%E6%94%B6150%E5%85%83%E4%BD%8F%E5%AE%BF%E8%B4%B9%E4%BA%8B%E4%BB%B6%E5%8F%8D%E8%BD%AC",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
         },
         {
           "title": "泰国前议员枪杀地方高官在直播中认罪",
