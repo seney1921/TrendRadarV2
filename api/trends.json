@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T06:49:36.310593+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-08-13T07:45:58.591982+08:00",
+  "total_titles_processed": 654,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 49,
+      "match_count": 60,
       "titles": [
         {
           "title": "山西运城才是旅行的宝藏地",
@@ -26,11 +26,12 @@
           "ranks": [
             2,
             4,
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时06分 ~ 06时49分]"
+          "appearance_count": 13,
+          "time_info": "[00时06分 ~ 07时45分]"
         },
         {
           "title": "Lululemon劲敌来中国了",
@@ -40,11 +41,12 @@
             8,
             4,
             12,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 06时49分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 07时45分]"
         },
         {
           "title": "文学行馕、天鹅浮空商店……上海书展爆款文创为何出圈？",
@@ -59,20 +61,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时06分 ~ 06时49分]"
-        },
-        {
-          "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
-          "url": "https://www.cls.cn/detail/2452579",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时06分 ~ 06时49分]"
+          "appearance_count": 13,
+          "time_info": "[00时06分 ~ 07时45分]"
         },
         {
           "title": "胖东来关一家店为何全民关注",
@@ -86,8 +76,21 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时06分 ~ 06时49分]"
+          "appearance_count": 13,
+          "time_info": "[00时06分 ~ 07时45分]"
+        },
+        {
+          "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
+          "url": "https://www.cls.cn/detail/2452579",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时06分 ~ 07时45分]"
         },
         {
           "title": "百万粉灵异女网红车祸身亡",
@@ -97,8 +100,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时06分 ~ 06时49分]"
+          "appearance_count": 13,
+          "time_info": "[00时06分 ~ 07时45分]"
         },
         {
           "title": "酒店为何把小瓶洗护换成大瓶",
@@ -121,8 +124,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时06分 ~ 06时49分]"
+          "appearance_count": 13,
+          "time_info": "[00时06分 ~ 07时45分]"
         },
         {
           "title": "影之刃零11分钟最新实机",
@@ -133,8 +136,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时06分 ~ 06时49分]"
+          "appearance_count": 13,
+          "time_info": "[00时06分 ~ 07时45分]"
         },
         {
           "title": "媒体：炒作“雅典娜遇害”的人真在意她生死吗？网络不是无底线流量场",
@@ -142,11 +145,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时06分 ~ 06时49分]"
+          "appearance_count": 13,
+          "time_info": "[00时06分 ~ 07时45分]"
         },
         {
           "title": "百花奖票数结果争议盘点",
@@ -158,11 +162,12 @@
             15,
             22,
             17,
-            21
+            21,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时06分 ~ 06时49分]"
+          "appearance_count": 13,
+          "time_info": "[00时06分 ~ 07时45分]"
         },
         {
           "title": "起点网流量下跌遭吧友群嘲",
@@ -172,8 +177,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时06分 ~ 06时49分]"
+          "appearance_count": 13,
+          "time_info": "[00时06分 ~ 07时45分]"
         },
         {
           "title": "闺蜜诱骗撕票,女网红不幸遇害",
@@ -183,8 +188,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时06分 ~ 06时49分]"
+          "appearance_count": 13,
+          "time_info": "[00时06分 ~ 07时45分]"
         },
         {
           "title": "尴尬,王宝强百花奖0票垫底",
@@ -194,8 +199,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时06分 ~ 06时49分]"
+          "appearance_count": 13,
+          "time_info": "[00时06分 ~ 07时45分]"
         },
         {
           "title": "英仙座流星雨观赏攻略",
@@ -205,8 +210,22 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时06分 ~ 06时49分]"
+          "appearance_count": 13,
+          "time_info": "[00时06分 ~ 07时45分]"
+        },
+        {
+          "title": "贾冰：这两天的热搜快给我热馊了",
+          "url": "https://www.toutiao.com/trending/7672557375442157595/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            20,
+            28,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时01分 ~ 07时45分]"
         },
         {
           "title": "这段话缓解了我的焦虑",
@@ -224,20 +243,6 @@
           "time_info": "[02时01分 ~ 06时49分]"
         },
         {
-          "title": "贾冰：这两天的热搜快给我热馊了",
-          "url": "https://www.toutiao.com/trending/7672557375442157595/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            20,
-            28,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时01分 ~ 06时49分]"
-        },
-        {
           "title": "原神奥黛塔角色预告",
           "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E5%A5%A5%E9%BB%9B%E5%A1%94%E8%A7%92%E8%89%B2%E9%A2%84%E5%91%8A",
           "source": "bilibili 热搜",
@@ -250,6 +255,35 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时09分 ~ 06时49分]"
+        },
+        {
+          "title": "原神至冬7.0开图主线攻略",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E8%87%B3%E5%86%AC7.0%E5%BC%80%E5%9B%BE%E4%B8%BB%E7%BA%BF%E6%94%BB%E7%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            29,
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时45分]"
+        },
+        {
+          "title": "英伟达最新开源大模型上线",
+          "url": "https://www.douyin.com/hot/2607298",
+          "source": "抖音",
+          "ranks": [
+            8,
+            15,
+            19,
+            18,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 07时45分]"
         },
         {
           "title": "泰国失联女孩祁萌更新社媒",
@@ -281,17 +315,15 @@
           "time_info": "[02时01分 ~ 05时51分]"
         },
         {
-          "title": "原神至冬7.0开图主线攻略",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E8%87%B3%E5%86%AC7.0%E5%BC%80%E5%9B%BE%E4%B8%BB%E7%BA%BF%E6%94%BB%E7%95%A5",
-          "source": "bilibili 热搜",
+          "title": "【早报】美AI概念股飙升；原油微涨、黄金走高；央行：及时谋划出台务实管用的增量政策",
+          "url": "https://www.cls.cn/detail/2452911",
+          "source": "财联社热门",
           "ranks": [
-            30,
-            29,
-            28
+            3
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时49分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         },
         {
           "title": "“英伟达挑战者”CEREBRAS Q2营收翻倍但亏损依旧，盘后跳水逾12%",
@@ -312,11 +344,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            9
+            9,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时51分 ~ 06时49分]"
+          "appearance_count": 4,
+          "time_info": "[05时51分 ~ 07时45分]"
+        },
+        {
+          "title": "DeepSeek重磅更新 V4Pro正式版上线",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E9%87%8D%E7%A3%85%E6%9B%B4%E6%96%B0+V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         },
         {
           "title": "金十图示：2026年08月12日（周三）美股热门股票行情一览（美股收盘）",
@@ -356,18 +400,30 @@
           "time_info": "[03时10分 ~ 04时51分]"
         },
         {
-          "title": "英伟达最新开源大模型上线",
-          "url": "https://www.douyin.com/hot/2607298",
+          "title": "央行将开展隔夜逆回购操作",
+          "url": "https://www.douyin.com/hot/2607310",
           "source": "抖音",
           "ranks": [
-            8,
-            15,
-            19,
-            18
+            9,
+            18,
+            11
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[02时01分 ~ 06时49分]"
+          "time_info": "[04时51分 ~ 07时45分]"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2026年8月13日 周四",
+          "url": "https://flash.jin10.com/detail/20260813000000000800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 07时45分]"
         },
         {
           "title": "金十图示：2026年08月12日（周三）热门中概股行情一览（美股收盘）",
@@ -381,18 +437,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时51分 ~ 06时49分]"
-        },
-        {
-          "title": "今日重点关注的财经数据与事件：2026年8月13日 周四",
-          "url": "https://flash.jin10.com/detail/20260813000000000800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时03分]"
         },
         {
           "title": "金十图示：2026年08月12日（周三）美股热门股票行情一览（美股盘中）",
@@ -420,17 +464,16 @@
           "time_info": "[04时51分 ~ 06时49分]"
         },
         {
-          "title": "央行将开展隔夜逆回购操作",
-          "url": "https://www.douyin.com/hot/2607310",
-          "source": "抖音",
+          "title": "武大靖出任中国短道速滑队主教练，他有哪些优势？将面临哪些挑战？",
+          "url": "https://www.zhihu.com/question/2070877052618781826",
+          "source": "知乎",
           "ranks": [
-            9,
-            18,
-            11
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时51分 ~ 06时49分]"
+          "appearance_count": 3,
+          "time_info": "[06时44分 ~ 07时45分]"
         },
         {
           "title": "辽宁铁人因不当评论被罚5万",
@@ -457,26 +500,28 @@
           "time_info": "[00时07分 ~ 02时01分]"
         },
         {
-          "title": "武大靖出任中国短道速滑队主教练，他有哪些优势？将面临哪些挑战？",
-          "url": "https://www.zhihu.com/question/2070877052618781826",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 06时49分]"
-        },
-        {
           "title": "全球最大主权财富基金掌门人警告：别指望高回报能持续 未来投资环境或更艰难",
           "url": "https://www.cls.cn/detail/2452803",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 06时49分]"
+          "appearance_count": 3,
+          "time_info": "[06时44分 ~ 07时45分]"
+        },
+        {
+          "title": "王加一分享和肖战相识的过往",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%8A%A0%E4%B8%80%E5%88%86%E4%BA%AB%E5%92%8C%E8%82%96%E6%88%98%E7%9B%B8%E8%AF%86%E7%9A%84%E8%BF%87%E5%BE%80&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 07时45分]"
         },
         {
           "title": "咖啡期货涨价近40% ！全球食品价格飙至近3年最高，150年最强厄尔尼诺来袭",
@@ -513,17 +558,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 05时51分]"
-        },
-        {
-          "title": "王加一分享和肖战相识的过往",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%8A%A0%E4%B8%80%E5%88%86%E4%BA%AB%E5%92%8C%E8%82%96%E6%88%98%E7%9B%B8%E8%AF%86%E7%9A%84%E8%BF%87%E5%BE%80&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
         },
         {
           "title": "李晨等明星“亮证”直播卖保险",
@@ -570,6 +604,50 @@
           "time_info": "02时01分"
         },
         {
+          "title": "微信回应群聊可彻底关闭通知",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%BA%94%E7%BE%A4%E8%81%8A%E5%8F%AF%E5%BD%BB%E5%BA%95%E5%85%B3%E9%97%AD%E9%80%9A%E7%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "马斯克最新讲话：五年后AI占SpaceX价值99%，我们必须取得AI的胜利！",
+          "url": "https://wallstreetcn.com/articles/3779250",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "分红、回购、增持常态化推进，A股公司以实际行动稳市场强信心",
+          "url": "https://wallstreetcn.com/livenews/3148781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（2026-08-13）",
+          "url": "https://flash.jin10.com/detail/20260813064904789800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
           "title": "周三（8月12日）纽约尾盘，2年期至7年期美债收益率日内微跌，长端收益率基本持平。此前7月CPI数据表现温和，交易员小幅下调了对美联储未来几个月加息次数的押注。 美国10年期国债收益率涨0.21个基点，报4.684%。 两年期美债收益率跌0.64个基点，报4.197%；30年期美债收益率涨0.96个基点，报5.250%。 受美债标售及大宗交易推动，2年期与10年期美债收益率价差一度触及49个基点，创下5月中旬以来的最阔水平，曲线趋陡态势明显。 10年期通胀保值国债（TIPS）收益率跌0.56个基点，至2.414%；30年期TIPS收益率跌0.2个基点，至3.013%。",
           "url": "https://wallstreetcn.com/livenews/3148749",
           "source": "华尔街见闻-快讯",
@@ -579,6 +657,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "白宫新闻秘书辞职，特朗普中期选举前痛失“最锋利的话筒”",
+          "url": "https://flash.jin10.com/detail/20260813064543456800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "提醒：日内请重点关注（以下均为北京时间）",
+          "url": "https://wallstreetcn.com/livenews/3148778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "比Lululemon还贵的瑜伽服来中国了",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94Lululemon%E8%BF%98%E8%B4%B5%E7%9A%84%E7%91%9C%E4%BC%BD%E6%9C%8D%E6%9D%A5%E4%B8%AD%E5%9B%BD%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "肖战收工后会给剧组朋友做饭",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%94%B6%E5%B7%A5%E5%90%8E%E4%BC%9A%E7%BB%99%E5%89%A7%E7%BB%84%E6%9C%8B%E5%8F%8B%E5%81%9A%E9%A5%AD%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         },
         {
           "title": "市场消息：英国央行前副行长兼国际货币基金组织董事米努什·沙菲克已卸任英国首相首席经济顾问一职。",
@@ -612,6 +734,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "“英伟达挑战者”Cerebras Q2营收翻倍但亏损依旧，盘后跳水逾12%",
+          "url": "https://wallstreetcn.com/livenews/3148760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         }
       ]
     }
