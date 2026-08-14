@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-08-14T22:55:59.978830+08:00",
-  "total_titles_processed": 1917,
+  "generated_at": "2026-08-14T23:56:18.284925+08:00",
+  "total_titles_processed": 1999,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 171,
+      "match_count": 177,
       "titles": [
+        {
+          "title": "事关特朗普与马斯克，美媒最新爆料",
+          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时08分 ~ 23时56分]"
+        },
         {
           "title": "272只基金持股突破“双十”限制，近期为何批量“时点破线”？",
           "url": "https://www.cls.cn/detail/2454237",
@@ -23,6 +36,37 @@
           "time_info": "[12时51分 ~ 21时19分]"
         },
         {
+          "title": "荐股骗局调查①丨2724人的炒股群除了自己全是托！骗子直播间设伏引流，假冒券商分析师上阵",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33694482",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            7,
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[10时09分 ~ 23时56分]"
+        },
+        {
+          "title": "男子健身房指导女友被场馆教练认定为外来私教，要求看结婚证，否则就办理退卡，这合理吗？健身房有权核查吗？",
+          "url": "https://www.zhihu.com/question/2071379437682267339",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时08分 ~ 23时56分]"
+        },
+        {
           "title": "探索“红灯停表”等，京沪共治外卖平台“内卷式”竞争",
           "url": "https://m.thepaper.cn/newsDetail_forward_33775041",
           "source": "澎湃新闻",
@@ -37,19 +81,16 @@
           "time_info": "[00时06分 ~ 10时23分]"
         },
         {
-          "title": "荐股骗局调查①丨2724人的炒股群除了自己全是托！骗子直播间设伏引流，假冒券商分析师上阵",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33694482",
-          "source": "澎湃新闻",
+          "title": "麻烦缠身的“林肯”号航母换岗，美军还能维持无限期封锁吗？",
+          "url": "https://news.ifeng.com/c/8vaVMv29xqD",
+          "source": "凤凰网",
           "ranks": [
-            14,
-            13,
-            7,
-            6,
-            3
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时09分 ~ 22时55分]"
+          "appearance_count": 7,
+          "time_info": "[19时47分 ~ 23时56分]"
         },
         {
           "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
@@ -63,8 +104,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时51分 ~ 22时55分]"
+          "appearance_count": 14,
+          "time_info": "[12时51分 ~ 23时56分]"
         },
         {
           "title": "史上最大IPO或将易主",
@@ -96,6 +137,17 @@
           "time_info": "[03时17分 ~ 19时48分]"
         },
         {
+          "title": "这些中国机器人“小众”却好用",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9C%E5%B0%8F%E4%BC%97%E2%80%9D%E5%8D%B4%E5%A5%BD%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时21分 ~ 19时48分]"
+        },
+        {
           "title": "真铁粉!up主喵仙人力挺Bin",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357342&amp;topic_name=%E7%9C%9F%E9%93%81%E7%B2%89%21up%E4%B8%BB%E5%96%B5%E4%BB%99%E4%BA%BA%E5%8A%9B%E6%8C%BABin",
           "source": "贴吧",
@@ -106,11 +158,12 @@
             14,
             16,
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时06分 ~ 22时55分]"
+          "appearance_count": 33,
+          "time_info": "[00时06分 ~ 23时56分]"
         },
         {
           "title": "哭晕,博士高杠杆买房亏惨",
@@ -123,35 +176,12 @@
             13,
             15,
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时06分 ~ 22时55分]"
-        },
-        {
-          "title": "这些中国机器人“小众”却好用",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9C%E5%B0%8F%E4%BC%97%E2%80%9D%E5%8D%B4%E5%A5%BD%E7%94%A8",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时21分 ~ 19时48分]"
-        },
-        {
-          "title": "事关特朗普与马斯克，美媒最新爆料",
-          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时08分 ~ 22时55分]"
+          "appearance_count": 33,
+          "time_info": "[00时06分 ~ 23时56分]"
         },
         {
           "title": "深圳女生一天1500专门劝人别买房",
@@ -172,6 +202,20 @@
           "time_info": "[00时06分 ~ 07时50分]"
         },
         {
+          "title": "如何看待段永平「我敢抱着茅台跟任何基金赌一个亿」的言论？",
+          "url": "https://www.zhihu.com/question/2071536115983410411",
+          "source": "知乎",
+          "ranks": [
+            20,
+            13,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时21分 ~ 23时56分]"
+        },
+        {
           "title": "NIP登骑士之路,WBG陷入绝境",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357365&amp;topic_name=NIP%E7%99%BB%E9%AA%91%E5%A3%AB%E4%B9%8B%E8%B7%AF%2CWBG%E9%99%B7%E5%85%A5%E7%BB%9D%E5%A2%83",
           "source": "贴吧",
@@ -182,11 +226,12 @@
             15,
             17,
             18,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时06分 ~ 22时55分]"
+          "appearance_count": 33,
+          "time_info": "[00时06分 ~ 23时56分]"
         },
         {
           "title": "哪些房子正失去变现价值",
@@ -230,11 +275,12 @@
             17,
             19,
             20,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时06分 ~ 22时55分]"
+          "appearance_count": 33,
+          "time_info": "[00时06分 ~ 23时56分]"
         },
         {
           "title": "iPhone18系列发布节奏确认",
@@ -252,6 +298,18 @@
           "time_info": "[00时06分 ~ 04时56分]"
         },
         {
+          "title": "披荆斩棘直播事故",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9B%B4%E6%92%AD%E4%BA%8B%E6%95%85%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时13分 ~ 23时56分]"
+        },
+        {
           "title": "粉丝要签名被coser挂网上骂",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357376&amp;topic_name=%E7%B2%89%E4%B8%9D%E8%A6%81%E7%AD%BE%E5%90%8D%E8%A2%ABcoser%E6%8C%82%E7%BD%91%E4%B8%8A%E9%AA%82",
           "source": "贴吧",
@@ -262,11 +320,12 @@
             19,
             21,
             22,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时06分 ~ 22时55分]"
+          "appearance_count": 33,
+          "time_info": "[00时06分 ~ 23时56分]"
         },
         {
           "title": "红米新品发布后，小米高管回应网友评论称「内存实在太贵了」，反映了当前手机行业哪些挑战？",
@@ -298,8 +357,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时06分 ~ 22时55分]"
+          "appearance_count": 33,
+          "time_info": "[00时06分 ~ 23时56分]"
         },
         {
           "title": "史上最大IPO要易主了？据称Anthropic将于10月IPO，估值或突破2万亿美元",
@@ -325,11 +384,12 @@
             21,
             23,
             24,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时06分 ~ 22时55分]"
+          "appearance_count": 33,
+          "time_info": "[00时06分 ~ 23时56分]"
         },
         {
           "title": "男子健身房指导女友被要求看结婚证",
@@ -356,11 +416,12 @@
             23,
             25,
             26,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时06分 ~ 22时55分]"
+          "appearance_count": 33,
+          "time_info": "[00时06分 ~ 23时56分]"
         },
         {
           "title": "NIP战胜WBG LPL第三赛段",
@@ -394,8 +455,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时06分 ~ 22时55分]"
+          "appearance_count": 33,
+          "time_info": "[00时06分 ~ 23时56分]"
         },
         {
           "title": "法律从业者举报“鹅腿阿姨涉嫌刑事违法”引关注，市监部门：正在调查，会依法依规处理",
@@ -486,8 +547,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[03时17分 ~ 21时19分]"
+          "appearance_count": 19,
+          "time_info": "[03时17分 ~ 23时56分]"
         },
         {
           "title": "林厨 下饭酱挂直播间卖",
@@ -577,44 +638,32 @@
           "time_info": "[10时09分 ~ 16时22分]"
         },
         {
-          "title": "麻烦缠身的“林肯”号航母换岗，美军还能维持无限期封锁吗？",
-          "url": "https://news.ifeng.com/c/8vaVMv29xqD",
-          "source": "凤凰网",
+          "title": "【焦点复盘】创业板指强势收复30日线，算力租赁概念再度爆发，光通信人气股录得20cm五连板",
+          "url": "https://www.cls.cn/detail/2454650",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时47分 ~ 22时55分]"
-        },
-        {
-          "title": "男子健身房指导女友被场馆教练认定为外来私教，要求看结婚证，否则就办理退卡，这合理吗？健身房有权核查吗？",
-          "url": "https://www.zhihu.com/question/2071379437682267339",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时08分 ~ 22时55分]"
-        },
-        {
-          "title": "如何看待段永平「我敢抱着茅台跟任何基金赌一个亿」的言论？",
-          "url": "https://www.zhihu.com/question/2071536115983410411",
-          "source": "知乎",
-          "ranks": [
-            20,
+            11,
+            10,
             13,
-            9,
-            7
+            12
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[16时21分 ~ 22时55分]"
+          "time_info": "[18时08分 ~ 23时56分]"
+        },
+        {
+          "title": "老王拍摄龙餐馆幕后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%80%81%E7%8E%8B%E6%8B%8D%E6%91%84%E9%BE%99%E9%A4%90%E9%A6%86%E5%B9%95%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            2,
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时08分 ~ 23时56分]"
         },
         {
           "title": "首款折叠iPhone",
@@ -629,18 +678,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[14时17分 ~ 19时48分]"
-        },
-        {
-          "title": "披荆斩棘直播事故",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9B%B4%E6%92%AD%E4%BA%8B%E6%95%85%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时13分 ~ 22时55分]"
         },
         {
           "title": "曝苹果iPhone 18搭载12GB内存",
@@ -679,6 +716,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时51分 ~ 18时09分]"
+        },
+        {
+          "title": "摸鱼事务所开箱TI15周边",
+          "url": "https://search.bilibili.com/all?keyword=%E6%91%B8%E9%B1%BC%E4%BA%8B%E5%8A%A1%E6%89%80%E5%BC%80%E7%AE%B1TI15%E5%91%A8%E8%BE%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时13分 ~ 23时56分]"
         },
         {
           "title": "应用材料公司CEO：大客户正向公司提供更长期的合作承诺，并实时更新未来 8 个季度的需求预测，以确保供应链能跟上产能爬坡的步伐。目前预计 2026 自然年整体封装业务营收增幅将超过 70%。 CEO预计，公司全球服务业务（AGS）2026 年的营收增速将超过 20%，未来长期年化增速也有望保持在15%左右。",
@@ -747,32 +796,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时09分 ~ 16时22分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指强势收复30日线，算力租赁概念再度爆发，光通信人气股录得20cm五连板",
-          "url": "https://www.cls.cn/detail/2454650",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时08分 ~ 22时55分]"
-        },
-        {
-          "title": "老王拍摄龙餐馆幕后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%80%81%E7%8E%8B%E6%8B%8D%E6%91%84%E9%BE%99%E9%A4%90%E9%A6%86%E5%B9%95%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时08分 ~ 22时55分]"
         },
         {
           "title": "社保缴完工资25000到手18000",
@@ -874,7 +897,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         },
@@ -936,18 +959,6 @@
           "time_info": "[06时46分 ~ 07时50分]"
         },
         {
-          "title": "摸鱼事务所开箱TI15周边",
-          "url": "https://search.bilibili.com/all?keyword=%E6%91%B8%E9%B1%BC%E4%BA%8B%E5%8A%A1%E6%89%80%E5%BC%80%E7%AE%B1TI15%E5%91%A8%E8%BE%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时13分 ~ 22时55分]"
-        },
-        {
           "title": "据CNBC：据消息人士透露，Anthropic首席财务官克里正主导与投资者进行早期IPO沟通，目前尚未讨论估值问题。",
           "url": "https://flash.jin10.com/detail/20260814011139162800",
           "source": "金十数据",
@@ -957,6 +968,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "沙特主权基金PIF披露美股持仓，SpaceX、艺电等为主要投资标的",
+          "url": "https://wallstreetcn.com/livenews/3149816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "1桶半方便面的“1桶半”是商标",
@@ -969,6 +991,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[21时13分 ~ 22时55分]"
+        },
+        {
+          "title": "放弃酒店睡车里 自驾1月省万元住宿费",
+          "url": "https://www.baidu.com/s?wd=%E6%94%BE%E5%BC%83%E9%85%92%E5%BA%97%E7%9D%A1%E8%BD%A6%E9%87%8C+%E8%87%AA%E9%A9%BE1%E6%9C%88%E7%9C%81%E4%B8%87%E5%85%83%E4%BD%8F%E5%AE%BF%E8%B4%B9",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时55分 ~ 23时56分]"
         },
         {
           "title": "市场消息：OpenAI年化营收在IPO前已突破400亿美元。",
@@ -1010,6 +1044,19 @@
           "time_info": "[05时51分 ~ 07时50分]"
         },
         {
+          "title": "盘点三角洲冷门武器",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E4%B8%89%E8%A7%92%E6%B4%B2%E5%86%B7%E9%97%A8%E6%AD%A6%E5%99%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            27,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时08分 ~ 23时56分]"
+        },
+        {
           "title": "广东将上调最低工资标准",
           "url": "https://www.toutiao.com/trending/7673373437657956415/",
           "source": "今日头条",
@@ -1032,6 +1079,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[19时47分 ~ 22时55分]"
+        },
+        {
+          "title": "原神至冬7.0冰主全面测评",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E8%87%B3%E5%86%AC7.0%E5%86%B0%E4%B8%BB%E5%85%A8%E9%9D%A2%E6%B5%8B%E8%AF%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时13分 ~ 23时56分]"
         },
         {
           "title": "美国投资公司协会（ICI）：美国货币市场基金资产增至7.93万亿美元。",
@@ -1069,6 +1129,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时01分 ~ 03时59分]"
+        },
+        {
+          "title": "你总认为旅行很贵",
+          "url": "https://www.douyin.com/hot/2609760",
+          "source": "抖音",
+          "ranks": [
+            30,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时13分 ~ 23时56分]"
         },
         {
           "title": "披荆斩棘直播",
@@ -1204,6 +1276,42 @@
           "time_info": "[18时08分 ~ 19时48分]"
         },
         {
+          "title": "DeepSeek Harness实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时55分 ~ 23时56分]"
+        },
+        {
+          "title": "伊朗方面的最新表态传递出哪些信号",
+          "url": "https://www.toutiao.com/trending/7673859930650054186/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时55分 ~ 23时56分]"
+        },
+        {
+          "title": "无锡暂停城区范围内外卖配送",
+          "url": "https://www.toutiao.com/trending/7673862963681300010/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时55分 ~ 23时56分]"
+        },
+        {
           "title": "美防长称可“无限期维持”对伊朗海上封锁",
           "url": "https://wallstreetcn.com/livenews/3149317",
           "source": "华尔街见闻-快讯",
@@ -1265,18 +1373,6 @@
           "time_info": "[00时06分 ~ 01时02分]"
         },
         {
-          "title": "盘点三角洲冷门武器",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E4%B8%89%E8%A7%92%E6%B4%B2%E5%86%B7%E9%97%A8%E6%AD%A6%E5%99%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时08分 ~ 22时55分]"
-        },
-        {
           "title": "美光科技：美光风投基金总承诺出资规模增至 5.5 亿美元。",
           "url": "https://wallstreetcn.com/livenews/3149309",
           "source": "华尔街见闻-快讯",
@@ -1289,6 +1385,17 @@
           "time_info": "[04时49分 ~ 05时51分]"
         },
         {
+          "title": "比格披萨创始人评论「看你照片破戒了」引发争议，后回应称开玩笑，作为品牌创始人他这一发言合适吗？",
+          "url": "https://www.zhihu.com/question/2071198330508648836",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时55分 ~ 23时56分]"
+        },
+        {
           "title": "221元酒店订单商家到手40.67元",
           "url": "https://www.baidu.com/s?wd=221%E5%85%83%E9%85%92%E5%BA%97%E8%AE%A2%E5%8D%95%E5%95%86%E5%AE%B6%E5%88%B0%E6%89%8B40.67%E5%85%83",
           "source": "百度热搜",
@@ -1298,18 +1405,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时17分 ~ 16时22分]"
-        },
-        {
-          "title": "原神至冬7.0冰主全面测评",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E8%87%B3%E5%86%AC7.0%E5%86%B0%E4%B8%BB%E5%85%A8%E9%9D%A2%E6%B5%8B%E8%AF%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时13分 ~ 22时55分]"
         },
         {
           "title": "百花奖票数结果争议盘点",
@@ -1357,6 +1452,17 @@
           "time_info": "[12时51分 ~ 12时52分]"
         },
         {
+          "title": "食贫道探店苏联啤酒屋",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E6%8E%A2%E5%BA%97%E8%8B%8F%E8%81%94%E5%95%A4%E9%85%92%E5%B1%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时55分 ~ 23时56分]"
+        },
+        {
           "title": "上证指数开盘报3930.02点，涨0.08%。 深证成指开盘报14335.41点，涨0.32%。 创业板指开盘报3610.19点，涨0.67%。 沪深300开盘报4672.98点，涨0.19%。 科创50开盘报1738.82点，涨1.23%。 中证500开盘报7989.65点，涨0.27%。 中证1000开盘报7750.99点，涨0.45%。",
           "url": "https://wallstreetcn.com/livenews/3149407",
           "source": "华尔街见闻-快讯",
@@ -1378,6 +1484,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时13分 ~ 21时19分]"
+        },
+        {
+          "title": "段永平抛出1亿元“十年之约”：重仓茅台挑战国内基金",
+          "url": "https://wallstreetcn.com/articles/3779440",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时55分 ~ 23时56分]"
         },
         {
           "title": "中国央行连续4日7天期逆回购操作量为零。同时，开展了3490亿元隔夜逆回购操作。今日10亿元逆回购到期。",
@@ -1412,6 +1529,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时47分 ~ 19时48分]"
+        },
+        {
+          "title": "DeepSeek Codex Kimi实测对比",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Codex%20Kimi",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时55分 ~ 23时56分]"
         },
         {
           "title": "企业云应用软件公司Workday股价飙升25%。报道称银湖资本正在洽谈收购Workday。（路透）",
@@ -1694,17 +1822,6 @@
           "time_info": "[19时47分 ~ 19时48分]"
         },
         {
-          "title": "你总认为旅行很贵",
-          "url": "https://www.douyin.com/hot/2609760",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时13分 ~ 21时19分]"
-        },
-        {
           "title": "普京罕见评论俄日关系",
           "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%BD%95%E8%A7%81%E8%AF%84%E8%AE%BA%E4%BF%84%E6%97%A5%E5%85%B3%E7%B3%BB%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -1725,17 +1842,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时21分 ~ 16时22分]"
-        },
-        {
-          "title": "DeepSeek Harness实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
         },
         {
           "title": "美国30年期国债收益率在30年期债券拍卖后小幅回升；最新下跌2.9个基点，报5.217%。",
@@ -1782,17 +1888,6 @@
           "time_info": "16时22分"
         },
         {
-          "title": "无锡暂停城区范围内外卖配送",
-          "url": "https://www.toutiao.com/trending/7673862963681300010/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
           "title": "正在直播中",
           "url": "https://flash.jin10.com/detail/20260814193232011800",
           "source": "金十数据",
@@ -1804,13 +1899,24 @@
           "time_info": "19时48分"
         },
         {
+          "title": "一周热榜精选：美联储加息预期骤降，通胀降温为何救不了长债？",
+          "url": "https://flash.jin10.com/detail/20260814231339157800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "美国商人约书亚·库什纳旗下的Thrive Capital斥资约2.15亿美元购入亚马逊公司的股票，进一步巩固了这家风险投资公司对上市公司的投资策略。",
           "url": "https://flash.jin10.com/detail/20260814223337229800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         },
@@ -1859,17 +1965,6 @@
           "time_info": "19时48分"
         },
         {
-          "title": "伊朗方面的最新表态传递出哪些信号",
-          "url": "https://www.toutiao.com/trending/7673859930650054186/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
           "title": "墨西哥主要股票指数下跌1%。",
           "url": "https://flash.jin10.com/detail/20260814000800571800",
           "source": "金十数据",
@@ -1903,17 +1998,6 @@
           "time_info": "18时09分"
         },
         {
-          "title": "比格披萨创始人评论「看你照片破戒了」引发争议，后回应称开玩笑，作为品牌创始人他这一发言合适吗？",
-          "url": "https://www.zhihu.com/question/2071198330508648836",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
           "title": "A股收盘：创业板指缩量涨超1%，算力硬件股集体走强",
           "url": "https://wallstreetcn.com/livenews/3149556",
           "source": "华尔街见闻-快讯",
@@ -1931,9 +2015,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
+        },
+        {
+          "title": "美国证交会文件：沙特公共投资基金（PIF）披露持有SpaceX(SPCX.O)1.541亿股A类股。",
+          "url": "https://flash.jin10.com/detail/20260814230043360800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "上证指数早盘收报3918.65点，跌0.21%。 深证成指早盘收报14300.46点，涨0.08%。 创业板指早盘收报3609.50点，涨0.65%。 沪深300早盘收报4658.48点，跌0.12%。 科创50早盘收报1707.94点，跌0.57%。 中证500早盘收报7949.45点，跌0.24%。 中证1000早盘收报7730.05点，涨0.18%。",
@@ -2030,7 +2125,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         },
@@ -2066,17 +2161,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
-        },
-        {
-          "title": "放弃酒店睡车里 自驾1月省万元住宿费",
-          "url": "https://www.baidu.com/s?wd=%E6%94%BE%E5%BC%83%E9%85%92%E5%BA%97%E7%9D%A1%E8%BD%A6%E9%87%8C+%E8%87%AA%E9%A9%BE1%E6%9C%88%E7%9C%81%E4%B8%87%E5%85%83%E4%BD%8F%E5%AE%BF%E8%B4%B9",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
         },
         {
           "title": "美银：货币市场和债券基金单周吸金最多",
