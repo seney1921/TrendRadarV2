@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T05:28:08.270111+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2026-08-16T06:26:51.826416+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 05时28分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 06时26分]"
         },
         {
           "title": "旺旺被指最大竞争对手是糖，网友集体呼吁旺旺减糖，这样真能救旺旺吗？传统食品行业正面临哪些挑战？",
@@ -28,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 05时28分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 06时26分]"
         },
         {
           "title": "颜值缩水!湮灭之潮女主变网红",
@@ -39,20 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 05时28分]"
-        },
-        {
-          "title": "荐股骗局调查②丨一条炒股亏损帖发布之后！社交平台、股吧“同路人”设下陷阱",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33711980",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 05时28分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 06时26分]"
         },
         {
           "title": "一桶半方便面的一桶半是商标",
@@ -60,11 +49,125 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 05时28分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 06时26分]"
+        },
+        {
+          "title": "荐股骗局调查②丨一条炒股亏损帖发布之后！社交平台、股吧“同路人”设下陷阱",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33711980",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 06时26分]"
+        },
+        {
+          "title": "冲上热搜的地铁婚姻登记点：已开设两年，去年结婚登记数占所在县近一半",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33787822",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 06时26分]"
+        },
+        {
+          "title": "Bin 回归",
+          "url": "https://s.weibo.com/weibo?q=Bin%20%E5%9B%9E%E5%BD%92&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 06时26分]"
+        },
+        {
+          "title": "业主反映新物业入驻车辆进出被拦，社区回应警方已介入，物业回应拦车系登记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33785692",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 06时26分]"
+        },
+        {
+          "title": "老王拍摄龙餐馆幕后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%80%81%E7%8E%8B%E6%8B%8D%E6%91%84%E9%BE%99%E9%A4%90%E9%A6%86%E5%B9%95%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 06时26分]"
+        },
+        {
+          "title": "央视曝光网红面霜违规添加激素",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%BD%91%E7%BA%A2%E9%9D%A2%E9%9C%9C%E8%BF%9D%E8%A7%84%E6%B7%BB%E5%8A%A0%E6%BF%80%E7%B4%A0%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            25,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 06时26分]"
+        },
+        {
+          "title": "广州 11 岁男孩暑假在景点为游客拍照，月收入一千多，直言「拍照比刷题好玩」，这种暑假实践适合孩子吗？",
+          "url": "https://www.zhihu.com/question/2070926273820489019",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 06时26分]"
+        },
+        {
+          "title": "DeepSeek Harness实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            21,
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 06时26分]"
+        },
+        {
+          "title": "粉丝要签名被coser挂网上骂",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357376&amp;topic_name=%E7%B2%89%E4%B8%9D%E8%A6%81%E7%AD%BE%E5%90%8D%E8%A2%ABcoser%E6%8C%82%E7%BD%91%E4%B8%8A%E9%AA%82",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 06时26分]"
         },
         {
           "title": "NIP战胜LNG",
@@ -79,89 +182,42 @@
           "time_info": "[01时24分 ~ 04时31分]"
         },
         {
-          "title": "冲上热搜的地铁婚姻登记点：已开设两年，去年结婚登记数占所在县近一半",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33787822",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 05时28分]"
-        },
-        {
-          "title": "Bin 回归",
-          "url": "https://s.weibo.com/weibo?q=Bin%20%E5%9B%9E%E5%BD%92&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 05时28分]"
-        },
-        {
-          "title": "业主反映新物业入驻车辆进出被拦，社区回应警方已介入，物业回应拦车系登记",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33785692",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 05时28分]"
-        },
-        {
-          "title": "老王拍摄龙餐馆幕后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%80%81%E7%8E%8B%E6%8B%8D%E6%91%84%E9%BE%99%E9%A4%90%E9%A6%86%E5%B9%95%E5%90%8E",
+          "title": "解析复联5预告细节",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E5%A4%8D%E8%81%945%E9%A2%84%E5%91%8A%E7%BB%86%E8%8A%82",
           "source": "bilibili 热搜",
           "ranks": [
-            28,
-            19,
-            18
+            9,
+            6
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时24分 ~ 05时28分]"
+          "time_info": "[04时30分 ~ 06时26分]"
         },
         {
-          "title": "央视曝光网红面霜违规添加激素",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%BD%91%E7%BA%A2%E9%9D%A2%E9%9C%9C%E8%BF%9D%E8%A7%84%E6%B7%BB%E5%8A%A0%E6%BF%80%E7%B4%A0%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            25,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 05时28分]"
-        },
-        {
-          "title": "广州 11 岁男孩暑假在景点为游客拍照，月收入一千多，直言「拍照比刷题好玩」，这种暑假实践适合孩子吗？",
-          "url": "https://www.zhihu.com/question/2070926273820489019",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 05时28分]"
-        },
-        {
-          "title": "DeepSeek Harness实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
+          "title": "复仇者联盟5新预告解析",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F5%E6%96%B0%E9%A2%84%E5%91%8A%E8%A7%A3%E6%9E%90",
           "source": "bilibili 热搜",
           "ranks": [
-            27,
-            21,
-            24
+            26,
+            11,
+            22
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时24分 ~ 05时28分]"
+          "time_info": "[04时30分 ~ 06时26分]"
+        },
+        {
+          "title": "披哥6初见面为何会变成健身现场",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8A%AB%E5%93%A56%E5%88%9D%E8%A7%81%E9%9D%A2%E4%B8%BA%E4%BD%95%E4%BC%9A%E5%8F%98%E6%88%90%E5%81%A5%E8%BA%AB%E7%8E%B0%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时30分 ~ 06时26分]"
         },
         {
           "title": "评论员：冲突长期消耗 美军压力巨大",
@@ -176,52 +232,6 @@
           "time_info": "[01时24分 ~ 05时28分]"
         },
         {
-          "title": "粉丝要签名被coser挂网上骂",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357376&amp;topic_name=%E7%B2%89%E4%B8%9D%E8%A6%81%E7%AD%BE%E5%90%8D%E8%A2%ABcoser%E6%8C%82%E7%BD%91%E4%B8%8A%E9%AA%82",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 05时28分]"
-        },
-        {
-          "title": "解析复联5预告细节",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E5%A4%8D%E8%81%945%E9%A2%84%E5%91%8A%E7%BB%86%E8%8A%82",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时30分 ~ 05时28分]"
-        },
-        {
-          "title": "复仇者联盟5新预告解析",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F5%E6%96%B0%E9%A2%84%E5%91%8A%E8%A7%A3%E6%9E%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时30分 ~ 05时28分]"
-        },
-        {
-          "title": "披哥6初见面为何会变成健身现场",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8A%AB%E5%93%A56%E5%88%9D%E8%A7%81%E9%9D%A2%E4%B8%BA%E4%BD%95%E4%BC%9A%E5%8F%98%E6%88%90%E5%81%A5%E8%BA%AB%E7%8E%B0%E5%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时30分 ~ 05时28分]"
-        },
-        {
           "title": "美撤销墨前总统之子签证 墨方批“政治色彩”",
           "url": "https://wallstreetcn.com/livenews/3149998",
           "source": "华尔街见闻-快讯",
@@ -229,8 +239,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 06时26分]"
         },
         {
           "title": "宇树科技IPO：暗盘交易系捕风捉影，背后风险不容小觑",
@@ -240,8 +250,20 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 06时26分]"
+        },
+        {
+          "title": "旺旺感谢关注和支持",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%BA%E6%97%BA%E6%84%9F%E8%B0%A2%E5%85%B3%E6%B3%A8%E5%92%8C%E6%94%AF%E6%8C%81%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            23
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时28分]"
+          "time_info": "[05时27分 ~ 06时26分]"
         },
         {
           "title": "小米澎湃OS 4体验",
@@ -253,17 +275,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时24分 ~ 04时31分]"
-        },
-        {
-          "title": "旺旺感谢关注和支持",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%BA%E6%97%BA%E6%84%9F%E8%B0%A2%E5%85%B3%E6%B3%A8%E5%92%8C%E6%94%AF%E6%8C%81%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 05时28分]"
         },
         {
           "title": "早八人必备的韩系上镜妆",
