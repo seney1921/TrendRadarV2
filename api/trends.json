@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T07:24:03.233814+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2026-08-17T09:25:34.050773+08:00",
+  "total_titles_processed": 698,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热搜 爆款 热门 推荐 最新 网红 直播 短视频 种草 测评 开箱 教程 攻略 同款 平替 踩雷 避坑 必看 合集 盘点 挑战 翻车 真相 实测 体验 分享 干货 技巧 方法 步骤 简单 方便 实用 必备 神器 省钱 划算 性价比 好物 回购 无限 超值 墙裂 绝绝子 YYDS 无语 笑死 破防 上头 真香 打脸 社死 尴尬 社牛 社交牛逼症 emo 焦虑 内卷 躺平 摸鱼 摆烂 上岸 考公 考研 面试 简历 职场 打工 加班 工资 辞职 创业 副业 兼职 搞钱 理财 基金 股票 买房 买车 装修 家居 收纳 清洁 做饭 菜谱 美食 探店 外卖 奶茶 咖啡 甜品 减脂 健身 瑜伽 跑步 户外 露营 骑行 滑雪 冲浪 潜水 旅行 酒店 机票 签证 小众 宝藏 秘境 打卡 拍照 修图 滤镜 调色 剪辑 vlog plog 带货 橱窗 小黄车 蓝V 认证 企业号 个人号 IP 人设 变现 流量 涨粉 掉粉 取关 关注 点赞 评论 转发 收藏 私信 群聊 圈子 社区 社群 粉丝 铁粉 路人 黑粉 键盘侠 杠精 喷子 水军 营销号 搬运 抄袭 原创 独家 首发 更新 停更 回归 预告 剧透 彩蛋 花絮 幕后 访谈 直播回放 录屏 解说 TOP10 排行榜 榜单 热榜 飙升 精选 编辑推荐 首页推荐 算法推荐 个性化推荐 猜你喜欢 相关推荐 你可能感兴趣 大家都在搜 大家都在看 近期热门 今日热点 本周热门 本月热门 年度盘点 年终总结 年度报告 年度关键词 年度流行语 年度热词 年度梗 年度表情包 年度神曲 年度电影 年度电视剧 年度综艺 年度动漫 年度游戏 年度APP 年度应用 年度网站 年度公众号 年度博主 年度UP主 年度主播 年度网红 年度带货王 年度品牌 年度产品 年度好物 年度智商税 年度翻车 年度塌房 年度塌方 年度塌台",
-      "match_count": 32,
+      "match_count": 45,
       "titles": [
         {
           "title": "为中国航天点赞",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时25分]"
         },
         {
           "title": "从成人电影创业到“硅谷第一夫人”：深挖Anthropic背后的神秘女人",
@@ -26,8 +26,25 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时25分]"
+        },
+        {
+          "title": "枪杀联合健康保险 CEO 的路易吉正式认罪，12 月将迎来量刑，或面临终身监禁，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2071884777888682058",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13,
+            12,
+            10,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 09时25分]"
         },
         {
           "title": "为什么越南和印度也开始发钱「催生」了？此举能有效解决人口问题带来的挑战吗？",
@@ -46,22 +63,6 @@
           "time_info": "[00时30分 ~ 07时24分]"
         },
         {
-          "title": "枪杀联合健康保险 CEO 的路易吉正式认罪，12 月将迎来量刑，或面临终身监禁，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2071884777888682058",
-          "source": "知乎",
-          "ranks": [
-            15,
-            13,
-            12,
-            10,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 07时24分]"
-        },
-        {
           "title": "人人都是美食艺术家",
           "url": "https://www.douyin.com/hot/2611340",
           "source": "抖音",
@@ -74,39 +75,29 @@
           "time_info": "[00时30分 ~ 07时24分]"
         },
         {
+          "title": "独家｜*ST香雪预重整“进度条”怎么卡住了",
+          "url": "https://www.cls.cn/detail/2455295",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时25分]"
+        },
+        {
           "title": "异环惊现NTR,路人爽抽女神",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357806&amp;topic_name=%E5%BC%82%E7%8E%AF%E6%83%8A%E7%8E%B0NTR%2C%E8%B7%AF%E4%BA%BA%E7%88%BD%E6%8A%BD%E5%A5%B3%E7%A5%9E",
           "source": "贴吧",
           "ranks": [
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时24分]"
-        },
-        {
-          "title": "独家｜*ST香雪预重整“进度条”怎么卡住了",
-          "url": "https://www.cls.cn/detail/2455295",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时24分]"
-        },
-        {
-          "title": "交警评骑行套装,傅面系难绷",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357799&amp;topic_name=%E4%BA%A4%E8%AD%A6%E8%AF%84%E9%AA%91%E8%A1%8C%E5%A5%97%E8%A3%85%2C%E5%82%85%E9%9D%A2%E7%B3%BB%E9%9A%BE%E7%BB%B7",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时25分]"
         },
         {
           "title": "一条AI短片演绎时间焦虑",
@@ -117,22 +108,37 @@
             16,
             14,
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时25分]"
         },
         {
           "title": "宇树科技IPO热下的噪音：“暗盘交易”传闻实为捕风捉影 背后风险不容小觑",
           "url": "https://www.cls.cn/detail/2455292",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时25分]"
+        },
+        {
+          "title": "交警评骑行套装,傅面系难绷",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357799&amp;topic_name=%E4%BA%A4%E8%AD%A6%E8%AF%84%E9%AA%91%E8%A1%8C%E5%A5%97%E8%A3%85%2C%E5%82%85%E9%9D%A2%E7%B3%BB%E9%9A%BE%E7%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时25分]"
         },
         {
           "title": "养生咖啡卖星巴克价,勇哥看懵",
@@ -140,11 +146,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时25分]"
         },
         {
           "title": "颜值缩水!湮灭之潮女主变网红",
@@ -152,11 +159,12 @@
           "source": "贴吧",
           "ranks": [
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时25分]"
         },
         {
           "title": "就让这山风不语抚平我所有的焦虑",
@@ -169,11 +177,12 @@
             27,
             25,
             26,
-            24
+            24,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时25分]"
         },
         {
           "title": "回归常态，调整预期",
@@ -184,8 +193,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时37分 ~ 07时24分]"
+          "appearance_count": 9,
+          "time_info": "[02时37分 ~ 09时25分]"
+        },
+        {
+          "title": "本周中国央行公开市场短期限逆回购到期规模将为3670亿元",
+          "url": "https://wallstreetcn.com/livenews/3150144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         },
         {
           "title": "京东旗下24小时智能化无人咖啡店落地北京",
@@ -197,6 +217,39 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时31分 ~ 05时24分]"
+        },
+        {
+          "title": "王俊凯妈妈给粉丝送伴手礼",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%A6%88%E5%A6%88%E7%BB%99%E7%B2%89%E4%B8%9D%E9%80%81%E4%BC%B4%E6%89%8B%E7%A4%BC%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "误订机票一小时内退票被扣5700元",
+          "url": "https://www.baidu.com/s?wd=%E8%AF%AF%E8%AE%A2%E6%9C%BA%E7%A5%A8%E4%B8%80%E5%B0%8F%E6%97%B6%E5%86%85%E9%80%80%E7%A5%A8%E8%A2%AB%E6%89%A35700%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "涉及英阿马岛主权争端，美方最新表态",
+          "url": "https://news.ifeng.com/c/8vePJfTaX3j",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年8月17日 周一",
@@ -320,13 +373,35 @@
           "time_info": "[07时23分 ~ 07时24分]"
         },
         {
+          "title": "DeepSeek Harness邪修攻略",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E9%82%AA%E4%BF%AE%E6%94%BB%E7%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "央视财经曝光暑期游乱象：999元低价游，一段行程更换5家旅行社",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33795012",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
           "title": "自营理财逐步退场，中小银行财富管理业务换“打法”",
           "url": "https://wallstreetcn.com/livenews/3150095",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -337,7 +412,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -348,9 +423,53 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "盘点难以超越的游戏神作",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E9%9A%BE%E4%BB%A5%E8%B6%85%E8%B6%8A%E7%9A%84%E6%B8%B8%E6%88%8F%E7%A5%9E%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "2026 年英格兰社区盾杯阿森纳 vs 曼城，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2072450391694730602",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "197个交易日杠杆破200%红线，“离谱私募”曝光：连基金经理都是“借”来的",
+          "url": "https://www.cls.cn/detail/2455371",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "2026 年 7 月新增新冠确诊 52.2 万例，死亡 1 例，反映出当前新冠怎样的流行特征？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2071617209349006188",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         },
         {
           "title": "提醒：日内请重点关注（以下均为北京时间）",
@@ -359,9 +478,42 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "段永平最新调仓出炉：减持苹果、英伟达、谷歌，买回阿里",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33794674",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "活力中国调研行｜一座挂在瀑布上的千年古镇，如何成为入境游新热门目的地",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33794563",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "严禁臆造“非遗大师”，福建惠安呼吁石雕从业者摒弃靠虚假噱头博流量",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33795211",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——中国7月经济“成绩单”；阿里、百度等多家公司财报；美联储会议纪要来袭；美预告对伊进行“史无前例”的经济打击",
