@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T16:22:21.366596+08:00",
-  "total_titles_processed": 888,
+  "generated_at": "2026-10-17T16:27:36.290986+08:00",
+  "total_titles_processed": 891,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时14分 ~ 16时22分]"
+          "appearance_count": 11,
+          "time_info": "[01时14分 ~ 16时27分]"
         },
         {
           "title": "没吃回扣!TES郭皓回应签证问题",
@@ -31,8 +31,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时14分 ~ 16时22分]"
+          "appearance_count": 11,
+          "time_info": "[01时14分 ~ 16时27分]"
         },
         {
           "title": "订货需等近两月！iPhone Duo预售秒售罄 产线协同爬坡制约初期供货",
@@ -44,8 +44,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时14分 ~ 16时22分]"
+          "appearance_count": 11,
+          "time_info": "[01时14分 ~ 16时27分]"
         },
         {
           "title": "终极预测,吧友押题考研数学",
@@ -57,8 +57,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时14分 ~ 16时22分]"
+          "appearance_count": 11,
+          "time_info": "[01时14分 ~ 16时27分]"
         },
         {
           "title": "徐艺洋直播回应争议",
@@ -84,8 +84,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时14分 ~ 16时22分]"
+          "appearance_count": 11,
+          "time_info": "[01时14分 ~ 16时27分]"
         },
         {
           "title": "iPhoneDuo开抢,黄牛遍地加价",
@@ -97,8 +97,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时14分 ~ 16时22分]"
+          "appearance_count": 11,
+          "time_info": "[01时14分 ~ 16时27分]"
         },
         {
           "title": "大厂员工吐槽新来的校招生特别 mean，被回复不 mean 根本过不了面试，真的吗？面试到底在选什么样的人？",
@@ -141,6 +141,17 @@
           "time_info": "[04时41分 ~ 11时51分]"
         },
         {
+          "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
+          "url": "https://www.cls.cn/detail/2507382",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时34分 ~ 16时27分]"
+        },
+        {
           "title": "马上评｜不简单以分数论教育，还要说多少遍？",
           "url": "https://m.thepaper.cn/newsDetail_forward_34261601",
           "source": "澎湃新闻",
@@ -166,15 +177,17 @@
           "time_info": "[01时14分 ~ 11时51分]"
         },
         {
-          "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
-          "url": "https://www.cls.cn/detail/2507382",
-          "source": "财联社热门",
+          "title": "行业报告显示我国户外运动参与人数已超5亿",
+          "url": "https://wallstreetcn.com/livenews/3180535",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            2,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时34分 ~ 16时22分]"
+          "appearance_count": 4,
+          "time_info": "[11时34分 ~ 16时27分]"
         },
         {
           "title": "A股再次卷起回购浪潮，胜宏科技拟最高回购3亿元",
@@ -273,6 +286,40 @@
           "time_info": "[01时14分 ~ 07时24分]"
         },
         {
+          "title": "有人一口气买3部iPhone Duo准备卖掉",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%89%E4%BA%BA%E4%B8%80%E5%8F%A3%E6%B0%94%E4%B9%B03%E9%83%A8iPhone+Duo%E5%87%86%E5%A4%87%E5%8D%96%E6%8E%89",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时27分]"
+        },
+        {
+          "title": "国际货币基金组织总裁：秋季年会达成三项核心共识",
+          "url": "https://wallstreetcn.com/livenews/3180549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时27分]"
+        },
+        {
+          "title": "拿打工人血汗钱给女儿铺星路",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%8B%BF%E6%89%93%E5%B7%A5%E4%BA%BA%E8%A1%80%E6%B1%97%E9%92%B1%E7%BB%99%E5%A5%B3%E5%84%BF%E9%93%BA%E6%98%9F%E8%B7%AF%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时34分 ~ 16时27分]"
+        },
+        {
           "title": "广交会70年“热门单品”大变迁",
           "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%BA%A4%E4%BC%9A70%E5%B9%B4%E2%80%9C%E7%83%AD%E9%97%A8%E5%8D%95%E5%93%81%E2%80%9D%E5%A4%A7%E5%8F%98%E8%BF%81",
           "source": "百度热搜",
@@ -295,17 +342,38 @@
           "time_info": "[07时20分 ~ 07时24分]"
         },
         {
-          "title": "行业报告显示我国户外运动参与人数已超5亿",
-          "url": "https://wallstreetcn.com/livenews/3180535",
-          "source": "华尔街见闻-快讯",
+          "title": "戒赌番上头,吧友开户炒股",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367444&amp;topic_name=%E6%88%92%E8%B5%8C%E7%95%AA%E4%B8%8A%E5%A4%B4%2C%E5%90%A7%E5%8F%8B%E5%BC%80%E6%88%B7%E7%82%92%E8%82%A1",
+          "source": "贴吧",
           "ranks": [
-            1,
-            2,
-            15
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时34分 ~ 16时22分]"
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时27分]"
+        },
+        {
+          "title": "李晨郑恺看到王祖蓝回归的反应",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%A8%E9%83%91%E6%81%BA%E7%9C%8B%E5%88%B0%E7%8E%8B%E7%A5%96%E8%93%9D%E5%9B%9E%E5%BD%92%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时27分]"
+        },
+        {
+          "title": "中建七局拖欠 118 名农民工合计 320 万工资，为何这些大企业也会拖欠工资？相关负责人可能会面临哪些处罚？",
+          "url": "https://www.zhihu.com/question/2094335476488300413",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时34分 ~ 16时27分]"
         },
         {
           "title": "平台售卖“中国天眼深度科普体验”项目被查，央媒：科研重地不容“付费通关”",
@@ -318,40 +386,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时41分 ~ 07时24分]"
-        },
-        {
-          "title": "有人一口气买3部iPhone Duo准备卖掉",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%89%E4%BA%BA%E4%B8%80%E5%8F%A3%E6%B0%94%E4%B9%B03%E9%83%A8iPhone+Duo%E5%87%86%E5%A4%87%E5%8D%96%E6%8E%89",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "国际货币基金组织总裁：秋季年会达成三项核心共识",
-          "url": "https://wallstreetcn.com/livenews/3180549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "拿打工人血汗钱给女儿铺星路",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%8B%BF%E6%89%93%E5%B7%A5%E4%BA%BA%E8%A1%80%E6%B1%97%E9%92%B1%E7%BB%99%E5%A5%B3%E5%84%BF%E9%93%BA%E6%98%9F%E8%B7%AF%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时34分 ~ 16时22分]"
         },
         {
           "title": "秘鲁Pamputa社区提议，从MMG Ltd.收购一个铜矿的部分权益。",
@@ -377,40 +411,6 @@
           "time_info": "[04时48分 ~ 07时24分]"
         },
         {
-          "title": "戒赌番上头,吧友开户炒股",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367444&amp;topic_name=%E6%88%92%E8%B5%8C%E7%95%AA%E4%B8%8A%E5%A4%B4%2C%E5%90%A7%E5%8F%8B%E5%BC%80%E6%88%B7%E7%82%92%E8%82%A1",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "李晨郑恺看到王祖蓝回归的反应",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%A8%E9%83%91%E6%81%BA%E7%9C%8B%E5%88%B0%E7%8E%8B%E7%A5%96%E8%93%9D%E5%9B%9E%E5%BD%92%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "中建七局拖欠 118 名农民工合计 320 万工资，为何这些大企业也会拖欠工资？相关负责人可能会面临哪些处罚？",
-          "url": "https://www.zhihu.com/question/2094335476488300413",
-          "source": "知乎",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时34分 ~ 16时22分]"
-        },
-        {
           "title": "苹果公司：iPhone Duo需求“绝对是非凡的”。 正努力向消费者交付设备。 我们将继续接受线上订单。",
           "url": "https://wallstreetcn.com/livenews/3180504",
           "source": "华尔街见闻-快讯",
@@ -422,6 +422,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时20分 ~ 11时51分]"
+        },
+        {
+          "title": "苹果称iPhone Duo需求令人惊叹 欧洲卫星股异动拉涨 | 环球市场",
+          "url": "https://www.cls.cn/detail/2507383",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时34分 ~ 16时27分]"
+        },
+        {
+          "title": "iPhoneDuo溢价从5.8万暴跌至7000",
+          "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E6%BA%A2%E4%BB%B7%E4%BB%8E5.8%E4%B8%87%E6%9A%B4%E8%B7%8C%E8%87%B37000%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时34分 ~ 16时27分]"
         },
         {
           "title": "金十图示：2026年10月16日（周五）美股热门股票行情一览（美股收盘）",
@@ -436,15 +459,16 @@
           "time_info": "[04时42分 ~ 04时48分]"
         },
         {
-          "title": "苹果称iPhone Duo需求令人惊叹 欧洲卫星股异动拉涨 | 环球市场",
-          "url": "https://www.cls.cn/detail/2507383",
-          "source": "财联社热门",
+          "title": "忘情摇舞蹈挑战",
+          "url": "https://www.douyin.com/hot/2699357",
+          "source": "抖音",
           "ranks": [
-            7
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时34分 ~ 16时22分]"
+          "appearance_count": 4,
+          "time_info": "[11时34分 ~ 16时27分]"
         },
         {
           "title": "iPhone Duo选购指南",
@@ -459,18 +483,6 @@
           "time_info": "[04时48分 ~ 11时51分]"
         },
         {
-          "title": "iPhoneDuo溢价从5.8万暴跌至7000",
-          "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E6%BA%A2%E4%BB%B7%E4%BB%8E5.8%E4%B8%87%E6%9A%B4%E8%B7%8C%E8%87%B37000%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时34分 ~ 16时22分]"
-        },
-        {
           "title": "两万字运动番大盘点",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%A4%E4%B8%87%E5%AD%97%E8%BF%90%E5%8A%A8%E7%95%AA%E5%A4%A7%E7%9B%98%E7%82%B9",
           "source": "bilibili 热搜",
@@ -481,18 +493,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时41分 ~ 04时48分]"
-        },
-        {
-          "title": "忘情摇舞蹈挑战",
-          "url": "https://www.douyin.com/hot/2699357",
-          "source": "抖音",
-          "ranks": [
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时34分 ~ 16时22分]"
         },
         {
           "title": "女子试驾操作不当冲上人行道撞飞路人",
@@ -515,6 +515,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时20分 ~ 07时24分]"
+        },
+        {
+          "title": "为什么年轻人开始流行「纯过日子」？这是理性回归还是被迫收缩？",
+          "url": "https://www.zhihu.com/question/2092055159392282026",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时27分]"
         },
         {
           "title": "金十图示：2026年10月16日（周五）热门中概股行情一览（美股收盘）",
@@ -540,6 +551,61 @@
           "time_info": "[11时34分 ~ 11时51分]"
         },
         {
+          "title": "国际货币基金组织总裁：秋季年会达成三项核心共识",
+          "url": "https://flash.jin10.com/detail/20261017152726888800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时27分]"
+        },
+        {
+          "title": "国际货币基金组织（IMF）总裁格奥尔基耶娃：讨论的风险包括人工智能、通货膨胀、高债务水平以及日益恶化的气候变化。 顽固的通胀、不断上升的利率正在加剧各国本已高企的偿债压力。",
+          "url": "https://wallstreetcn.com/livenews/3180543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时27分]"
+        },
+        {
+          "title": "北京2026前三季度首发经济“含新量”再创新高",
+          "url": "https://flash.jin10.com/detail/20261017152545391800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时27分]"
+        },
+        {
+          "title": "怎么评价高三学生陈妤颉在近期访谈中提到的「最好不出省不出市」的高考目标？",
+          "url": "https://www.zhihu.com/question/2093673328301159605",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时27分]"
+        },
+        {
+          "title": "挑战全程扛共享单车登顶峨眉山",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E5%85%A8%E7%A8%8B%E6%89%9B%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%E7%99%BB%E9%A1%B6%E5%B3%A8%E7%9C%89%E5%B1%B1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时27分]"
+        },
+        {
           "title": "截止至10月13日当周CFTC外汇类非商业持仓报告在金十数据中心更新啦！欢迎点击查看>>",
           "url": "https://flash.jin10.com/detail/20261017040330984800",
           "source": "金十数据",
@@ -550,6 +616,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时42分 ~ 04时48分]"
+        },
+        {
+          "title": "中青评论：硫磺熏制桂花顶风作案，监管要跑在风险前面",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34267914",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时27分]"
         },
         {
           "title": "截止至10月13日当周CFTC商品类非商业持仓报告在金十数据中心更新啦！欢迎点击查看>>",
@@ -610,6 +687,17 @@
           "time_info": "[04时42分 ~ 04时48分]"
         },
         {
+          "title": "曝离婚多年做直播的男明星有儿子",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%A6%BB%E5%A9%9A%E5%A4%9A%E5%B9%B4%E5%81%9A%E7%9B%B4%E6%92%AD%E7%9A%84%E7%94%B7%E6%98%8E%E6%98%9F%E6%9C%89%E5%84%BF%E5%AD%90%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时27分]"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：10月13日当周，股票基金投机者将芝加哥商业交易所（CME）标普500指数期货的净空头头寸削减5,804手合约，至390,896手合约。",
           "url": "https://wallstreetcn.com/livenews/3180452",
           "source": "华尔街见闻-快讯",
@@ -657,6 +745,17 @@
           "time_info": "[11时34分 ~ 11时51分]"
         },
         {
+          "title": "大众试驾车撞上酒店立柱瞬间视频流出",
+          "url": "https://www.toutiao.com/trending/7697254855782400054/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时27分]"
+        },
+        {
           "title": "如何评价《海贼王》漫画最新的第 1196 话情报？",
           "url": "https://www.zhihu.com/question/2093462699170707294",
           "source": "知乎",
@@ -679,6 +778,39 @@
           "time_info": "[11时34分 ~ 11时51分]"
         },
         {
+          "title": "黄子韬其实几次直播都忍不住要分享了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%85%B6%E5%AE%9E%E5%87%A0%E6%AC%A1%E7%9B%B4%E6%92%AD%E9%83%BD%E5%BF%8D%E4%B8%8D%E4%BD%8F%E8%A6%81%E5%88%86%E4%BA%AB%E4%BA%86%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时27分]"
+        },
+        {
+          "title": "王祖蓝时隔8年回归奔跑吧",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%A5%96%E8%93%9D%E6%97%B6%E9%9A%948%E5%B9%B4%E5%9B%9E%E5%BD%92%E5%A5%94%E8%B7%91%E5%90%A7%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时27分]"
+        },
+        {
+          "title": "有人一口气买3部iPhone Duo准备卖掉",
+          "url": "https://www.toutiao.com/trending/7697509549280103946/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时27分]"
+        },
+        {
           "title": "科技记者古尔曼：苹果未透露其门店是否会在发售首日供货iPhone Duo。 如果苹果不提前说明，可能会有很多人白排队，最终感到不满。 苹果显然是在供应有限的情况下过早推出了iPhone Duo，只是为了让它更早上市。 我认为他们知道最早也要到11月才会有合理的供应量。",
           "url": "https://wallstreetcn.com/livenews/3180445",
           "source": "华尔街见闻-快讯",
@@ -689,6 +821,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时42分 ~ 04时48分]"
+        },
+        {
+          "title": "王祖蓝时隔8年回归奔跑吧",
+          "url": "https://www.douyin.com/hot/2700002",
+          "source": "抖音",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时27分]"
+        },
+        {
+          "title": "刘丁硕曾在直播间嘲讽樊振东",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E4%B8%81%E7%A1%95%E6%9B%BE%E5%9C%A8%E7%9B%B4%E6%92%AD%E9%97%B4%E5%98%B2%E8%AE%BD%E6%A8%8A%E6%8C%AF%E4%B8%9C%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时27分]"
         },
         {
           "title": "朱之文回应“农民歌手”人设质疑",
@@ -702,37 +857,27 @@
           "time_info": "[11时34分 ~ 11时51分]"
         },
         {
-          "title": "为什么年轻人开始流行「纯过日子」？这是理性回归还是被迫收缩？",
-          "url": "https://www.zhihu.com/question/2092055159392282026",
-          "source": "知乎",
+          "title": "孟屯综艺超市挑战全是心眼子",
+          "url": "https://www.douyin.com/hot/2699831",
+          "source": "抖音",
           "ranks": [
-            6
+            26,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时27分]"
         },
         {
-          "title": "国际货币基金组织总裁：秋季年会达成三项核心共识",
-          "url": "https://flash.jin10.com/detail/20261017152726888800",
-          "source": "金十数据",
+          "title": "iPhone Duo卖爆背后的真相",
+          "url": "https://www.toutiao.com/trending/7697485192776125995/",
+          "source": "今日头条",
           "ranks": [
-            8
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "国际货币基金组织（IMF）总裁格奥尔基耶娃：讨论的风险包括人工智能、通货膨胀、高债务水平以及日益恶化的气候变化。 顽固的通胀、不断上升的利率正在加剧各国本已高企的偿债压力。",
-          "url": "https://wallstreetcn.com/livenews/3180543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时27分]"
         },
         {
           "title": "【每日收评】创业板指高开低走小幅收跌，全市场超3300股上涨，低空经济概念股集体爆发",
@@ -744,50 +889,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
-        },
-        {
-          "title": "北京2026前三季度首发经济“含新量”再创新高",
-          "url": "https://flash.jin10.com/detail/20261017152545391800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "怎么评价高三学生陈妤颉在近期访谈中提到的「最好不出省不出市」的高考目标？",
-          "url": "https://www.zhihu.com/question/2093673328301159605",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "挑战全程扛共享单车登顶峨眉山",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E5%85%A8%E7%A8%8B%E6%89%9B%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%E7%99%BB%E9%A1%B6%E5%B3%A8%E7%9C%89%E5%B1%B1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "中青评论：硫磺熏制桂花顶风作案，监管要跑在风险前面",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34267914",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
         },
         {
           "title": "iPhone Duo预售秒罄，首批现货溢价6000元起",
@@ -823,39 +924,6 @@
           "time_info": "01时14分"
         },
         {
-          "title": "曝离婚多年做直播的男明星有儿子",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%A6%BB%E5%A9%9A%E5%A4%9A%E5%B9%B4%E5%81%9A%E7%9B%B4%E6%92%AD%E7%9A%84%E7%94%B7%E6%98%8E%E6%98%9F%E6%9C%89%E5%84%BF%E5%AD%90%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "大众试驾车撞上酒店立柱瞬间视频流出",
-          "url": "https://www.toutiao.com/trending/7697254855782400054/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "黄子韬其实几次直播都忍不住要分享了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%85%B6%E5%AE%9E%E5%87%A0%E6%AC%A1%E7%9B%B4%E6%92%AD%E9%83%BD%E5%BF%8D%E4%B8%8D%E4%BD%8F%E8%A6%81%E5%88%86%E4%BA%AB%E4%BA%86%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
           "title": "深圳发布楼市销售新政，要求购房定金不超购房总价款的 3%，还有哪些信息值得关注？对购房者和楼市有何影响？",
           "url": "https://www.zhihu.com/question/2094067803506439626",
           "source": "知乎",
@@ -878,39 +946,6 @@
           "time_info": "04时42分"
         },
         {
-          "title": "王祖蓝时隔8年回归奔跑吧",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%A5%96%E8%93%9D%E6%97%B6%E9%9A%948%E5%B9%B4%E5%9B%9E%E5%BD%92%E5%A5%94%E8%B7%91%E5%90%A7%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "有人一口气买3部iPhone Duo准备卖掉",
-          "url": "https://www.toutiao.com/trending/7697509549280103946/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "王祖蓝时隔8年回归奔跑吧",
-          "url": "https://www.douyin.com/hot/2700002",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
           "title": "iPhone Duo难抢",
           "url": "https://www.toutiao.com/trending/7696426642602115113/",
           "source": "今日头条",
@@ -920,17 +955,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
-        },
-        {
-          "title": "刘丁硕曾在直播间嘲讽樊振东",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E4%B8%81%E7%A1%95%E6%9B%BE%E5%9C%A8%E7%9B%B4%E6%92%AD%E9%97%B4%E5%98%B2%E8%AE%BD%E6%A8%8A%E6%8C%AF%E4%B8%9C%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
         },
         {
           "title": "俄罗斯投资基金负责人称美国请求协助达成柴油协议",
@@ -955,17 +979,6 @@
           "time_info": "11时51分"
         },
         {
-          "title": "孟屯综艺超市挑战全是心眼子",
-          "url": "https://www.douyin.com/hot/2699831",
-          "source": "抖音",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
           "title": "上海一试驾车冲上人行道撞飞路人",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E8%AF%95%E9%A9%BE%E8%BD%A6%E5%86%B2%E4%B8%8A%E4%BA%BA%E8%A1%8C%E9%81%93%E6%92%9E%E9%A3%9E%E8%B7%AF%E4%BA%BA%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -975,17 +988,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
-        },
-        {
-          "title": "iPhone Duo卖爆背后的真相",
-          "url": "https://www.toutiao.com/trending/7697485192776125995/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
         }
       ]
     }
